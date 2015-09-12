@@ -1,0 +1,566 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader type="text">
+    </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>
+          <w xml:id="B2009008999-4-1">Og</w>
+          <c type="s" xml:id="B2009008999-4-2"/>
+          <w xml:id="B2009008999-4-3">mens</w>
+          <c type="s" xml:id="B2009008999-4-4"/>
+          <w xml:id="B2009008999-4-5">modeller</w>
+          <c type="s" xml:id="B2009008999-4-6"/>
+          <w xml:id="B2009008999-4-7">og</w>
+          <c type="s" xml:id="B2009008999-4-8"/>
+          <w xml:id="B2009008999-4-9">branchefolk</w>
+          <c type="s" xml:id="B2009008999-4-10"/>
+          <w xml:id="B2009008999-4-11">frygtede</w>
+          <c type="s" xml:id="B2009008999-4-12"/>
+          <w xml:id="B2009008999-4-13">det</w>
+          <c type="s" xml:id="B2009008999-4-14"/>
+          <w xml:id="B2009008999-4-15">værste</w>
+          <c type="p" xml:id="B2009008999-4-16">,</c>
+          <c type="s" xml:id="B2009008999-4-17"/>
+          <w xml:id="B2009008999-4-18">blev</w>
+          <c type="s" xml:id="B2009008999-4-19"/>
+          <w xml:id="B2009008999-4-20">en</w>
+          <c type="s" xml:id="B2009008999-4-21"/>
+          <w xml:id="B2009008999-4-22">ambulance</w>
+          <c type="s" xml:id="B2009008999-4-23"/>
+          <w xml:id="B2009008999-4-24">tilkaldt</w>
+          <c type="p" xml:id="B2009008999-4-25">.</c>
+        </s>
+        <s>
+          <c type="p" xml:id="B2009018019-5-2">-</c>
+          <c type="s" xml:id="B2009018019-5-3"/>
+          <w xml:id="B2009018019-5-4">Vi</w>
+          <c type="s" xml:id="B2009018019-5-5"/>
+          <w xml:id="B2009018019-5-6">har</w>
+          <c type="s" xml:id="B2009018019-5-7"/>
+          <w xml:id="B2009018019-5-8">valgt</w>
+          <c type="s" xml:id="B2009018019-5-9"/>
+          <w xml:id="B2009018019-5-10">at</w>
+          <c type="s" xml:id="B2009018019-5-11"/>
+          <w xml:id="B2009018019-5-12">bruge</w>
+          <c type="s" xml:id="B2009018019-5-13"/>
+          <w xml:id="B2009018019-5-14">Medina</w>
+          <c type="s" xml:id="B2009018019-5-15"/>
+          <w xml:id="B2009018019-5-16">som</w>
+          <c type="s" xml:id="B2009018019-5-17"/>
+          <w xml:id="B2009018019-5-18">model</w>
+          <c type="p" xml:id="B2009018019-5-19">,</c>
+          <c type="s" xml:id="B2009018019-5-20"/>
+          <w xml:id="B2009018019-5-21">fordi</w>
+          <c type="s" xml:id="B2009018019-5-22"/>
+          <w xml:id="B2009018019-5-23">hun</w>
+          <c type="s" xml:id="B2009018019-5-24"/>
+          <w xml:id="B2009018019-5-25">udstråler</w>
+          <c type="s" xml:id="B2009018019-5-26"/>
+          <w xml:id="B2009018019-5-27">eksklusivitet</w>
+          <c type="p" xml:id="B2009018019-5-28">,</c>
+          <c type="s" xml:id="B2009018019-5-29"/>
+          <w xml:id="B2009018019-5-30">og</w>
+          <c type="s" xml:id="B2009018019-5-31"/>
+          <w xml:id="B2009018019-5-32">så</w>
+          <c type="s" xml:id="B2009018019-5-33"/>
+          <w xml:id="B2009018019-5-34">synes</w>
+          <c type="s" xml:id="B2009018019-5-35"/>
+          <w xml:id="B2009018019-5-36">vi</w>
+          <c type="s" xml:id="B2009018019-5-37"/>
+          <w xml:id="B2009018019-5-38">faktisk</w>
+          <c type="p" xml:id="B2009018019-5-39">,</c>
+          <c type="s" xml:id="B2009018019-5-40"/>
+          <w xml:id="B2009018019-5-41">hun</w>
+          <c type="s" xml:id="B2009018019-5-42"/>
+          <w xml:id="B2009018019-5-43">er</w>
+          <c type="s" xml:id="B2009018019-5-44"/>
+          <w xml:id="B2009018019-5-45">et</w>
+          <c type="s" xml:id="B2009018019-5-46"/>
+          <w xml:id="B2009018019-5-47">modeikon</w>
+          <c type="s" xml:id="B2009018019-5-48"/>
+          <w xml:id="B2009018019-5-49">i</w>
+          <c type="s" xml:id="B2009018019-5-50"/>
+          <w xml:id="B2009018019-5-51">sig</w>
+          <c type="s" xml:id="B2009018019-5-52"/>
+          <w xml:id="B2009018019-5-53">selv</w>
+          <c type="p" xml:id="B2009018019-5-54">.</c>
+        </s>
+        <s>
+          <w xml:id="B2009009217-6-1">På</w>
+          <c type="s" xml:id="B2009009217-6-2"/>
+          <w xml:id="B2009009217-6-3">restaurant</w>
+          <c type="s" xml:id="B2009009217-6-4"/>
+          <w xml:id="B2009009217-6-5">MASH</w>
+          <c type="s" xml:id="B2009009217-6-6"/>
+          <w xml:id="B2009009217-6-7">spiste</w>
+          <c type="s" xml:id="B2009009217-6-8"/>
+          <w xml:id="B2009009217-6-9">modellen</w>
+          <c type="s" xml:id="B2009009217-6-10"/>
+          <w xml:id="B2009009217-6-11">Malkit</w>
+          <c type="s" xml:id="B2009009217-6-12"/>
+          <w xml:id="B2009009217-6-13">Singh</w>
+          <c type="s" xml:id="B2009009217-6-14"/>
+          <w xml:id="B2009009217-6-15">med</w>
+          <c type="s" xml:id="B2009009217-6-16"/>
+          <w xml:id="B2009009217-6-17">et</w>
+          <c type="s" xml:id="B2009009217-6-18"/>
+          <w xml:id="B2009009217-6-19">par</w>
+          <c type="s" xml:id="B2009009217-6-20"/>
+          <w xml:id="B2009009217-6-21">venner</w>
+          <c type="p" xml:id="B2009009217-6-22">,</c>
+          <c type="s" xml:id="B2009009217-6-23"/>
+          <w xml:id="B2009009217-6-24">og</w>
+          <c type="s" xml:id="B2009009217-6-25"/>
+          <w xml:id="B2009009217-6-26">i</w>
+          <c type="s" xml:id="B2009009217-6-27"/>
+          <w xml:id="B2009009217-6-28">en</w>
+          <c type="s" xml:id="B2009009217-6-29"/>
+          <w xml:id="B2009009217-6-30">anden</w>
+          <c type="s" xml:id="B2009009217-6-31"/>
+          <w xml:id="B2009009217-6-32">bås</w>
+          <c type="s" xml:id="B2009009217-6-33"/>
+          <w xml:id="B2009009217-6-34">tømte</w>
+          <c type="s" xml:id="B2009009217-6-35"/>
+          <w xml:id="B2009009217-6-36">de</w>
+          <c type="s" xml:id="B2009009217-6-37"/>
+          <w xml:id="B2009009217-6-38">tidligere</w>
+          <c type="s" xml:id="B2009009217-6-39"/>
+          <w xml:id="B2009009217-6-40">DR</w>
+          <c type="p" xml:id="B2009009217-6-41">-</c>
+          <w xml:id="B2009009217-6-42">kolleger</w>
+          <c type="s" xml:id="B2009009217-6-43"/>
+          <w xml:id="B2009009217-6-44">Reimer</w>
+          <c type="s" xml:id="B2009009217-6-45"/>
+          <w xml:id="B2009009217-6-46">Bo</w>
+          <c type="s" xml:id="B2009009217-6-47"/>
+          <w xml:id="B2009009217-6-48">og</w>
+          <c type="s" xml:id="B2009009217-6-49"/>
+          <w xml:id="B2009009217-6-50">Jeppe</w>
+          <c type="s" xml:id="B2009009217-6-51"/>
+          <w xml:id="B2009009217-6-52">Nybroe</w>
+          <c type="s" xml:id="B2009009217-6-53"/>
+          <w xml:id="B2009009217-6-54">rødvinsglassene</w>
+          <c type="s" xml:id="B2009009217-6-55"/>
+          <w xml:id="B2009009217-6-56">og</w>
+          <c type="s" xml:id="B2009009217-6-57"/>
+          <w xml:id="B2009009217-6-58">fik</w>
+          <c type="s" xml:id="B2009009217-6-59"/>
+          <w xml:id="B2009009217-6-60">sig</w>
+          <c type="s" xml:id="B2009009217-6-61"/>
+          <w xml:id="B2009009217-6-62">en</w>
+          <c type="s" xml:id="B2009009217-6-63"/>
+          <w xml:id="B2009009217-6-64">særdeles</w>
+          <c type="s" xml:id="B2009009217-6-65"/>
+          <w xml:id="B2009009217-6-66">opstemt</w>
+          <c type="s" xml:id="B2009009217-6-67"/>
+          <w xml:id="B2009009217-6-68">mandesnak</w>
+          <c type="p" xml:id="B2009009217-6-69">.</c>
+        </s>
+        <s>
+          <w xml:id="B2009018084-16-1">Søren</w>
+          <c type="s" xml:id="B2009018084-16-2"/>
+          <w xml:id="B2009018084-16-3">Bregendal</w>
+          <c type="s" xml:id="B2009018084-16-4"/>
+          <w xml:id="B2009018084-16-5">virkede</w>
+          <c type="s" xml:id="B2009018084-16-6"/>
+          <w xml:id="B2009018084-16-7">stangvissen</w>
+          <c type="s" xml:id="B2009018084-16-8"/>
+          <w xml:id="B2009018084-16-9">i</w>
+          <c type="s" xml:id="B2009018084-16-10"/>
+          <w xml:id="B2009018084-16-11">sin</w>
+          <c type="s" xml:id="B2009018084-16-12"/>
+          <w xml:id="B2009018084-16-13">smoking</w>
+          <c type="s" xml:id="B2009018084-16-14"/>
+          <w xml:id="B2009018084-16-15">og</w>
+          <c type="s" xml:id="B2009018084-16-16"/>
+          <w xml:id="B2009018084-16-17">rendte</w>
+          <c type="s" xml:id="B2009018084-16-18"/>
+          <w xml:id="B2009018084-16-19">rundt</w>
+          <c type="s" xml:id="B2009018084-16-20"/>
+          <w xml:id="B2009018084-16-21">og</w>
+          <c type="s" xml:id="B2009018084-16-22"/>
+          <w xml:id="B2009018084-16-23">kurtiserede</w>
+          <c type="s" xml:id="B2009018084-16-24"/>
+          <w xml:id="B2009018084-16-25">og</w>
+          <c type="s" xml:id="B2009018084-16-26"/>
+          <w xml:id="B2009018084-16-27">dansede</w>
+          <c type="s" xml:id="B2009018084-16-28"/>
+          <w xml:id="B2009018084-16-29">med</w>
+          <c type="s" xml:id="B2009018084-16-30"/>
+          <w xml:id="B2009018084-16-31">flere</w>
+          <c type="s" xml:id="B2009018084-16-32"/>
+          <w xml:id="B2009018084-16-33">lækre</w>
+          <c type="s" xml:id="B2009018084-16-34"/>
+          <w xml:id="B2009018084-16-35">tøser</w>
+          <c type="s" xml:id="B2009018084-16-36"/>
+          <w xml:id="B2009018084-16-37">fra</w>
+          <c type="s" xml:id="B2009018084-16-38"/>
+          <w xml:id="B2009018084-16-39">Top</w>
+          <c type="s" xml:id="B2009018084-16-40"/>
+          <w xml:id="B2009018084-16-41">Model</w>
+          <c type="s" xml:id="B2009018084-16-42"/>
+          <w xml:id="B2009018084-16-43">Of</w>
+          <c type="s" xml:id="B2009018084-16-44"/>
+          <w xml:id="B2009018084-16-45">The</w>
+          <c type="s" xml:id="B2009018084-16-46"/>
+          <w xml:id="B2009018084-16-47">World</w>
+          <c type="p" xml:id="B2009018084-16-48">-</c>
+          <w xml:id="B2009018084-16-49">finalen</w>
+          <c type="p" xml:id="B2009018084-16-50">,</c>
+          <c type="s" xml:id="B2009018084-16-51"/>
+          <w xml:id="B2009018084-16-52">der</w>
+          <c type="s" xml:id="B2009018084-16-53"/>
+          <w xml:id="B2009018084-16-54">var</w>
+          <c type="s" xml:id="B2009018084-16-55"/>
+          <w xml:id="B2009018084-16-56">blevet</w>
+          <c type="s" xml:id="B2009018084-16-57"/>
+          <w xml:id="B2009018084-16-58">afholdt</w>
+          <c type="s" xml:id="B2009018084-16-59"/>
+          <w xml:id="B2009018084-16-60">på</w>
+          <c type="s" xml:id="B2009018084-16-61"/>
+          <w xml:id="B2009018084-16-62">Skt</w>
+          <c type="p" xml:id="B2009018084-16-63">.</c>
+        </s>
+        <s>
+          <c type="p" xml:id="B2009009318-17-2">-</c>
+          <c type="s" xml:id="B2009009318-17-3"/>
+          <w xml:id="B2009009318-17-4">Det</w>
+          <c type="s" xml:id="B2009009318-17-5"/>
+          <w xml:id="B2009009318-17-6">er</w>
+          <c type="s" xml:id="B2009009318-17-7"/>
+          <w xml:id="B2009009318-17-8">ikke</w>
+          <c type="s" xml:id="B2009009318-17-9"/>
+          <w xml:id="B2009009318-17-10">nemt</w>
+          <c type="p" xml:id="B2009009318-17-11">,</c>
+          <c type="s" xml:id="B2009009318-17-12"/>
+          <w xml:id="B2009009318-17-13">når</w>
+          <c type="s" xml:id="B2009009318-17-14"/>
+          <w xml:id="B2009009318-17-15">man</w>
+          <c type="s" xml:id="B2009009318-17-16"/>
+          <w xml:id="B2009009318-17-17">ser</w>
+          <c type="s" xml:id="B2009009318-17-18"/>
+          <w xml:id="B2009009318-17-19">ud</w>
+          <c type="s" xml:id="B2009009318-17-20"/>
+          <w xml:id="B2009009318-17-21">som</w>
+          <c type="s" xml:id="B2009009318-17-22"/>
+          <w xml:id="B2009009318-17-23">mig</w>
+          <c type="s" xml:id="B2009009318-17-24"/>
+          <w xml:id="B2009009318-17-25">og</w>
+          <c type="s" xml:id="B2009009318-17-26"/>
+          <w xml:id="B2009009318-17-27">er</w>
+          <c type="s" xml:id="B2009009318-17-28"/>
+          <w xml:id="B2009009318-17-29">model</w>
+          <c type="p" xml:id="B2009009318-17-30">.</c>
+        </s>
+      </p>
+    </body>
+    <spanGrp ana="#ePOStagger">
+      <span from="#B2009008999-4-1" xml:id="T2009008999-4-1">CC:----:--:----</span>
+      <span from="#B2009008999-4-3" xml:id="T2009008999-4-3">CS:----:--:----</span>
+      <span from="#B2009008999-4-5" xml:id="T2009008999-4-5">NC:piu#:--:----</span>
+      <span from="#B2009008999-4-7" xml:id="T2009008999-4-7">CC:----:--:----</span>
+      <span from="#B2009008999-4-9" xml:id="T2009008999-4-9">NC:piu#:--:----</span>
+      <span from="#B2009008999-4-11" xml:id="T2009008999-4-11">VF:----:ta:----</span>
+      <span from="#B2009008999-4-13" xml:id="T2009008999-4-13">PM:s-un:--:----</span>
+      <span from="#B2009008999-4-15" xml:id="T2009008999-4-15">AC:§du§:--:s---</span>
+      <span from="#B2009008999-4-16" xml:id="T2009008999-4-16">ZD</span>
+      <span from="#B2009008999-4-18" xml:id="T2009008999-4-18">VF:----:ta:----</span>
+      <span from="#B2009008999-4-20" xml:id="T2009008999-4-20">PI:s-uc:--:----</span>
+      <span from="#B2009008999-4-22" xml:id="T2009008999-4-22">NC:siuc:--:----</span>
+      <span from="#B2009008999-4-24" xml:id="T2009008999-4-24">VT:siu#:t-:----</span>
+      <span from="#B2009008999-4-25" xml:id="T2009008999-4-25">ZP</span>
+      <span from="#B2009018019-5-2" xml:id="T2009018019-5-2">NC:piu#:--:----</span>
+      <span from="#B2009018019-5-4" xml:id="T2009018019-5-4">LC:--u-:--:----</span>
+      <span from="#B2009018019-5-6" xml:id="T2009018019-5-6">VF:----:sa:----</span>
+      <span from="#B2009018019-5-8" xml:id="T2009018019-5-8">VT:siu#:t-:----</span>
+      <span from="#B2009018019-5-10" xml:id="T2009018019-5-10">UI:----:--:----</span>
+      <span from="#B2009018019-5-12" xml:id="T2009018019-5-12">VI:----:-a:----</span>
+      <span from="#B2009018019-5-14" xml:id="T2009018019-5-14">NP:siu#:--:----</span>
+      <span from="#B2009018019-5-16" xml:id="T2009018019-5-16">US:----:--:----</span>
+      <span from="#B2009018019-5-18" xml:id="T2009018019-5-18">NC:siuc:--:----</span>
+      <span from="#B2009018019-5-19" xml:id="T2009018019-5-19">ZD</span>
+      <span from="#B2009018019-5-21" xml:id="T2009018019-5-21">CS:----:--:----</span>
+      <span from="#B2009018019-5-23" xml:id="T2009018019-5-23">PP:s-nc:--:-3n-</span>
+      <span from="#B2009018019-5-25" xml:id="T2009018019-5-25">VF:----:sa:----</span>
+      <span from="#B2009018019-5-27" xml:id="T2009018019-5-27">NC:siuc:--:----</span>
+      <span from="#B2009018019-5-28" xml:id="T2009018019-5-28">ZD</span>
+      <span from="#B2009018019-5-30" xml:id="T2009018019-5-30">CC:----:--:----</span>
+      <span from="#B2009018019-5-32" xml:id="T2009018019-5-32">D-:----:--:u---</span>
+      <span from="#B2009018019-5-34" xml:id="T2009018019-5-34">VF:----:sp:----</span>
+      <span from="#B2009018019-5-36" xml:id="T2009018019-5-36">PP:p-nc:--:-1n-</span>
+      <span from="#B2009018019-5-38" xml:id="T2009018019-5-38">AD:----:--:p---</span>
+      <span from="#B2009018019-5-39" xml:id="T2009018019-5-39">ZD</span>
+      <span from="#B2009018019-5-41" xml:id="T2009018019-5-41">PP:s-nc:--:-3n-</span>
+      <span from="#B2009018019-5-43" xml:id="T2009018019-5-43">VF:----:sa:----</span>
+      <span from="#B2009018019-5-45" xml:id="T2009018019-5-45">PI:s-un:--:----</span>
+      <span from="#B2009018019-5-47" xml:id="T2009018019-5-47">NC:siun:--:----</span>
+      <span from="#B2009018019-5-49" xml:id="T2009018019-5-49">T-:----:--:----</span>
+      <span from="#B2009018019-5-51" xml:id="T2009018019-5-51">PP:#-u#:--:-3y-</span>
+      <span from="#B2009018019-5-53" xml:id="T2009018019-5-53">PM:#-u#:--:----</span>
+      <span from="#B2009018019-5-54" xml:id="T2009018019-5-54">ZP</span>
+      <span from="#B2009009217-6-1" xml:id="T2009009217-6-1">T-:----:--:----</span>
+      <span from="#B2009009217-6-3" xml:id="T2009009217-6-3">NC:siuc:--:----</span>
+      <span from="#B2009009217-6-5" xml:id="T2009009217-6-5">NP:siu#:--:----</span>
+      <span from="#B2009009217-6-7" xml:id="T2009009217-6-7">VF:----:ta:----</span>
+      <span from="#B2009009217-6-9" xml:id="T2009009217-6-9">NC:sduc:--:----</span>
+      <span from="#B2009009217-6-11" xml:id="T2009009217-6-11">NP:siu#:--:----</span>
+      <span from="#B2009009217-6-13" xml:id="T2009009217-6-13">NP:siu#:--:----</span>
+      <span from="#B2009009217-6-15" xml:id="T2009009217-6-15">T-:----:--:----</span>
+      <span from="#B2009009217-6-17" xml:id="T2009009217-6-17">PI:s-un:--:----</span>
+      <span from="#B2009009217-6-19" xml:id="T2009009217-6-19">NC:siun:--:----</span>
+      <span from="#B2009009217-6-21" xml:id="T2009009217-6-21">NC:piu#:--:----</span>
+      <span from="#B2009009217-6-22" xml:id="T2009009217-6-22">ZD</span>
+      <span from="#B2009009217-6-24" xml:id="T2009009217-6-24">CC:----:--:----</span>
+      <span from="#B2009009217-6-26" xml:id="T2009009217-6-26">T-:----:--:----</span>
+      <span from="#B2009009217-6-28" xml:id="T2009009217-6-28">PI:s-uc:--:----</span>
+      <span from="#B2009009217-6-30" xml:id="T2009009217-6-30">PI:s-uc:--:----</span>
+      <span from="#B2009009217-6-32" xml:id="T2009009217-6-32">NC:siuc:--:----</span>
+      <span from="#B2009009217-6-34" xml:id="T2009009217-6-34">VF:----:ta:----</span>
+      <span from="#B2009009217-6-36" xml:id="T2009009217-6-36">PM:p-u#:--:----</span>
+      <span from="#B2009009217-6-38" xml:id="T2009009217-6-38">AC:##u#:--:c---</span>
+      <span from="#B2009009217-6-40" xml:id="T2009009217-6-40">NW:----:--:----</span>
+      <span from="#B2009009217-6-41" xml:id="T2009009217-6-41">ZH</span>
+      <span from="#B2009009217-6-42" xml:id="T2009009217-6-42">NC:piu#:--:----</span>
+      <span from="#B2009009217-6-44" xml:id="T2009009217-6-44">NP:siu#:--:----</span>
+      <span from="#B2009009217-6-46" xml:id="T2009009217-6-46">NP:siu#:--:----</span>
+      <span from="#B2009009217-6-48" xml:id="T2009009217-6-48">CC:----:--:----</span>
+      <span from="#B2009009217-6-50" xml:id="T2009009217-6-50">NP:siu#:--:----</span>
+      <span from="#B2009009217-6-52" xml:id="T2009009217-6-52">NP:siu#:--:----</span>
+      <span from="#B2009009217-6-54" xml:id="T2009009217-6-54">NC:pdu#:--:----</span>
+      <span from="#B2009009217-6-56" xml:id="T2009009217-6-56">CC:----:--:----</span>
+      <span from="#B2009009217-6-58" xml:id="T2009009217-6-58">VF:----:ta:----</span>
+      <span from="#B2009009217-6-60" xml:id="T2009009217-6-60">PP:#-u#:--:-3y-</span>
+      <span from="#B2009009217-6-62" xml:id="T2009009217-6-62">PI:s-uc:--:----</span>
+      <span from="#B2009009217-6-64" xml:id="T2009009217-6-64">D-:----:--:u---</span>
+      <span from="#B2009009217-6-66" xml:id="T2009009217-6-66">VT:siu#:t-:----</span>
+      <span from="#B2009009217-6-68" xml:id="T2009009217-6-68">NC:siuc:--:----</span>
+      <span from="#B2009009217-6-69" xml:id="T2009009217-6-69">ZP</span>
+      <span from="#B2009018084-16-1" xml:id="T2009018084-16-1">NP:siu#:--:----</span>
+      <span from="#B2009018084-16-3" xml:id="T2009018084-16-3">NP:siu#:--:----</span>
+      <span from="#B2009018084-16-5" xml:id="T2009018084-16-5">VF:----:ta:----</span>
+      <span from="#B2009018084-16-7" xml:id="T2009018084-16-7">NC:sduc:--:----</span>
+      <span from="#B2009018084-16-9" xml:id="T2009018084-16-9">T-:----:--:----</span>
+      <span from="#B2009018084-16-11" xml:id="T2009018084-16-11">PO:s--c:--:-3ys</span>
+      <span from="#B2009018084-16-13" xml:id="T2009018084-16-13">NC:siuc:--:----</span>
+      <span from="#B2009018084-16-15" xml:id="T2009018084-16-15">CC:----:--:----</span>
+      <span from="#B2009018084-16-17" xml:id="T2009018084-16-17">VF:----:ta:----</span>
+      <span from="#B2009018084-16-19" xml:id="T2009018084-16-19">D-:----:--:u---</span>
+      <span from="#B2009018084-16-21" xml:id="T2009018084-16-21">CC:----:--:----</span>
+      <span from="#B2009018084-16-23" xml:id="T2009018084-16-23">VF:----:ta:----</span>
+      <span from="#B2009018084-16-25" xml:id="T2009018084-16-25">CC:----:--:----</span>
+      <span from="#B2009018084-16-27" xml:id="T2009018084-16-27">VF:----:ta:----</span>
+      <span from="#B2009018084-16-29" xml:id="T2009018084-16-29">T-:----:--:----</span>
+      <span from="#B2009018084-16-31" xml:id="T2009018084-16-31">AC:##u#:--:c---</span>
+      <span from="#B2009018084-16-33" xml:id="T2009018084-16-33">AC:p#u#:--:p---</span>
+      <span from="#B2009018084-16-35" xml:id="T2009018084-16-35">NC:piu#:--:----</span>
+      <span from="#B2009018084-16-37" xml:id="T2009018084-16-37">T-:----:--:----</span>
+      <span from="#B2009018084-16-39" xml:id="T2009018084-16-39">NP:siu#:--:----</span>
+      <span from="#B2009018084-16-41" xml:id="T2009018084-16-41">NC:siuc:--:----</span>
+      <span from="#B2009018084-16-43" xml:id="T2009018084-16-43">NP:siu#:--:----</span>
+      <span from="#B2009018084-16-45" xml:id="T2009018084-16-45">XF:---:--:----</span>
+      <span from="#B2009018084-16-47" xml:id="T2009018084-16-47">NP:siu#:--:----</span>
+      <span from="#B2009018084-16-48" xml:id="T2009018084-16-48">ZH</span>
+      <span from="#B2009018084-16-49" xml:id="T2009018084-16-49">NC:sduc:--:----</span>
+      <span from="#B2009018084-16-50" xml:id="T2009018084-16-50">ZD</span>
+      <span from="#B2009018084-16-52" xml:id="T2009018084-16-52">US:----:--:----</span>
+      <span from="#B2009018084-16-54" xml:id="T2009018084-16-54">VF:----:ta:----</span>
+      <span from="#B2009018084-16-56" xml:id="T2009018084-16-56">VT:siu#:t-:----</span>
+      <span from="#B2009018084-16-58" xml:id="T2009018084-16-58">VT:siu#:t-:----</span>
+      <span from="#B2009018084-16-60" xml:id="T2009018084-16-60">XY:----:--:----</span>
+      <span from="#B2009018084-16-62" xml:id="T2009018084-16-62">XS:----:--:----</span>
+      <span from="#B2009018084-16-63" xml:id="T2009018084-16-63">ZP</span>
+      <span from="#B2009009318-17-2" xml:id="T2009009318-17-2">NC:piu#:--:----</span>
+      <span from="#B2009009318-17-4" xml:id="T2009009318-17-4">PP:s-un:--:-3n-</span>
+      <span from="#B2009009318-17-6" xml:id="T2009009318-17-6">VF:----:sa:----</span>
+      <span from="#B2009009318-17-8" xml:id="T2009009318-17-8">D-:----:--:u---</span>
+      <span from="#B2009009318-17-10" xml:id="T2009009318-17-10">AC:siun:--:p---</span>
+      <span from="#B2009009318-17-11" xml:id="T2009009318-17-11">ZD</span>
+      <span from="#B2009009318-17-13" xml:id="T2009009318-17-13">CS:----:--:----</span>
+      <span from="#B2009009318-17-15" xml:id="T2009009318-17-15">PI:#-uc:--:----</span>
+      <span from="#B2009009318-17-17" xml:id="T2009009318-17-17">VF:----:sa:----</span>
+      <span from="#B2009009318-17-19" xml:id="T2009009318-17-19">D-:----:--:u---</span>
+      <span from="#B2009009318-17-21" xml:id="T2009009318-17-21">US:----:--:----</span>
+      <span from="#B2009009318-17-23" xml:id="T2009009318-17-23">NC:siun:--:----</span>
+      <span from="#B2009009318-17-25" xml:id="T2009009318-17-25">CC:----:--:----</span>
+      <span from="#B2009009318-17-27" xml:id="T2009009318-17-27">VF:----:sa:----</span>
+      <span from="#B2009009318-17-29" xml:id="T2009009318-17-29">NC:siuc:--:----</span>
+      <span from="#B2009009318-17-30" xml:id="T2009009318-17-30">ZP</span>
+    </spanGrp>
+    <spanGrp ana="#ePOSlemmatizer">
+      <span from="#B2009008999-4-1" xml:id="L2009008999-4-1">og</span>
+      <span from="#B2009008999-4-3" xml:id="L2009008999-4-3">mens</span>
+      <span from="#B2009008999-4-5" xml:id="L2009008999-4-5">model</span>
+      <span from="#B2009008999-4-7" xml:id="L2009008999-4-7">og</span>
+      <span from="#B2009008999-4-9" xml:id="L2009008999-4-9">branchefolk</span>
+      <span from="#B2009008999-4-11" xml:id="L2009008999-4-11">frygte</span>
+      <span from="#B2009008999-4-13" xml:id="L2009008999-4-13">den</span>
+      <span from="#B2009008999-4-15" xml:id="L2009008999-4-15">slem</span>
+      <span from="#B2009008999-4-16" xml:id="L2009008999-4-16">,</span>
+      <span from="#B2009008999-4-18" xml:id="L2009008999-4-18">blive</span>
+      <span from="#B2009008999-4-20" xml:id="L2009008999-4-20">en</span>
+      <span from="#B2009008999-4-22" xml:id="L2009008999-4-22">ambulance</span>
+      <span from="#B2009008999-4-24" xml:id="L2009008999-4-24">tilkalde</span>
+      <span from="#B2009008999-4-25" xml:id="L2009008999-4-25">.</span>
+      <span from="#B2009018019-5-2" xml:id="L2009018019-5-2">-</span>
+      <span from="#B2009018019-5-4" xml:id="L2009018019-5-4">VI</span>
+      <span from="#B2009018019-5-6" xml:id="L2009018019-5-6">have</span>
+      <span from="#B2009018019-5-8" xml:id="L2009018019-5-8">vælge</span>
+      <span from="#B2009018019-5-10" xml:id="L2009018019-5-10">at</span>
+      <span from="#B2009018019-5-12" xml:id="L2009018019-5-12">bruge</span>
+      <span from="#B2009018019-5-14" xml:id="L2009018019-5-14">Medina</span>
+      <span from="#B2009018019-5-16" xml:id="L2009018019-5-16">som</span>
+      <span from="#B2009018019-5-18" xml:id="L2009018019-5-18">model</span>
+      <span from="#B2009018019-5-19" xml:id="L2009018019-5-19">,</span>
+      <span from="#B2009018019-5-21" xml:id="L2009018019-5-21">fordi</span>
+      <span from="#B2009018019-5-23" xml:id="L2009018019-5-23">hun</span>
+      <span from="#B2009018019-5-25" xml:id="L2009018019-5-25">udstråle</span>
+      <span from="#B2009018019-5-27" xml:id="L2009018019-5-27">eksklusivitet</span>
+      <span from="#B2009018019-5-28" xml:id="L2009018019-5-28">,</span>
+      <span from="#B2009018019-5-30" xml:id="L2009018019-5-30">og</span>
+      <span from="#B2009018019-5-32" xml:id="L2009018019-5-32">så</span>
+      <span from="#B2009018019-5-34" xml:id="L2009018019-5-34">syne</span>
+      <span from="#B2009018019-5-36" xml:id="L2009018019-5-36">vi</span>
+      <span from="#B2009018019-5-38" xml:id="L2009018019-5-38">faktisk</span>
+      <span from="#B2009018019-5-39" xml:id="L2009018019-5-39">,</span>
+      <span from="#B2009018019-5-41" xml:id="L2009018019-5-41">hun</span>
+      <span from="#B2009018019-5-43" xml:id="L2009018019-5-43">være</span>
+      <span from="#B2009018019-5-45" xml:id="L2009018019-5-45">en</span>
+      <span from="#B2009018019-5-47" xml:id="L2009018019-5-47">modeikon</span>
+      <span from="#B2009018019-5-49" xml:id="L2009018019-5-49">i</span>
+      <span from="#B2009018019-5-51" xml:id="L2009018019-5-51">sig</span>
+      <span from="#B2009018019-5-53" xml:id="L2009018019-5-53">selv</span>
+      <span from="#B2009018019-5-54" xml:id="L2009018019-5-54">.</span>
+      <span from="#B2009009217-6-1" xml:id="L2009009217-6-1">på</span>
+      <span from="#B2009009217-6-3" xml:id="L2009009217-6-3">restaurant</span>
+      <span from="#B2009009217-6-5" xml:id="L2009009217-6-5">MASH</span>
+      <span from="#B2009009217-6-7" xml:id="L2009009217-6-7">spise</span>
+      <span from="#B2009009217-6-9" xml:id="L2009009217-6-9">model</span>
+      <span from="#B2009009217-6-11" xml:id="L2009009217-6-11">Malkit</span>
+      <span from="#B2009009217-6-13" xml:id="L2009009217-6-13">Singh</span>
+      <span from="#B2009009217-6-15" xml:id="L2009009217-6-15">med</span>
+      <span from="#B2009009217-6-17" xml:id="L2009009217-6-17">en</span>
+      <span from="#B2009009217-6-19" xml:id="L2009009217-6-19">par</span>
+      <span from="#B2009009217-6-21" xml:id="L2009009217-6-21">ven</span>
+      <span from="#B2009009217-6-22" xml:id="L2009009217-6-22">,</span>
+      <span from="#B2009009217-6-24" xml:id="L2009009217-6-24">og</span>
+      <span from="#B2009009217-6-26" xml:id="L2009009217-6-26">i</span>
+      <span from="#B2009009217-6-28" xml:id="L2009009217-6-28">en</span>
+      <span from="#B2009009217-6-30" xml:id="L2009009217-6-30">anden</span>
+      <span from="#B2009009217-6-32" xml:id="L2009009217-6-32">bås</span>
+      <span from="#B2009009217-6-34" xml:id="L2009009217-6-34">tømme</span>
+      <span from="#B2009009217-6-36" xml:id="L2009009217-6-36">den</span>
+      <span from="#B2009009217-6-38" xml:id="L2009009217-6-38">tidlig</span>
+      <span from="#B2009009217-6-40" xml:id="L2009009217-6-40">DR</span>
+      <span from="#B2009009217-6-41" xml:id="L2009009217-6-41">-</span>
+      <span from="#B2009009217-6-42" xml:id="L2009009217-6-42">kollega</span>
+      <span from="#B2009009217-6-44" xml:id="L2009009217-6-44">Reimer</span>
+      <span from="#B2009009217-6-46" xml:id="L2009009217-6-46">Bo</span>
+      <span from="#B2009009217-6-48" xml:id="L2009009217-6-48">og</span>
+      <span from="#B2009009217-6-50" xml:id="L2009009217-6-50">Jeppe</span>
+      <span from="#B2009009217-6-52" xml:id="L2009009217-6-52">Nybroe</span>
+      <span from="#B2009009217-6-54" xml:id="L2009009217-6-54">rødvinsglas</span>
+      <span from="#B2009009217-6-56" xml:id="L2009009217-6-56">og</span>
+      <span from="#B2009009217-6-58" xml:id="L2009009217-6-58">få</span>
+      <span from="#B2009009217-6-60" xml:id="L2009009217-6-60">sig</span>
+      <span from="#B2009009217-6-62" xml:id="L2009009217-6-62">en</span>
+      <span from="#B2009009217-6-64" xml:id="L2009009217-6-64">særdeles</span>
+      <span from="#B2009009217-6-66" xml:id="L2009009217-6-66">opstemt</span>
+      <span from="#B2009009217-6-68" xml:id="L2009009217-6-68">mandesnak</span>
+      <span from="#B2009009217-6-69" xml:id="L2009009217-6-69">.</span>
+      <span from="#B2009018084-16-1" xml:id="L2009018084-16-1">Søren</span>
+      <span from="#B2009018084-16-3" xml:id="L2009018084-16-3">Bregendal</span>
+      <span from="#B2009018084-16-5" xml:id="L2009018084-16-5">virke</span>
+      <span from="#B2009018084-16-7" xml:id="L2009018084-16-7">stangvisse</span>
+      <span from="#B2009018084-16-9" xml:id="L2009018084-16-9">i</span>
+      <span from="#B2009018084-16-11" xml:id="L2009018084-16-11">sin</span>
+      <span from="#B2009018084-16-13" xml:id="L2009018084-16-13">smoking</span>
+      <span from="#B2009018084-16-15" xml:id="L2009018084-16-15">og</span>
+      <span from="#B2009018084-16-17" xml:id="L2009018084-16-17">rende</span>
+      <span from="#B2009018084-16-19" xml:id="L2009018084-16-19">rundt</span>
+      <span from="#B2009018084-16-21" xml:id="L2009018084-16-21">og</span>
+      <span from="#B2009018084-16-23" xml:id="L2009018084-16-23">kurtisere</span>
+      <span from="#B2009018084-16-25" xml:id="L2009018084-16-25">og</span>
+      <span from="#B2009018084-16-27" xml:id="L2009018084-16-27">danse</span>
+      <span from="#B2009018084-16-29" xml:id="L2009018084-16-29">med</span>
+      <span from="#B2009018084-16-31" xml:id="L2009018084-16-31">mange</span>
+      <span from="#B2009018084-16-33" xml:id="L2009018084-16-33">lækker</span>
+      <span from="#B2009018084-16-35" xml:id="L2009018084-16-35">tøs</span>
+      <span from="#B2009018084-16-37" xml:id="L2009018084-16-37">fra</span>
+      <span from="#B2009018084-16-39" xml:id="L2009018084-16-39">Top</span>
+      <span from="#B2009018084-16-41" xml:id="L2009018084-16-41">model</span>
+      <span from="#B2009018084-16-43" xml:id="L2009018084-16-43">Of</span>
+      <span from="#B2009018084-16-45" xml:id="L2009018084-16-45">The</span>
+      <span from="#B2009018084-16-47" xml:id="L2009018084-16-47">World</span>
+      <span from="#B2009018084-16-48" xml:id="L2009018084-16-48">-</span>
+      <span from="#B2009018084-16-49" xml:id="L2009018084-16-49">finale</span>
+      <span from="#B2009018084-16-50" xml:id="L2009018084-16-50">,</span>
+      <span from="#B2009018084-16-52" xml:id="L2009018084-16-52">der</span>
+      <span from="#B2009018084-16-54" xml:id="L2009018084-16-54">være</span>
+      <span from="#B2009018084-16-56" xml:id="L2009018084-16-56">blive</span>
+      <span from="#B2009018084-16-58" xml:id="L2009018084-16-58">afholde</span>
+      <span from="#B2009018084-16-60" xml:id="L2009018084-16-60">på</span>
+      <span from="#B2009018084-16-62" xml:id="L2009018084-16-62">Skt</span>
+      <span from="#B2009018084-16-63" xml:id="L2009018084-16-63">.</span>
+      <span from="#B2009009318-17-2" xml:id="L2009009318-17-2">-</span>
+      <span from="#B2009009318-17-4" xml:id="L2009009318-17-4">det</span>
+      <span from="#B2009009318-17-6" xml:id="L2009009318-17-6">være</span>
+      <span from="#B2009009318-17-8" xml:id="L2009009318-17-8">ikke</span>
+      <span from="#B2009009318-17-10" xml:id="L2009009318-17-10">nem</span>
+      <span from="#B2009009318-17-11" xml:id="L2009009318-17-11">,</span>
+      <span from="#B2009009318-17-13" xml:id="L2009009318-17-13">når</span>
+      <span from="#B2009009318-17-15" xml:id="L2009009318-17-15">man</span>
+      <span from="#B2009009318-17-17" xml:id="L2009009318-17-17">se</span>
+      <span from="#B2009009318-17-19" xml:id="L2009009318-17-19">ud</span>
+      <span from="#B2009009318-17-21" xml:id="L2009009318-17-21">som</span>
+      <span from="#B2009009318-17-23" xml:id="L2009009318-17-23">mig</span>
+      <span from="#B2009009318-17-25" xml:id="L2009009318-17-25">og</span>
+      <span from="#B2009009318-17-27" xml:id="L2009009318-17-27">være</span>
+      <span from="#B2009009318-17-29" xml:id="L2009009318-17-29">model</span>
+      <span from="#B2009009318-17-30" xml:id="L2009009318-17-30">.</span>
+    </spanGrp>
+    <spanGrp ana="lexsamp">
+      <span from="#B2009008999-4-5" xml:id="D2009008999-4-5-1">model-1</span>
+      <span from="#B2009008999-4-5" xml:id="D2009008999-4-5-2">model-1a</span>
+      <span from="#B2009008999-4-5" xml:id="D2009008999-4-5-3">model-2</span>
+      <span from="#B2009008999-4-5" xml:id="D2009008999-4-5-4">model-3</span>
+      <span from="#B2009008999-4-5" xml:id="D2009008999-4-5-5">model-4</span>
+      <span from="#B2009008999-4-5" xml:id="D2009008999-4-5-6">model-5</span>
+      <span from="#B2009008999-4-5" xml:id="D2009008999-4-5-7">model-6-6a</span>
+      <span from="#B2009008999-4-5" xml:id="D2009008999-4-5-8">model-F-stå-model-til</span>
+      <span from="#B2009018019-5-18" xml:id="D2009018019-5-18-1">model-1</span>
+      <span from="#B2009018019-5-18" xml:id="D2009018019-5-18-2">model-1a</span>
+      <span from="#B2009018019-5-18" xml:id="D2009018019-5-18-3">model-2</span>
+      <span from="#B2009018019-5-18" xml:id="D2009018019-5-18-4">model-3</span>
+      <span from="#B2009018019-5-18" xml:id="D2009018019-5-18-5">model-4</span>
+      <span from="#B2009018019-5-18" xml:id="D2009018019-5-18-6">model-5</span>
+      <span from="#B2009018019-5-18" xml:id="D2009018019-5-18-7">model-6-6a</span>
+      <span from="#B2009018019-5-18" xml:id="D2009018019-5-18-8">model-F-stå-model-til</span>
+      <span from="#B2009009217-6-9" xml:id="D2009009217-6-9-1">model-1</span>
+      <span from="#B2009009217-6-9" xml:id="D2009009217-6-9-2">model-1a</span>
+      <span from="#B2009009217-6-9" xml:id="D2009009217-6-9-3">model-2</span>
+      <span from="#B2009009217-6-9" xml:id="D2009009217-6-9-4">model-3</span>
+      <span from="#B2009009217-6-9" xml:id="D2009009217-6-9-5">model-4</span>
+      <span from="#B2009009217-6-9" xml:id="D2009009217-6-9-6">model-5</span>
+      <span from="#B2009009217-6-9" xml:id="D2009009217-6-9-7">model-6-6a</span>
+      <span from="#B2009009217-6-9" xml:id="D2009009217-6-9-8">model-F-stå-model-til</span>
+      <span from="#B2009018084-16-41" xml:id="D2009018084-16-41-1">model-1</span>
+      <span from="#B2009018084-16-41" xml:id="D2009018084-16-41-2">model-1a</span>
+      <span from="#B2009018084-16-41" xml:id="D2009018084-16-41-3">model-2</span>
+      <span from="#B2009018084-16-41" xml:id="D2009018084-16-41-4">model-3</span>
+      <span from="#B2009018084-16-41" xml:id="D2009018084-16-41-5">model-4</span>
+      <span from="#B2009018084-16-41" xml:id="D2009018084-16-41-6">model-5</span>
+      <span from="#B2009018084-16-41" xml:id="D2009018084-16-41-7">model-6-6a</span>
+      <span from="#B2009018084-16-41" xml:id="D2009018084-16-41-8">model-F-stå-model-til</span>
+      <span from="#B2009009318-17-29" xml:id="D2009009318-17-29-1">model-1</span>
+      <span from="#B2009009318-17-29" xml:id="D2009009318-17-29-2">model-1a</span>
+      <span from="#B2009009318-17-29" xml:id="D2009009318-17-29-3">model-2</span>
+      <span from="#B2009009318-17-29" xml:id="D2009009318-17-29-4">model-3</span>
+      <span from="#B2009009318-17-29" xml:id="D2009009318-17-29-5">model-4</span>
+      <span from="#B2009009318-17-29" xml:id="D2009009318-17-29-6">model-5</span>
+      <span from="#B2009009318-17-29" xml:id="D2009009318-17-29-7">model-6-6a</span>
+      <span from="#B2009009318-17-29" xml:id="D2009009318-17-29-8">model-F-stå-model-til</span>
+    </spanGrp>
+  </text>
+</TEI>

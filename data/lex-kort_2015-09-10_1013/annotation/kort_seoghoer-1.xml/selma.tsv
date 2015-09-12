@@ -1,0 +1,707 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue
+#id=1
+#text=Da milliardæren giftede sig med den 20 år yngre Melania Trump i 2005, stod det nærmest skrevet i kortene, at de ville arbejde på at avle en arving.
+1-1	Da	da	CS:----:--:----	
+1-2	milliardæren	milliardær	NC:sduc:--:----	
+1-3	giftede	gifte	VF:----:ta:----	
+1-4	sig	sig	PP:#-u#:--:-3y-	
+1-5	med	med	T-:----:--:----	
+1-6	den	den	--	
+1-7	20	20	LO:--u#:--:----	
+1-8	år	år	NC:siun:--:----	
+1-9	yngre	ung	AD:----:--:c---	
+1-10	Melania	Melania	NP:siu#:--:----	
+1-11	Trump	Trump	NP:siu#:--:----	
+1-12	i	i	T-:----:--:----	
+1-13	2005	2005	LC:--u-:--:----	
+1-14	,	,	ZD	
+1-15	stod	stå	VF:----:ta:----	
+1-16	det	den	PM:s-un:--:----	
+1-17	nærmest	nær	AD:----:--:s---	
+1-18	skrevet	skrive	VT:siu#:t-:----	
+1-19	i	i	T-:----:--:----	
+1-20	kortene	kort	NC:pdu#:--:----	
+1-21	,	,	ZD	
+1-22	at	at	CS:----:--:----	
+1-23	de	de	PP:p-n#:--:-3n-	
+1-24	ville	ville	VF:----:ta:----	
+1-25	arbejde	arbejde	VI:----:-a:----	
+1-26	på	på	T-:----:--:----	
+1-27	at	at	UI:----:--:----	
+1-28	avle	avle	VI:----:-a:----	
+1-29	en	en	PI:s-uc:--:----	
+1-30	arving	arving	NC:siuc:--:----	
+1-31	.	.	ZP	
+
+#id=2
+#text= Men jeg har for længst generhvervet kortet, smiler SE og HØRs favorit, som beskriver sig selv som aktiv, ærlig og kontant.
+2-1	Men	men	CC:----:--:----	
+2-2	jeg	jeg	PP:s-nc:--:-1n-	
+2-3	har	have	VF:----:sa:----	
+2-4	for	for	T-:----:--:----	
+2-5	længst	længst	XY:----:--:----	
+2-6	generhvervet	generhverve	VT:siu#:t-:----	
+2-7	kortet	kort	NC:sdun:--:----	
+2-8	,	,	ZD	
+2-9	smiler	smile	VF:----:sa:----	
+2-10	SE	SE	NP:siu#:--:----	
+2-11	og	og	CC:----:--:----	
+2-12	HØRs	hør	NC:sigc:--:----	
+2-13	favorit	favorit	NC:siuc:--:----	
+2-14	,	,	ZD	
+2-15	som	som	US:----:--:----	
+2-16	beskriver	beskrive	VF:----:sa:----	
+2-17	sig	sig	PP:#-u#:--:-3y-	
+2-18	selv	selv	PM:#-u#:--:----	
+2-19	som	som	US:----:--:----	
+2-20	aktiv	aktiv	AC:siuc:--:p---	
+2-21	,	,	ZD	
+2-22	ærlig	ærlig	AC:siuc:--:p---	
+2-23	og	og	CC:----:--:----	
+2-24	kontant	kontant	AC:siu§:--:p---	
+2-25	.	.	ZP	
+
+#id=3
+#text= L. kort efter at køre bilen ind i en parkeret lastbil.
+3-1	L	L	NP:siu#:--:----	
+3-2	.	.	ZP	
+3-3	kort	kort	NC:siun:--:----	
+3-4	efter	efter	T-:----:--:----	
+3-5	at	at	UI:----:--:----	
+3-6	køre	køre	VI:----:-a:----	
+3-7	bilen	bil	NC:sduc:--:----	
+3-8	ind	ind	D-:----:--:u---	
+3-9	i	i	T-:----:--:----	
+3-10	en	en	PI:s-uc:--:----	
+3-11	parkeret	parkere	VT:siu#:t-:----	
+3-12	lastbil	lastbil	NC:siuc:--:----	
+3-13	.	.	ZP	
+
+#id=4
+#text=Og alligevel forstår jeg ikke, at kongehuset ikke spillede med åbne kort, da de fandt ud af, at vi havde lugtet lunten.
+4-1	Og	og	CC:----:--:----	
+4-2	alligevel	alligevel	D-:----:--:u---	
+4-3	forstår	forstå	VF:----:sa:----	
+4-4	jeg	jeg	PP:s-nc:--:-1n-	
+4-5	ikke	ikke	D-:----:--:u---	
+4-6	,	,	ZD	
+4-7	at	at	CS:----:--:----	
+4-8	kongehuset	kongehus	NC:sdun:--:----	
+4-9	ikke	ikke	D-:----:--:u---	
+4-10	spillede	spille	VF:----:ta:----	
+4-11	med	med	T-:----:--:----	
+4-12	åbne	åben	AC:p#u#:--:p---	
+4-13	kort	kort	NC:piu#:--:----	
+4-14	,	,	ZD	
+4-15	da	da	CS:----:--:----	
+4-16	de	de	PP:p-n#:--:-3n-	
+4-17	fandt	finde	VF:----:ta:----	
+4-18	ud	ud	D-:----:--:u---	
+4-19	af	af	T-:----:--:----	
+4-20	,	,	ZD	
+4-21	at	at	CS:----:--:----	
+4-22	vi	vi	PP:p-nc:--:-1n-	
+4-23	havde	have	VF:----:ta:----	
+4-24	lugtet	lugte	VT:siu#:t-:----	
+4-25	lunten	lunte	NC:sduc:--:----	
+4-26	.	.	ZP	
+
+#id=5
+#text=Det stod sgu ikke i kortene, da jeg var ung skuespiller.
+5-1	Det	det	PP:s-un:--:-3n-	
+5-2	stod	stå	VF:----:ta:----	
+5-3	sgu	sgu	D-:----:--:u---	
+5-4	ikke	ikke	D-:----:--:u---	
+5-5	i	i	T-:----:--:----	
+5-6	kortene	kort	NC:pdu#:--:----	
+5-7	,	,	ZD	
+5-8	da	da	CS:----:--:----	
+5-9	jeg	jeg	PP:s-nc:--:-1n-	
+5-10	var	være	VF:----:ta:----	
+5-11	ung	ung	AC:siuc:--:p---	
+5-12	skuespiller	skuespiller	NC:siuc:--:----	
+5-13	.	.	ZP	
+
+#id=6
+#text=- Det lå ikke i kortene, at jeg skulle dyrke eliteidræt.
+6-1	-	-	NC:piu#:--:----	
+6-2	Det	Det	XY:----:--:----	
+6-3	lå	ligge	VF:----:ta:----	
+6-4	ikke	ikke	D-:----:--:u---	
+6-5	i	i	T-:----:--:----	
+6-6	kortene	kort	NC:pdu#:--:----	
+6-7	,	,	ZD	
+6-8	at	at	CS:----:--:----	
+6-9	jeg	jeg	PP:s-nc:--:-1n-	
+6-10	skulle	skulle	VF:----:ta:----	
+6-11	dyrke	dyrke	VI:----:-a:----	
+6-12	eliteidræt	eliteidræt	NC:siuc:--:----	
+6-13	.	.	ZP	
+
+#id=7
+#text= Hun er ligesom de andre dommer-kandidater blevet instrueret i at holde kortene tæt ind til kroppen.
+7-1	Hun	hun	PP:s-nc:--:-3n-	
+7-2	er	være	VF:----:sa:----	
+7-3	ligesom	ligesom	CS:----:--:----	
+7-4	de	den	PM:p-u#:--:----	
+7-5	andre	anden	PI:p-u#:--:----	
+7-6	dommer	dommer	NW:----:--:----	
+7-7	-	-	ZH	
+7-8	kandidater	kandidat	NC:piu#:--:----	
+7-9	blevet	blive	VT:siu#:t-:----	
+7-10	instrueret	instruere	VT:siu#:t-:----	
+7-11	i	i	T-:----:--:----	
+7-12	at	at	UI:----:--:----	
+7-13	holde	holde	VI:----:-a:----	
+7-14	kortene	kort	NC:pdu#:--:----	
+7-15	tæt	tæt	AD:----:--:p---	
+7-16	ind	ind	D-:----:--:u---	
+7-17	til	til	T-:----:--:----	
+7-18	kroppen	krop	NC:sduc:--:----	
+7-19	.	.	ZP	
+
+#id=8
+#text=Preben Kristensen har spillet sine kort bedst.
+8-1	Preben	Preben	NP:siu#:--:----	
+8-2	Kristensen	Kristensen	NP:siu#:--:----	
+8-3	har	have	VF:----:sa:----	
+8-4	spillet	spille	VT:siu#:t-:----	
+8-5	sine	sin	PO:p--#:--:-3ys	
+8-6	kort	kort	NC:piu#:--:----	
+8-7	bedst	god	AD:----:--:s---	
+8-8	.	.	ZP	
+
+#id=9
+#text=" Jeg har før fået seneskedehindebetændelse i håndleddet af at bære poser, og slidt det ene kort op efter det andet - men slidt en ( helt ny endda) babs op på shopping..
+9-1	"	"	ZI	
+9-2	Jeg	jeg	PP:s-nc:--:-1n-	
+9-3	har	have	VF:----:sa:----	
+9-4	før	før	D-:----:--:u---	
+9-5	fået	få	VT:siu#:t-:----	
+9-6	seneskedehindebetændelse	seneskedehindebetændelse	NC:siuc:--:----	
+9-7	i	i	T-:----:--:----	
+9-8	håndleddet	håndled	NC:sdun:--:----	
+9-9	af	af	T-:----:--:----	
+9-10	at	at	UI:----:--:----	
+9-11	bære	bære	VI:----:-a:----	
+9-12	poser	pose	NC:piu#:--:----	
+9-13	,	,	ZD	
+9-14	og	og	CC:----:--:----	
+9-15	slidt	slide	VT:siu#:t-:----	
+9-16	det	den	PM:s-un:--:----	
+9-17	ene	ene	AC:§§u§:--:p---	
+9-18	kort	kort	NC:siun:--:----	
+9-19	op	op	D-:----:--:u---	
+9-20	efter	efter	T-:----:--:----	
+9-21	det	den	PM:s-un:--:----	
+9-22	andet	anden	PI:s-un:--:----	
+9-23	-	-	NC:piu#:--:----	
+9-24	men	men	CC:----:--:----	
+9-25	slidt	slide	VT:siu#:t-:----	
+9-26	en	en	PI:s-uc:--:----	
+9-27	(	(	ZD	
+9-28	helt	hel	AD:----:--:p---	
+9-29	ny	ny	AC:siuc:--:p---	
+9-30	endda	endda	D-:----:--:u---	
+9-31	)	)	ZD	
+9-32	babs	babs	NC:siuc:--:----	
+9-33	op	op	D-:----:--:u---	
+9-34	på	på	T-:----:--:----	
+9-35	shopping	shopping	NC:siuc:--:----	
+9-36	.	.	ZP	
+9-37	.	.	ZP	
+
+#id=10
+#text= Oven på dommen valgte jeg at spille med åbne kort og advarede alle mod produktet.
+10-1	Oven	oven	D-:----:--:u---	
+10-2	på	på	T-:----:--:----	
+10-3	dommen	dom	NC:sduc:--:----	
+10-4	valgte	vælge	VF:----:ta:----	
+10-5	jeg	jeg	PP:s-nc:--:-1n-	
+10-6	at	at	UI:----:--:----	
+10-7	spille	spille	VI:----:-a:----	
+10-8	med	med	T-:----:--:----	
+10-9	åbne	åben	AC:p#u#:--:p---	
+10-10	kort	kort	NC:piu#:--:----	
+10-11	og	og	CC:----:--:----	
+10-12	advarede	advare	VF:----:ta:----	
+10-13	alle	al	PI:p-u#:--:----	
+10-14	mod	mod	T-:----:--:----	
+10-15	produktet	produkt	NC:sdun:--:----	
+10-16	.	.	ZP	
+
+#id=11
+#text=Sarah Louise Christiansen hører ellers til den eksklusive skare af kendte personer, der har fået deres kontrafej hængt op i lokalet og også fået tildelt et særligt VIP-kort.
+11-1	Sarah	Sarah	XY:----:--:----	
+11-2	Louise	Louise	NP:siu#:--:----	
+11-3	Christiansen	Christiansen	NP:siu#:--:----	
+11-4	hører	høre	VF:----:sa:----	
+11-5	ellers	ellers	D-:----:--:u---	
+11-6	til	til	T-:----:--:----	
+11-7	den	den	PM:s-uc:--:----	
+11-8	eksklusive	eksklusiv	AC:sdu#:--:p---	
+11-9	skare	skare	NC:siuc:--:----	
+11-10	af	af	T-:----:--:----	
+11-11	kendte	kendt	AC:p#u#:--:p---	
+11-12	personer	person	NC:piu#:--:----	
+11-13	,	,	ZD	
+11-14	der	der	US:----:--:----	
+11-15	har	have	VF:----:sa:----	
+11-16	fået	få	VT:siu#:t-:----	
+11-17	deres	deres	PO:#--#:--:-3np	
+11-18	kontrafej	kontrafej	NC:siun:--:----	
+11-19	hængt	hænge	VT:siu#:t-:----	
+11-20	op	op	D-:----:--:u---	
+11-21	i	i	T-:----:--:----	
+11-22	lokalet	lokale	n:--:----	
+11-23	og	og	CC:----:--:----	
+11-24	også	også	D-:----:--:u---	
+11-25	fået	få	VT:siu#:t-:----	
+11-26	tildelt	tildele	VT:siu#:t-:----	
+11-27	et	en	PI:s-un:--:----	
+11-28	særligt	særlig	AC:siun:--:p---	
+11-29	VIP	VIP	NP:siu#:--:----	
+11-30	-	-	ZH	
+11-31	kort	kort	NC:siun:--:----	
+11-32	.	.	ZP	
+
+#id=12
+#text=Det lå ellers ikke i kortene, at Simon Baker skulle ende som stjerne i Hollywood.
+12-1	Det	det	PP:s-un:--:-3n-	
+12-2	lå	ligge	VF:----:ta:----	
+12-3	ellers	ellers	D-:----:--:u---	
+12-4	ikke	ikke	D-:----:--:u---	
+12-5	i	i	T-:----:--:----	
+12-6	kortene	kort	NC:pdu#:--:----	
+12-7	,	,	ZD	
+12-8	at	at	CS:----:--:----	
+12-9	Simon	Simon	NP:siu#:--:----	
+12-10	Baker	Amalie	NP:siu#:--:----	
+12-11	skulle	skulle	VF:----:ta:----	
+12-12	ende	ende	VI:----:-a:----	
+12-13	som	som	US:----:--:----	
+12-14	stjerne	stjerne	----	
+12-15	i	i	T-:----:--:----	
+12-16	Hollywood	Hollywood	NP:siu#:--:----	
+12-17	.	.	ZP	
+
+#id=13
+#text=- Jeg stod af interviewet på det punkt i udsendelsen, hvor han stjal SIM-kortet fra en taxachauffør.
+13-1	-	-	NC:piu#:--:----	
+13-2	Jeg	jeg	NC:siun:--:----	
+13-3	stod	stå	VF:----:ta:----	
+13-4	af	af	T-:----:--:----	
+13-5	interviewet	interview	NC:sdun:--:----	
+13-6	på	på	T-:----:--:----	
+13-7	det	den	PM:s-un:--:----	
+13-8	punkt	punkt	NC:siun:--:----	
+13-9	i	i	T-:----:--:----	
+13-10	udsendelsen	udsendelse	NC:sduc:--:----	
+13-11	,	,	ZD	
+13-12	hvor	hvor	D-:----:--:u---	
+13-13	han	han	PP:s-nc:--:-3n-	
+13-14	stjal	stjæle	VF:----:ta:----	
+13-15	SIM	SIM	NP:siu#:--:----	
+13-16	-	-	ZH	
+13-17	kortet	kort	NC:sdun:--:----	
+13-18	fra	fra	T-:----:--:----	
+13-19	en	en	PI:s-uc:--:----	
+13-20	taxachauffør	taxachauffør	NC:siuc:--:----	
+13-21	.	.	ZP	
+
+#id=14
+#text=Og så mødtes vi kort efter i London og blev kærester derefter.
+14-1	Og	og	CC:----:--:----	
+14-2	så	så	D-:----:--:u---	
+14-3	mødtes	møde	VF:----:tp:----	
+14-4	vi	VI	LC:--u-:--:----	
+14-5	kort	kort	NC:piu#:--:----	
+14-6	efter	efter	T-:----:--:----	
+14-7	i	i	T-:----:--:----	
+14-8	London	London	NP:siu#:--:----	
+14-9	og	og	CC:----:--:----	
+14-10	blev	blive	VF:----:ta:----	
+14-11	kærester	kæreste	NC:piu#:--:----	
+14-12	derefter	derefter	D-:----:--:u---	
+14-13	.	.	ZP	
+
+#id=15
+#text=- Jeg er på et kort, men koncentreret kursus, så jeg regner med at få mit kørekort om et par uger, forklarede han.
+15-1	-	-	NC:piu#:--:----	
+15-2	Jeg	jeg	NC:siun:--:----	
+15-3	er	være	VF:----:sa:----	
+15-4	på	på	T-:----:--:----	
+15-5	et	en	PI:s-un:--:----	
+15-6	kort	kort	NC:siun:--:----	
+15-7	,	,	ZD	
+15-8	men	men	CC:----:--:----	
+15-9	koncentreret	koncentrere	VT:siu#:t-:----	
+15-10	kursus	kursus	NC:siun:--:----	
+15-11	,	,	ZD	
+15-12	så	så	---:--:----	
+15-13	jeg	jeg	PP:s-nc:--:-1n-	
+15-14	regner	regne	VF:----:sa:----	
+15-15	med	med	T-:----:--:----	
+15-16	at	at	UI:----:--:----	
+15-17	få	få	VI:----:-a:----	
+15-18	mit	min	PO:s--n:--:-1ns	
+15-19	kørekort	kørekort	NC:siun:--:----	
+15-20	om	om	T-:----:--:----	
+15-21	et	en	PI:s-un:--:----	
+15-22	par	par	NC:siun:--:----	
+15-23	uger	uge	NC:piu#:--:----	
+15-24	,	,	ZD	
+15-25	forklarede	forklare	VF:----:ta:----	
+15-26	han	han	PP:s-nc:--:-3n-	
+15-27	.	.	ZP	
+
+#id=16
+#text=Du i årevis ikke har spillet kort med almindelige kort.
+16-1	Du	du	PP:s-nc:--:-2n-	
+16-2	i	i	T-:----:--:----	
+16-3	årevis	årevis	D-:----:--:u---	
+16-4	ikke	ikke	D-:----:--:u---	
+16-5	har	have	VF:----:sa:----	
+16-6	spillet	spille	VT:siu#:t-:----	
+16-7	kort	kort	AD:----:--:p---	
+16-8	med	med	T-:----:--:----	
+16-9	almindelige	almindelig	AC:p#u#:--:p---	
+16-10	kort	kort	NC:piu#:--:----	
+16-11	.	.	ZP	
+
+#id=17
+#text=To dage efter kom det første kort fra Italien, hvorpå der kun stod: " Nescafé".
+17-1	To	to	LC:--u-:--:----	
+17-2	dage	dag	NC:piu#:--:----	
+17-3	efter	efter	D-:----:--:u---	
+17-4	kom	komme	VF:----:ta:----	
+17-5	det	den	PM:s-un:--:----	
+17-6	første	første	AC:§§u§:--:p---	
+17-7	kort	kort	NC:siun:--:----	
+17-8	fra	fra	T-:----:--:----	
+17-9	Italien	Italien	NP:siu#:--:----	
+17-10	,	,	ZD	
+17-11	hvorpå	hvorpå	D-:----:--:u---	
+17-12	der	der	US:----:--:----	
+17-13	kun	kun	D-:----:--:u---	
+17-14	stod	stå	VF:----:ta:----	
+17-15	:	:	ZP	
+17-16	"	"	ZI	
+17-17	Nescafé	nescafé	NC:siuc:--:----	
+17-18	"	"	ZI	
+17-19	.	.	ZP	
+
+#id=18
+#text=Dagen efter kom der kort fra den anden datter i  Florida og på kortet stod: " Prince 100".
+18-1	Dagen	dag	NC:sduc:--:----	
+18-2	efter	efter	D-:----:--:u---	
+18-3	kom	komme	VF:----:ta:----	
+18-4	der	der	US:----:--:----	
+18-5	kort	kort	AD:----:--:p---	
+18-6	fra	fra	T-:----:--:----	
+18-7	den	den	PM:s-uc:--:----	
+18-8	anden	to	LO:--uc:--:----	
+18-9	datter	datter	NC:siuc:--:----	
+18-10	i	i	T-:----:--:----	
+18-11	Florida	Florida	NP:siu#:--:----	
+18-12	og	og	CC:----:--:----	
+18-13	på	på	T-:----:--:----	
+18-14	kortet	kort	NC:sdun:--:----	
+18-15	stod	stå	VF:----:ta:----	
+18-16	:	:	ZP	
+18-17	"	"	ZI	
+18-18	Prince	Prince	NP:siu#:--:----	
+18-19	100	100	LC:--u-:--:----	
+18-20	"	"	ZI	
+18-21	.	.	ZP	
+
+#id=19
+#text= På kortet stod: " SAS".
+19-1	På	på	T-:----:--:----	
+19-2	kortet	kort	NC:sdun:--:----	
+19-3	stod	stå	VF:----:ta:----	
+19-4	:	:	ZP	
+19-5	"	"	ZI	
+19-6	SAS	SAS	NP:siu#:--:----	
+19-7	"	"	ZI	
+19-8	.	.	ZP	
+
+#id=20
+#text=Det lå ellers ikke i kortene, at Bendtner skulle blive "far" så hurtigt.
+20-1	Det	det	PP:s-un:--:-3n-	
+20-2	lå	ligge	VF:----:ta:----	
+20-3	ellers	ellers	D-:----:--:u---	
+20-4	ikke	ikke	D-:----:--:u---	
+20-5	i	i	T-:----:--:----	
+20-6	kortene	kort	NC:pdu#:--:----	
+20-7	,	,	ZD	
+20-8	at	at	CS:----:--:----	
+20-9	Bendtner	Bendtner	NP:siu#:--:----	
+20-10	skulle	skulle	VF:----:ta:----	
+20-11	blive	blive	VI:----:-a:----	
+20-12	"	"	ZI	
+20-13	far	far	NC:siuc:--:----	
+20-14	"	"	ZI	
+20-15	så	så	D-:----:--:u---	
+20-16	hurtigt	hurtig	AC:siun:--:p---	
+20-17	.	.	ZP	
+
+#id=21
+#text=Han tager sig igen og igen til hovedet og får blanke øjne, da han lægger kortene på bordet over for SE og HØR.
+21-1	Han	han	PP:s-nc:--:-3n-	
+21-2	tager	tage	VF:----:sa:----	
+21-3	sig	sig	PP:#-u#:--:-3y-	
+21-4	igen	igen	D-:----:--:u---	
+21-5	og	og	CC:----:--:----	
+21-6	igen	igen	D-:----:--:u---	
+21-7	til	til	T-:----:--:----	
+21-8	hovedet	hoved	NC:sdun:--:----	
+21-9	og	og	CC:----:--:----	
+21-10	får	få	VF:----:sa:----	
+21-11	blanke	blank	AC:p#u#:--:p---	
+21-12	øjne	øje	NC:piu#:--:----	
+21-13	,	,	ZD	
+21-14	da	da	CS:----:--:----	
+21-15	han	han	PP:s-nc:--:-3n-	
+21-16	lægger	lægge	VF:----:sa:----	
+21-17	kortene	kort	NC:pdu#:--:----	
+21-18	på	på	T-:----:--:----	
+21-19	bordet	bord	NC:sdun:--:----	
+21-20	over	over	D-:----:--:u---	
+21-21	for	for	T-:----:--:----	
+21-22	SE	SE	NP:siu#:--:----	
+21-23	og	og	CC:----:--:----	
+21-24	HØR	hør	VM:----:--:----	
+21-25	.	.	ZP	
+
+#id=22
+#text=Det røde kort falder, efter Sidney medvirkede i et afsnit af TV3' s serie " Danmark om natten".
+22-1	Det	den	PM:s-un:--:----	
+22-2	røde	rød	AC:sdu#:--:p---	
+22-3	kort	kort	NC:siun:--:----	
+22-4	falder	falde	VF:----:sa:----	
+22-5	,	,	ZD	
+22-6	efter	efter	CS:----:--:----	
+22-7	Sidney	Sidney	NP:siu#:--:----	
+22-8	medvirkede	medvirke	VF:----:ta:----	
+22-9	i	i	T-:----:--:----	
+22-10	et	en	PI:s-un:--:----	
+22-11	afsnit	afsnit	NC:siun:--:----	
+22-12	af	af	T-:----:--:----	
+22-13	TV3	TV3	NP:siu#:--:----	
+22-14	'	'	ZA	
+22-15	s	@s	MN:sig#:--:----	
+22-16	serie	serie	NC:siuc:--:----	
+22-17	"	"	ZI	
+22-18	Danmark	Danmark	NP:siu#:--:----	
+22-19	om	om	T-:----:--:----	
+22-20	natten	nat	NC:sduc:--:----	
+22-21	"	"	ZI	
+22-22	.	.	ZP	
+
+#id=23
+#text= Jeg plejer at sige, at man må spille med de kort, man har fået.
+23-1	Jeg	jeg	PP:s-nc:--:-1n-	
+23-2	plejer	pleje	VF:----:sa:----	
+23-3	at	at	UI:----:--:----	
+23-4	sige	sige	VI:----:-a:----	
+23-5	,	,	ZD	
+23-6	at	at	CS:----:--:----	
+23-7	man	man	PI:#-uc:--:----	
+23-8	må	måtte	VF:----:sa:----	
+23-9	spille	spille	VI:----:-a:----	
+23-10	med	med	T-:----:--:----	
+23-11	de	den	PM:p-u#:--:----	
+23-12	kort	kort	NC:piu#:--:----	
+23-13	,	,	ZD	
+23-14	man	man	PI:#-uc:--:----	
+23-15	har	have	VF:----:sa:----	
+23-16	fået	få	VT:siu#:t-:----	
+23-17	.	.	ZP	
+
+#id=24
+#text=Yndige Saseline spillede poker for SE og HØR, da 51 spillere gik  til kortene på Falster til fordel for Kræftens Bekæmpelse.
+24-1	Yndige	yndig	AC:sdu#:--:p---	
+24-2	Saseline	Saseline	NP:siu#:--:----	
+24-3	spillede	spille	VF:----:ta:----	
+24-4	poker	poker	NC:siuc:--:----	
+24-5	for	for	T-:----:--:----	
+24-6	SE	SE	NP:siu#:--:----	
+24-7	og	og	CC:----:--:----	
+24-8	HØR	hør	VM:----:--:----	
+24-9	,	,	ZD	
+24-10	da	da	CS:----:--:----	
+24-11	51	51	LC:--u-:--:----	
+24-12	spillere	spiller	NC:piu#:--:----	
+24-13	gik	gå	VF:----:ta:----	
+24-14	til	til	T-:----:--:----	
+24-15	kortene	kort	NC:pdu#:--:----	
+24-16	på	på	T-:----:--:----	
+24-17	Falster	Falster	NP:siu#:--:----	
+24-18	til	til	T-:----:--:----	
+24-19	fordel	fordel	NC:siuc:--:----	
+24-20	for	for	T-:----:--:----	
+24-21	Kræftens	kræft	NC:sdgc:--:----	
+24-22	Bekæmpelse	bekæmpelse	NC:siuc:--:----	
+24-23	.	.	ZP	
+
+#id=25
+#text=Det lå slet ikke i kortene, at Asle skulle tage musikken op igen.
+25-1	Det	det	PP:s-un:--:-3n-	
+25-2	lå	ligge	VF:----:ta:----	
+25-3	slet	slet	D-:----:--:u---	
+25-4	ikke	ikke	D-:----:--:u---	
+25-5	i	i	T-:----:--:----	
+25-6	kortene	kort	NC:pdu#:--:----	
+25-7	,	,	ZD	
+25-8	at	at	CS:----:--:----	
+25-9	Asle	Asle	NP:siu#:--:----	
+25-10	skulle	skulle	VF:----:ta:----	
+25-11	tage	tage	VI:----:-a:----	
+25-12	musikken	musik	NC:sduc:--:----	
+25-13	op	op	D-:----:--:u---	
+25-14	igen	igen	D-:----:--:u---	
+25-15	.	.	ZP	
+
+#id=26
+#text= Men det ligger dog ikke i kortene foreløbig, efter at Iniesta scorede VMslutrundens mest omtalte mål og  nok ikke skal regne med at holde fodboldstøvlerne i ro.
+26-1	Men	men	CC:----:--:----	
+26-2	det	det	PP:s-un:--:-3n-	
+26-3	ligger	ligge	VF:----:sa:----	
+26-4	dog	dog	D-:----:--:u---	
+26-5	ikke	ikke	D-:----:--:u---	
+26-6	i	i	T-:----:--:----	
+26-7	kortene	kort	NC:pdu#:--:----	
+26-8	foreløbig	foreløbig	AD:----:--:p---	
+26-9	,	,	ZD	
+26-10	efter	efter	CS:----:--:----	
+26-11	at	at	CS:----:--:----	
+26-12	Iniesta	Iniesta	NP:siu#:--:----	
+26-13	scorede	score	VF:----:ta:----	
+26-14	VMslutrundens	VMslutrundens	NP:sig#:--:----	
+26-15	mest	megen	AD:----:--:s---	
+26-16	omtalte	omtale	VP:p#u#:t-:----	
+26-17	mål	mål	NC:piu#:--:----	
+26-18	og	og	CC:----:--:----	
+26-19	nok	nok	D-:----:--:u---	
+26-20	ikke	ikke	D-:----:--:u---	
+26-21	skal	skulle	VF:----:sa:----	
+26-22	regne	regne	VI:----:-a:----	
+26-23	med	med	T-:----:--:----	
+26-24	at	at	UI:----:--:----	
+26-25	holde	holde	VI:----:-a:----	
+26-26	fodboldstøvlerne	fodboldstøvle	NC:pdu#:--:----	
+26-27	i	i	T-:----:--:----	
+26-28	ro	ro	NC:siuc:--:----	
+26-29	.	.	ZP	
+
+#id=27
+#text= Politiet håber nu at kunne spore morderne, hvis de forsøger at bruge et stjålet Visa-kort.
+27-1	Politiet	politi	NC:sdun:--:----	
+27-2	håber	håbe	VF:----:sa:----	
+27-3	nu	nu	D-:----:--:u---	
+27-4	at	at	UI:----:--:----	
+27-5	kunne	kunne	VI:----:-a:----	
+27-6	spore	spore	VI:----:-a:----	
+27-7	morderne	morder	NC:pdu#:--:----	
+27-8	,	,	ZD	
+27-9	hvis	hvis	CS:----:--:----	
+27-10	de	de	PP:p-n#:--:-3n-	
+27-11	forsøger	forsøge	VF:----:sa:----	
+27-12	at	at	UI:----:--:----	
+27-13	bruge	bruge	VI:----:-a:----	
+27-14	et	en	PI:s-un:--:----	
+27-15	stjålet	stjæle	VT:siu#:t-:----	
+27-16	Visa	visum	NW:----:--:----	
+27-17	-	-	ZH	
+27-18	kort	kort	NC:siun:--:----	
+27-19	.	.	ZP	
+
+#id=28
+#text=Og det lå egentlig ikke i kortene, at Karin skulle være en af landsholdets mest fremtrædende pro-filer så mange år i træk.
+28-1	Og	og	CC:----:--:----	
+28-2	det	det	-:-3n-	
+28-3	lå	ligge	VF:----:ta:----	
+28-4	egentlig	egentlig	D-:----:--:u---	
+28-5	ikke	ikke	D-:----:--:u---	
+28-6	i	i	T-:----:--:----	
+28-7	kortene	kort	NC:pdu#:--:----	
+28-8	,	,	ZD	
+28-9	at	at	CS:----:--:----	
+28-10	Karin	Karin	NP:siu#:--:----	
+28-11	skulle	skulle	VF:----:ta:----	
+28-12	være	være	VI:----:-a:----	
+28-13	en	en	PI:s-uc:--:----	
+28-14	af	af	T-:----:--:----	
+28-15	landsholdets	landshold	NC:sdgn:--:----	
+28-16	mest	megen	AD:----:--:s---	
+28-17	fremtrædende	fremtrædende	AC:§§u§:--:p---	
+28-18	pro	pro	NC:siuc:--:----	
+28-19	-	-	NC:piu#:--:----	
+28-20	filer	file	VF:----:sa:----	
+28-21	så	så	D-:----:--:u---	
+28-22	mange	mangen	AC:p#u#:--:p---	
+28-23	år	år	NC:piu#:--:----	
+28-24	i	i	T-:----:--:----	
+28-25	træk	træk	NC:siuc:--:----	
+28-26	.	.	ZP	
+
+#id=29
+#text=Det stod ikke i kortene, at Kia, som er mest kendt for sin rolle i TV2 Zulus hitserie " Slemme slemme piger", skulle ende i underholdningsbranchen.
+29-1	Det	det	PP:s-un:--:-3n-	
+29-2	stod	stå	VF:----:ta:----	
+29-3	ikke	ikke	D-:----:--:u---	
+29-4	i	i	T-:----:--:----	
+29-5	kortene	kort	NC:pdu#:--:----	
+29-6	,	,	ZD	
+29-7	at	at	CS:----:--:----	
+29-8	Kia	Kia	NP:siu#:--:----	
+29-9	,	,	ZD	
+29-10	som	som	US:----:--:----	
+29-11	er	være	VF:----:sa:----	
+29-12	mest	megen	AD:----:--:s---	
+29-13	kendt	kendt	AC:siu§:--:p---	
+29-14	for	for	T-:----:--:----	
+29-15	sin	sin	PO:s--c:--:-3ys	
+29-16	rolle	rolle	NC:siuc:--:----	
+29-17	i	i	T-:----:--:----	
+29-18	TV2	TV2	NP:siu#:--:----	
+29-19	Zulus	zulu	NC:sigc:--:----	
+29-20	hitserie	hitserie	NC:siuc:--:----	
+29-21	"	"	ZI	
+29-22	Slemme	slem	AC:p#u#:--:p---	
+29-23	slemme	slem	AC:p#u#:--:p---	
+29-24	piger	pige	NC:piu#:--:----	
+29-25	"	"	ZI	
+29-26	,	,	ZD	
+29-27	skulle	skulle	VF:----:ta:----	
+29-28	ende	ende	VI:----:-a:----	
+29-29	i	i	T-:----:--:----	
+29-30	underholdningsbranchen	underholdningsbranche	NC:sduc:--:----	
+29-31	.	.	ZP	
+
+#id=30
+#text=Et stille familieliv  og status som bonusfar lå ikke i kortene for den 34-årige stand-up'er.
+30-1	Et	en	PI:s-un:--:----	
+30-2	stille	stille	AC:§§u§:--:p---	
+30-3	familieliv	familieliv	NC:siun:--:----	
+30-4	og	og	CC:----:--:----	
+30-5	status	status	NC:siuc:--:----	
+30-6	som	som	US:----:--:----	
+30-7	bonusfar	bonusfar	NC:siuc:--:----	
+30-8	lå	ligge	VF:----:ta:----	
+30-9	ikke	ikke	D-:----:--:u---	
+30-10	i	i	T-:----:--:----	
+30-11	kortene	kort	NC:pdu#:--:----	
+30-12	for	for	T-:----:--:----	
+30-13	den	den	PM:s-uc:--:----	
+30-14	34	34	LW:----:--:----	
+30-15	-	-	ZH	
+30-16	årige	årig	AC:sdu#:--:p---	
+30-17	stand	stand	NW:----:--:----	
+30-18	-	-	ZH	
+30-19	up	up	XF:----:--:----	
+30-20	'	'	ZA	
+30-21	er	@er	MN:piu#:--:----	
+30-22	.	.	ZP	
+

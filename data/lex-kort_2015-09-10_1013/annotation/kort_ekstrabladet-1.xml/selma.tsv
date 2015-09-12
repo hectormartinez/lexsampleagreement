@@ -1,0 +1,1717 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue
+#id=1
+#text=De to trænere var henholdsvis langt nede og højt oppe, da de på det velbesøgte pressemøde skulle forsøge at sætte ord på den kontantspillede kamp, hvor kampens dommer, Kyros Vassaras, gav et rødt kort til Real Madrids Pepe og ellers hældte stakkevis af gule kort ned over begge hold.
+1-1	De	den	PM:p-u#:--:----	
+1-2	to	to	LC:--u-:--:----	
+1-3	trænere	træner	NC:piu#:--:----	
+1-4	var	være	VF:----:ta:----	
+1-5	henholdsvis	henholdsvis	D-:----:--:u---	
+1-6	langt	lang	AD:----:--:p---	
+1-7	nede	nede	D-:----:--:u---	
+1-8	og	og	CC:----:--:----	
+1-9	højt	høj	AD:----:--:p---	
+1-10	oppe	oppe	D-:----:--:u---	
+1-11	,	,	ZD	
+1-12	da	da	CS:----:--:----	
+1-13	de	de	PP:p-n#:--:-3n-	
+1-14	på	på	T-:----:--:----	
+1-15	det	den	PM:s-un:--:----	
+1-16	velbesøgte	velbesøgt	AC:sdu#:--:p---	
+1-17	pressemøde	pressemøde	NC:siun:--:----	
+1-18	skulle	skulle	VF:----:ta:----	
+1-19	forsøge	forsøge	VI:----:-a:----	
+1-20	at	at	UI:----:--:----	
+1-21	sætte	sætte	VI:----:-a:----	
+1-22	ord	ord	NC:siun:--:----	
+1-23	på	på	T-:----:--:----	
+1-24	den	den	PM:s-uc:--:----	
+1-25	kontantspillede	kontantspille	VP:sdu#:t-:----	
+1-26	kamp	kamp	NC:siuc:--:----	
+1-27	,	,	ZD	
+1-28	hvor	hvor	D-:----:--:u---	
+1-29	kampens	kamp	NC:sdgc:--:----	
+1-30	dommer	dommer	NC:siuc:--:----	
+1-31	,	,	ZD	
+1-32	Kyros	Kyros	NP:siu#:--:----	
+1-33	Vassaras	Vassaras	NP:siu#:--:----	
+1-34	,	,	ZD	
+1-35	gav	give	VF:----:ta:----	
+1-36	et	en	PI:s-un:--:----	
+1-37	rødt	rød	AC:siun:--:p---	
+1-38	kort	kort	NC:siun:--:----	
+1-39	til	til	T-:----:--:----	
+1-40	Real	real	NC:siuc:--:----	
+1-41	Madrids	Madrid	NP:sig#:--:----	
+1-42	Pepe	Pepe	NP:siu#:--:----	
+1-43	og	og	CC:----:--:----	
+1-44	ellers	ellers	D-:----:--:u---	
+1-45	hældte	hælde	VF:----:ta:----	
+1-46	stakkevis	stakkevis	D-:----:--:u---	
+1-47	af	af	T-:----:--:----	
+1-48	gule	gul	AC:p#u#:--:p---	
+1-49	kort	kort	NC:piu#:--:----	
+1-50	ned	ned	D-:----:--:u---	
+1-51	over	over	T-:----:--:----	
+1-52	begge	begge	PM:p-u#:--:----	
+1-53	hold	hold	NC:piu#:--:----	
+1-54	.	.	ZP	
+
+#id=2
+#text= For det gule kort, han fik stukket  foran næsen, har sendt ham i skammekrogen med karantæne.
+2-1	For	for	T-:----:--:----	
+2-2	det	den	PM:s-un:--:----	
+2-3	gule	gul	AC:sdu#:--:p---	
+2-4	kort	kort	NC:siun:--:----	
+2-5	,	,	ZD	
+2-6	han	han	PP:s-nc:--:-3n-	
+2-7	fik	få	VF:----:ta:----	
+2-8	stukket	stikke	VT:siu#:t-:----	
+2-9	foran	foran	T-:----:--:----	
+2-10	næsen	næse	NC:sduc:--:----	
+2-11	,	,	ZD	
+2-12	har	have	VF:----:sa:----	
+2-13	sendt	sende	VT:siu#:t-:----	
+2-14	ham	han	PP:s-uc:--:-3n-	
+2-15	i	i	T-:----:--:----	
+2-16	skammekrogen	skammekrog	NC:sduc:--:----	
+2-17	med	med	T-:----:--:----	
+2-18	karantæne	karantæne	NC:siuc:--:----	
+2-19	.	.	ZP	
+
+#id=3
+#text=Per Nielsen går for tiden med dybe overvejelser om at lægge  kortene på bordet og fortælle, hvad der gik galt, da Rene Meulensteen førte Brøndby dybt mod afgrunden.
+3-1	Per	Per	NP:siu#:--:----	
+3-2	Nielsen	Nielsen	NP:siu#:--:----	
+3-3	går	gå	VF:----:sa:----	
+3-4	for	for	T-:----:--:----	
+3-5	tiden	tid	NC:sduc:--:----	
+3-6	med	med	T-:----:--:----	
+3-7	dybe	dyb	AC:p#u#:--:p---	
+3-8	overvejelser	overvejelse	NC:piu#:--:----	
+3-9	om	om	T-:----:--:----	
+3-10	at	at	UI:----:--:----	
+3-11	lægge	lægge	VI:----:-a:----	
+3-12	kortene	kort	NC:pdu#:--:----	
+3-13	på	på	T-:----:--:----	
+3-14	bordet	bord	NC:sdun:--:----	
+3-15	og	og	CC:----:--:----	
+3-16	fortælle	fortælle	VI:----:-a:----	
+3-17	,	,	ZD	
+3-18	hvad	hvad	PR:s-u#:--:----	
+3-19	der	der	US:----:--:----	
+3-20	gik	gå	---:ta:----	
+3-21	galt	gal	AD:----:--:p---	
+3-22	,	,	ZD	
+3-23	da	da	CS:----:--:----	
+3-24	Rene	ren	AC:p#u#:--:p---	
+3-25	Meulensteen	Meulensteen	NP:siu#:--:----	
+3-26	førte	føre	VF:----:ta:----	
+3-27	Brøndby	Brøndby	NP:siu#:--:----	
+3-28	dybt	dyb	AD:----:--:p---	
+3-29	mod	mod	T-:----:--:----	
+3-30	afgrunden	afgrund	NC:sduc:--:----	
+3-31	.	.	ZP	
+
+#id=4
+#text=Derfor trækker Klavs Bruun Jørgensen det gule kort.
+4-1	Derfor	derfor	D-:----:--:u---	
+4-2	trækker	trække	VF:----:sa:----	
+4-3	Klavs	Klavs	NP:siu#:--:----	
+4-4	Bruun	Bruun	NP:siu#:--:----	
+4-5	Jørgensen	Jørgensen	NP:siu#:--:----	
+4-6	det	det	XY:----:--:----	
+4-7	gule	gul	AC:sdu#:--:p---	
+4-8	kort	kort	NC:siun:--:----	
+4-9	.	.	ZP	
+
+#id=5
+#text=Chelseas midtbanespiller Frank Lampard slap for tre spilledages karantæne, da det engelske fodboldforbund FA  omstødte det røde kort, som han blev idømt i weekendens kamp mod West Ham.
+5-1	Chelseas	Chelsea	NP:sig#:--:----	
+5-2	midtbanespiller	midtbanespiller	NC:siuc:--:----	
+5-3	Frank	Frank	NP:siu#:--:----	
+5-4	Lampard	Lampard	NP:siu#:--:----	
+5-5	slap	slippe	VF:----:ta:----	
+5-6	for	for	T-:----:--:----	
+5-7	tre	tre	LC:--u-:--:----	
+5-8	spilledages	spilledag	NC:pig#:--:----	
+5-9	karantæne	karantæne	NC:siuc:--:----	
+5-10	,	,	ZD	
+5-11	da	da	CS:----:--:----	
+5-12	det	den	PM:s-un:--:----	
+5-13	engelske	engelsk	AC:sdu#:--:p---	
+5-14	fodboldforbund	fodboldforbund	NC:siun:--:----	
+5-15	FA	fa	NC:siun:--:----	
+5-16	omstødte	omstøde	VF:----:ta:----	
+5-17	det	den	PM:s-un:--:----	
+5-18	røde	rød	AC:sdu#:--:p---	
+5-19	kort	kort	NC:siun:--:----	
+5-20	,	,	ZD	
+5-21	som	som	US:----:--:----	
+5-22	han	han	PP:s-nc:--:-3n-	
+5-23	blev	blive	VF:----:ta:----	
+5-24	idømt	idømme	VT:siu#:t-:----	
+5-25	i	i	T-:----:--:----	
+5-26	weekendens	weekend	NC:sdgc:--:----	
+5-27	kamp	kamp	NC:siuc:--:----	
+5-28	mod	mod	T-:----:--:----	
+5-29	West	West	NP:siu#:--:----	
+5-30	Ham	Ham	XY:----:--:----	
+5-31	.	.	ZP	
+
+#id=6
+#text=Det ligger også i kortene, at skatteminister Kristian Jensen skal efterfølge Lars Løkke som finansminister.
+6-1	Det	det	PP:s-un:--:-3n-	
+6-2	ligger	ligge	VF:----:sa:----	
+6-3	også	også	D-:----:--:u---	
+6-4	i	i	T-:----:--:----	
+6-5	kortene	kort	NC:pdu#:--:----	
+6-6	,	,	ZD	
+6-7	at	at	CS:----:--:----	
+6-8	skatteminister	skatteminister	NC:siuc:--:----	
+6-9	Kristian	Kristian	NP:siu#:--:----	
+6-10	Jensen	Jensen	NP:siu#:--:----	
+6-11	skal	skulle	VF:----:sa:----	
+6-12	efterfølge	efterfølge	VI:----:-a:----	
+6-13	Lars	Lars	NP:sig#:--:----	
+6-14	Løkke	løkke	NC:siuc:--:----	
+6-15	som	som	US:----:--:----	
+6-16	finansminister	finansminister	NC:siuc:--:----	
+6-17	.	.	ZP	
+
+#id=7
+#text=- Alle mine venner ved godt, jeg ikke er en bimbo, siger Claire, der lige nu kan nydes på busserne, men formentlig senere vil blive trykt i brochurer og måske på Go Cart-kort.
+7-1	-	-	XY:----:--:----	
+7-2	Alle	al	PI:p-u#:--:----	
+7-3	mine	min	PO:p--#:--:-1ns	
+7-4	venner	ven	NC:piu#:--:----	
+7-5	ved	ved	---	
+7-6	godt	god	AC:siun:--:p---	
+7-7	,	,	ZD	
+7-8	jeg	jeg	PP:s-nc:--:-1n-	
+7-9	ikke	ikke	D-:----:--:u---	
+7-10	er	være	VF:----:sa:----	
+7-11	en	en	PI:s-uc:--:----	
+7-12	bimbo	bimbo	VI:----:-a:----	
+7-13	,	,	ZD	
+7-14	siger	sige	VF:----:sa:----	
+7-15	Claire	Claire	NP:siu#:--:----	
+7-16	,	,	ZD	
+7-17	der	der	US:----:--:----	
+7-18	lige	lige	D-:----:--:u---	
+7-19	nu	nu	D-:----:--:u---	
+7-20	kan	kunne	VF:----:sa:----	
+7-21	nydes	nyde	VI:----:-p:----	
+7-22	på	på	T-:----:--:----	
+7-23	busserne	bus	NC:pdu#:--:----	
+7-24	,	,	ZD	
+7-25	men	men	CC:----:--:----	
+7-26	formentlig	formentlig	AD:----:--:p---	
+7-27	senere	sen	AD:----:--:c---	
+7-28	vil	ville	VF:----:sa:----	
+7-29	blive	blive	VI:----:-a:----	
+7-30	trykt	trykke	VT:siu#:t-:----	
+7-31	i	i	T-:----:--:----	
+7-32	brochurer	brochure	NC:piu#:--:----	
+7-33	og	og	CC:----:--:----	
+7-34	måske	måske	D-:----:--:u---	
+7-35	på	på	T-:----:--:----	
+7-36	Go	god	AC:siuc:--:p---	
+7-37	Cart	Cart	NP:siu#:--:----	
+7-38	-	-	ZH	
+7-39	kort	kort	NC:siun:--:----	
+7-40	.	.	ZP	
+
+#id=8
+#text= Jeg mindes, at jeg fik et gult kort for et hårdt frispark mod Henriksen (René,
+8-1	Jeg	jeg	PP:s-nc:--:-1n-	
+8-2	mindes	minde	VF:----:sp:----	
+8-3	,	,	ZD	
+8-4	at	at	CS:----:--:----	
+8-5	jeg	jeg	PP:s-nc:--:-1n-	
+8-6	fik	få	VF:----:ta:----	
+8-7	et	en	PI:s-un:--:----	
+8-8	gult	gul	AC:siun:--:p---	
+8-9	kort	kort	NC:siun:--:----	
+8-10	for	for	T-:----:--:----	
+8-11	et	en	PI:s-un:--:----	
+8-12	hårdt	hård	AC:siun:--:p---	
+8-13	frispark	frispark	NC:siun:--:----	
+8-14	mod	mod	T-:----:--:----	
+8-15	Henriksen	Henriksen	NP:siu#:--:----	
+8-16	(	(	ZD	
+8-17	René	René	NP:siu#:--:----	
+8-18	,	,	ZD	
+
+#id=9
+#text=Under alle omstændigheder valgte verdensstjernen at svare relativt kort og lettere køligt på Ekstra Bladets spørgsmål om Caroline Wozniacki.
+9-1	Under	under	T-:----:--:----	
+9-2	alle	al	PI:p-u#:--:----	
+9-3	omstændigheder	omstændighed	NC:piu#:--:----	
+9-4	valgte	vælge	VF:----:ta:----	
+9-5	verdensstjernen	verdensstjerne	NC:sduc:--:----	
+9-6	at	at	UI:----:--:----	
+9-7	svare	svare	VI:----:-a:----	
+9-8	relativt	relativ	AC:siun:--:p---	
+9-9	kort	kort	NC:siun:--:----	
+9-10	og	og	CC:----:--:----	
+9-11	lettere	let	AD:----:--:c---	
+9-12	køligt	kølig	AC:siun:--:p---	
+9-13	på	på	T-:----:--:----	
+9-14	Ekstra	ekstra	AC:§§u§:--:p---	
+9-15	Bladets	blad	NC:sdgn:--:----	
+9-16	spørgsmål	spørgsmål	NC:siun:--:----	
+9-17	om	om	T-:----:--:----	
+9-18	Caroline	Caroline	NP:siu#:--:----	
+9-19	Wozniacki	Wozniacki	NP:siu#:--:----	
+9-20	.	.	ZP	
+
+#id=10
+#text=Klokkeklart straffespark - og en ram dunst af rødt kort, men dommer Michael Svendsen skåner Randers-spilleren.
+10-1	Klokkeklart	klokkeklar	AC:siun:--:p---	
+10-2	straffespark	straffespark	NW:----:--:----	
+10-3	-	-	ZH	
+10-4	og	og	CC:----:--:----	
+10-5	en	en	XY:----:--:----	
+10-6	ram	ram	NC:§§u§:--:----	
+10-7	dunst	dunst	NC:siuc:--:----	
+10-8	af	af	T-:----:--:----	
+10-9	rødt	rød	AC:siun:--:p---	
+10-10	kort	kort	NC:siun:--:----	
+10-11	,	,	ZD	
+10-12	men	men	CC:----:--:----	
+10-13	dommer	dommer	NC:siuc:--:----	
+10-14	Michael	Michael	NP:siu#:--:----	
+10-15	Svendsen	Svendsen	NP:siu#:--:----	
+10-16	skåner	skåne	VF:----:sa:----	
+10-17	Randers	Randers	NW:----:--:----	
+10-18	-	-	ZH	
+10-19	spilleren	spiller	NC:sduc:--:----	
+10-20	.	.	ZP	
+
+#id=11
+#text= Hvilket faktisk  kun lykkes for Carsten Bjørnlund som sidstnævnte, hvis deroute er seriens absolut stærkeste kort.
+11-1	Hvilket	hvilken	PR:s-un:--:----	
+11-2	faktisk	faktisk	AD:----:--:p---	
+11-3	kun	kun	D-:----:--:u---	
+11-4	lykkes	lykkes	VF:----:sp:----	
+11-5	for	for	T-:----:--:----	
+11-6	Carsten	Carsten	NP:siu#:--:----	
+11-7	Bjørnlund	Bjørnlund	NP:siu#:--:----	
+11-8	som	som	US:----:--:----	
+11-9	sidstnævnte	sidstnævnte	AC:§§u§:--:p---	
+11-10	,	,	ZD	
+11-11	hvis	hvem	PR:#-g#:--:----	
+11-12	deroute	deroute	NC:siuc:--:----	
+11-13	er	være	VF:----:sa:----	
+11-14	seriens	serie	NC:sdgc:--:----	
+11-15	absolut	absolut	AD:----:--:p---	
+11-16	stærkeste	stærk	AC:§du§:--:s---	
+11-17	kort	kort	NC:siun:--:----	
+11-18	.	.	ZP	
+
+#id=12
+#text= En kamp, hvor dommeren havde godt gang i kortklubben med 11 gule og et rødt kort.
+12-1	En	en	PI:s-uc:--:----	
+12-2	kamp	kamp	NC:siuc:--:----	
+12-3	,	,	ZD	
+12-4	hvor	hvor	D-:----:--:u---	
+12-5	dommeren	dommer	NC:sduc:--:----	
+12-6	havde	have	VF:----:ta:----	
+12-7	godt	god	AD:----:--:p---	
+12-8	gang	gang	NC:siuc:--:----	
+12-9	i	i	T-:----:--:----	
+12-10	kortklubben	kortklub	NC:sduc:--:----	
+12-11	med	med	T-:----:--:----	
+12-12	11	11	LC:--u-:--:----	
+12-13	gule	gul	AC:p#u#:--:p---	
+12-14	og	og	CC:----:--:----	
+12-15	et	en	PI:s-un:--:----	
+12-16	rødt	rød	AC:siun:--:p---	
+12-17	kort	kort	NC:siun:--:----	
+12-18	.	.	ZP	
+
+#id=13
+#text=Målvogter Karin Mortensen fik korrekt direkte rødt kort, da hun i irritation over at blive ramt i hovedet slog ud efter en Angola-spiller.
+13-1	Målvogter	målvogter	NC:siuc:--:----	
+13-2	Karin	Karin	NP:siu#:--:----	
+13-3	Mortensen	Mortensen	NP:siu#:--:----	
+13-4	fik	få	VF:----:ta:----	
+13-5	korrekt	korrekt	AD:----:--:p---	
+13-6	direkte	direkte	AD:----:--:p---	
+13-7	rødt	rød	AC:siun:--:p---	
+13-8	kort	kort	NC:siun:--:----	
+13-9	,	,	ZD	
+13-10	da	da	CS:----:--:----	
+13-11	hun	hun	PP:s-nc:--:-3n-	
+13-12	i	i	T-:----:--:----	
+13-13	irritation	irritation	NC:siuc:--:----	
+13-14	over	over	T-:----:--:----	
+13-15	at	at	UI:----:--:----	
+13-16	blive	blive	VI:----:-a:----	
+13-17	ramt	ramme	VT:siu#:t-:----	
+13-18	i	i	T-:----:--:----	
+13-19	hovedet	hoved	NC:sdun:--:----	
+13-20	slog	slå	VF:----:ta:----	
+13-21	ud	ud	D-:----:--:u---	
+13-22	efter	efter	T-:----:--:----	
+13-23	en	en	PI:s-uc:--:----	
+13-24	Angola	Angola	NP:siu#:--:----	
+13-25	-	-	ZH	
+13-26	spiller	spille	NC:piu#:--:----	
+13-27	.	.	ZP	
+
+#id=14
+#text=Målvogter Karin Mortensen (billedet)  fik korrekt direkte rødt kort, da hun i irritation over at blive ramt i hovedet slog ud efter en Angola-spiller.
+14-1	Målvogter	målvogter	NC:siuc:--:----	
+14-2	Karin	Karin	NP:siu#:--:----	
+14-3	Mortensen	Mortensen	NP:siu#:--:----	
+14-4	(	(	ZD	
+14-5	billedet	billede	NC:sdun:--:----	
+14-6	)	)	ZD	
+14-7	fik	få	VF:----:ta:----	
+14-8	korrekt	korrekt	AD:----:--:p---	
+14-9	direkte	direkte	AD:----:--:p---	
+14-10	rødt	rød	AC:siun:--:p---	
+14-11	kort	kort	NC:siun:--:----	
+14-12	,	,	ZD	
+14-13	da	da	CS:----:--:----	
+14-14	hun	hun	PP:s-nc:--:-3n-	
+14-15	i	i	T-:----:--:----	
+14-16	irritation	irritation	NC:siuc:--:----	
+14-17	over	over	T-:----:--:----	
+14-18	at	at	UI:----:--:----	
+14-19	blive	blive	VI:----:-a:----	
+14-20	ramt	ramme	VT:siu#:t-:----	
+14-21	i	i	T-:----:--:----	
+14-22	hovedet	hoved	NC:sdun:--:----	
+14-23	slog	slå	VF:----:ta:----	
+14-24	ud	ud	D-:----:--:u---	
+14-25	efter	efter	T-:----:--:----	
+14-26	en	en	PI:s-uc:--:----	
+14-27	Angola	Angola	NP:siu#:--:----	
+14-28	-	-	ZH	
+14-29	spiller	spille	NC:piu#:--:----	
+14-30	.	.	ZP	
+
+#id=15
+#text= Professionel vejledning om valg af vin blandt kortets 1750 forskellige flasker. ------------------------------------
+15-1	Professionel	professionel	AC:siuc:--:p---	
+15-2	vejledning	vejledning	NC:siuc:--:----	
+15-3	om	om	T-:----:--:----	
+15-4	valg	valg	NC:siun:--:----	
+15-5	af	af	T-:----:--:----	
+15-6	vin	vin	NC:siuc:--:----	
+15-7	blandt	blandt	T-:----:--:----	
+15-8	kortets	kort	NC:sdgn:--:----	
+15-9	1750	1750	LC:--u-:--:----	
+15-10	forskellige	forskellig	AC:p#u#:--:p---	
+15-11	flasker	flaske	NC:piu#:--:----	
+15-12	.	.	ZP	
+15-13	-	-	ZH	
+15-14	-	-	NC:piu#:--:----	
+15-15	-	-	ZH	
+15-16	-	-	NC:piu#:--:----	
+15-17	-	-	ZH	
+15-18	-	-	NC:piu#:--:----	
+15-19	-	-	ZH	
+15-20	-	-	NC:piu#:--:----	
+15-21	-	-	ZH	
+15-22	-	-	NC:piu#:--:----	
+15-23	-	-	ZH	
+15-24	-	-	NC:piu#:--:----	
+15-25	-	-	ZH	
+15-26	-	-	NC:piu#:--:----	
+15-27	-	-	ZH	
+15-28	-	-	NC:piu#:--:----	
+15-29	-	-	ZH	
+15-30	-	-	NC:piu#:--:----	
+15-31	-	-	ZH	
+15-32	-	-	NC:piu#:--:----	
+15-33	-	-	ZH	
+15-34	-	-	NC:piu#:--:----	
+15-35	-	-	ZH	
+15-36	-	-	NC:piu#:--:----	
+15-37	-	-	ZH	
+15-38	-	-	NC:piu#:--:----	
+15-39	-	-	ZH	
+15-40	-	-	NC:piu#:--:----	
+15-41	-	-	ZH	
+15-42	-	-	NC:piu#:--:----	
+15-43	-	-	ZH	
+15-44	-	-	NC:piu#:--:----	
+15-45	-	-	ZH	
+15-46	-	-	NC:piu#:--:----	
+15-47	-	-	ZH	
+15-48	-	-	NC:piu#:--:----	
+
+#id=16
+#text= I pausen måtte Edwin van der Sar lade sig udskifte med Tomasz Kusczak, der satte trumf på Uniteds offday, da han fældede Milan Baros til straffespark og trak det røde kort. - Du behøver held i den slags kampe.
+16-1	I	i	T-:----:--:----	
+16-2	pausen	pause	NC:sduc:--:----	
+16-3	måtte	måtte	VF:----:ta:----	
+16-4	Edwin	Edwin	NP:siu#:--:----	
+16-5	van	van	NP:siu#:--:----	
+16-6	der	der	US:----:--:----	
+16-7	Sar	sar	NC:siuc:--:----	
+16-8	lade	lade	VI:----:-a:----	
+16-9	sig	sig	PP:#-u#:--:-3y-	
+16-10	udskifte	udskifte	VI:----:-a:----	
+16-11	med	med	T-:----:--:----	
+16-12	Tomasz	Tomasz	NP:siu#:--:----	
+16-13	Kusczak	Kusczak	NP:siu#:--:----	
+16-14	,	,	ZD	
+16-15	der	der	US:----:--:----	
+16-16	satte	sætte	VF:----:ta:----	
+16-17	trumf	trumf	NC:siuc:--:----	
+16-18	på	på	T-:----:--:----	
+16-19	Uniteds	United	NP:sig#:--:----	
+16-20	offday	offday	NC:siuc:--:----	
+16-21	,	,	ZD	
+16-22	da	da	CS:----:--:----	
+16-23	han	han	PP:s-nc:--:-3n-	
+16-24	fældede	fælde	VF:----:ta:----	
+16-25	Milan	Milan	NP:siu#:--:----	
+16-26	Baros	Baros	NP:siu#:--:----	
+16-27	til	til	T-:----:--:----	
+16-28	straffespark	straffespark	NC:siun:--:----	
+16-29	og	og	CC:----:--:----	
+16-30	trak	trække	VF:----:ta:----	
+16-31	det	den	PM:s-un:--:----	
+16-32	røde	rød	AC:sdu#:--:p---	
+16-33	kort	kort	NC:siun:--:----	
+16-34	.	.	ZP	
+16-35	-	-	ZH	
+16-36	Du	du	XF:----:--:----	
+16-37	behøver	behøve	VF:----:sa:----	
+16-38	held	held	NC:siun:--:----	
+16-39	i	i	T-:----:--:----	
+16-40	den	den	PM:s-uc:--:----	
+16-41	slags	slags	NC:siuc:--:----	
+16-42	kampe	kamp	NC:piu#:--:----	
+16-43	.	.	ZP	
+
+#id=17
+#text=Et rødt kort til Cardozo for at slå Belenguer i hovedet med flad hånd og fem gule til Getafe - en spændende, velspillet og underholdende match, hvor det var befriende, at den polske dommer Gilewski havde mod og mandshjerte til at smide Cardozo ud - en svinestreg, men det kunne hverken de portugisiske spillere eller hjemmepublikum se.
+17-1	Et	en	PI:s-un:--:----	
+17-2	rødt	rød	AC:siun:--:p---	
+17-3	kort	kort	NC:siun:--:----	
+17-4	til	til	T-:----:--:----	
+17-5	Cardozo	Cardozo	NP:siu#:--:----	
+17-6	for	for	T-:----:--:----	
+17-7	at	at	UI:----:--:----	
+17-8	slå	slå	VI:----:-a:----	
+17-9	Belenguer	Belenguer	NP:siu#:--:----	
+17-10	i	i	T-:----:--:----	
+17-11	hovedet	hoved	NC:sdun:--:----	
+17-12	med	med	T-:----:--:----	
+17-13	flad	flad	AC:siuc:--:p---	
+17-14	hånd	hånd	NC:siuc:--:----	
+17-15	og	og	CC:----:--:----	
+17-16	fem	fem	LC:--u-:--:----	
+17-17	gule	gul	AC:p#u#:--:p---	
+17-18	til	til	T-:----:--:----	
+17-19	Getafe	Getafe	NP:siu#:--:----	
+17-20	-	-	ZH	
+17-21	en	en	LC:--u-:--:----	
+17-22	spændende	spændende	AC:§§u§:--:p---	
+17-23	,	,	ZD	
+17-24	velspillet	velspillet	AD:----:--:p---	
+17-25	og	og	CC:----:--:----	
+17-26	underholdende	underholde	VP:##u#:s-:----	
+17-27	match	match	NC:siuc:--:----	
+17-28	,	,	ZD	
+17-29	hvor	hvor	D-:----:--:u---	
+17-30	det	det	PP:s-un:--:-3n-	
+17-31	var	være	VF:----:ta:----	
+17-32	befriende	befri	VP:##u#:s-:----	
+17-33	,	,	ZD	
+17-34	at	at	CS:----:--:----	
+17-35	den	den	PM:s-uc:--:----	
+17-36	polske	polsk	AC:sdu#:--:p---	
+17-37	dommer	dommer	NC:siuc:--:----	
+17-38	Gilewski	Gilewski	NP:siu#:--:----	
+17-39	havde	have	VF:----:ta:----	
+17-40	mod	mod	T-:----:--:----	
+17-41	og	og	CC:----:--:----	
+17-42	mandshjerte	mandshjerte	NC:siun:--:----	
+17-43	til	til	T-:----:--:----	
+17-44	at	at	UI:----:--:----	
+17-45	smide	smide	VI:----:-a:----	
+17-46	Cardozo	Cardozo	NP:siu#:--:----	
+17-47	ud	ud	D-:----:--:u---	
+17-48	-	-	NC:piu#:--:----	
+17-49	en	en	PI:s-uc:--:----	
+17-50	svinestreg	svinestreg	NC:siuc:--:----	
+17-51	,	,	ZD	
+17-52	men	men	CC:----:--:----	
+17-53	det	det	PP:s-un:--:-3n-	
+17-54	kunne	kunne	VF:----:ta:----	
+17-55	hverken	hverken	D-:----:--:u---	
+17-56	de	den	PM:p-u#:--:----	
+17-57	portugisiske	portugisisk	AC:p#u#:--:p---	
+17-58	spillere	spiller	NC:piu#:--:----	
+17-59	eller	eller	CC:----:--:----	
+17-60	hjemmepublikum	hjemmepublikum	NC:siun:--:----	
+17-61	se	se	VI:----:-a:----	
+17-62	.	.	ZP	
+
+#id=18
+#text=Der er dermed ikke akt-indsigt i, hvordan den danske stat bruger mange millioner kroner - det er med andre ord umuligt at kigge magthaverne i kortene.
+18-1	Der	der	US:----:--:----	
+18-2	er	være	VF:----:sa:----	
+18-3	dermed	dermed	D-:----:--:u---	
+18-4	ikke	ikke	D-:----:--:u---	
+18-5	akt	akt	NW:----:--:----	
+18-6	-	-	ZH	
+18-7	indsigt	indsigt	NC:siuc:--:----	
+18-8	i	i	T-:----:--:----	
+18-9	,	,	ZD	
+18-10	hvordan	hvordan	D-:----:--:u---	
+18-11	den	den	PM:s-uc:--:----	
+18-12	danske	dansk	AC:sdu#:--:p---	
+18-13	stat	stat	NC:siuc:--:----	
+18-14	bruger	bruge	VF:----:sa:----	
+18-15	mange	mangen	AC:p#u#:--:p---	
+18-16	millioner	million	NC:piu#:--:----	
+18-17	kroner	krone	NC:piu#:--:----	
+18-18	-	-	ZH	
+18-19	det	det	XY:----:--:----	
+18-20	er	være	VF:----:sa:----	
+18-21	med	med	T-:----:--:----	
+18-22	andre	anden	PI:p-u#:--:----	
+18-23	ord	ord	NC:piu#:--:----	
+18-24	umuligt	umulig	AC:siun:--:p---	
+18-25	at	at	UI:----:--:----	
+18-26	kigge	kigge	VI:----:-a:----	
+18-27	magthaverne	magthaver	NC:pdu#:--:----	
+18-28	i	i	T-:----:--:----	
+18-29	kortene	kort	NC:pdu#:--:----	
+18-30	.	.	ZP	
+
+#id=19
+#text=En teori, der bakkes op af, at flash! kort forinden interviewet har fået en mail fra agenten i USA, der spørger, om journalisten bag en tidligere artikel om Remee vil ringe hende op.
+19-1	En	en	PI:s-uc:--:----	
+19-2	teori	teori	NC:siuc:--:----	
+19-3	,	,	ZD	
+19-4	der	der	US:----:--:----	
+19-5	bakkes	bakkes	VF:----:sp:----	
+19-6	op	op	D-:----:--:u---	
+19-7	af	af	T-:----:--:----	
+19-8	,	,	ZD	
+19-9	at	at	CS:----:--:----	
+19-10	flash	flash	NC:piu#:--:----	
+19-11	!	!	ZP	
+19-12	kort	kort	NC:siun:--:----	
+19-13	forinden	forinden	T-:----:--:----	
+19-14	interviewet	interview	NC:sdun:--:----	
+19-15	har	have	VF:----:sa:----	
+19-16	fået	få	VT:siu#:t-:----	
+19-17	en	en	PI:s-uc:--:----	
+19-18	mail	mail	NC:siuc:--:----	
+19-19	fra	fra	T-:----:--:----	
+19-20	agenten	agent	NC:sduc:--:----	
+19-21	i	i	T-:----:--:----	
+19-22	USA	USA	NP:siu#:--:----	
+19-23	,	,	ZD	
+19-24	der	der	US:----:--:----	
+19-25	spørger	spørge	VF:----:sa:----	
+19-26	,	,	ZD	
+19-27	om	om	CS:----:--:----	
+19-28	journalisten	journalist	NC:sduc:--:----	
+19-29	bag	bag	T-:----:--:----	
+19-30	en	en	PI:s-uc:--:----	
+19-31	tidligere	tidlig	AC:##u#:--:c---	
+19-32	artikel	artikel	NC:siuc:--:----	
+19-33	om	om	T-:----:--:----	
+19-34	Remee	Remee	NP:siu#:--:----	
+19-35	vil	ville	VF:----:sa:----	
+19-36	ringe	ringe	VI:----:-a:----	
+19-37	hende	hun	PP:s-uc:--:-3n-	
+19-38	op	op	D-:----:--:u---	
+19-39	.	.	ZP	
+
+#id=20
+#text= Tak for den tid, vi har haft sammen, skriver Patricks mor og søster i et kort. fleck@eb.dk
+20-1	Tak	tak	NC:siuc:--:----	
+20-2	for	for	T-:----:--:----	
+20-3	den	den	PM:s-uc:--:----	
+20-4	tid	tid	NC:siuc:--:----	
+20-5	,	,	ZD	
+20-6	vi	vi	PP:p-nc:--:-1n-	
+20-7	har	have	VF:----:sa:----	
+20-8	haft	have	VT:siu#:t-:----	
+20-9	sammen	sammen	D-:----:--:u---	
+20-10	,	,	ZD	
+20-11	skriver	skrive	VF:----:sa:----	
+20-12	Patricks	Patrick	NP:sig#:--:----	
+20-13	mor	mor	NC:siuc:--:----	
+20-14	og	og	CC:----:--:----	
+20-15	søster	søster	NC:siuc:--:----	
+20-16	i	i	T-:----:--:----	
+20-17	et	en	PI:s-un:--:----	
+20-18	kort	kort	NC:siun:--:----	
+20-19	.	.	ZP	
+20-20	fleck@eb	fleck@eb	NP:siu#:--:----	
+20-21	.	.	ZP	
+20-22	dk	dk	XS:----:--:----	
+
+#id=21
+#text= Han bor i den sydlige Jerusalem-forstad  Jebal Maqaber og havde et israelsk id-kort på sig.
+21-1	Han	han	PP:s-nc:--:-3n-	
+21-2	bor	bo	VF:----:sa:----	
+21-3	i	i	T-:----:--:----	
+21-4	den	den	PM:s-uc:--:----	
+21-5	sydlige	sydlig	AC:sdu#:--:p---	
+21-6	Jerusalem	Jerusalem	NW:----:--:----	
+21-7	-	-	ZH	
+21-8	forstad	forstad	NC:siuc:--:----	
+21-9	Jebal	Jebal	NP:siu#:--:----	
+21-10	Maqaber	Maqaber	NP:siu#:--:----	
+21-11	og	og	CC:----:--:----	
+21-12	havde	have	VF:----:ta:----	
+21-13	et	en	PI:s-un:--:----	
+21-14	israelsk	israelsk	AC:siu§:--:p---	
+21-15	id	id	NW:----:--:----	
+21-16	-	-	ZH	
+21-17	kort	kort	NC:siun:--:----	
+21-18	på	på	T-:----:--:----	
+21-19	sig	sig	PP:#-u#:--:-3y-	
+21-20	.	.	ZP	
+
+#id=22
+#text= Kræfterne slipper op, men Niels Kildelund bliver sendt i kontra sekunder før slut, og Mateo Garralda tager halsgreb og trækker et rødt kort.
+22-1	Kræfterne	kraft	NC:pdu#:--:----	
+22-2	slipper	slippe	VF:----:sa:----	
+22-3	op	op	D-:----:--:u---	
+22-4	,	,	ZD	
+22-5	men	men	CC:----:--:----	
+22-6	Niels	Niels	NP:siu#:--:----	
+22-7	Kildelund	Kildelund	NP:siu#:--:----	
+22-8	bliver	blive	VF:----:sa:----	
+22-9	sendt	sende	VT:siu#:t-:----	
+22-10	i	i	T-:----:--:----	
+22-11	kontra	kontra	T-:----:--:----	
+22-12	sekunder	sekund	NC:piu#:--:----	
+22-13	før	før	T-:----:--:----	
+22-14	slut	slut	NC:§§u§:--:----	
+22-15	,	,	ZD	
+22-16	og	og	CC:----:--:----	
+22-17	Mateo	Mateo	NP:siu#:--:----	
+22-18	Garralda	Garralda	NP:siu#:--:----	
+22-19	tager	tage	VF:----:sa:----	
+22-20	halsgreb	halsgreb	NC:siun:--:----	
+22-21	og	og	CC:----:--:----	
+22-22	trækker	trække	VF:----:sa:----	
+22-23	et	en	PI:s-un:--:----	
+22-24	rødt	rød	AC:siun:--:p---	
+22-25	kort	kort	NC:siun:--:----	
+22-26	.	.	ZP	
+
+#id=23
+#text= Men i løbet af efteråret voksede han sig op til at blive et af de mest stabile Køhlert-kort.
+23-1	Men	men	CC:----:--:----	
+23-2	i	i	T-:----:--:----	
+23-3	løbet	løb	NC:sdun:--:----	
+23-4	af	af	T-:----:--:----	
+23-5	efteråret	efterår	NC:sdun:--:----	
+23-6	voksede	vokse	VF:----:ta:----	
+23-7	han	han	PP:s-nc:--:-3n-	
+23-8	sig	sig	PP:#-u#:--:-3y-	
+23-9	op	op	D-:----:--:u---	
+23-10	til	til	T-:----:--:----	
+23-11	at	at	UI:----:--:----	
+23-12	blive	blive	VI:----:-a:----	
+23-13	et	en	PI:s-un:--:----	
+23-14	af	af	T-:----:--:----	
+23-15	de	den	PM:p-u#:--:----	
+23-16	mest	megen	AD:----:--:s---	
+23-17	stabile	stabile	NP:siu#:--:----	
+23-18	Køhlert	Køhlert	NP:siu#:--:----	
+23-19	-	-	ZH	
+23-20	kort	kort	NC:siun:--:----	
+23-21	.	.	ZP	
+
+#id=24
+#text= I teorien er de dækket godt nok af kortet, men i praksis ved både de og lægerne for lidt om ordningen, fortæller analysechef hos Øresundsbron,  Britt Andresen.
+24-1	I	i	T-:----:--:----	
+24-2	teorien	teori	NC:sduc:--:----	
+24-3	er	være	VF:----:sa:----	
+24-4	de	de	PP:p-n#:--:-3n-	
+24-5	dækket	dække	VT:siu#:t-:----	
+24-6	godt	god	AD:----:--:p---	
+24-7	nok	nok	D-:----:--:u---	
+24-8	af	af	T-:----:--:----	
+24-9	kortet	kort	NC:sdun:--:----	
+24-10	,	,	ZD	
+24-11	men	men	CC:----:--:----	
+24-12	i	i	T-:----:--:----	
+24-13	praksis	praksis	NC:siuc:--:----	
+24-14	ved	ved	T-:----:--:----	
+24-15	både	både	D-:----:--:u---	
+24-16	de	de	NP:siu#:--:----	
+24-17	og	og	CC:----:--:----	
+24-18	lægerne	læge	NC:pdu#:--:----	
+24-19	for	for	T-:----:--:----	
+24-20	lidt	lidt	AD:----:--:p---	
+24-21	om	om	T-:----:--:----	
+24-22	ordningen	ordning	NC:sduc:--:----	
+24-23	,	,	ZD	
+24-24	fortæller	fortælle	VF:----:sa:----	
+24-25	analysechef	analysechef	NC:siuc:--:----	
+24-26	hos	hos	T-:----:--:----	
+24-27	Øresundsbron	Øresundsbron	NP:siu#:--:----	
+24-28	,	,	ZD	
+24-29	Britt	Britt	NP:siu#:--:----	
+24-30	Andresen	Andresen	NP:siu#:--:----	
+24-31	.	.	ZP	
+
+#id=25
+#text=Efter et afbræk på en årrække er der igen direkte tog til Berlin på kortet.
+25-1	Efter	efter	T-:----:--:----	
+25-2	et	en	PI:s-un:--:----	
+25-3	afbræk	afbræk	NC:siun:--:----	
+25-4	på	på	T-:----:--:----	
+25-5	en	en	PI:s-uc:--:----	
+25-6	årrække	årrække	NC:siuc:--:----	
+25-7	er	være	VF:----:sa:----	
+25-8	der	der	US:----:--:----	
+25-9	igen	igen	D-:----:--:u---	
+25-10	direkte	direkte	AC:§§u§:--:p---	
+25-11	tog	tog	NC:siun:--:----	
+25-12	til	til	T-:----:--:----	
+25-13	Berlin	Berlin	NP:siu#:--:----	
+25-14	på	på	T-:----:--:----	
+25-15	kortet	kort	NC:sdun:--:----	
+25-16	.	.	ZP	
+
+#id=26
+#text=Han blev set som en romantiker, der ikke ville slå til, fordi han fodboldfagligt var udstyret med for dårlige kort.
+26-1	Han	han	PP:s-nc:--:-3n-	
+26-2	blev	blive	VF:----:ta:----	
+26-3	set	se	VT:siu#:t-:----	
+26-4	som	som	US:----:--:----	
+26-5	en	en	PI:s-uc:--:----	
+26-6	romantiker	romantiker	NC:siuc:--:----	
+26-7	,	,	ZD	
+26-8	der	der	US:----:--:----	
+26-9	ikke	ikke	D-:----:--:u---	
+26-10	ville	ville	VF:----:ta:----	
+26-11	slå	slå	VI:----:-a:----	
+26-12	til	til	T-:----:--:----	
+26-13	,	,	ZD	
+26-14	fordi	fordi	CS:----:--:----	
+26-15	han	han	PP:s-nc:--:-3n-	
+26-16	fodboldfagligt	fodboldfaglig	AD:----:--:p---	
+26-17	var	være	VF:----:ta:----	
+26-18	udstyret	udstyre	VT:siu#:t-:----	
+26-19	med	med	D-:----:--:u---	
+26-20	for	for	T-:----:--:----	
+26-21	dårlige	dårlig	AC:p#u#:--:p---	
+26-22	kort	kort	NC:piu#:--:----	
+26-23	.	.	ZP	
+
+#id=27
+#text=Få fat i et godt kort, der viser motorvejssystemet omkring Dublin og naturligvis et kort over Irland.
+27-1	Få	få	VM:----:--:----	
+27-2	fat	fat	D-:----:--:u---	
+27-3	i	i	T-:----:--:----	
+27-4	et	en	PI:s-un:--:----	
+27-5	godt	god	AC:siun:--:p---	
+27-6	kort	kort	NC:siun:--:----	
+27-7	,	,	ZD	
+27-8	der	der	US:----:--:----	
+27-9	viser	vise	VF:----:sa:----	
+27-10	motorvejssystemet	motorvejssystem	NC:sdun:--:----	
+27-11	omkring	omkring	T-:----:--:----	
+27-12	Dublin	Dublin	NP:siu#:--:----	
+27-13	og	og	CC:----:--:----	
+27-14	naturligvis	naturligvis	D-:----:--:u---	
+27-15	et	en	PI:s-un:--:----	
+27-16	kort	kort	NC:siun:--:----	
+27-17	over	over	T-:----:--:----	
+27-18	Irland	Irland	NP:siu#:--:----	
+27-19	.	.	ZP	
+
+#id=28
+#text=Han trækker alt fra brandfare-kortet til argumenter om, at jeg er til gene for de andre passagerer - her er jeg faktisk i tvivl,  om han refererer til min person eller de mange kasser.
+28-1	Han	han	PP:s-nc:--:-3n-	
+28-2	trækker	trække	VF:----:sa:----	
+28-3	alt	alt	D-:----:--:u---	
+28-4	fra	fra	T-:----:--:----	
+28-5	brandfare	brandfare	NW:----:--:----	
+28-6	-	-	ZH	
+28-7	kortet	kort	NC:sdun:--:----	
+28-8	til	til	T-:----:--:----	
+28-9	argumenter	argument	NC:piu#:--:----	
+28-10	om	om	T-:----:--:----	
+28-11	,	,	ZD	
+28-12	at	at	CS:----:--:----	
+28-13	jeg	jeg	PP:s-nc:--:-1n-	
+28-14	er	være	VF:----:sa:----	
+28-15	til	til	T-:----:--:----	
+28-16	gene	gene	NC:siuc:--:----	
+28-17	for	for	T-:----:--:----	
+28-18	de	den	-:----	
+28-19	andre	anden	PI:p-u#:--:----	
+28-20	passagerer	passager	NC:piu#:--:----	
+28-21	-	-	ZH	
+28-22	her	her	D-:----:--:u---	
+28-23	er	være	VF:----:sa:----	
+28-24	jeg	jeg	PP:s-nc:--:-1n-	
+28-25	faktisk	faktisk	AD:----:--:p---	
+28-26	i	i	T-:----:--:----	
+28-27	tvivl	tvivl	NC:siuc:--:----	
+28-28	,	,	ZD	
+28-29	om	om	CS:----:--:----	
+28-30	han	han	PP:s-nc:--:-3n-	
+28-31	refererer	referere	VF:----:sa:----	
+28-32	til	til	T-:----:--:----	
+28-33	min	min	PO:s--c:--:-1ns	
+28-34	person	person	NC:siuc:--:----	
+28-35	eller	eller	CC:----:--:----	
+28-36	de	den	PM:p-u#:--:----	
+28-37	mange	mangen	AC:p#u#:--:p---	
+28-38	kasser	kasse	NC:piu#:--:----	
+28-39	.	.	ZP	
+
+#id=29
+#text=Fennikel snittes helt tyndt og marineres kort før anretning med citronskal og olivenolie.
+29-1	Fennikel	fennikel	NC:siuc:--:----	
+29-2	snittes	snitte	VF:----:sp:----	
+29-3	helt	hel	AD:----:--:p---	
+29-4	tyndt	tynd	AC:siun:--:p---	
+29-5	og	og	CC:----:--:----	
+29-6	marineres	marineres	NP:sig#:--:----	
+29-7	kort	kort	NC:siun:--:----	
+29-8	før	før	T-:----:--:----	
+29-9	anretning	anretning	NC:siuc:--:----	
+29-10	med	med	T-:----:--:----	
+29-11	citronskal	citronskal	NC:siuc:--:----	
+29-12	og	og	CC:----:--:----	
+29-13	olivenolie	olivenolie	NC:siuc:--:----	
+29-14	.	.	ZP	
+
+#id=30
+#text= Telefonen leveres med et microSD-kort på 2 GB, men den skulle kunne tage SDHC-kort, som i dag kommer op til 8 GB.
+30-1	Telefonen	telefon	NC:sduc:--:----	
+30-2	leveres	levere	VF:----:sp:----	
+30-3	med	med	T-:----:--:----	
+30-4	et	en	PI:s-un:--:----	
+30-5	microSD	microSD	NP:siu#:--:----	
+30-6	-	-	ZH	
+30-7	kort	kort	NC:siun:--:----	
+30-8	på	på	T-:----:--:----	
+30-9	2	2	LC:--u-:--:----	
+30-10	GB	GB	NP:siu#:--:----	
+30-11	,	,	ZD	
+30-12	men	men	CC:----:--:----	
+30-13	den	den	:-3n-	
+30-14	skulle	skulle	VF:----:ta:----	
+30-15	kunne	kunne	VI:----:-a:----	
+30-16	tage	tage	VI:----:-a:----	
+30-17	SDHC	SDHC	NP:siu#:--:----	
+30-18	-	-	ZH	
+30-19	kort	kort	NC:siun:--:----	
+30-20	,	,	ZD	
+30-21	som	som	US:----:--:----	
+30-22	i	i	T-:----:--:----	
+30-23	dag	dag	NC:siuc:--:----	
+30-24	kommer	komme	VF:----:sa:----	
+30-25	op	op	D-:----:--:u---	
+30-26	til	til	T-:----:--:----	
+30-27	8	8	LC:--u-:--:----	
+30-28	GB	GB	NP:siu#:--:----	
+30-29	.	.	ZP	
+
+#id=31
+#text= Man kan enten bruge pc-program til overførsel af musik, eller man kan smide kortet i en kortadapter, som man tilslutter computeren - herefter er det bare at trække-og-slippe musikken over på kortet.
+31-1	Man	man	PI:#-uc:--:----	
+31-2	kan	kunne	VF:----:sa:----	
+31-3	enten	enten	D-:----:--:u---	
+31-4	bruge	bruge	VI:----:-a:----	
+31-5	pc	pc	NW:----:--:----	
+31-6	-	-	ZH	
+31-7	program	program	NC:siun:--:----	
+31-8	til	til	T-:----:--:----	
+31-9	overførsel	overførsel	NC:siuc:--:----	
+31-10	af	af	T-:----:--:----	
+31-11	musik	musik	NC:siuc:--:----	
+31-12	,	,	ZD	
+31-13	eller	eller	CC:----:--:----	
+31-14	man	man	PI:#-uc:--:----	
+31-15	kan	kunne	VF:----:sa:----	
+31-16	smide	smide	VI:----:-a:----	
+31-17	kortet	kort	NC:sdun:--:----	
+31-18	i	i	T-:----:--:----	
+31-19	en	en	PI:s-uc:--:----	
+31-20	kortadapter	kortadapter	NC:siuc:--:----	
+31-21	,	,	ZD	
+31-22	som	som	US:----:--:----	
+31-23	man	man	PI:#-uc:--:----	
+31-24	tilslutter	tilslutte	VF:----:sa:----	
+31-25	computeren	computer	NW:----:--:----	
+31-26	-	-	ZH	
+31-27	herefter	herefter	D-:----:--:u---	
+31-28	er	være	VF:----:sa:----	
+31-29	det	det	PP:s-un:--:-3n-	
+31-30	bare	bare	D-:----:--:u---	
+31-31	at	at	UI:----:--:----	
+31-32	trække	trække	VI:----:-a:----	
+31-33	-	-	NC:piu#:--:----	
+31-34	og	og	CC:----:--:----	
+31-35	-	-	NC:piu#:--:----	
+31-36	slippe	slippe	VI:----:-a:----	
+31-37	musikken	musik	NC:sduc:--:----	
+31-38	over	over	D-:----:--:u---	
+31-39	på	på	T-:----:--:----	
+31-40	kortet	kort	NC:sdun:--:----	
+31-41	.	.	ZP	
+
+#id=32
+#text= Med en lille smart USB-læser til hukommelseskortet er det utrolig enkelt at trække-og-slippe musikken over på kortet.
+32-1	Med	med	T-:----:--:----	
+32-2	en	en	PI:s-uc:--:----	
+32-3	lille	lille	AC:s§u§:--:p---	
+32-4	smart	smart	AC:siu§:--:p---	
+32-5	USB	USB	NP:siu#:--:----	
+32-6	-	-	ZH	
+32-7	læser	læser	NC:siuc:--:----	
+32-8	til	til	T-:----:--:----	
+32-9	hukommelseskortet	hukommelseskorte	VT:siu#:t-:----	
+32-10	er	være	VF:----:sa:----	
+32-11	det	det	PP:s-un:--:-3n-	
+32-12	utrolig	utrolig	AD:----:--:p---	
+32-13	enkelt	enkelt	AC:siu§:--:p---	
+32-14	at	at	UI:----:--:----	
+32-15	trække	trække	VI:----:-a:----	
+32-16	-	-	NC:piu#:--:----	
+32-17	og	og	CC:----:--:----	
+32-18	-	-	NC:piu#:--:----	
+32-19	slippe	slippe	VI:----:-a:----	
+32-20	musikken	musik	NC:sduc:--:----	
+32-21	over	over	D-:----:--:u---	
+32-22	på	på	T-:----:--:----	
+32-23	kortet	kort	NC:sdun:--:----	
+32-24	.	.	ZP	
+
+#id=33
+#text= Den indbyggede hukommelse er på 1 GB - men man kan tilføre endnu 2 GB med microSD-kort.
+33-1	Den	den	PM:s-uc:--:----	
+33-2	indbyggede	indbygge	VP:sdu#:t-:----	
+33-3	hukommelse	hukommelse	NC:siuc:--:----	
+33-4	er	være	VF:----:sa:----	
+33-5	på	på	T-:----:--:----	
+33-6	1	1	LC:--u-:--:----	
+33-7	GB	GB	NP:siu#:--:----	
+33-8	-	-	ZH	
+33-9	men	men	CC:----:--:----	
+33-10	man	man	PI:#-uc:--:----	
+33-11	kan	kunne	VF:----:sa:----	
+33-12	tilføre	tilføre	VI:----:-a:----	
+33-13	endnu	endnu	D-:----:--:u---	
+33-14	2	2	LC:--u-:--:----	
+33-15	GB	GB	NP:siu#:--:----	
+33-16	med	med	T-:----:--:----	
+33-17	microSD	microSD	NP:siu#:--:----	
+33-18	-	-	ZH	
+33-19	kort	kort	NC:siun:--:----	
+33-20	.	.	ZP	
+
+#id=34
+#text=Kan kun klare kort med 2 GB
+34-1	Kan	kunne	VF:----:sa:----	
+34-2	kun	kun	D-:----:--:u---	
+34-3	klare	klar	AC:p#u#:--:p---	
+34-4	kort	kort	NC:piu#:--:----	
+34-5	med	med	T-:----:--:----	
+34-6	2	2	LC:--u-:--:----	
+34-7	GB	GB	NP:siu#:--:----	
+
+#id=35
+#text= Musikken kan overføres til kortet via adapter eller medfølgende pc-software.
+35-1	Musikken	musik	NC:sduc:--:----	
+35-2	kan	kunne	VF:----:sa:----	
+35-3	overføres	overføre	VI:----:-p:----	
+35-4	til	til	T-:----:--:----	
+35-5	kortet	kort	NC:sdun:--:----	
+35-6	via	via	T-:----:--:----	
+35-7	adapter	adapter	NC:siuc:--:----	
+35-8	eller	eller	CC:----:--:----	
+35-9	medfølgende	medfølge	VP:##u#:s-:----	
+35-10	pc	pc	NW:----:--:----	
+35-11	-	-	ZH	
+35-12	software	software	NC:siuc:--:----	
+35-13	.	.	ZP	
+
+#id=36
+#text= Enkelte i testen kan klare de såkaldte micro-SDHC-kort, der på sigt kan komme  op på 32 GB hukommelse.
+36-1	Enkelte	enkelt	AC:p#u#:--:p---	
+36-2	i	i	T-:----:--:----	
+36-3	testen	test	NC:sduc:--:----	
+36-4	kan	kunne	VF:----:sa:----	
+36-5	klare	klare	VI:----:-a:----	
+36-6	de	den	PM:p-u#:--:----	
+36-7	såkaldte	såkaldt	AC:p#u#:--:p---	
+36-8	micro	micro	NC:siuc:--:----	
+36-9	-	-	NC:piu#:--:----	
+36-10	SDHC	SDHC	NP:siu#:--:----	
+36-11	-	-	ZH	
+36-12	kort	kort	NC:siun:--:----	
+36-13	,	,	ZD	
+36-14	der	der	US:----:--:----	
+36-15	på	på	T-:----:--:----	
+36-16	sigt	sigt	NC:siuc:--:----	
+36-17	kan	kunne	VF:----:sa:----	
+36-18	komme	komme	VI:----:-a:----	
+36-19	op	op	D-:----:--:u---	
+36-20	på	på	T-:----:--:----	
+36-21	32	32	LC:--u-:--:----	
+36-22	GB	GB	NP:siu#:--:----	
+36-23	hukommelse	hukommelse	NC:siuc:--:----	
+36-24	.	.	ZP	
+
+#id=37
+#text= Ofte kan man bare trække-og-slippe musikken direkte over på telefonen eller kortet, men man kan også bruge medfølgende software til den slags.
+37-1	Ofte	ofte	D-:----:--:u---	
+37-2	kan	kunne	VF:----:sa:----	
+37-3	man	man	PI:#-uc:--:----	
+37-4	bare	bare	D-:----:--:u---	
+37-5	trække	trække	VI:----:-a:----	
+37-6	-	-	NC:piu#:--:----	
+37-7	og	og	CC:----:--:----	
+37-8	-	-	NC:piu#:--:----	
+37-9	slippe	slippe	VI:----:-a:----	
+37-10	musikken	musik	NC:sduc:--:----	
+37-11	direkte	direkte	AD:----:--:p---	
+37-12	over	over	D-:----:--:u---	
+37-13	på	på	T-:----:--:----	
+37-14	telefonen	telefon	NC:sduc:--:----	
+37-15	eller	eller	CC:----:--:----	
+37-16	kortet	kort	NC:sdun:--:----	
+37-17	,	,	ZD	
+37-18	men	men	CC:----:--:----	
+37-19	man	man	PI:#-uc:--:----	
+37-20	kan	kunne	VF:----:sa:----	
+37-21	også	også	D-:----:--:u---	
+37-22	bruge	bruge	VI:----:-a:----	
+37-23	medfølgende	medfølge	VP:##u#:s-:----	
+37-24	software	software	NC:siuc:--:----	
+37-25	til	til	T-:----:--:----	
+37-26	den	den	PM:s-uc:--:----	
+37-27	slags	slags	NC:siuc:--:----	
+37-28	.	.	ZP	
+
+#id=38
+#text=gule kort til Jensen
+38-1	gule	gul	AC:p#u#:--:p---	
+38-2	kort	kort	NC:piu#:--:----	
+38-3	til	til	T-:----:--:----	
+38-4	Jensen	Jensen	NP:siu#:--:----	
+
+#id=39
+#text=Dermed vil sværvægtsscenen få endnu et  stærkt kort fra Østeuropa, som i dag er så suveræn i vægtklassen, at østeuropæere møder hinanden i VM-kampe!
+39-1	Dermed	dermed	D-:----:--:u---	
+39-2	vil	ville	VF:----:sa:----	
+39-3	sværvægtsscenen	sværvægtsscene	NC:sduc:--:----	
+39-4	få	få	VI:----:-a:----	
+39-5	endnu	endnu	D-:----:--:u---	
+39-6	et	en	PI:s-un:--:----	
+39-7	stærkt	stærk	AC:siun:--:p---	
+39-8	kort	kort	NC:siun:--:----	
+39-9	fra	fra	T-:----:--:----	
+39-10	Østeuropa	Østeuropa	NP:siu#:--:----	
+39-11	,	,	ZD	
+39-12	som	som	US:----:--:----	
+39-13	i	i	T-:----:--:----	
+39-14	dag	dag	NC:siuc:--:----	
+39-15	er	være	VF:----:sa:----	
+39-16	så	så	D-:----:--:u---	
+39-17	suveræn	suveræn	AC:siuc:--:p---	
+39-18	i	i	T-:----:--:----	
+39-19	vægtklassen	vægtklasse	NC:sduc:--:----	
+39-20	,	,	ZD	
+39-21	at	at	CS:----:--:----	
+39-22	østeuropæere	østeuropæer	NC:piu#:--:----	
+39-23	møder	møde	VF:----:sa:----	
+39-24	hinanden	hinanden	PC:p-u-:--:----	
+39-25	i	i	T-:----:--:----	
+39-26	VM	VM	NW:----:--:----	
+39-27	-	-	ZH	
+39-28	kampe	kamp	NC:piu#:--:----	
+39-29	!	!	ZP	
+
+#id=40
+#text=Kulminationen kom et kvarter efter pausen, da dommer Michael Svendsen måtte hive det røde kort frem to gange - og sende FCM'erne Petter Furuseth og Femi til afkøling efter bataljer, der på et tidspunkt involverede en halv snes spillere.
+40-1	Kulminationen	kulmination	NC:sduc:--:----	
+40-2	kom	komme	VF:----:ta:----	
+40-3	et	en	PI:s-un:--:----	
+40-4	kvarter	kvarter	NC:siun:--:----	
+40-5	efter	efter	T-:----:--:----	
+40-6	pausen	pause	NC:sduc:--:----	
+40-7	,	,	ZD	
+40-8	da	da	CS:----:--:----	
+40-9	dommer	dommer	NC:siuc:--:----	
+40-10	Michael	Michael	NP:siu#:--:----	
+40-11	Svendsen	Svendsen	NP:siu#:--:----	
+40-12	måtte	måtte	VF:----:ta:----	
+40-13	hive	hive	VI:----:-a:----	
+40-14	det	den	PM:s-un:--:----	
+40-15	røde	rød	AC:sdu#:--:p---	
+40-16	kort	kort	NC:siun:--:----	
+40-17	frem	frem	D-:----:--:u---	
+40-18	to	to	LC:--u-:--:----	
+40-19	gange	gang	NC:piu#:--:----	
+40-20	-	-	ZH	
+40-21	og	og	CC:----:--:----	
+40-22	sende	sende	VI:----:-a:----	
+40-23	FCM	FCM	NP:siu#:--:----	
+40-24	'	'	ZA	
+40-25	erne	@erne	MN:pdu#:--:----	
+40-26	Petter	Petter	NP:siu#:--:----	
+40-27	Furuseth	Furuseth	NP:siu#:--:----	
+40-28	og	og	CC:----:--:----	
+40-29	Femi	Femi	NP:siu#:--:----	
+40-30	til	til	T-:----:--:----	
+40-31	afkøling	afkøling	NC:siuc:--:----	
+40-32	efter	efter	T-:----:--:----	
+40-33	bataljer	batalje	NC:piu#:--:----	
+40-34	,	,	ZD	
+40-35	der	der	US:----:--:----	
+40-36	på	på	T-:----:--:----	
+40-37	et	en	PI:s-un:--:----	
+40-38	tidspunkt	tidspunkt	NC:siun:--:----	
+40-39	involverede	involvere	VF:----:ta:----	
+40-40	en	en	PI:s-uc:--:----	
+40-41	halv	halv	AC:siuc:--:p---	
+40-42	snes	snes	NC:siuc:--:----	
+40-43	spillere	spiller	NC:piu#:--:----	
+40-44	.	.	ZP	
+
+#id=41
+#text= Og igen er det uden to af dansk ishockeys stærkeste kort, NHL-spillerne Jannik Hansen og Frans Nielsen.
+41-1	Og	og	CC:----:--:----	
+41-2	igen	igen	D-:----:--:u---	
+41-3	er	være	VF:----:sa:----	
+41-4	det	det	PP:s-un:--:-3n-	
+41-5	uden	uden	T-:----:--:----	
+41-6	to	to	LC:--u-:--:----	
+41-7	af	af	T-:----:--:----	
+41-8	dansk	dansk	AC:siu§:--:p---	
+41-9	ishockeys	ishockey	NC:sigc:--:----	
+41-10	stærkeste	stærk	AC:§du§:--:s---	
+41-11	kort	kort	NC:siun:--:----	
+41-12	,	,	ZD	
+41-13	NHL	NHL	NP:siu#:--:----	
+41-14	-	-	ZH	
+41-15	spillerne	spille	NC:pdu#:--:----	
+41-16	Jannik	Jannik	NP:siu#:--:----	
+41-17	Hansen	Hansen	NP:siu#:--:----	
+41-18	og	og	CC:----:--:----	
+41-19	Frans	Frans	NP:siu#:--:----	
+41-20	Nielsen	Nielsen	NP:siu#:--:----	
+41-21	.	.	ZP	
+
+#id=42
+#text=Også Irlands premierminister Bertie Ahern er et godt kort.
+42-1	Også	også	D-:----:--:u---	
+42-2	Irlands	Irland	NP:sig#:--:----	
+42-3	premierminister	premierminister	NC:siuc:--:----	
+42-4	Bertie	Bertie	NP:siu#:--:----	
+42-5	Ahern	Ahern	NP:siu#:--:----	
+42-6	er	være	VF:----:sa:----	
+42-7	et	en	PI:s-un:--:----	
+42-8	godt	god	AC:siun:--:p---	
+42-9	kort	kort	NC:siun:--:----	
+42-10	.	.	ZP	
+
+#id=43
+#text= Skærmen er på 1,6 tommer, kameraet leverer to megapixel, og de indbyggede 45 megabytes kan suppleres med Micro SD-kort.
+43-1	Skærmen	skærm	NC:sduc:--:----	
+43-2	er	være	VF:----:sa:----	
+43-3	på	på	T-:----:--:----	
+43-4	1	1	LC:--u-:--:----	
+43-5	,	,	ZD	
+43-6	6	6	LC:--u-:--:----	
+43-7	tommer	tomme	NC:piu#:--:----	
+43-8	,	,	ZD	
+43-9	kameraet	kamera	NC:sdun:--:----	
+43-10	leverer	levere	VF:----:sa:----	
+43-11	to	to	LC:--u-:--:----	
+43-12	megapixel	megapixel	NC:piu#:--:----	
+43-13	,	,	ZD	
+43-14	og	og	CC:----:--:----	
+43-15	de	de	PP:p-n#:--:-3n-	
+43-16	indbyggede	indbygge	VF:----:ta:----	
+43-17	45	45	LC:--u-:--:----	
+43-18	megabytes	megabyte	NC:piu#:--:----	
+43-19	kan	kunne	VF:----:sa:----	
+43-20	suppleres	supplere	VI:----:-p:----	
+43-21	med	med	T-:----:--:----	
+43-22	Micro	Micro	NP:siu#:--:----	
+43-23	SD	SD	NP:siu#:--:----	
+43-24	-	-	ZH	
+43-25	kort	kort	NC:siun:--:----	
+43-26	.	.	ZP	
+
+#id=44
+#text=Et kvarter inde i anden halvleg reducerede Ghanas anfører, John Mensah, kraftigt værtsnationens semifinalechancer, da han helt korrekt blev præsenteret for dommerens røde kort efter en nødbremse.
+44-1	Et	en	PI:s-un:--:----	
+44-2	kvarter	kvarter	NC:siun:--:----	
+44-3	inde	inde	D-:----:--:u---	
+44-4	i	i	T-:----:--:----	
+44-5	anden	anden	PI:s-uc:--:----	
+44-6	halvleg	halvleg	NC:siuc:--:----	
+44-7	reducerede	reducere	VF:----:ta:----	
+44-8	Ghanas	Ghana	NP:sig#:--:----	
+44-9	anfører	anfører	NC:siuc:--:----	
+44-10	,	,	ZD	
+44-11	John	John	NP:siu#:--:----	
+44-12	Mensah	Mensah	NP:siu#:--:----	
+44-13	,	,	ZD	
+44-14	kraftigt	kraftig	AD:----:--:p---	
+44-15	værtsnationens	værtsnation	NC:sdgc:--:----	
+44-16	semifinalechancer	semifinalechance	NC:piu#:--:----	
+44-17	,	,	ZD	
+44-18	da	da	CS:----:--:----	
+44-19	han	han	PP:s-nc:--:-3n-	
+44-20	helt	hel	AD:----:--:p---	
+44-21	korrekt	korrekt	AD:----:--:p---	
+44-22	blev	blive	VF:----:ta:----	
+44-23	præsenteret	præsentere	VT:siu#:t-:----	
+44-24	for	for	T-:----:--:----	
+44-25	dommerens	dommer	NC:sdgc:--:----	
+44-26	røde	rød	AC:sdu#:--:p---	
+44-27	kort	kort	NC:siun:--:----	
+44-28	efter	efter	T-:----:--:----	
+44-29	en	en	PI:s-uc:--:----	
+44-30	nødbremse	nødbremse	NC:siuc:--:----	
+44-31	.	.	ZP	
+
+#id=45
+#text= Livet er sindssygt kort, siger den kommende politimand.
+45-1	Livet	liv	NC:sdun:--:----	
+45-2	er	være	VF:----:sa:----	
+45-3	sindssygt	sindssyg	AC:siun:--:p---	
+45-4	kort	kort	NC:siun:--:----	
+45-5	,	,	ZD	
+45-6	siger	sige	VF:----:sa:----	
+45-7	den	den	PM:s-uc:--:----	
+45-8	kommende	komme	VP:##u#:s-:----	
+45-9	politimand	politimand	NC:siuc:--:----	
+45-10	.	.	ZP	
+
+#id=46
+#text=Schalke 04 blokerede kort før transferdeadline for et lyn-skifte for Søren Larsen.
+46-1	Schalke	Schalke	NP:siu#:--:----	
+46-2	04	04	LC:--u-:--:----	
+46-3	blokerede	blokere	VP:p#u#:t-:----	
+46-4	kort	kort	NC:piu#:--:----	
+46-5	før	før	T-:----:--:----	
+46-6	transferdeadline	transferdeadline	NC:siuc:--:----	
+46-7	for	for	T-:----:--:----	
+46-8	et	en	PI:s-un:--:----	
+46-9	lyn	lyn	NW:----:--:----	
+46-10	-	-	ZH	
+46-11	skifte	skifte	NC:siun:--:----	
+46-12	for	for	T-:----:--:----	
+46-13	Søren	Søren	NP:siu#:--:----	
+46-14	Larsen	Larsen	NP:siu#:--:----	
+46-15	.	.	ZP	
+
+#id=47
+#text= Som altid udtaler jeg mig ikke om dommernes afgørelser, og jeg har heller ingen kommentar til udvisningen af Esteban Granero, som kort før det røde kort scorede det altafgørende mål for os på frispark.
+47-1	Som	som	US:----:--:----	
+47-2	altid	altid	D-:----:--:u---	
+47-3	udtaler	udtale	VF:----:sa:----	
+47-4	jeg	jeg	PP:s-nc:--:-1n-	
+47-5	mig	jeg	PP:s-uc:--:-1#-	
+47-6	ikke	ikke	D-:----:--:u---	
+47-7	om	om	T-:----:--:----	
+47-8	dommernes	dommer	NC:pdg#:--:----	
+47-9	afgørelser	afgørelse	NC:piu#:--:----	
+47-10	,	,	ZD	
+47-11	og	og	CC:----:--:----	
+47-12	jeg	jeg	PP:s-nc:--:-1n-	
+47-13	har	have	VF:----:sa:----	
+47-14	heller	heller	D-:----:--:u---	
+47-15	ingen	ingen	PI:s-uc:--:----	
+47-16	kommentar	kommentar	NC:siuc:--:----	
+47-17	til	til	T-:----:--:----	
+47-18	udvisningen	udvisning	NC:sduc:--:----	
+47-19	af	af	T-:----:--:----	
+47-20	Esteban	Esteban	NP:siu#:--:----	
+47-21	Granero	Granero	NP:siu#:--:----	
+47-22	,	,	ZD	
+47-23	som	som	US:----:--:----	
+47-24	kort	kort	AD:----:--:p---	
+47-25	før	før	T-:----:--:----	
+47-26	det	den	PM:s-un:--:----	
+47-27	røde	rød	AC:sdu#:--:p---	
+47-28	kort	kort	NC:siun:--:----	
+47-29	scorede	score	VF:----:ta:----	
+47-30	det	det	PP:s-un:--:-3n-	
+47-31	altafgørende	altafgørende	AD:----:--:p---	
+47-32	mål	mål	NC:siun:--:----	
+47-33	for	for	T-:----:--:----	
+47-34	os	vi	PP:p-uc:--:-1#-	
+47-35	på	på	T-:----:--:----	
+47-36	frispark	frispark	NC:siun:--:----	
+47-37	.	.	ZP	
+
+#id=48
+#text= Derudover får du også hver dag et blackjack-es, som du til hver en tid kan lægge på bordet som første kort og dermed starte med et særdeles godt udgangspunkt.
+48-1	Derudover	derudover	D-:----:--:u---	
+48-2	får	få	VF:----:sa:----	
+48-3	du	du	PP:s-nc:--:-2n-	
+48-4	også	også	D-:----:--:u---	
+48-5	hver	hver	PI:s-uc:--:----	
+48-6	dag	dag	NC:siuc:--:----	
+48-7	et	en	PI:s-un:--:----	
+48-8	blackjack	blackjack	NW:----:--:----	
+48-9	-	-	ZH	
+48-10	es	es	NC:siun:--:----	
+48-11	,	,	ZD	
+48-12	som	som	US:----:--:----	
+48-13	du	du	PP:s-nc:--:-2n-	
+48-14	til	til	T-:----:--:----	
+48-15	hver	hver	PI:s-uc:--:----	
+48-16	en	en	PI:s-uc:--:----	
+48-17	tid	tid	NC:siuc:--:----	
+48-18	kan	kunne	VF:----:sa:----	
+48-19	lægge	lægge	VI:----:-a:----	
+48-20	på	på	T-:----:--:----	
+48-21	bordet	bord	NC:sdun:--:----	
+48-22	som	som	US:----:--:----	
+48-23	første	første	AC:§§u§:--:p---	
+48-24	kort	kort	NC:siun:--:----	
+48-25	og	og	CC:----:--:----	
+48-26	dermed	dermed	D-:----:--:u---	
+48-27	starte	starte	VI:----:-a:----	
+48-28	med	med	T-:----:--:----	
+48-29	et	en	PI:s-un:--:----	
+48-30	særdeles	særdeles	D-:----:--:u---	
+48-31	godt	god	AC:siun:--:p---	
+48-32	udgangspunkt	udgangspunkt	NC:siun:--:----	
+48-33	.	.	ZP	
+
+#id=49
+#text= Vendte det næste kort i stakken.
+49-1	Vendte	vende	VF:----:ta:----	
+49-2	det	den	PM:s-un:--:----	
+49-3	næste	næste	AC:§§u§:--:p---	
+49-4	kort	kort	NC:siun:--:----	
+49-5	i	i	T-:----:--:----	
+49-6	stakken	stak	NC:sduc:--:----	
+49-7	.	.	ZP	
+
+#id=50
+#text= Der er chokerende kort ind, så der har Vorherre ikke fremtidssikret modellen, siger han med en vis sarkasme.
+50-1	Der	der	US:----:--:----	
+50-2	er	være	VF:----:sa:----	
+50-3	chokerende	chokere	VP:##u#:s-:----	
+50-4	kort	kort	NC:siun:--:----	
+50-5	ind	ind	D-:----:--:u---	
+50-6	,	,	ZD	
+50-7	så	så	CS:----:--:----	
+50-8	der	der	US:----:--:----	
+50-9	har	have	VF:----:sa:----	
+50-10	Vorherre	Vorherre	NP:siu#:--:----	
+50-11	ikke	ikke	D-:----:--:u---	
+50-12	fremtidssikret	fremtidssikre	VT:siu#:t-:----	
+50-13	modellen	model	NC:sduc:--:----	
+50-14	,	,	ZD	
+50-15	siger	sige	VF:----:sa:----	
+50-16	han	han	PP:s-nc:--:-3n-	
+50-17	med	med	T-:----:--:----	
+50-18	en	en	PI:s-uc:--:----	
+50-19	vis	vis	AC:siuc:--:p---	
+50-20	sarkasme	sarkasme	NC:siuc:--:----	
+50-21	.	.	ZP	
+
+#id=51
+#text= Hun spillede sit sidste kort ved at bringe fhv. præsident Bill Clinton helt ind i sin kampagne.
+51-1	Hun	hun	PP:s-nc:--:-3n-	
+51-2	spillede	spille	VF:----:ta:----	
+51-3	sit	sin	PO:s--n:--:-3ys	
+51-4	sidste	sidste	AC:§§u§:--:p---	
+51-5	kort	kort	NC:siun:--:----	
+51-6	ved	ved	T-:----:--:----	
+51-7	at	at	CS:----:--:----	
+51-8	bringe	bringe	NC:siuc:--:----	
+51-9	fhv	fhv	XS:----:--:----	
+51-10	.	.	ZP	
+51-11	præsident	præsident	NC:siuc:--:----	
+51-12	Bill	Bill	NP:siu#:--:----	
+51-13	Clinton	Clinton	NP:siu#:--:----	
+51-14	helt	hel	AD:----:--:p---	
+51-15	ind	ind	D-:----:--:u---	
+51-16	i	i	T-:----:--:----	
+51-17	sin	sin	PO:s--c:--:-3ys	
+51-18	kampagne	kampagne	NC:siuc:--:----	
+51-19	.	.	ZP	
+
+#id=52
+#text= Og til sidst det røde kort, da et af dommerbranchens mest erfarne par havde fået nok af trænerens provokationer.
+52-1	Og	og	CC:----:--:----	
+52-2	til	til	T-:----:--:----	
+52-3	sidst	sidst	D-:----:--:u---	
+52-4	det	den	PM:s-un:--:----	
+52-5	røde	rød	AC:sdu#:--:p---	
+52-6	kort	kort	NC:siun:--:----	
+52-7	,	,	ZD	
+52-8	da	da	CS:----:--:----	
+52-9	et	en	PI:s-un:--:----	
+52-10	af	af	T-:----:--:----	
+52-11	dommerbranchens	dommerbranche	NC:sdgc:--:----	
+52-12	mest	megen	AD:----:--:s---	
+52-13	erfarne	erfaren	AC:p#u#:--:p---	
+52-14	par	par	NC:piu#:--:----	
+52-15	havde	have	VF:----:ta:----	
+52-16	fået	få	VT:siu#:t-:----	
+52-17	nok	nok	D-:----:--:u---	
+52-18	af	af	T-:----:--:----	
+52-19	trænerens	træner	NC:sdgc:--:----	
+52-20	provokationer	provokation	NC:piu#:--:----	
+52-21	.	.	ZP	
+
+#id=53
+#text= Ellers havde de ikke givet mig det røde kort, lød forklaringen efterfølgende fra den diskvalificerede træner til TV2.
+53-1	Ellers	ellers	D-:----:--:u---	
+53-2	havde	have	VF:----:ta:----	
+53-3	de	de	PP:p-n#:--:-3n-	
+53-4	ikke	ikke	D-:----:--:u---	
+53-5	givet	give	VT:siu#:t-:----	
+53-6	mig	jeg	PP:s-uc:--:-1#-	
+53-7	det	den	PM:s-un:--:----	
+53-8	røde	rød	AC:sdu#:--:p---	
+53-9	kort	kort	NC:siun:--:----	
+53-10	,	,	ZD	
+53-11	lød	lyde	VF:----:ta:----	
+53-12	forklaringen	forklaring	NC:sduc:--:----	
+53-13	efterfølgende	efterfølgende	AD:----:--:p---	
+53-14	fra	fra	T-:----:--:----	
+53-15	den	den	PM:s-uc:--:----	
+53-16	diskvalificerede	diskvalificere	VP:sdu#:t-:----	
+53-17	træner	træner	NC:siuc:--:----	
+53-18	til	til	T-:----:--:----	
+53-19	TV2	TV2	NP:siu#:--:----	
+53-20	.	.	ZP	
+
+#id=54
+#text=De bedste kort holder landstræner Ulrik Wilbek fortsat tæt til kroppen.
+54-1	De	den	PM:p-u#:--:----	
+54-2	bedste	god	AC:§du§:--:s---	
+54-3	kort	kort	NC:siun:--:----	
+54-4	holder	holde	--	
+54-5	landstræner	landstræner	NC:siuc:--:----	
+54-6	Ulrik	Ulrik	NP:siu#:--:----	
+54-7	Wilbek	Wilbek	NP:siu#:--:----	
+54-8	fortsat	fortsat	D-:----:--:u---	
+54-9	tæt	tæt	AD:----:--:p---	
+54-10	til	til	T-:----:--:----	
+54-11	kroppen	krop	NC:sduc:--:----	
+54-12	.	.	ZP	
+
+#id=55
+#text=Et enkelt blik på et kort forklarer, hvorfor Casamance føles meget anderledes end resten af Senegal - området er afskåret fra resten af landet af Gambia og domineres af den mægtige flod, der giver området dets navn, og kunne lige så godt være et helt andet land.
+55-1	Et	en	PI:s-un:--:----	
+55-2	enkelt	enkelt	AC:siu§:--:p---	
+55-3	blik	blik	NC:siun:--:----	
+55-4	på	på	T-:----:--:----	
+55-5	et	en	PI:s-un:--:----	
+55-6	kort	kort	NC:siun:--:----	
+55-7	forklarer	forklare	VF:----:sa:----	
+55-8	,	,	ZD	
+55-9	hvorfor	hvorfor	D-:----:--:u---	
+55-10	Casamance	Casamance	NP:siu#:--:----	
+55-11	føles	føle	VF:----:sp:----	
+55-12	meget	megen	AD:----:--:p---	
+55-13	anderledes	anderledes	AC:§§u§:--:p---	
+55-14	end	end	CS:----:--:----	
+55-15	resten	rest	NC:sduc:--:----	
+55-16	af	af	T-:----:--:----	
+55-17	Senegal	Senegal	NP:siu#:--:----	
+55-18	-	-	ZH	
+55-19	området	område	NC:sdun:--:----	
+55-20	er	være	VF:----:sa:----	
+55-21	afskåret	afskære	VT:siu#:t-:----	
+55-22	fra	fra	T-:----:--:----	
+55-23	resten	rest	NC:sduc:--:----	
+55-24	af	af	T-:----:--:----	
+55-25	landet	land	NC:sdun:--:----	
+55-26	af	af	T-:----:--:----	
+55-27	Gambia	Gambia	NP:siu#:--:----	
+55-28	og	og	CC:----:--:----	
+55-29	domineres	dominere	VF:----:sp:----	
+55-30	af	af	T-:----:--:----	
+55-31	den	den	PM:s-uc:--:----	
+55-32	mægtige	mægtig	AC:sdu#:--:p---	
+55-33	flod	flod	NC:siuc:--:----	
+55-34	,	,	ZD	
+55-35	der	der	US:----:--:----	
+55-36	giver	give	VF:----:sa:----	
+55-37	området	område	NC:sdun:--:----	
+55-38	dets	dets	XY:----:--:----	
+55-39	navn	navn	NC:siun:--:----	
+55-40	,	,	ZD	
+55-41	og	og	CC:----:--:----	
+55-42	kunne	kunne	VF:----:ta:----	
+55-43	lige	lige	D-:----:--:u---	
+55-44	så	så	D-:----:--:u---	
+55-45	godt	god	AD:----:--:p---	
+55-46	være	være	VI:----:-a:----	
+55-47	et	en	PI:s-un:--:----	
+55-48	helt	hel	AD:----:--:p---	
+55-49	andet	anden	PI:s-un:--:----	
+55-50	land	land	NC:siun:--:----	
+55-51	.	.	ZP	
+
+#id=56
+#text=Hun glemte også at fortælle, at der overhovedet var en dagens ret, og da den ikke står på kortet, opdagede vi først muligheden for sent.
+56-1	Hun	hun	PP:s-nc:--:-3n-	
+56-2	glemte	glemte	VF:----:ta:----	
+56-3	også	også	D-:----:--:u---	
+56-4	at	at	UI:----:--:----	
+56-5	fortælle	fortælle	VI:----:-a:----	
+56-6	,	,	ZD	
+56-7	at	at	CS:----:--:----	
+56-8	der	der	US:----:--:----	
+56-9	overhovedet	overhovedet	D-:----:--:u---	
+56-10	var	var	XY:----:--:----	
+56-11	en	en	XF:----:--:----	
+56-12	dagens	dag	NC:sdgc:--:----	
+56-13	ret	ret	NC:siuc:--:----	
+56-14	,	,	ZD	
+56-15	og	og	CC:----:--:----	
+56-16	da	da	CS:----:--:----	
+56-17	den	den	PP:s-uc:--:-3n-	
+56-18	ikke	ikke	D-:----:--:u---	
+56-19	står	stå	VF:----:sa:----	
+56-20	på	på	T-:----:--:----	
+56-21	kortet	kort	NC:sdun:--:----	
+56-22	,	,	ZD	
+56-23	opdagede	opdage	VF:----:ta:----	
+56-24	vi	vi	PP:p-nc:--:-1n-	
+56-25	først	først	D-:----:--:u---	
+56-26	muligheden	mulighed	NC:sduc:--:----	
+56-27	for	for	T-:----:--:----	
+56-28	sent	sent	NC:siuc:--:----	
+56-29	.	.	ZP	
+
+#id=57
+#text= Flere aviser har advaret om denne mulighed, da du med en sådan forsikring binder dig til, at rejsen er købt med kortet.
+57-1	Flere	mange	AC:##u#:--:c---	
+57-2	aviser	avis	NC:piu#:--:----	
+57-3	har	have	VF:----:sa:----	
+57-4	advaret	advare	VT:siu#:t-:----	
+57-5	om	om	T-:----:--:----	
+57-6	denne	denne	PM:s-uc:--:----	
+57-7	mulighed	mulighed	NC:siuc:--:----	
+57-8	,	,	ZD	
+57-9	da	da	CS:----:--:----	
+57-10	du	du	PP:s-nc:--:-2n-	
+57-11	med	med	T-:----:--:----	
+57-12	en	en	PI:s-uc:--:----	
+57-13	sådan	sådan	AC:siuc:--:p---	
+57-14	forsikring	forsikring	NC:siuc:--:----	
+57-15	binder	binde	VF:----:sa:----	
+57-16	dig	du	PP:s-uc:--:-2#-	
+57-17	til	til	T-:----:--:----	
+57-18	,	,	ZD	
+57-19	at	at	CS:----:--:----	
+57-20	rejsen	rejse	NC:sduc:--:----	
+57-21	er	være	VF:----:sa:----	
+57-22	købt	købe	VT:siu#:t-:----	
+57-23	med	med	T-:----:--:----	
+57-24	kortet	kort	NC:sdun:--:----	
+57-25	.	.	ZP	
+
+#id=58
+#text=Læs mere på mastercard.dk, hvor der både er information om kortet og links til de banker, som udsteder kortet.
+58-1	Læs	læse	VM:----:--:----	
+58-2	mere	megen	AC:##u#:--:c---	
+58-3	på	på	T-:----:--:----	
+58-4	mastercard	mastercard	NP:siu#:--:----	
+58-5	.	.	ZP	
+58-6	dk	dk	XS:----:--:----	
+58-7	,	,	ZD	
+58-8	hvor	hvor	--	
+58-9	der	der	US:----:--:----	
+58-10	både	både	D-:----:--:u---	
+58-11	er	være	VF:----:sa:----	
+58-12	information	information	NC:siuc:--:----	
+58-13	om	om	T-:----:--:----	
+58-14	kortet	kort	NC:sdun:--:----	
+58-15	og	og	CC:----:--:----	
+58-16	links	links	NP:siu#:--:----	
+58-17	til	til	T-:----:--:----	
+58-18	de	den	PM:p-u#:--:----	
+58-19	banker	bank	NC:piu#:--:----	
+58-20	,	,	ZD	
+58-21	som	som	US:----:--:----	
+58-22	udsteder	udstede	VF:----:sa:----	
+58-23	kortet	kort	NC:sdun:--:----	
+58-24	.	.	ZP	
+
+#id=59
+#text= To forseelser gav både  straffespark til modstanderne og rødt kort.
+59-1	To	to	LC:--u-:--:----	
+59-2	forseelser	forseelse	NC:piu#:--:----	
+59-3	gav	give	VF:----:ta:----	
+59-4	både	både	D-:----:--:u---	
+59-5	straffespark	straffespark	NC:siun:--:----	
+59-6	til	til	T-:----:--:----	
+59-7	modstanderne	modstander	NC:pdu#:--:----	
+59-8	og	og	CC:----:--:----	
+59-9	rødt	rød	AC:siun:--:p---	
+59-10	kort	kort	NC:siun:--:----	
+59-11	.	.	ZP	
+
+#id=60
+#text=Villa-bossen skal imidlertid finde den store tegnedreng frem, for den 30-årige dansker står med mange gode kort på hånden:
+60-1	Villa	villa	NW:----:--:----	
+60-2	-	-	ZH	
+60-3	bossen	boss	NC:sduc:--:----	
+60-4	skal	skulle	VF:----:sa:----	
+60-5	imidlertid	imidlertid	D-:----:--:u---	
+60-6	finde	finde	VI:----:-a:----	
+60-7	den	den	PM:s-uc:--:----	
+60-8	store	stor	AC:sdu#:--:p---	
+60-9	tegnedreng	tegnedreng	NC:siuc:--:----	
+60-10	frem	frem	D-:----:--:u---	
+60-11	,	,	ZD	
+60-12	for	for	T-:----:--:----	
+60-13	den	den	PM:s-uc:--:----	
+60-14	30	30	LW:----:--:----	
+60-15	-	-	ZH	
+60-16	årige	årig	AC:sdu#:--:p---	
+60-17	dansker	dansker	NC:siuc:--:----	
+60-18	står	stå	VF:----:sa:----	
+60-19	med	med	T-:----:--:----	
+60-20	mange	mangen	AC:p#u#:--:p---	
+60-21	gode	god	AC:p#u#:--:p---	
+60-22	kort	kort	NC:piu#:--:----	
+60-23	på	på	T-:----:--:----	
+60-24	hånden	hånd	NC:sduc:--:----	
+60-25	:	:	ZP	
+
+#id=61
+#text= Dommerne bør være hurtigere med de røde kort, for der er typer på holdene, som
+61-1	Dommerne	dommer	NC:pdu#:--:----	
+61-2	bør	burde	VF:----:sa:----	
+61-3	være	være	VI:----:-a:----	
+61-4	hurtigere	hurtig	AD:----:--:c---	
+61-5	med	med	T-:----:--:----	
+61-6	de	den	PM:p-u#:--:----	
+61-7	røde	rød	AC:p#u#:--:p---	
+61-8	kort	kort	NC:piu#:--:----	
+61-9	,	,	ZD	
+61-10	for	for	CC:----:--:----	
+61-11	der	der	US:----:--:----	
+61-12	er	være	VF:----:sa:----	
+61-13	typer	type	NC:piu#:--:----	
+61-14	på	på	T-:----:--:----	
+61-15	holdene	hold	NC:pdu#:--:----	
+61-16	,	,	ZD	
+61-17	som	som	US:----:--:----	
+

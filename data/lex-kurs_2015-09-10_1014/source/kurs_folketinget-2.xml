@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader type="text">
+    </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>
+          <w xml:id="A-2100056905-4-1">Lovforslaget</w>
+          <c type="s" xml:id="A-2100056905-4-2"/>
+          <w xml:id="A-2100056905-4-3">består</w>
+          <c type="s" xml:id="A-2100056905-4-4"/>
+          <w xml:id="A-2100056905-4-5">helt</w>
+          <c type="s" xml:id="A-2100056905-4-6"/>
+          <w xml:id="A-2100056905-4-7">konkret</w>
+          <c type="s" xml:id="A-2100056905-4-8"/>
+          <w xml:id="A-2100056905-4-9">af</w>
+          <c type="s" xml:id="A-2100056905-4-10"/>
+          <w xml:id="A-2100056905-4-11">syv</w>
+          <c type="s" xml:id="A-2100056905-4-12"/>
+          <w xml:id="A-2100056905-4-13">forskellige</w>
+          <c type="s" xml:id="A-2100056905-4-14"/>
+          <w xml:id="A-2100056905-4-15">redskaber</w>
+          <c type="p" xml:id="A-2100056905-4-16">,</c>
+          <c type="s" xml:id="A-2100056905-4-17"/>
+          <w xml:id="A-2100056905-4-18">der</w>
+          <c type="s" xml:id="A-2100056905-4-19"/>
+          <w xml:id="A-2100056905-4-20">tilsammen</w>
+          <c type="s" xml:id="A-2100056905-4-21"/>
+          <w xml:id="A-2100056905-4-22">skal</w>
+          <c type="s" xml:id="A-2100056905-4-23"/>
+          <w xml:id="A-2100056905-4-24">sikre</w>
+          <c type="s" xml:id="A-2100056905-4-25"/>
+          <w xml:id="A-2100056905-4-26">en</w>
+          <c type="s" xml:id="A-2100056905-4-27"/>
+          <w xml:id="A-2100056905-4-28">forebyggende</w>
+          <c type="s" xml:id="A-2100056905-4-29"/>
+          <w xml:id="A-2100056905-4-30">hjælp</w>
+          <c type="s" xml:id="A-2100056905-4-31"/>
+          <w xml:id="A-2100056905-4-32">til</w>
+          <c type="s" xml:id="A-2100056905-4-33"/>
+          <w xml:id="A-2100056905-4-34">de</w>
+          <c type="s" xml:id="A-2100056905-4-35"/>
+          <w xml:id="A-2100056905-4-36">udsætningstruede</w>
+          <c type="s" xml:id="A-2100056905-4-37"/>
+          <w xml:id="A-2100056905-4-38">lejere</w>
+          <c type="p" xml:id="A-2100056905-4-39">,</c>
+          <c type="s" xml:id="A-2100056905-4-40"/>
+          <w xml:id="A-2100056905-4-41">og</w>
+          <c type="s" xml:id="A-2100056905-4-42"/>
+          <w xml:id="A-2100056905-4-43">som</w>
+          <c type="s" xml:id="A-2100056905-4-44"/>
+          <w xml:id="A-2100056905-4-45">kan</w>
+          <c type="s" xml:id="A-2100056905-4-46"/>
+          <w xml:id="A-2100056905-4-47">hjælpe</w>
+          <c type="s" xml:id="A-2100056905-4-48"/>
+          <w xml:id="A-2100056905-4-49">lejerne</w>
+          <c type="s" xml:id="A-2100056905-4-50"/>
+          <w xml:id="A-2100056905-4-51">med</w>
+          <c type="s" xml:id="A-2100056905-4-52"/>
+          <w xml:id="A-2100056905-4-53">at</w>
+          <c type="s" xml:id="A-2100056905-4-54"/>
+          <w xml:id="A-2100056905-4-55">få</w>
+          <c type="s" xml:id="A-2100056905-4-56"/>
+          <w xml:id="A-2100056905-4-57">deres</w>
+          <c type="s" xml:id="A-2100056905-4-58"/>
+          <w xml:id="A-2100056905-4-59">økonomi</w>
+          <c type="s" xml:id="A-2100056905-4-60"/>
+          <w xml:id="A-2100056905-4-61">på</w>
+          <c type="s" xml:id="A-2100056905-4-62"/>
+          <w xml:id="A-2100056905-4-63">ret</w>
+          <c type="s" xml:id="A-2100056905-4-64"/>
+          <w xml:id="A-2100056905-4-65">kurs</w>
+          <c type="s" xml:id="A-2100056905-4-66"/>
+          <w xml:id="A-2100056905-4-67">igen</w>
+          <c type="p" xml:id="A-2100056905-4-68">.</c>
+        </s>
+      </p>
+    </body>
+    <spanGrp ana="#ePOStagger">
+      <span from="#A-2100056905-4-1" xml:id="T-2100056905-4-1">NC:sdun:--:----</span>
+      <span from="#A-2100056905-4-3" xml:id="T-2100056905-4-3">VF:----:sa:----</span>
+      <span from="#A-2100056905-4-5" xml:id="T-2100056905-4-5">AD:----:--:p---</span>
+      <span from="#A-2100056905-4-7" xml:id="T-2100056905-4-7">AD:----:--:p---</span>
+      <span from="#A-2100056905-4-9" xml:id="T-2100056905-4-9">T-:----:--:----</span>
+      <span from="#A-2100056905-4-11" xml:id="T-2100056905-4-11">LC:--u-:--:----</span>
+      <span from="#A-2100056905-4-13" xml:id="T-2100056905-4-13">AC:p#u#:--:p---</span>
+      <span from="#A-2100056905-4-15" xml:id="T-2100056905-4-15">NC:piu#:--:----</span>
+      <span from="#A-2100056905-4-16" xml:id="T-2100056905-4-16">ZD</span>
+      <span from="#A-2100056905-4-18" xml:id="T-2100056905-4-18">US:----:--:----</span>
+      <span from="#A-2100056905-4-20" xml:id="T-2100056905-4-20">D-:----:--:u---</span>
+      <span from="#A-2100056905-4-22" xml:id="T-2100056905-4-22">VF:----:sa:----</span>
+      <span from="#A-2100056905-4-24" xml:id="T-2100056905-4-24">VI:----:-a:----</span>
+      <span from="#A-2100056905-4-26" xml:id="T-2100056905-4-26">PI:s-uc:--:----</span>
+      <span from="#A-2100056905-4-28" xml:id="T-2100056905-4-28">VP:##u#:s-:----</span>
+      <span from="#A-2100056905-4-30" xml:id="T-2100056905-4-30">NC:siuc:--:----</span>
+      <span from="#A-2100056905-4-32" xml:id="T-2100056905-4-32">T-:----:--:----</span>
+      <span from="#A-2100056905-4-34" xml:id="T-2100056905-4-34">PM:p-u#:--:----</span>
+      <span from="#A-2100056905-4-36" xml:id="T-2100056905-4-36">VP:p#u#:t-:----</span>
+      <span from="#A-2100056905-4-38" xml:id="T-2100056905-4-38">NC:piu#:--:----</span>
+      <span from="#A-2100056905-4-39" xml:id="T-2100056905-4-39">ZD</span>
+      <span from="#A-2100056905-4-41" xml:id="T-2100056905-4-41">CC:----:--:----</span>
+      <span from="#A-2100056905-4-43" xml:id="T-2100056905-4-43">US:----:--:----</span>
+      <span from="#A-2100056905-4-45" xml:id="T-2100056905-4-45">VF:----:sa:----</span>
+      <span from="#A-2100056905-4-47" xml:id="T-2100056905-4-47">VI:----:-a:----</span>
+      <span from="#A-2100056905-4-49" xml:id="T-2100056905-4-49">NC:pdu#:--:----</span>
+      <span from="#A-2100056905-4-51" xml:id="T-2100056905-4-51">T-:----:--:----</span>
+      <span from="#A-2100056905-4-53" xml:id="T-2100056905-4-53">UI:----:--:----</span>
+      <span from="#A-2100056905-4-55" xml:id="T-2100056905-4-55">VI:----:-a:----</span>
+      <span from="#A-2100056905-4-57" xml:id="T-2100056905-4-57">PO:#--#:--:-3np</span>
+      <span from="#A-2100056905-4-59" xml:id="T-2100056905-4-59">NC:siuc:--:----</span>
+      <span from="#A-2100056905-4-61" xml:id="T-2100056905-4-61">T-:----:--:----</span>
+      <span from="#A-2100056905-4-63" xml:id="T-2100056905-4-63">NC:siuc:--:----</span>
+      <span from="#A-2100056905-4-65" xml:id="T-2100056905-4-65">NC:siuc:--:----</span>
+      <span from="#A-2100056905-4-67" xml:id="T-2100056905-4-67">D-:----:--:u---</span>
+      <span from="#A-2100056905-4-68" xml:id="T-2100056905-4-68">ZP</span>
+    </spanGrp>
+    <spanGrp ana="#ePOSlemmatizer">
+      <span from="#A-2100056905-4-1" xml:id="L-2100056905-4-1">lovforslag</span>
+      <span from="#A-2100056905-4-3" xml:id="L-2100056905-4-3">bestå</span>
+      <span from="#A-2100056905-4-5" xml:id="L-2100056905-4-5">hel</span>
+      <span from="#A-2100056905-4-7" xml:id="L-2100056905-4-7">konkret</span>
+      <span from="#A-2100056905-4-9" xml:id="L-2100056905-4-9">af</span>
+      <span from="#A-2100056905-4-11" xml:id="L-2100056905-4-11">syv</span>
+      <span from="#A-2100056905-4-13" xml:id="L-2100056905-4-13">forskellig</span>
+      <span from="#A-2100056905-4-15" xml:id="L-2100056905-4-15">redskab</span>
+      <span from="#A-2100056905-4-16" xml:id="L-2100056905-4-16">,</span>
+      <span from="#A-2100056905-4-18" xml:id="L-2100056905-4-18">der</span>
+      <span from="#A-2100056905-4-20" xml:id="L-2100056905-4-20">tilsammen</span>
+      <span from="#A-2100056905-4-22" xml:id="L-2100056905-4-22">skulle</span>
+      <span from="#A-2100056905-4-24" xml:id="L-2100056905-4-24">sikre</span>
+      <span from="#A-2100056905-4-26" xml:id="L-2100056905-4-26">en</span>
+      <span from="#A-2100056905-4-28" xml:id="L-2100056905-4-28">forebygge</span>
+      <span from="#A-2100056905-4-30" xml:id="L-2100056905-4-30">hjælp</span>
+      <span from="#A-2100056905-4-32" xml:id="L-2100056905-4-32">til</span>
+      <span from="#A-2100056905-4-34" xml:id="L-2100056905-4-34">den</span>
+      <span from="#A-2100056905-4-36" xml:id="L-2100056905-4-36">udsætningstrue</span>
+      <span from="#A-2100056905-4-38" xml:id="L-2100056905-4-38">lejer</span>
+      <span from="#A-2100056905-4-39" xml:id="L-2100056905-4-39">,</span>
+      <span from="#A-2100056905-4-41" xml:id="L-2100056905-4-41">og</span>
+      <span from="#A-2100056905-4-43" xml:id="L-2100056905-4-43">som</span>
+      <span from="#A-2100056905-4-45" xml:id="L-2100056905-4-45">kunne</span>
+      <span from="#A-2100056905-4-47" xml:id="L-2100056905-4-47">hjælpe</span>
+      <span from="#A-2100056905-4-49" xml:id="L-2100056905-4-49">leje</span>
+      <span from="#A-2100056905-4-51" xml:id="L-2100056905-4-51">med</span>
+      <span from="#A-2100056905-4-53" xml:id="L-2100056905-4-53">at</span>
+      <span from="#A-2100056905-4-55" xml:id="L-2100056905-4-55">få</span>
+      <span from="#A-2100056905-4-57" xml:id="L-2100056905-4-57">deres</span>
+      <span from="#A-2100056905-4-59" xml:id="L-2100056905-4-59">økonomi</span>
+      <span from="#A-2100056905-4-61" xml:id="L-2100056905-4-61">på</span>
+      <span from="#A-2100056905-4-63" xml:id="L-2100056905-4-63">ret</span>
+      <span from="#A-2100056905-4-65" xml:id="L-2100056905-4-65">kurs</span>
+      <span from="#A-2100056905-4-67" xml:id="L-2100056905-4-67">igen</span>
+      <span from="#A-2100056905-4-68" xml:id="L-2100056905-4-68">.</span>
+    </spanGrp>
+    <spanGrp ana="lexsamp">
+      <span from="#A-2100056905-4-65" xml:id="D-A-2100056905-4-65-1">kurs-1</span>
+      <span from="#A-2100056905-4-65" xml:id="D-A-2100056905-4-65-2">kurs-1a</span>
+      <span from="#A-2100056905-4-65" xml:id="D-A-2100056905-4-65-3">kurs-2</span>
+      <span from="#A-2100056905-4-65" xml:id="D-A-2100056905-4-65-4">kurs-F-i-høj-kurs</span>
+      <span from="#A-2100056905-4-65" xml:id="D-A-2100056905-4-65-5">kurs-F-ikke-i-kurs</span>
+      <span from="#A-2100056905-4-65" xml:id="D-A-2100056905-4-65-6">kurs-F-sætte-kursen</span>
+      <span from="#A-2100056905-4-65" xml:id="D-A-2100056905-4-65-7">kurs-F-ud/ude-af-kurs</span>
+    </spanGrp>
+  </text>
+</TEI>

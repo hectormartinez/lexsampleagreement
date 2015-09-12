@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader type="text">
+    </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>
+          <c type="s" xml:id="A-2100100900-1-54"/>
+          <w xml:id="A-2100100900-1-55">Lad</w>
+          <c type="s" xml:id="A-2100100900-1-56"/>
+          <w xml:id="A-2100100900-1-57">os</w>
+          <c type="s" xml:id="A-2100100900-1-58"/>
+          <w xml:id="A-2100100900-1-59">indspille</w>
+          <c type="s" xml:id="A-2100100900-1-60"/>
+          <w xml:id="A-2100100900-1-61">et</w>
+          <c type="s" xml:id="A-2100100900-1-62"/>
+          <c type="p" xml:id="A-2100100900-1-63">&quot;</c>
+          <w xml:id="A-2100100900-1-64">Spice</w>
+          <c type="s" xml:id="A-2100100900-1-65"/>
+          <w xml:id="A-2100100900-1-66">Girls</w>
+          <c type="s" xml:id="A-2100100900-1-67"/>
+          <w xml:id="A-2100100900-1-68">Juniors</w>
+          <c type="p" xml:id="A-2100100900-1-69">&quot;</c>
+          <c type="s" xml:id="A-2100100900-1-70"/>
+          <w xml:id="A-2100100900-1-71">plade</w>
+          <c type="p" xml:id="A-2100100900-1-72">.</c>
+        </s>
+      </p>
+    </body>
+    <spanGrp ana="#ePOStagger">
+      <span from="#A-2100100900-1-55" xml:id="T-2100100900-1-55">VM:----:--:----</span>
+      <span from="#A-2100100900-1-57" xml:id="T-2100100900-1-57">PP:p-uc:--:-1#-</span>
+      <span from="#A-2100100900-1-59" xml:id="T-2100100900-1-59">VI:----:-a:----</span>
+      <span from="#A-2100100900-1-61" xml:id="T-2100100900-1-61">PI:s-un:--:----</span>
+      <span from="#A-2100100900-1-63" xml:id="T-2100100900-1-63">ZI</span>
+      <span from="#A-2100100900-1-64" xml:id="T-2100100900-1-64">NP:siu#:--:----</span>
+      <span from="#A-2100100900-1-66" xml:id="T-2100100900-1-66">NP:siu#:--:----</span>
+      <span from="#A-2100100900-1-68" xml:id="T-2100100900-1-68">NP:siu#:--:----</span>
+      <span from="#A-2100100900-1-69" xml:id="T-2100100900-1-69">ZI</span>
+      <span from="#A-2100100900-1-71" xml:id="T-2100100900-1-71">NC:siuc:--:----</span>
+      <span from="#A-2100100900-1-72" xml:id="T-2100100900-1-72">ZP</span>
+    </spanGrp>
+    <spanGrp ana="#ePOSlemmatizer">
+      <span from="#A-2100100900-1-55" xml:id="L-2100100900-1-55">lade</span>
+      <span from="#A-2100100900-1-57" xml:id="L-2100100900-1-57">vi</span>
+      <span from="#A-2100100900-1-59" xml:id="L-2100100900-1-59">indspille</span>
+      <span from="#A-2100100900-1-61" xml:id="L-2100100900-1-61">en</span>
+      <span from="#A-2100100900-1-63" xml:id="L-2100100900-1-63">&quot;</span>
+      <span from="#A-2100100900-1-64" xml:id="L-2100100900-1-64">Spice</span>
+      <span from="#A-2100100900-1-66" xml:id="L-2100100900-1-66">Girls</span>
+      <span from="#A-2100100900-1-68" xml:id="L-2100100900-1-68">Juniors</span>
+      <span from="#A-2100100900-1-69" xml:id="L-2100100900-1-69">&quot;</span>
+      <span from="#A-2100100900-1-71" xml:id="L-2100100900-1-71">plade</span>
+      <span from="#A-2100100900-1-72" xml:id="L-2100100900-1-72">.</span>
+    </spanGrp>
+  </text>
+</TEI>

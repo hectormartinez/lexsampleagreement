@@ -1,0 +1,1506 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue
+#id=1
+#text=Altså...mit deck er et rimelig interessant deck....det beskæftiger sig mest med irritation, og så låser jeg modstanderen fast, når jeg først har gjort hans deck ret ubrugeligt....(Jeg gider ikke til at skrive hvert eneste kort i mit deck...ville tage for lang tid...)
+1-1	Altså	altså	D-:----:--:u---	
+1-2	.	.	ZP	
+1-3	.	.	ZP	
+1-4	.	.	ZP	
+1-5	mit	mit	XF:----:--:----	
+1-6	deck	deck	NC:siun:--:----	
+1-7	er	være	VF:----:sa:----	
+1-8	et	en	PI:s-un:--:----	
+1-9	rimelig	rimelig	AD:----:--:p---	
+1-10	interessant	interessant	AC:siu§:--:p---	
+1-11	deck	deck	NC:siun:--:----	
+1-12	.	.	ZP	
+1-13	.	.	ZP	
+1-14	.	.	ZP	
+1-15	.	.	ZP	
+1-16	det	det	PP:s-un:--:-3n-	
+1-17	beskæftiger	beskæftige	VF:----:sa:----	
+1-18	sig	sig	XY:----:--:----	
+1-19	mest	megen	AD:----:--:s---	
+1-20	med	med	T-:----:--:----	
+1-21	irritation	irritation	NC:siuc:--:----	
+1-22	,	,	ZD	
+1-23	og	og	CC:----:--:----	
+1-24	så	så	D-:----:--:u---	
+1-25	låser	låse	VF:----:sa:----	
+1-26	jeg	jeg	PP:s-nc:--:-1n-	
+1-27	modstanderen	modstander	NC:sduc:--:----	
+1-28	fast	fast	AD:----:--:p---	
+1-29	,	,	ZD	
+1-30	når	når	CS:----:--:----	
+1-31	jeg	jeg	PP:s-nc:--:-1n-	
+1-32	først	først	D-:----:--:u---	
+1-33	har	have	VF:----:sa:----	
+1-34	gjort	gøre	VT:siu#:t-:----	
+1-35	hans	hans	PO:#--#:--:-3ns	
+1-36	deck	deck	NC:siun:--:----	
+1-37	ret	ret	D-:----:--:u---	
+1-38	ubrugeligt	ubrugelig	AC:siun:--:p---	
+1-39	.	.	ZP	
+1-40	.	.	ZP	
+1-41	.	.	ZP	
+1-42	.	.	ZP	
+1-43	(	(	ZD	
+1-44	Jeg	jeg	PP:s-nc:--:-1n-	
+1-45	gider	gide	VF:----:sa:----	
+1-46	ikke	ikke	D-:----:--:u---	
+1-47	til	til	T-:----:--:----	
+1-48	at	at	UI:----:--:----	
+1-49	skrive	skrive	VI:----:-a:----	
+1-50	hvert	hver	PI:s-un:--:----	
+1-51	eneste	eneste	AC:§§u§:--:p---	
+1-52	kort	kort	NC:siun:--:----	
+1-53	i	i	T-:----:--:----	
+1-54	mit	min	PO:s--n:--:-1ns	
+1-55	deck	deck	NC:siun:--:----	
+1-56	.	.	ZP	
+1-57	.	.	ZP	
+1-58	.	.	ZP	
+1-59	ville	ville	VF:----:ta:----	
+1-60	tage	tage	VI:----:-a:----	
+1-61	for	for	T-:----:--:----	
+1-62	lang	lang	AC:siuc:--:p---	
+1-63	tid	tid	NC:siuc:--:----	
+1-64	.	.	ZP	
+1-65	.	.	ZP	
+1-66	.	.	ZP	
+1-67	)	)	ZD	
+
+#id=2
+#text= Det er lyder temmelig forvirrende... måske er det fordi jeg ikke rigtig kender navnene på de forskellige kort...
+2-1	Det	det	PP:s-un:--:-3n-	
+2-2	er	være	VF:----:sa:----	
+2-3	lyder	lyde	NC:piu#:--:----	
+2-4	temmelig	temmelig	D-:----:--:u---	
+2-5	forvirrende	forvirre	VP:##u#:s-:----	
+2-6	.	.	ZP	
+2-7	.	.	ZP	
+2-8	.	.	ZP	
+2-9	måske	måske	D-:----:--:u---	
+2-10	er	være	VF:----:sa:----	
+2-11	det	det	PP:s-un:--:-3n-	
+2-12	fordi	fordi	CS:----:--:----	
+2-13	jeg	jeg	PP:s-nc:--:-1n-	
+2-14	ikke	ikke	D-:----:--:u---	
+2-15	rigtig	rigtig	AD:----:--:p---	
+2-16	kender	kende	VF:----:sa:----	
+2-17	navnene	navn	NC:pdu#:--:----	
+2-18	på	på	T-:----:--:----	
+2-19	de	den	PM:p-u#:--:----	
+2-20	forskellige	forskellig	AC:p#u#:--:p---	
+2-21	kort	kort	NC:piu#:--:----	
+2-22	.	.	ZP	
+2-23	.	.	ZP	
+2-24	.	.	ZP	
+
+#id=3
+#text= Den eneste måde jeg kender hvor man ikke skal bruge polymerization kortet er hvis man bruger Cyber-Stein's effect.
+3-1	Den	den	PM:s-uc:--:----	
+3-2	eneste	eneste	AC:§§u§:--:p---	
+3-3	måde	måde	NC:siuc:--:----	
+3-4	jeg	jeg	NC:siun:--:----	
+3-5	kender	kende	VF:----:sa:----	
+3-6	hvor	hvor	D-:----:--:u---	
+3-7	man	man	PI:#-uc:--:----	
+3-8	ikke	ikke	D-:----:--:u---	
+3-9	skal	skulle	VF:----:sa:----	
+3-10	bruge	bruge	VI:----:-a:----	
+3-11	polymerization	polymerization	NC:siuc:--:----	
+3-12	kortet	kort	NC:sdun:--:----	
+3-13	er	være	VF:----:sa:----	
+3-14	hvis	hvis	CS:----:--:----	
+3-15	man	man	PI:#-uc:--:----	
+3-16	bruger	bruge	VF:----:sa:----	
+3-17	Cyber	Cyber	NP:siu#:--:----	
+3-18	-	-	ZH	
+3-19	Stein	Stein	NP:siu#:--:----	
+3-20	'	'	ZA	
+3-21	s	@s	MN:sig#:--:----	
+3-22	effect	effect	NC:siuc:--:----	
+3-23	.	.	ZP	
+
+#id=4
+#text=Ved nogen... hvilke kort Tea / Anzu har ?
+4-1	Ved	ved	T-:----:--:----	
+4-2	nogen	nogen	PI:s-uc:--:----	
+4-3	.	.	ZP	
+4-4	.	.	ZP	
+4-5	.	.	ZP	
+4-6	hvilke	hvilken	PR:p-u#:--:----	
+4-7	kort	kort	NC:piu#:--:----	
+4-8	Tea	Tea	NP:siu#:--:----	
+4-9	/	/	ZS	
+4-10	Anzu	Anzu	NP:siu#:--:----	
+4-11	har	har	XY:----:--:----	
+4-12	?	?	ZQ	
+
+#id=5
+#text=ekstremt svage kort.....man ser hende vist duellere en enkelt gang, hvor hun taber ret stort...
+5-1	ekstremt	ekstrem	AD:----:--:p---	
+5-2	svage	svag	AC:p#u#:--:p---	
+5-3	kort	kort	NC:piu#:--:----	
+5-4	.	.	ZP	
+5-5	.	.	ZP	
+5-6	.	.	ZP	
+5-7	.	.	ZP	
+5-8	.	.	ZP	
+5-9	man	man	PI:#-uc:--:----	
+5-10	ser	se	VF:----:sa:----	
+5-11	hende	hun	PP:s-uc:--:-3n-	
+5-12	vist	vist	D-:----:--:u---	
+5-13	duellere	duellere	VI:----:-a:----	
+5-14	en	en	PI:s-uc:--:----	
+5-15	enkelt	enkelt	AC:siu§:--:p---	
+5-16	gang	gang	NC:siuc:--:----	
+5-17	,	,	ZD	
+5-18	hvor	hvor	D-:----:--:u---	
+5-19	hun	hun	PP:s-nc:--:-3n-	
+5-20	taber	tabe	VF:----:sa:----	
+5-21	ret	ret	D-:----:--:u---	
+5-22	stort	stor	AC:siun:--:p---	
+5-23	.	.	ZP	
+5-24	.	.	ZP	
+5-25	.	.	ZP	
+
+#id=6
+#text= Dark Magician Girl og andre gode kort.
+6-1	Dark	Dark	NP:siu#:--:----	
+6-2	Magician	Magician	NP:siu#:--:----	
+6-3	Girl	Girl	XF:----:--:----	
+6-4	og	og	CC:----:--:----	
+6-5	andre	anden	PI:p-u#:--:----	
+6-6	gode	god	AC:p#u#:--:p---	
+6-7	kort	kort	NC:piu#:--:----	
+6-8	.	.	ZP	
+
+#id=7
+#text= Direkte oversat betyder det hovedstrøm(ning) ... men for at forklare det kort, så er manistream manga, den type manga, som henvender sig til en bred målgruppe - eksempel:
+7-1	Direkte	direkte	AD:----:--:p---	
+7-2	oversat	oversætte	VT:siu#:t-:----	
+7-3	betyder	betyde	VF:----:sa:----	
+7-4	det	det	PP:s-un:--:-3n-	
+7-5	hovedstrøm	hovedstrøm	NC:siuc:--:----	
+7-6	(	(	ZD	
+7-7	ning	ningram	NC:piu#:--:----	
+7-8	)	)	ZD	
+7-9	.	.	ZP	
+7-10	.	.	ZP	
+7-11	.	.	ZP	
+7-12	men	men	CC:----:--:----	
+7-13	for	for	T-:----:--:----	
+7-14	at	at	UI:----:--:----	
+7-15	forklare	forklare	VI:----:-a:----	
+7-16	det	den	PM:s-un:--:----	
+7-17	kort	kort	NC:siun:--:----	
+7-18	,	,	ZD	
+7-19	så	så	D-:----:--:u---	
+7-20	er	være	VF:----:sa:----	
+7-21	manistream	manistream	NP:siu#:--:----	
+7-22	manga	manga	XS:----:--:----	
+7-23	,	,	ZD	
+7-24	den	den	PM:s-uc:--:----	
+7-25	type	type	NC:siuc:--:----	
+7-26	manga	manga	XS:----:--:----	
+7-27	,	,	ZD	
+7-28	som	som	US:----:--:----	
+7-29	henvender	henvende	VF:----:sa:----	
+7-30	sig	sig	PP:#-u#:--:-3y-	
+7-31	til	til	T-:----:--:----	
+7-32	en	en	PI:s-uc:--:----	
+7-33	bred	bred	AC:siuc:--:p---	
+7-34	målgruppe	målgruppe	NW:----:--:----	
+7-35	-	-	ZH	
+7-36	eksempel	eksempel	NC:siun:--:----	
+7-37	:	:	ZP	
+
+#id=8
+#text= Det kommer muligvis an på hvilken Bakura vi snakker om. *pejer på billedet* Yami Bakura har da de samme kort som Ryou, ikke??
+8-1	Det	det	PP:s-un:--:-3n-	
+8-2	kommer	komme	VF:----:sa:----	
+8-3	muligvis	muligvis	D-:----:--:u---	
+8-4	an	an	D-:----:--:u---	
+8-5	på	på	T-:----:--:----	
+8-6	hvilken	hvilken	XY:----:--:----	
+8-7	Bakura	Bakura	NP:siu#:--:----	
+8-8	vi	VI	LC:--u-:--:----	
+8-9	snakker	snakker	NC:piu#:--:----	
+8-10	om	om	T-:----:--:----	
+8-11	.	.	ZP	
+8-12	*pejer	*pejer	NP:siu#:--:----	
+8-13	på	på	T-:----:--:----	
+8-14	billedet*	billedet*	NP:siu#:--:----	
+8-15	Yami	Yami	NP:siu#:--:----	
+8-16	Bakura	Bakura	NP:siu#:--:----	
+8-17	har	have	VF:----:sa:----	
+8-18	da	da	D-:----:--:u---	
+8-19	de	den	PM:p-u#:--:----	
+8-20	samme	samme	AC:§§u§:--:p---	
+8-21	kort	kort	NC:siun:--:----	
+8-22	som	som	US:----:--:----	
+8-23	Ryou	Ryou	NP:siu#:--:----	
+8-24	,	,	ZD	
+8-25	ikke	ikke	D-:----:--:u---	
+8-26	?	?	ZQ	
+8-27	?	?	ZQ	
+
+#id=9
+#text=  Regnede næsten også med det Hvor i alverden skulle han også få andre kort fra?Dummi") Har han noget millenium!!
+9-1	Regnede	regne	VF:----:ta:----	
+9-2	næsten	næsten	D-:----:--:u---	
+9-3	også	også	D-:----:--:u---	
+9-4	med	med	T-:----:--:----	
+9-5	det	det	PP:s-un:--:-3n-	
+9-6	Hvor	hvor	D-:----:--:u---	
+9-7	i	i	T-:----:--:----	
+9-8	alverden	alverden	NC:siuc:--:----	
+9-9	skulle	skulle	VF:----:ta:----	
+9-10	han	han	PP:s-nc:--:-3n-	
+9-11	også	også	D-:----:--:u---	
+9-12	få	få	VI:----:-a:----	
+9-13	andre	anden	PI:p-u#:--:----	
+9-14	kort	kort	NC:piu#:--:----	
+9-15	fra	fra	D-:----:--:u---	
+9-16	?	?	ZQ	
+9-17	Dummi	_	_	
+9-18	"	_	_	
+9-19	)	_	_	
+9-20	Har	_	_	
+9-21	han	_	_	
+9-22	noget	_	_	
+9-23	millenium	_	_	
+9-24	!	_	_	
+9-25	!	_	_	
+
+#id=10
+#text= Bayblade har imidlertid kørt sin sejrsgang ser det ud til, og Pokemon (via kortene) er ved at komme tilbage igen, og jeg mener TV2 sender de nyeste dansk dubbede afsnit...
+10-1	Bayblade	Bayblade	NP:siu#:--:----	
+10-2	har	have	VF:----:sa:----	
+10-3	imidlertid	imidlertid	D-:----:--:u---	
+10-4	kørt	køre	VT:siu#:t-:----	
+10-5	sin	sin	PO:s--c:--:-3ys	
+10-6	sejrsgang	sejrsgang	NC:siuc:--:----	
+10-7	ser	se	VF:----:sa:----	
+10-8	det	det	PP:s-un:--:-3n-	
+10-9	ud	ud	D-:----:--:u---	
+10-10	til	til	T-:----:--:----	
+10-11	,	,	ZD	
+10-12	og	og	CC:----:--:----	
+10-13	Pokemon	Pokemon	NP:siu#:--:----	
+10-14	(	(	ZD	
+10-15	via	via	T-:----:--:----	
+10-16	kortene	kort	NC:pdu#:--:----	
+10-17	)	)	ZD	
+10-18	er	være	VF:----:sa:----	
+10-19	ved	ved	T-:----:--:----	
+10-20	at	at	UI:----:--:----	
+10-21	komme	komme	VI:----:-a:----	
+10-22	tilbage	tilbage	D-:----:--:u---	
+10-23	igen	igen	D-:----:--:u---	
+10-24	,	,	ZD	
+10-25	og	og	CC:----:--:----	
+10-26	jeg	jeg	PP:s-nc:--:-1n-	
+10-27	mener	mene	VF:----:sa:----	
+10-28	TV2	TV2	NP:siu#:--:----	
+10-29	sender	sende	VF:----:sa:----	
+10-30	de	den	PM:p-u#:--:----	
+10-31	nyeste	ny	AC:§du§:--:s---	
+10-32	dansk	dansk	NC:siun:--:----	
+10-33	dubbede	dubbe	VF:----:ta:----	
+10-34	afsnit	afsnit	NC:siun:--:----	
+10-35	.	.	ZP	
+10-36	.	.	ZP	
+10-37	.	.	ZP	
+
+#id=11
+#text= Gad vide om kortene så også kan??
+11-1	Gad	gide	VF:----:ta:----	
+11-2	vide	vide	VI:----:-a:----	
+11-3	om	om	T-:----:--:----	
+11-4	kortene	kort	NC:pdu#:--:----	
+11-5	så	så	D-:----:--:u---	
+11-6	også	også	D-:----:--:u---	
+11-7	kan	kan	NC:siuc:--:----	
+11-8	?	?	ZQ	
+11-9	?	?	ZQ	
+
+#id=12
+#text=Sandsynligvis kun the millenium items _ (Kaiba gjorde det jo med staven, som han er den retmæssige ejer af, men han har den ikke alligevel ;)) (Kortene er jo temmelig inaktive uden millenium items)
+12-1	Sandsynligvis	sandsynligvis	D-:----:--:u---	
+12-2	kun	kun	D-:----:--:u---	
+12-3	the	the	NC:siuc:--:----	
+12-4	millenium	millenium	T-:----:--:----	
+12-5	items	item	NW:----:--:----	
+12-6	_	_	ZH	
+12-7	(	(	ZD	
+12-8	Kaiba	Kaiba	NP:siu#:--:----	
+12-9	gjorde	gøre	VF:----:ta:----	
+12-10	det	det	PP:s-un:--:-3n-	
+12-11	jo	jo	D-:----:--:u---	
+12-12	med	med	T-:----:--:----	
+12-13	staven	stav	NC:sduc:--:----	
+12-14	,	,	ZD	
+12-15	som	som	US:----:--:----	
+12-16	han	han	PP:s-nc:--:-3n-	
+12-17	er	være	VF:----:sa:----	
+12-18	den	den	PM:s-uc:--:----	
+12-19	retmæssige	retmæssig	AC:sdu#:--:p---	
+12-20	ejer	ejer	NC:siuc:--:----	
+12-21	af	af	T-:----:--:----	
+12-22	,	,	ZD	
+12-23	men	men	CC:----:--:----	
+12-24	han	han	PP:s-nc:--:-3n-	
+12-25	har	have	VF:----:sa:----	
+12-26	den	den	PP:s-uc:--:-3n-	
+12-27	ikke	ikke	D-:----:--:u---	
+12-28	alligevel	alligevel	D-:----:--:u---	
+12-29	;	;	ZP	
+12-30	)	)	ZD	
+12-31	)	)	ZD	
+12-32	(	(	ZD	
+12-33	Kortene	kort	NC:pdu#:--:----	
+12-34	er	være	VF:----:sa:----	
+12-35	jo	jo	D-:----:--:u---	
+12-36	temmelig	temmelig	D-:----:--:u---	
+12-37	inaktive	inaktiv	AC:p#u#:--:p---	
+12-38	uden	uden	T-:----:--:----	
+12-39	millenium	millenium	AC:##u#:--:c---	
+12-40	items	item	NC:piu#:--:----	
+12-41	)	)	ZD	
+
+#id=13
+#text= Hvilke andre kort har han
+13-1	Hvilke	Hvilke	XY:----:--:----	
+13-2	andre	anden	PI:p-u#:--:----	
+13-3	kort	kort	NC:piu#:--:----	
+13-4	har	have	VF:----:sa:----	
+13-5	han	han	PP:s-nc:--:-3n-	
+
+#id=14
+#text=Han har....onde kort?
+14-1	Han	han	PP:s-nc:--:-3n-	
+14-2	har	have	VF:----:sa:----	
+14-3	.	.	ZP	
+14-4	.	.	ZP	
+14-5	.	.	ZP	
+14-6	.	.	ZP	
+14-7	onde	ond	AC:p#u#:--:p---	
+14-8	kort	kort	NC:piu#:--:----	
+14-9	?	?	ZQ	
+
+#id=15
+#text=Har Marik andre gode kort ind de to gudekort.....
+15-1	Har	have	VF:----:sa:----	
+15-2	Marik	Marik	XY:----:--:----	
+15-3	andre	anden	PI:p-u#:--:----	
+15-4	gode	god	AC:p#u#:--:p---	
+15-5	kort	kort	NC:piu#:--:----	
+15-6	ind	ind	D-:----:--:u---	
+15-7	de	den	PM:p-u#:--:----	
+15-8	to	to	LC:--u-:--:----	
+15-9	gudekort	gudekort	NC:siuc:--:----	
+15-10	.	.	ZP	
+15-11	.	.	ZP	
+15-12	.	.	ZP	
+15-13	.	.	ZP	
+15-14	.	.	ZP	
+
+#id=16
+#text=Det stærkeste kort i hans deck er i hvert fald Dark paladin.
+16-1	Det	den	PM:s-un:--:----	
+16-2	stærkeste	stærk	AC:§du§:--:s---	
+16-3	kort	kort	NC:siun:--:----	
+16-4	i	i	T-:----:--:----	
+16-5	hans	hans	PO:#--#:--:-3ns	
+16-6	deck	deck	NC:siun:--:----	
+16-7	er	være	VF:----:sa:----	
+16-8	i	i	T-:----:--:----	
+16-9	hvert	hver	PI:s-un:--:----	
+16-10	fald	fald	NC:siun:--:----	
+16-11	Dark	Dark	NP:siu#:--:----	
+16-12	paladin	paladin	XY:----:--:----	
+16-13	.	.	ZP	
+
+#id=17
+#text=Ifølge upperdeck, som er de regler jeg følger, da de har udgivet de engelske kort, er mit deck lovligt.
+17-1	Ifølge	ifølge	T-:----:--:----	
+17-2	upperdeck	upperdeck	NC:siun:--:----	
+17-3	,	,	ZD	
+17-4	som	som	US:----:--:----	
+17-5	er	være	VF:----:sa:----	
+17-6	de	den	PM:p-u#:--:----	
+17-7	regler	regel	NC:piu#:--:----	
+17-8	jeg	jeg	NC:siun:--:----	
+17-9	følger	følge	VF:----:sa:----	
+17-10	,	,	ZD	
+17-11	da	da	CS:----:--:----	
+17-12	de	de	PP:p-n#:--:-3n-	
+17-13	har	have	VF:----:sa:----	
+17-14	udgivet	udgive	VT:siu#:t-:----	
+17-15	de	den	PM:p-u#:--:----	
+17-16	engelske	engelsk	AC:p#u#:--:p---	
+17-17	kort	kort	NC:piu#:--:----	
+17-18	,	,	ZD	
+17-19	er	er	XY:----:--:----	
+17-20	mit	mit	XF:----:--:----	
+17-21	deck	deck	NC:siun:--:----	
+17-22	lovligt	lovlig	AD:----:--:p---	
+17-23	.	.	ZP	
+
+#id=18
+#text= Okay..jeg havde forstået det på den måde at du kun måtte bruge et af alle de kort.
+18-1	Okay	okay	AC:§§u§:--:p---	
+18-2	.	.	ZP	
+18-3	.	.	ZP	
+18-4	jeg	jeg	PP:s-nc:--:-1n-	
+18-5	havde	have	VF:----:ta:----	
+18-6	forstået	forstå	VT:siu#:t-:----	
+18-7	det	det	PP:s-un:--:-3n-	
+18-8	på	på	T-:----:--:----	
+18-9	den	den	PM:s-uc:--:----	
+18-10	måde	måde	NC:siuc:--:----	
+18-11	at	at	CS:----:--:----	
+18-12	du	du	PP:s-nc:--:-2n-	
+18-13	kun	kun	D-:----:--:u---	
+18-14	måtte	måtte	VF:----:ta:----	
+18-15	bruge	bruge	VI:----:-a:----	
+18-16	et	en	PI:s-un:--:----	
+18-17	af	af	T-:----:--:----	
+18-18	alle	al	PI:p-u#:--:----	
+18-19	de	den	PM:p-u#:--:----	
+18-20	kort	kort	NC:piu#:--:----	
+18-21	.	.	ZP	
+
+#id=19
+#text= MST, det er lidt ...... men så må jeg jo bare finde et andet kort er er lige så godt :twisted:
+19-1	MST	MST	NP:siu#:--:----	
+19-2	,	,	ZD	
+19-3	det	det	PP:s-un:--:-3n-	
+19-4	er	være	VF:----:sa:----	
+19-5	lidt	lidt	AD:----:--:p---	
+19-6	.	.	ZP	
+19-7	.	.	ZP	
+19-8	.	.	ZP	
+19-9	.	.	ZP	
+19-10	.	.	ZP	
+19-11	.	.	ZP	
+19-12	men	men	CC:----:--:----	
+19-13	så	så	D-:----:--:u---	
+19-14	må	måtte	VF:----:sa:----	
+19-15	jeg	jeg	PP:s-nc:--:-1n-	
+19-16	jo	jo	D-:----:--:u---	
+19-17	bare	bare	D-:----:--:u---	
+19-18	finde	finde	VI:----:-a:----	
+19-19	et	en	PI:s-un:--:----	
+19-20	andet	anden	PI:s-un:--:----	
+19-21	kort	kort	NC:siun:--:----	
+19-22	er	være	VF:----:sa:----	
+19-23	er	være	VF:----:sa:----	
+19-24	lige	lige	D-:----:--:u---	
+19-25	så	så	D-:----:--:u---	
+19-26	godt	god	AD:----:--:p---	
+19-27	:	:	ZP	
+19-28	twisted	twisted	NC:siun:--:----	
+19-29	:	:	ZP	
+
+#id=20
+#text= Hvor mange kort har du :?: :?:
+20-1	Hvor	hvor	D-:----:--:u---	
+20-2	mange	mangen	AC:p#u#:--:p---	
+20-3	kort	kort	NC:piu#:--:----	
+20-4	har	have	VF:----:sa:----	
+20-5	du	du	PP:s-nc:--:-2n-	
+20-6	:	:	ZP	
+20-7	?	?	ZQ	
+20-8	:	:	ZP	
+20-9	:	:	ZP	
+20-10	?	?	ZQ	
+20-11	:	:	ZP	
+
+#id=21
+#text= Tjaa, jeg har 99 kort.
+21-1	Tjaa	Tjaa	NP:siu#:--:----	
+21-2	,	,	ZD	
+21-3	jeg	jeg	PP:s-nc:--:-1n-	
+21-4	har	have	VF:----:sa:----	
+21-5	99	99	LC:--u-:--:----	
+21-6	kort	kort	NC:piu#:--:----	
+21-7	.	.	ZP	
+
+#id=22
+#text= Det er da ikke så lidt.. hvad hedder dit bedste kort..
+22-1	Det	det	PP:s-un:--:-3n-	
+22-2	er	være	VF:----:sa:----	
+22-3	da	da	D-:----:--:u---	
+22-4	ikke	ikke	D-:----:--:u---	
+22-5	så	så	D-:----:--:u---	
+22-6	lidt	lidt	AD:----:--:p---	
+22-7	.	.	ZP	
+22-8	.	.	ZP	
+22-9	hvad	hvad	PR:s-u#:--:----	
+22-10	hedder	hedde	VF:----:sa:----	
+22-11	dit	dit	XY:----:--:----	
+22-12	bedste	god	AC:§du§:--:s---	
+22-13	kort	kort	NC:siun:--:----	
+22-14	.	.	ZP	
+22-15	.	.	ZP	
+
+#id=23
+#text= Det er da ikke så lidt.. hvad hedder dit bedste kort..
+23-1	Det	det	PP:s-un:--:-3n-	
+23-2	er	være	VF:----:sa:----	
+23-3	da	da	D-:----:--:u---	
+23-4	ikke	ikke	D-:----:--:u---	
+23-5	så	så	D-:----:--:u---	
+23-6	lidt	lidt	AD:----:--:p---	
+23-7	.	.	ZP	
+23-8	.	.	ZP	
+23-9	hvad	hvad	PR:s-u#:--:----	
+23-10	hedder	hedde	VF:----:sa:----	
+23-11	dit	dit	XY:----:--:----	
+23-12	bedste	god	AC:§du§:--:s---	
+23-13	kort	kort	NC:siun:--:----	
+23-14	.	.	ZP	
+23-15	.	.	ZP	
+
+#id=24
+#text= Jeg synes det er svært at vælge ét specielt kort som er bedst.
+24-1	Jeg	jeg	PP:s-nc:--:-1n-	
+24-2	synes	syne	VF:----:sp:----	
+24-3	det	det	PP:s-un:--:-3n-	
+24-4	er	være	VF:----:sa:----	
+24-5	svært	svær	AC:siun:--:p---	
+24-6	at	at	UI:----:--:----	
+24-7	vælge	vælge	VI:----:-a:----	
+24-8	ét	en	PI:s-un:--:----	
+24-9	specielt	speciel	AC:siun:--:p---	
+24-10	kort	kort	NC:siun:--:----	
+24-11	som	som	US:----:--:----	
+24-12	er	være	VF:----:sa:----	
+24-13	bedst	god	AC:§§u§:--:s---	
+24-14	.	.	ZP	
+
+#id=25
+#text= Et andet eksempel er Man-Eater Bug ikke særlig stærk, men den kan ødelægge et af modstanderens kort så snart den bliver "flipped."
+25-1	Et	en	PI:s-un:--:----	
+25-2	andet	anden	PI:s-un:--:----	
+25-3	eksempel	eksempel	NC:siun:--:----	
+25-4	er	være	VF:----:sa:----	
+25-5	Man	Man	NP:siu#:--:----	
+25-6	-	-	ZH	
+25-7	Eater	Eater	NP:siu#:--:----	
+25-8	Bug	bug	NC:siuc:--:----	
+25-9	ikke	ikke	D-:----:--:u---	
+25-10	særlig	særlig	AD:----:--:p---	
+25-11	stærk	stærk	AC:siuc:--:p---	
+25-12	,	,	ZD	
+25-13	men	men	CC:----:--:----	
+25-14	den	den	PP:s-uc:--:-3n-	
+25-15	kan	kunne	VF:----:sa:----	
+25-16	ødelægge	ødelægge	VI:----:-a:----	
+25-17	et	en	PI:s-un:--:----	
+25-18	af	af	T-:----:--:----	
+25-19	modstanderens	modstander	NC:sdgc:--:----	
+25-20	kort	kort	NC:siun:--:----	
+25-21	så	så	D-:----:--:u---	
+25-22	snart	snart	D-:----:--:u---	
+25-23	den	den	PP:s-uc:--:-3n-	
+25-24	bliver	blive	VF:----:sa:----	
+25-25	"	"	ZI	
+25-26	flipped	flippED	NC:siuc:--:----	
+25-27	.	.	ZP	
+25-28	"	"	ZI	
+
+#id=26
+#text=Hvis 99 kort kan gøre et indtryk på dig kan jeg gøre det bedre jeg har over 1000 kort :lol:
+26-1	Hvis	hvis	CS:----:--:----	
+26-2	99	99	LC:--u-:--:----	
+26-3	kort	kort	NC:piu#:--:----	
+26-4	kan	kunne	VF:----:sa:----	
+26-5	gøre	gøre	VI:----:-a:----	
+26-6	et	en	PI:s-un:--:----	
+26-7	indtryk	indtryk	NC:siun:--:----	
+26-8	på	på	T-:----:--:----	
+26-9	dig	dig	XY:----:--:----	
+26-10	kan	kunne	VF:----:sa:----	
+26-11	jeg	jeg	PP:s-nc:--:-1n-	
+26-12	gøre	gøre	VI:----:-a:----	
+26-13	det	den	PM:s-un:--:----	
+26-14	bedre	god	AC:##u#:--:c---	
+26-15	jeg	jeg	NC:siun:--:----	
+26-16	har	have	VF:----:sa:----	
+26-17	over	over	T-:----:--:----	
+26-18	1000	1000	LC:--u-:--:----	
+26-19	kort	kort	NC:piu#:--:----	
+26-20	:	:	ZP	
+26-21	lol	lol	NC:siuc:--:----	
+26-22	:	:	ZP	
+
+#id=27
+#text= Jeg har.... (tar mine kort frem og begynder at tælle) 58 almindelig monsterkort 41 effekt monsterk kort 7 Fusion kort 41 magi kort 20 Fælder 15 kort i mit sidedeck jeg har ikke så mange kort men det skal nok komme :!: :!:
+27-1	Jeg	jeg	PP:s-nc:--:-1n-	
+27-2	har	have	VF:----:sa:----	
+27-3	.	.	ZP	
+27-4	.	.	ZP	
+27-5	.	.	ZP	
+27-6	.	.	ZP	
+27-7	(	(	ZD	
+27-8	tar	tage	VF:----:sa:----	
+27-9	mine	mine	NC:siuc:--:----	
+27-10	kort	kort	AD:----:--:p---	
+27-11	frem	frem	D-:----:--:u---	
+27-12	og	og	CC:----:--:----	
+27-13	begynder	begynde	VF:----:sa:----	
+27-14	at	at	UI:----:--:----	
+27-15	tælle	tælle	VI:----:-a:----	
+27-16	)	)	ZD	
+27-17	58	58	LC:--u-:--:----	
+27-18	almindelig	almindelig	AD:----:--:p---	
+27-19	monsterkort	monsterkort	AD:----:--:p---	
+27-20	41	41	LC:--u-:--:----	
+27-21	effekt	effekt	NC:siuc:--:----	
+27-22	monsterk	monsterk	XS:----:--:----	
+27-23	kort	kort	NC:siun:--:----	
+27-24	7	7	LC:--u-:--:----	
+27-25	Fusion	fusion	NC:siuc:--:----	
+27-26	kort	kort	AD:----:--:p---	
+27-27	41	41	LC:--u-:--:----	
+27-28	magi	magi	NC:siuc:--:----	
+27-29	kort	kort	AD:----:--:p---	
+27-30	20	20	LC:--u-:--:----	
+27-31	Fælder	fælde	NC:piu#:--:----	
+27-32	15	15	LC:--u-:--:----	
+27-33	kort	kort	NC:piu#:--:----	
+27-34	i	i	T-:----:--:----	
+27-35	mit	min	PO:s--n:--:-1ns	
+27-36	sidedeck	sidedeck	NC:siun:--:----	
+27-37	jeg	jeg	NC:siun:--:----	
+27-38	har	have	VF:----:sa:----	
+27-39	ikke	ikke	D-:----:--:u---	
+27-40	så	så	D-:----:--:u---	
+27-41	mange	mangen	AC:p#u#:--:p---	
+27-42	kort	kort	NC:piu#:--:----	
+27-43	men	men	CC:----:--:----	
+27-44	det	det	PP:s-un:--:-3n-	
+27-45	skal	skulle	VF:----:sa:----	
+27-46	nok	nok	D-:----:--:u---	
+27-47	komme	komme	VI:----:-a:----	
+27-48	:	:	ZP	
+27-49	!	!	ZP	
+27-50	:	:	ZP	
+27-51	:	:	ZP	
+27-52	!	!	ZP	
+27-53	:	:	ZP	
+
+#id=28
+#text= Hvis du mener blande, så nej, da man jo ikke bruger decket indtil man lægger kortene ind i sit deck, som så blandes ;)
+28-1	Hvis	hvis	CS:----:--:----	
+28-2	du	du	PP:s-nc:--:-2n-	
+28-3	mener	mene	VF:----:sa:----	
+28-4	blande	blande	VI:----:-a:----	
+28-5	,	,	ZD	
+28-6	så	så	CS:----:--:----	
+28-7	nej	nej	NC:siun:--:----	
+28-8	,	,	ZD	
+28-9	da	da	CS:----:--:----	
+28-10	man	man	PI:#-uc:--:----	
+28-11	jo	jo	D-:----:--:u---	
+28-12	ikke	ikke	D-:----:--:u---	
+28-13	bruger	bruge	VF:----:sa:----	
+28-14	decket	deck	NC:sdun:--:----	
+28-15	indtil	indtil	CS:----:--:----	
+28-16	man	man	PI:#-uc:--:----	
+28-17	lægger	lægge	VF:----:sa:----	
+28-18	kortene	kort	NC:pdu#:--:----	
+28-19	ind	ind	D-:----:--:u---	
+28-20	i	i	T-:----:--:----	
+28-21	sit	sin	PO:s--n:--:-3ys	
+28-22	deck	ck	NC:siun:--:----	
+28-23	,	,	ZD	
+28-24	som	som	US:----:--:----	
+28-25	så	så	D-:----:--:u---	
+28-26	blandes	blande	VI:----:-p:----	
+28-27	;	;	ZP	
+28-28	)	)	ZD	
+
+#id=29
+#text= Har du ikke fået det kort med et spil....
+29-1	Har	have	VF:----:sa:----	
+29-2	du	du	PP:s-nc:--:-2n-	
+29-3	ikke	ikke	D-:----:--:u---	
+29-4	fået	få	VT:siu#:t-:----	
+29-5	det	den	PM:s-un:--:----	
+29-6	kort	kort	NC:siun:--:----	
+29-7	med	med	T-:----:--:----	
+29-8	et	en	PI:s-un:--:----	
+29-9	spil	spil	NC:siun:--:----	
+29-10	.	.	ZP	
+29-11	.	.	ZP	
+29-12	.	.	ZP	
+29-13	.	.	ZP	
+
+#id=30
+#text=Skal man havde 40 kort eller må man ikke havde flere ( Er ikke helt sikker :oops:
+30-1	Skal	skulle	VF:----:sa:----	
+30-2	man	man	PI:#-uc:--:----	
+30-3	havde	have	VF:----:ta:----	
+30-4	40	40	LC:--u-:--:----	
+30-5	kort	kort	NC:piu#:--:----	
+30-6	eller	eller	CC:----:--:----	
+30-7	må	måtte	VF:----:sa:----	
+30-8	man	man	PI:#-uc:--:----	
+30-9	ikke	ikke	D-:----:--:u---	
+30-10	havde	have	VF:----:ta:----	
+30-11	flere	mange	AC:##u#:--:c---	
+30-12	(	(	ZD	
+30-13	Er	være	VF:----:sa:----	
+30-14	ikke	ikke	D-:----:--:u---	
+30-15	helt	hel	AD:----:--:p---	
+30-16	sikker	sikker	AC:siuc:--:p---	
+30-17	:	:	ZP	
+30-18	oops	ooPS	XS:----:--:----	
+30-19	:	:	ZP	
+
+#id=31
+#text= Når du spiller skal du minimum have 40 kort i dit Deck, men du må godt spille med f.eks. 150 kort.
+31-1	Når	når	CS:----:--:----	
+31-2	du	du	PP:s-nc:--:-2n-	
+31-3	spiller	spille	VF:----:sa:----	
+31-4	skal	skulle	VF:----:sa:----	
+31-5	du	du	PP:s-nc:--:-2n-	
+31-6	minimum	minimum	NC:siun:--:----	
+31-7	have	have	VI:----:-a:----	
+31-8	40	40	LC:--u-:--:----	
+31-9	kort	kort	NC:piu#:--:----	
+31-10	i	i	T-:----:--:----	
+31-11	dit	dit	XY:----:--:----	
+31-12	Deck	deck	NC:siun:--:----	
+31-13	,	,	ZD	
+31-14	men	men	CC:----:--:----	
+31-15	du	du	PP:s-nc:--:-2n-	
+31-16	må	måtte	--:sa:----	
+31-17	godt	god	AD:----:--:p---	
+31-18	spille	spille	VI:----:-a:----	
+31-19	med	med	D-:----:--:u---	
+31-20	f	for	T-:----:--:----	
+31-21	.	.	ZP	
+31-22	eks	eksempel	NC:siun:--:----	
+31-23	.	.	ZP	
+31-24	150	150	LC:--u-:--:----	
+31-25	kort	kort	NC:piu#:--:----	
+31-26	.	.	ZP	
+
+#id=32
+#text= Det er nok smartest at spille med så få som man mener er muligt, fordi så er chancen for at trække et godt kort jo større.
+32-1	Det	det	PP:s-un:--:-3n-	
+32-2	er	være	VF:----:sa:----	
+32-3	nok	nok	D-:----:--:u---	
+32-4	smartest	smartest	XY:----:--:----	
+32-5	at	at	UI:----:--:----	
+32-6	spille	spille	VI:----:-a:----	
+32-7	med	med	T-:----:--:----	
+32-8	så	så	D-:----:--:u---	
+32-9	få	få	VI:----:-a:----	
+32-10	som	som	US:----:--:----	
+32-11	man	man	PI:#-uc:--:----	
+32-12	mener	mene	VF:----:sa:----	
+32-13	er	være	VF:----:sa:----	
+32-14	muligt	mulig	AC:siun:--:p---	
+32-15	,	,	ZD	
+32-16	fordi	fordi	CS:----:--:----	
+32-17	så	så	D-:----:--:u---	
+32-18	er	være	VF:----:sa:----	
+32-19	chancen	chance	NC:sduc:--:----	
+32-20	for	for	T-:----:--:----	
+32-21	at	at	UI:----:--:----	
+32-22	trække	trække	VI:----:-a:----	
+32-23	et	en	PI:s-un:--:----	
+32-24	godt	god	AC:siun:--:p---	
+32-25	kort	kort	NC:siun:--:----	
+32-26	jo	jo	D-:----:--:u---	
+32-27	større	stor	AD:----:--:c---	
+32-28	.	.	ZP	
+
+#id=33
+#text= Jeg har ikke set The Winged Dragon of Ra i serien endnu, så jeg ved ikke hvordan det foregår i Animé'n, men jeg mener at jeg har læst et eller andet sted at den får angreb og forsvar som er beskrevet ovenfor når man spiller med kortene.
+33-1	Jeg	jeg	PP:s-nc:--:-1n-	
+33-2	har	have	VF:----:sa:----	
+33-3	ikke	ikke	D-:----:--:u---	
+33-4	set	se	VT:siu#:t-:----	
+33-5	The	the	XF:----:--:----	
+33-6	Winged	Winged	NP:siu#:--:----	
+33-7	Dragon	Dragon	XY:----:--:----	
+33-8	of	of	XF:----:--:----	
+33-9	Ra	Ra	NP:siu#:--:----	
+33-10	i	i	T-:----:--:----	
+33-11	serien	serie	NC:sduc:--:----	
+33-12	endnu	endnu	D-:----:--:u---	
+33-13	,	,	ZD	
+33-14	så	så	CS:----:--:----	
+33-15	jeg	jeg	PP:s-nc:--:-1n-	
+33-16	ved	vide	VF:----:sa:----	
+33-17	ikke	ikke	D-:----:--:u---	
+33-18	hvordan	hvordan	D-:----:--:u---	
+33-19	det	det	PP:s-un:--:-3n-	
+33-20	foregår	foregå	VF:----:sa:----	
+33-21	i	i	T-:----:--:----	
+33-22	Animé	Animé	NP:siu#:--:----	
+33-23	'	'	ZA	
+33-24	n	and	XF:----:--:----	
+33-25	,	,	ZD	
+33-26	men	men	CC:----:--:----	
+33-27	jeg	jeg	PP:s-nc:--:-1n-	
+33-28	mener	mene	VF:----:sa:----	
+33-29	at	at	CS:----:--:----	
+33-30	jeg	jeg	PP:s-nc:--:-1n-	
+33-31	har	have	VF:----:sa:----	
+33-32	læst	læse	VT:siu#:t-:----	
+33-33	et	en	PI:s-un:--:----	
+33-34	eller	eller	CC:----:--:----	
+33-35	andet	anden	PI:s-un:--:----	
+33-36	sted	sted	NC:siun:--:----	
+33-37	at	at	CS:----:--:----	
+33-38	den	den	PP:s-uc:--:-3n-	
+33-39	får	få	VF:----:sa:----	
+33-40	angreb	greb	NC:siun:--:----	
+33-41	og	og	CC:----:--:----	
+33-42	forsvar	forsvar	NC:piu#:--:----	
+33-43	som	som	US:----:--:----	
+33-44	er	være	VF:----:sa:----	
+33-45	beskrevet	beskrive	VT:siu#:t-:----	
+33-46	ovenfor	ovenfor	D-:----:--:u---	
+33-47	når	når	CS:----:--:----	
+33-48	man	man	PI:#-uc:--:----	
+33-49	spiller	spille	VF:----:sa:----	
+33-50	med	med	T-:----:--:----	
+33-51	kortene	kort	NC:pdu#:--:----	
+33-52	.	.	ZP	
+
+#id=34
+#text=Ved du om der er andre stærke kort ind Exodia og gudekort..
+34-1	Ved	vide	VF:----:sa:----	
+34-2	du	du	PP:s-nc:--:-2n-	
+34-3	om	om	D-:----:--:u---	
+34-4	der	der	US:----:--:----	
+34-5	er	være	VF:----:sa:----	
+34-6	andre	anden	PI:p-u#:--:----	
+34-7	stærke	stærk	AC:p#u#:--:p---	
+34-8	kort	kort	NC:piu#:--:----	
+34-9	ind	ind	D-:----:--:u---	
+34-10	Exodia	Exodia	NP:siu#:--:----	
+34-11	og	og	CC:----:--:----	
+34-12	gudekort	gudekort	NC:siuc:--:----	
+34-13	.	.	ZP	
+34-14	.	.	ZP	
+
+#id=35
+#text=mit stærkeste kort er exodia tror det staves sådan
+35-1	mit	mit	XY:----:--:----	
+35-2	stærkeste	stærk	AC:§du§:--:s---	
+35-3	kort	kort	NC:siun:--:----	
+35-4	er	være	VF:----:sa:----	
+35-5	exodia	exodia	NC:siun:--:----	
+35-6	tror	tro	VF:----:sa:----	
+35-7	det	det	PP:s-un:--:-3n-	
+35-8	staves	stave	VF:----:sp:----	
+35-9	sådan	sådan	D-:----:--:u---	
+
+#id=36
+#text=quote="jonouchi")mit stærkeste kort er exodia necross tror det staves sådan
+36-1	quote=	quote=	XS:----:--:----	
+36-2	"	"	ZI	
+36-3	jonouchi	jonouchi	NC:siun:--:----	
+36-4	"	"	ZI	
+36-5	)	)	ZD	
+36-6	mit	mit	XY:----:--:----	
+36-7	stærkeste	stærk	AC:§du§:--:s---	
+36-8	kort	kort	NC:siun:--:----	
+36-9	er	være	VF:----:sa:----	
+36-10	exodia	exodia	NC:siun:--:----	
+36-11	necross	necross	NC:siuc:--:----	
+36-12	tror	tro	VF:----:sa:----	
+36-13	det	det	PP:s-un:--:-3n-	
+36-14	staves	stave	VF:----:sp:----	
+36-15	sådan	sådan	D-:----:--:u---	
+
+#id=37
+#text= Hvordan har du fået det  vil rigtig godt vide det Har du alle kort eller bare 1 af dem ( Hvis der er nogen i tvivl om hvordan Exodia ser ud så kig ned ) 
+37-1	Hvordan	hvordan	D-:----:--:u---	
+37-2	har	have	VF:----:sa:----	
+37-3	du	du	PP:s-nc:--:-2n-	
+37-4	fået	få	VT:siu#:t-:----	
+37-5	det	det	PP:s-un:--:-3n-	
+37-6	vil	ville	VF:----:sa:----	
+37-7	rigtig	rigtig	AD:----:--:p---	
+37-8	godt	god	AD:----:--:p---	
+37-9	vide	vide	VI:----:-a:----	
+37-10	det	det	PP:s-un:--:-3n-	
+37-11	Har	have	VF:----:sa:----	
+37-12	du	du	PP:s-nc:--:-2n-	
+37-13	alle	al	PI:p-u#:--:----	
+37-14	kort	kort	NC:piu#:--:----	
+37-15	eller	eller	CC:----:--:----	
+37-16	bare	bare	D-:----:--:u---	
+37-17	1	1	LC:--u-:--:----	
+37-18	af	af	T-:----:--:----	
+37-19	dem	de	PP:p-u#:--:-3n-	
+37-20	(	(	ZD	
+37-21	Hvis	hvis	CS:----:--:----	
+37-22	der	der	US:----:--:----	
+37-23	er	være	VF:----:sa:----	
+37-24	nogen	nogen	PI:s-uc:--:----	
+37-25	i	i	T-:----:--:----	
+37-26	tvivl	tvivl	NC:siuc:--:----	
+37-27	om	om	T-:----:--:----	
+37-28	hvordan	hvordan	D-:----:--:u---	
+37-29	Exodia	Exodia	NP:siu#:--:----	
+37-30	ser	se	VF:----:sa:----	
+37-31	ud	ud	D-:----:--:u---	
+37-32	så	så	D-:----:--:u---	
+37-33	kig	kigge	VM:----:--:----	
+37-34	ned	ned	D-:----:--:u---	
+37-35	)	)	ZD	
+
+#id=38
+#text= Det er faktisk ret sjovt men jeg tror det er sjovere at spille det med rigtige kort end med en gameboy mellem hænderne...
+38-1	Det	det	PP:s-un:--:-3n-	
+38-2	er	være	VF:----:sa:----	
+38-3	faktisk	faktisk	AD:----:--:p---	
+38-4	ret	ret	D-:----:--:u---	
+38-5	sjovt	sjov	AD:----:--:p---	
+38-6	men	men	CC:----:--:----	
+38-7	jeg	jeg	PP:s-nc:--:-1n-	
+38-8	tror	tro	VF:----:sa:----	
+38-9	det	det	PP:s-un:--:-3n-	
+38-10	er	være	VF:----:sa:----	
+38-11	sjovere	sjov	AC:##u#:--:c---	
+38-12	at	at	UI:----:--:----	
+38-13	spille	spille	VI:----:-a:----	
+38-14	det	det	PP:s-un:--:-3n-	
+38-15	med	med	T-:----:--:----	
+38-16	rigtige	rigtig	AC:p#u#:--:p---	
+38-17	kort	kort	NC:piu#:--:----	
+38-18	end	end	D-:----:--:u---	
+38-19	med	med	T-:----:--:----	
+38-20	en	en	PI:s-uc:--:----	
+38-21	gameboy	gameboy	NP:siu#:--:----	
+38-22	mellem	mellem	T-:----:--:----	
+38-23	hænderne	hånd	NC:pdu#:--:----	
+38-24	.	.	ZP	
+38-25	.	.	ZP	
+38-26	.	.	ZP	
+
+#id=39
+#text= Det er nok knap så sjovt som med de rigtige kort... men det er en del billigere... :P
+39-1	Det	det	PP:s-un:--:-3n-	
+39-2	er	være	VF:----:sa:----	
+39-3	nok	nok	D-:----:--:u---	
+39-4	knap	knap	D-:----:--:u---	
+39-5	så	så	D-:----:--:u---	
+39-6	sjovt	sjov	AD:----:--:p---	
+39-7	som	som	US:----:--:----	
+39-8	med	med	T-:----:--:----	
+39-9	de	den	PM:p-u#:--:----	
+39-10	rigtige	rigtig	AC:p#u#:--:p---	
+39-11	kort	kort	NC:piu#:--:----	
+39-12	.	.	ZP	
+39-13	.	.	ZP	
+39-14	.	.	ZP	
+39-15	men	men	CC:----:--:----	
+39-16	det	det	PP:s-un:--:-3n-	
+39-17	er	være	VF:----:sa:----	
+39-18	en	en	PI:s-uc:--:----	
+39-19	del	del	NC:siuc:--:----	
+39-20	billigere	billig	AD:----:--:c---	
+39-21	.	.	ZP	
+39-22	.	.	ZP	
+39-23	.	.	ZP	
+39-24	:	:	ZP	
+39-25	P	P	NP:siu#:--:----	
+
+#id=40
+#text=;), det er noget sjovere med rigtige kort :P.
+40-1	;	;	LC:--u-:--:----	
+40-2	)	)	ZD	
+40-3	,	,	ZD	
+40-4	det	det	PP:s-un:--:-3n-	
+40-5	er	være	VF:----:sa:----	
+40-6	noget	nogen	PI:s-un:--:----	
+40-7	sjovere	sjov	AC:##u#:--:c---	
+40-8	med	med	T-:----:--:----	
+40-9	rigtige	rigtig	AC:p#u#:--:p---	
+40-10	kort	kort	NC:piu#:--:----	
+40-11	:	:	ZP	
+40-12	P	P	NP:siu#:--:----	
+40-13	.	.	ZP	
+
+#id=41
+#text= WATCH OUT!! jeg har megapowerMANsuperdraGe!!!11-koRteT~~~lalal~~ så kan du ikke gøre noget.. øv du har lige fået 2503423 mill.
+41-1	WATCH	WATCH	NP:siu#:--:----	
+41-2	OUT	out	XF:----:--:----	
+41-3	!	!	ZP	
+41-4	!	!	ZP	
+41-5	jeg	jeg	PP:s-nc:--:-1n-	
+41-6	har	have	VF:----:sa:----	
+41-7	megapowerMANsuperdraGe	megapowerMANsuperdraGe	NP:siu#:--:----	
+41-8	!	!	ZP	
+41-9	!	!	ZP	
+41-10	!	!	ZP	
+41-11	11	11	LC:--u-:--:----	
+41-12	-	-	ZH	
+41-13	koRteT	kort	NC:sdun:--:----	
+41-14	~	~	ZD	
+41-15	~	~	ZD	
+41-16	~	~	ZD	
+41-17	lalal	lalal	NC:siun:--:----	
+41-18	~	~	ZD	
+41-19	~	~	ZD	
+41-20	så	så	D-:----:--:u---	
+41-21	kan	kunne	VF:----:sa:----	
+41-22	du	du	PP:s-nc:--:-2n-	
+41-23	ikke	ikke	D-:----:--:u---	
+41-24	gøre	gøre	VI:----:-a:----	
+41-25	noget	nogen	PI:s-un:--:----	
+41-26	.	.	ZP	
+41-27	.	.	ZP	
+41-28	øv	øv	I-:----:--:----	
+41-29	du	du	PP:s-nc:--:-2n-	
+41-30	har	have	VF:----:sa:----	
+41-31	lige	lige	D-:----:--:u---	
+41-32	fået	få	VT:siu#:t-:----	
+41-33	2503423	2503423	LC:--u-:--:----	
+41-34	mill	million	NC:piu#:--:----	
+41-35	.	.	ZP	
+
+#id=42
+#text= Dark Magician vil det så kunne smadre et hvilket som helst af modstanderens kort som er på banen f.eks.
+42-1	Dark	Dark	NP:siu#:--:----	
+42-2	Magician	Magician	NP:siu#:--:----	
+42-3	vil	ville	VF:----:sa:----	
+42-4	det	det	PP:s-un:--:-3n-	
+42-5	så	så	D-:----:--:u---	
+42-6	kunne	kunne	VF:----:ta:----	
+42-7	smadre	smadre	VI:----:-a:----	
+42-8	et	en	PI:s-un:--:----	
+42-9	hvilket	hvilket	XY:----:--:----	
+42-10	som	som	US:----:--:----	
+42-11	helst	helst	D-:----:--:u---	
+42-12	af	af	T-:----:--:----	
+42-13	modstanderens	modstander	NC:sdgc:--:----	
+42-14	kort	kort	NC:siun:--:----	
+42-15	som	som	US:----:--:----	
+42-16	er	være	VF:----:sa:----	
+42-17	på	på	T-:----:--:----	
+42-18	banen	bane	NC:sduc:--:----	
+42-19	f	for	T-:----:--:----	
+42-20	.	.	ZP	
+42-21	eks	eksempel	--:----	
+42-22	.	.	ZP	
+
+#id=43
+#text= Forretsen... nu hvor  i snakkede om stærkeste kort...
+43-1	Forretsen	Forretsen	NP:siu#:--:----	
+43-2	.	.	ZP	
+43-3	.	.	ZP	
+43-4	.	.	ZP	
+43-5	nu	nu	D-:----:--:u---	
+43-6	hvor	hvor	D-:----:--:u---	
+43-7	i	i	T-:----:--:----	
+43-8	snakkede	snakke	VP:p#u#:t-:----	
+43-9	om	om	T-:----:--:----	
+43-10	stærkeste	stærk	AC:§du§:--:s---	
+43-11	kort	kort	NC:siun:--:----	
+43-12	.	.	ZP	
+43-13	.	.	ZP	
+43-14	.	.	ZP	
+
+#id=44
+#text=Dette er mit stærkeste kort  Sejt ikke :D
+44-1	Dette	denne	PM:s-un:--:----	
+44-2	er	være	VF:----:sa:----	
+44-3	mit	mit	XY:----:--:----	
+44-4	stærkeste	stærk	AC:§du§:--:s---	
+44-5	kort	kort	NC:siun:--:----	
+44-6	Sejt	sej	AD:----:--:p---	
+44-7	ikke	ikke	D-:----:--:u---	
+44-8	:	:	ZP	
+44-9	D	D	PP:s-un:--:-3n-	
+
+#id=45
+#text=  Det er et af de mægtigste kort i mit deck (Mit deck består af svage monstre, som har interessante evner der smadrer modstanderens deck)
+45-1	Det	det	PP:s-un:--:-3n-	
+45-2	er	være	VF:----:sa:----	
+45-3	et	en	PI:s-un:--:----	
+45-4	af	af	T-:----:--:----	
+45-5	de	den	PM:p-u#:--:----	
+45-6	mægtigste	mægtig	AC:p#u#:--:s---	
+45-7	kort	kort	NC:piu#:--:----	
+45-8	i	i	T-:----:--:----	
+45-9	mit	min	PO:s--n:--:-1ns	
+45-10	deck	deck	NC:siun:--:----	
+45-11	(	(	ZD	
+45-12	Mit	mit	XF:----:--:----	
+45-13	deck	deck	NC:siun:--:----	
+45-14	består	bestå	VF:----:sa:----	
+45-15	af	af	T-:----:--:----	
+45-16	svage	svag	AC:p#u#:--:p---	
+45-17	monstre	monster	NC:piu#:--:----	
+45-18	,	,	ZD	
+45-19	som	som	US:----:--:----	
+45-20	har	have	VF:----:sa:----	
+45-21	interessante	interessant	AC:p#u#:--:p---	
+45-22	evner	evne	NC:piu#:--:----	
+45-23	der	der	US:----:--:----	
+45-24	smadrer	smadre	VF:----:sa:----	
+45-25	modstanderens	modstander	NC:sdgc:--:----	
+45-26	deck	deck	NC:siun:--:----	
+45-27	)	)	ZD	
+
+#id=46
+#text= Senere begynder de også på at spille med kortene, ja.
+46-1	Senere	sen	AD:----:--:c---	
+46-2	begynder	begynde	VF:----:sa:----	
+46-3	de	de	PP:p-n#:--:-3n-	
+46-4	også	også	D-:----:--:u---	
+46-5	på	på	T-:----:--:----	
+46-6	at	at	UI:----:--:----	
+46-7	spille	spille	VI:----:-a:----	
+46-8	med	med	T-:----:--:----	
+46-9	kortene	kort	NC:pdu#:--:----	
+46-10	,	,	ZD	
+46-11	ja	ja	I-:----:--:----	
+46-12	.	.	ZP	
+
+#id=47
+#text= At de fleste børn køber kortene men spiller ikke med dem, de bytter kun.
+47-1	At	at	CS:----:--:----	
+47-2	de	den	PM:p-u#:--:----	
+47-3	fleste	mange	AC:p#u#:--:s---	
+47-4	børn	barn	NC:piu#:--:----	
+47-5	køber	købe	VF:----:sa:----	
+47-6	kortene	kort	NC:pdu#:--:----	
+47-7	men	men	CC:----:--:----	
+47-8	spiller	spille	--	
+47-9	ikke	ikke	D-:----:--:u---	
+47-10	med	med	T-:----:--:----	
+47-11	dem	de	PP:p-u#:--:-3n-	
+47-12	,	,	ZD	
+47-13	de	de	PP:p-n#:--:-3n-	
+47-14	bytter	bytte	VF:----:sa:----	
+47-15	kun	kun	D-:----:--:u---	
+47-16	.	.	ZP	
+
+#id=48
+#text= Mine lillebrødre har allerede kortene (jeg har også selv lidt, men gider ikke købe flere), en af dem har også nogle sko med Yugi på.
+48-1	Mine	mine	NC:siuc:--:----	
+48-2	lillebrødre	lillebror	NC:piu#:--:----	
+48-3	har	have	VF:----:sa:----	
+48-4	allerede	allerede	D-:----:--:u---	
+48-5	kortene	kort	NC:pdu#:--:----	
+48-6	(	(	ZD	
+48-7	jeg	jeg	PP:s-nc:--:-1n-	
+48-8	har	have	VF:----:sa:----	
+48-9	også	også	D-:----:--:u---	
+48-10	selv	selv	D-:----:--:u---	
+48-11	lidt	lidt	AD:----:--:p---	
+48-12	,	,	ZD	
+48-13	men	men	CC:----:--:----	
+48-14	gider	gide	VF:----:sa:----	
+48-15	ikke	ikke	D-:----:--:u---	
+48-16	købe	købe	VI:----:-a:----	
+48-17	flere	mange	AC:##u#:--:c---	
+48-18	)	)	ZD	
+48-19	,	,	ZD	
+48-20	en	en	PI:s-uc:--:----	
+48-21	af	af	T-:----:--:----	
+48-22	dem	de	PP:p-u#:--:-3n-	
+48-23	har	have	VF:----:sa:----	
+48-24	også	også	D-:----:--:u---	
+48-25	nogle	nogen	PI:p-u#:--:----	
+48-26	sko	sko	NC:piu#:--:----	
+48-27	med	med	T-:----:--:----	
+48-28	Yugi	Yugi	NP:siu#:--:----	
+48-29	på	på	T-:----:--:----	
+48-30	.	.	ZP	
+
+#id=49
+#text=En god måde at øve tegnene på er at lave nogle "flashcards" - lav ét kort til hvert tegn.
+49-1	En	en	PI:s-uc:--:----	
+49-2	god	god	AC:siuc:--:p---	
+49-3	måde	måde	NC:siuc:--:----	
+49-4	at	at	UI:----:--:----	
+49-5	øve	øve	VI:----:-a:----	
+49-6	tegnene	tegn	NC:pdu#:--:----	
+49-7	på	på	D-:----:--:u---	
+49-8	er	være	VF:----:sa:----	
+49-9	at	at	UI:----:--:----	
+49-10	lave	lave	VI:----:-a:----	
+49-11	nogle	nogen	PI:p-u#:--:----	
+49-12	"	"	ZI	
+49-13	flashcards	flashcard	NC:sigc:--:----	
+49-14	"	"	ZI	
+49-15	-	-	ZH	
+49-16	lav	lav	AC:siuc:--:p---	
+49-17	ét	en	PI:s-un:--:----	
+49-18	kort	kort	NC:siun:--:----	
+49-19	til	til	T-:----:--:----	
+49-20	hvert	hver	PI:s-un:--:----	
+49-21	tegn	tegn	NC:siun:--:----	
+49-22	.	.	ZP	
+
+#id=50
+#text= Når du har gjort det, bland kortene, træk et kort se på det japanske tegn og sig udtalen - tjek om det er rigtigt. træk et nyt kort og sig udtalen... og så fremdeles.
+50-1	Når	når	CS:----:--:----	
+50-2	du	du	PP:s-nc:--:-2n-	
+50-3	har	have	VF:----:sa:----	
+50-4	gjort	gøre	VT:siu#:t-:----	
+50-5	det	det	PP:s-un:--:-3n-	
+50-6	,	,	ZD	
+50-7	bland	blande	VM:----:--:----	
+50-8	kortene	kort	NC:pdu#:--:----	
+50-9	,	,	ZD	
+50-10	træk	trække	VM:----:--:----	
+50-11	et	en	---	
+50-12	kort	kort	AD:----:--:p---	
+50-13	se	se	VI:----:-a:----	
+50-14	på	på	T-:----:--:----	
+50-15	det	den	PM:s-un:--:----	
+50-16	japanske	japansk	AC:sdu#:--:p---	
+50-17	tegn	tegn	NC:siun:--:----	
+50-18	og	og	CC:----:--:----	
+50-19	sig	sige	VM:----:--:----	
+50-20	udtalen	udtale	NC:sduc:--:----	
+50-21	-	-	NC:piu#:--:----	
+50-22	tjek	tjek	NC:piu#:--:----	
+50-23	om	om	T-:----:--:----	
+50-24	det	det	PP:s-un:--:-3n-	
+50-25	er	være	VF:----:sa:----	
+50-26	rigtigt	rigtig	AD:----:--:p---	
+50-27	.	.	ZP	
+50-28	træk	trække	VM:----:--:----	
+50-29	et	en	PI:s-un:--:----	
+50-30	nyt	ny	AC:siun:--:p---	
+50-31	kort	kort	NC:siun:--:----	
+50-32	og	og	CC:----:--:----	
+50-33	sig	sige	VM:----:--:----	
+50-34	udtalen	udtale	NC:sduc:--:----	
+50-35	.	.	ZP	
+50-36	.	.	ZP	
+50-37	.	.	ZP	
+50-38	og	og	CC:----:--:----	
+50-39	så	så	D-:----:--:u---	
+50-40	fremdeles	fremdeles	D-:----:--:u---	
+50-41	.	.	ZP	
+
+#id=51
+#text= Omkring 65 kort tror jeg.
+51-1	Omkring	omkring	T-:----:--:----	
+51-2	65	65	LC:--u-:--:----	
+51-3	kort	kort	NC:piu#:--:----	
+51-4	tror	tro	VF:----:sa:----	
+51-5	jeg	jeg	PP:s-nc:--:-1n-	
+51-6	.	.	ZP	
+
+#id=52
+#text= Mit decks strategi går ud på at være så irriterende at spille imod som muligt...Det discarder modstanderens kort, gør så han ikke må trække kort op, og mange andre ting _
+52-1	Mit	mit	XF:----:--:----	
+52-2	decks	deck	NW:----:--:----	
+52-3	strategi	strategi	NC:siuc:--:----	
+52-4	går	gå	VF:----:sa:----	
+52-5	ud	ud	D-:----:--:u---	
+52-6	på	på	T-:----:--:----	
+52-7	at	at	UI:----:--:----	
+52-8	være	være	VI:----:-a:----	
+52-9	så	så	D-:----:--:u---	
+52-10	irriterende	irritere	VP:##u#:s-:----	
+52-11	at	at	:----:--:----	
+52-12	spille	spille	VI:----:-a:----	
+52-13	imod	imod	D-:----:--:u---	
+52-14	som	som	US:----:--:----	
+52-15	muligt	mulig	AD:----:--:p---	
+52-16	.	.	ZP	
+52-17	.	.	ZP	
+52-18	.	.	ZP	
+52-19	Det	det	PP:s-un:--:-3n-	
+52-20	discarder	discard	NC:piu#:--:----	
+52-21	modstanderens	modstanderens	XY:----:--:----	
+52-22	kort	kort	NC:siun:--:----	
+52-23	,	,	ZD	
+52-24	gør	gø	VF:----:sa:----	
+52-25	så	så	D-:----:--:u---	
+52-26	han	han	PP:s-nc:--:-3n-	
+52-27	ikke	ikke	D-:----:--:u---	
+52-28	må	måtte	VF:----:sa:----	
+52-29	trække	trække	VI:----:-a:----	
+52-30	kort	kort	AD:----:--:p---	
+52-31	op	op	D-:----:--:u---	
+52-32	,	,	ZD	
+52-33	og	og	CC:----:--:----	
+52-34	mange	mangen	AC:p#u#:--:p---	
+52-35	andre	anden	p-u#:--:----	
+52-36	ting	ting	NW:----:--:----	
+52-37	_	_	ZH	
+
+#id=53
+#text=Har en masse falske kort fra Kroatien. :P Kan ikke finde ud af at spille det, men købte dem også mere for sjov, da de ikke rigtigt kostede noget.
+53-1	Har	have	VF:----:sa:----	
+53-2	en	en	PI:s-uc:--:----	
+53-3	masse	masse	NC:siuc:--:----	
+53-4	falske	falsk	AC:p#u#:--:p---	
+53-5	kort	kort	NC:piu#:--:----	
+53-6	fra	fra	T-:----:--:----	
+53-7	Kroatien	Kroatien	NP:siu#:--:----	
+53-8	.	.	ZP	
+53-9	:	:	ZP	
+53-10	P	P	NP:siu#:--:----	
+53-11	Kan	kunne	VF:----:sa:----	
+53-12	ikke	ikke	D-:----:--:u---	
+53-13	finde	finde	VI:----:-a:----	
+53-14	ud	ud	D-:----:--:u---	
+53-15	af	af	T-:----:--:----	
+53-16	at	at	UI:----:--:----	
+53-17	spille	spille	VI:----:-a:----	
+53-18	det	det	PP:s-un:--:-3n-	
+53-19	,	,	ZD	
+53-20	men	men	CC:----:--:----	
+53-21	købte	købe	VF:----:ta:----	
+53-22	dem	de	PP:p-u#:--:-3n-	
+53-23	også	også	D-:----:--:u---	
+53-24	mere	megen	AD:----:--:c---	
+53-25	for	for	T-:----:--:----	
+53-26	sjov	sjov	NC:siu#:--:----	
+53-27	,	,	ZD	
+53-28	da	da	CS:----:--:----	
+53-29	de	de	PP:p-n#:--:-3n-	
+53-30	ikke	ikke	D-:----:--:u---	
+53-31	rigtigt	rigtig	AD:----:--:p---	
+53-32	kostede	koste	VF:----:ta:----	
+53-33	noget	nogen	PI:s-un:--:----	
+53-34	.	.	ZP	
+
+#id=54
+#text= I hvert fald bruges det ofte til at markere templer og andre helligdomme på japanske kort!
+54-1	I	i	T-:----:--:----	
+54-2	hvert	hver	PI:s-un:--:----	
+54-3	fald	fald	NC:siun:--:----	
+54-4	bruges	bruge	VF:----:sp:----	
+54-5	det	det	PP:s-un:--:-3n-	
+54-6	ofte	ofte	D-:----:--:u---	
+54-7	til	til	T-:----:--:----	
+54-8	at	at	UI:----:--:----	
+54-9	markere	markere	VI:----:-a:----	
+54-10	templer	tempel	NC:piu#:--:----	
+54-11	og	og	CC:----:--:----	
+54-12	andre	anden	PI:p-u#:--:----	
+54-13	helligdomme	helligdom	NC:piu#:--:----	
+54-14	på	på	T-:----:--:----	
+54-15	japanske	japansk	AC:p#u#:--:p---	
+54-16	kort	kort	NC:piu#:--:----	
+54-17	!	!	ZP	
+
+#id=55
+#text= Den hel fede ting ved Yu-Gi-Oh er, at hver eneste gang, at de bruger eller taler om at kort, så siger de hele kortets navn og de gør det HVER gang.
+55-1	Den	den	PM:s-uc:--:----	
+55-2	hel	hel	NC:siuc:--:----	
+55-3	fede	fed	AC:p#u#:--:p---	
+55-4	ting	ting	NC:piu#:--:----	
+55-5	ved	ved	T-:----:--:----	
+55-6	Yu	Yu	NP:siu#:--:----	
+55-7	-	-	ZH	
+55-8	Gi	gie	NW:----:--:----	
+55-9	-	-	ZH	
+55-10	Oh	Oh	XY:----:--:----	
+55-11	er	være	VF:----:sa:----	
+55-12	,	,	ZD	
+55-13	at	at	CS:----:--:----	
+55-14	hver	hver	PI:s-uc:--:----	
+55-15	eneste	eneste	AC:§§u§:--:p---	
+55-16	gang	gang	NC:siuc:--:----	
+55-17	,	,	ZD	
+55-18	at	at	CS:----:--:----	
+55-19	de	de	PP:p-n#:--:-3n-	
+55-20	bruger	bruge	VF:----:sa:----	
+55-21	eller	eller	CC:----:--:----	
+55-22	taler	tale	NC:piu#:--:----	
+55-23	om	om	T-:----:--:----	
+55-24	at	at	CS:----:--:----	
+55-25	kort	kort	AC:siu§:--:p---	
+55-26	,	,	ZD	
+55-27	så	så	D-:----:--:u---	
+55-28	siger	sige	VF:----:sa:----	
+55-29	de	de	PP:p-n#:--:-3n-	
+55-30	hele	hele	VI:----:-a:----	
+55-31	kortets	kort	NC:sdgn:--:----	
+55-32	navn	navn	NC:siun:--:----	
+55-33	og	og	CC:----:--:----	
+55-34	de	de	PP:p-n#:--:-3n-	
+55-35	gør	gø	VF:----:sa:----	
+55-36	det	det	PP:s-un:--:-3n-	
+55-37	HVER	hver	PI:s-uc:--:----	
+55-38	gang	gang	NC:siuc:--:----	
+55-39	.	.	ZP	
+
+#id=56
+#text= Jeg prøvede at gøre det kort, men jeg ved ikke om jeg samtidig gjorde det nemt forståeligt :shock:
+56-1	Jeg	jeg	PP:s-nc:--:-1n-	
+56-2	prøvede	prøve	VF:----:ta:----	
+56-3	at	at	UI:----:--:----	
+56-4	gøre	gøre	VI:----:-a:----	
+56-5	det	den	PM:s-un:--:----	
+56-6	kort	kort	NC:siun:--:----	
+56-7	,	,	ZD	
+56-8	men	men	CC:----:--:----	
+56-9	jeg	jeg	PP:s-nc:--:-1n-	
+56-10	ved	vide	VF:----:sa:----	
+56-11	ikke	ikke	D-:----:--:u---	
+56-12	om	om	CS:----:--:----	
+56-13	jeg	jeg	PP:s-nc:--:-1n-	
+56-14	samtidig	samtidig	D-:----:--:u---	
+56-15	gjorde	gøre	VF:----:ta:----	
+56-16	det	det	PP:s-un:--:-3n-	
+56-17	nemt	nem	AD:----:--:p---	
+56-18	forståeligt	forståelig	AC:siun:--:p---	
+56-19	:	:	ZP	
+56-20	shock	shock	XS:----:--:----	
+56-21	:	:	ZP	
+
+#id=57
+#text= En anden ide var måske at lave en aftale med ens forældre om at de kunne købe med deres kort, og så derefter give dem penge (det lykkedes dog aldrig for mig.
+57-1	En	en	PI:s-uc:--:----	
+57-2	anden	anden	PI:s-uc:--:----	
+57-3	ide	ide	NC:siuc:--:----	
+57-4	var	være	---:ta:----	
+57-5	måske	måske	D-:----:--:u---	
+57-6	at	at	UI:----:--:----	
+57-7	lave	lave	VI:----:-a:----	
+57-8	en	en	PI:s-uc:--:----	
+57-9	aftale	aftale	NC:siuc:--:----	
+57-10	med	med	T-:----:--:----	
+57-11	ens	ens	AC:§§u§:--:p---	
+57-12	forældre	forælder	NC:piu#:--:----	
+57-13	om	om	T-:----:--:----	
+57-14	at	at	CS:----:--:----	
+57-15	de	de	PP:p-n#:--:-3n-	
+57-16	kunne	kunne	VF:----:ta:----	
+57-17	købe	købe	VI:----:-a:----	
+57-18	med	med	T-:----:--:----	
+57-19	deres	deres	PO:#--#:--:-3np	
+57-20	kort	kort	NC:siun:--:----	
+57-21	,	,	ZD	
+57-22	og	og	CC:----:--:----	
+57-23	så	så	D-:----:--:u---	
+57-24	derefter	derefter	D-:----:--:u---	
+57-25	give	give	VI:----:-a:----	
+57-26	dem	dem	XY:----:--:----	
+57-27	penge	penge	NC:piu#:--:----	
+57-28	(	(	ZD	
+57-29	det	det	PP:s-un:--:-3n-	
+57-30	lykkedes	lykkes	VF:----:tp:----	
+57-31	dog	dog	D-:----:--:u---	
+57-32	aldrig	aldrig	D-:----:--:u---	
+57-33	for	for	T-:----:--:----	
+57-34	mig	jeg	PP:s-uc:--:-1#-	
+57-35	.	.	ZP	
+

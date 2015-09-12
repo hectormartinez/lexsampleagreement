@@ -1,0 +1,29 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue
+#id=1
+#text=Jeg kunne nok godt fatte det hvis jeg ville, men når jeg lige kaster et blik på det giver det absolut ingen mening.
+1-1	Jeg	jeg	PP:s-nc:--:-1n-	
+1-2	kunne	kunne	VF:----:ta:----	
+1-3	nok	nok	D-:----:--:u---	
+1-4	godt	god	AD:----:--:p---	
+1-5	fatte	fatte	VI:----:-a:----	
+1-6	det	det	PP:s-un:--:-3n-	
+1-7	hvis	hvis	CS:----:--:----	
+1-8	jeg	jeg	PP:s-nc:--:-1n-	
+1-9	ville	ville	VF:----:ta:----	
+1-10	,	,	ZD	
+1-11	men	men	CC:----:--:----	
+1-12	når	når	CS:----:--:----	
+1-13	jeg	jeg	PP:s-nc:--:-1n-	
+1-14	lige	lige	D-:----:--:u---	
+1-15	kaster	kaste	VF:----:sa:----	
+1-16	et	en	PI:s-un:--:----	
+1-17	blik	blik|blik-F-indre-blik|blik-1-4|blik-1-4a|blik-2-1-1a|blik-F-finde-nåde-for-nogens-blik|blik-1-3|blik-1-1|blik-1-2|blik-F-få-blikket	NC:siun:--:----	
+1-18	på	på	T-:----:--:----	
+1-19	det	det	PP:s-un:--:-3n-	
+1-20	giver	give	VF:----:sa:----	
+1-21	det	det	PP:s-un:--:-3n-	
+1-22	absolut	absolut	AD:----:--:p---	
+1-23	ingen	ingen	PI:s-uc:--:----	
+1-24	mening	mening	NC:siuc:--:----	
+1-25	.	.	ZP	
+

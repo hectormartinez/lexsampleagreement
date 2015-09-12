@@ -1,0 +1,441 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader type="text">
+    </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>
+          <w xml:id="A-2100105668-7-1">Nogle</w>
+          <c type="s" xml:id="A-2100105668-7-2"/>
+          <w xml:id="A-2100105668-7-3">af</w>
+          <c type="s" xml:id="A-2100105668-7-4"/>
+          <w xml:id="A-2100105668-7-5">de</w>
+          <c type="s" xml:id="A-2100105668-7-6"/>
+          <w xml:id="A-2100105668-7-7">grusomste</w>
+          <c type="s" xml:id="A-2100105668-7-8"/>
+          <w xml:id="A-2100105668-7-9">minder</w>
+          <c type="s" xml:id="A-2100105668-7-10"/>
+          <w xml:id="A-2100105668-7-11">fra</w>
+          <c type="s" xml:id="A-2100105668-7-12"/>
+          <w xml:id="A-2100105668-7-13">mit</w>
+          <c type="s" xml:id="A-2100105668-7-14"/>
+          <w xml:id="A-2100105668-7-15">liv</w>
+          <c type="s" xml:id="A-2100105668-7-16"/>
+          <w xml:id="A-2100105668-7-17">handler</w>
+          <c type="s" xml:id="A-2100105668-7-18"/>
+          <w xml:id="A-2100105668-7-19">om</w>
+          <c type="s" xml:id="A-2100105668-7-20"/>
+          <w xml:id="A-2100105668-7-21">at</w>
+          <c type="s" xml:id="A-2100105668-7-22"/>
+          <w xml:id="A-2100105668-7-23">sidde</w>
+          <c type="s" xml:id="A-2100105668-7-24"/>
+          <w xml:id="A-2100105668-7-25">og</w>
+          <c type="s" xml:id="A-2100105668-7-26"/>
+          <w xml:id="A-2100105668-7-27">glo</w>
+          <c type="s" xml:id="A-2100105668-7-28"/>
+          <w xml:id="A-2100105668-7-29">tomt</w>
+          <c type="s" xml:id="A-2100105668-7-30"/>
+          <w xml:id="A-2100105668-7-31">på</w>
+          <c type="s" xml:id="A-2100105668-7-32"/>
+          <w xml:id="A-2100105668-7-33">en</w>
+          <c type="s" xml:id="A-2100105668-7-34"/>
+          <w xml:id="A-2100105668-7-35">blank</w>
+          <c type="s" xml:id="A-2100105668-7-36"/>
+          <w xml:id="A-2100105668-7-37">skærm</w>
+          <c type="s" xml:id="A-2100105668-7-38"/>
+          <w xml:id="A-2100105668-7-39">uden</w>
+          <c type="s" xml:id="A-2100105668-7-40"/>
+          <w xml:id="A-2100105668-7-41">at</w>
+          <c type="s" xml:id="A-2100105668-7-42"/>
+          <w xml:id="A-2100105668-7-43">være</w>
+          <c type="s" xml:id="A-2100105668-7-44"/>
+          <w xml:id="A-2100105668-7-45">i</w>
+          <c type="s" xml:id="A-2100105668-7-46"/>
+          <w xml:id="A-2100105668-7-47">stand</w>
+          <c type="s" xml:id="A-2100105668-7-48"/>
+          <w xml:id="A-2100105668-7-49">til</w>
+          <c type="s" xml:id="A-2100105668-7-50"/>
+          <w xml:id="A-2100105668-7-51">at</w>
+          <c type="s" xml:id="A-2100105668-7-52"/>
+          <w xml:id="A-2100105668-7-53">sætte</w>
+          <c type="s" xml:id="A-2100105668-7-54"/>
+          <w xml:id="A-2100105668-7-55">fem</w>
+          <c type="s" xml:id="A-2100105668-7-56"/>
+          <w xml:id="A-2100105668-7-57">ord</w>
+          <c type="s" xml:id="A-2100105668-7-58"/>
+          <w xml:id="A-2100105668-7-59">fornuftigt</w>
+          <c type="s" xml:id="A-2100105668-7-60"/>
+          <w xml:id="A-2100105668-7-61">sammen</w>
+          <c type="p" xml:id="A-2100105668-7-62">.</c>
+        </s>
+        <s>
+          <w xml:id="A-2100105524-5-1">Bagefter</w>
+          <c type="s" xml:id="A-2100105524-5-2"/>
+          <w xml:id="A-2100105524-5-3">var</w>
+          <c type="s" xml:id="A-2100105524-5-4"/>
+          <w xml:id="A-2100105524-5-5">jeg</w>
+          <c type="s" xml:id="A-2100105524-5-6"/>
+          <w xml:id="A-2100105524-5-7">i</w>
+          <c type="s" xml:id="A-2100105524-5-8"/>
+          <w xml:id="A-2100105524-5-9">stand</w>
+          <c type="s" xml:id="A-2100105524-5-10"/>
+          <w xml:id="A-2100105524-5-11">til</w>
+          <c type="s" xml:id="A-2100105524-5-12"/>
+          <w xml:id="A-2100105524-5-13">at</w>
+          <c type="s" xml:id="A-2100105524-5-14"/>
+          <w xml:id="A-2100105524-5-15">yde</w>
+          <c type="p" xml:id="A-2100105524-5-16">.</c>
+        </s>
+        <s>
+          <w xml:id="A-2100105440-8-1">Jeg</w>
+          <c type="s" xml:id="A-2100105440-8-2"/>
+          <w xml:id="A-2100105440-8-3">løber</w>
+          <c type="s" xml:id="A-2100105440-8-4"/>
+          <w xml:id="A-2100105440-8-5">gerne</w>
+          <c type="s" xml:id="A-2100105440-8-6"/>
+          <w xml:id="A-2100105440-8-7">risikoen</w>
+          <c type="s" xml:id="A-2100105440-8-8"/>
+          <w xml:id="A-2100105440-8-9">for</w>
+          <c type="s" xml:id="A-2100105440-8-10"/>
+          <w xml:id="A-2100105440-8-11">at</w>
+          <c type="s" xml:id="A-2100105440-8-12"/>
+          <w xml:id="A-2100105440-8-13">lyde</w>
+          <c type="s" xml:id="A-2100105440-8-14"/>
+          <w xml:id="A-2100105440-8-15">som</w>
+          <c type="s" xml:id="A-2100105440-8-16"/>
+          <w xml:id="A-2100105440-8-17">en</w>
+          <c type="s" xml:id="A-2100105440-8-18"/>
+          <w xml:id="A-2100105440-8-19">frelst</w>
+          <c type="s" xml:id="A-2100105440-8-20"/>
+          <w xml:id="A-2100105440-8-21">økoflipper</w>
+          <c type="s" xml:id="A-2100105440-8-22"/>
+          <c type="p" xml:id="A-2100105440-8-23">(</c>
+          <w xml:id="A-2100105440-8-24">lidt</w>
+          <c type="s" xml:id="A-2100105440-8-25"/>
+          <w xml:id="A-2100105440-8-26">er</w>
+          <c type="s" xml:id="A-2100105440-8-27"/>
+          <w xml:id="A-2100105440-8-28">jeg</w>
+          <c type="s" xml:id="A-2100105440-8-29"/>
+          <w xml:id="A-2100105440-8-30">det</w>
+          <c type="s" xml:id="A-2100105440-8-31"/>
+          <w xml:id="A-2100105440-8-32">nemlig</w>
+          <c type="p" xml:id="A-2100105440-8-33">!</c>
+          <c type="p" xml:id="A-2100105440-8-34">)</c>
+          <c type="s" xml:id="A-2100105440-8-35"/>
+          <w xml:id="A-2100105440-8-36">og</w>
+          <c type="s" xml:id="A-2100105440-8-37"/>
+          <w xml:id="A-2100105440-8-38">råber</w>
+          <c type="s" xml:id="A-2100105440-8-39"/>
+          <w xml:id="A-2100105440-8-40">ud</w>
+          <c type="s" xml:id="A-2100105440-8-41"/>
+          <w xml:id="A-2100105440-8-42">i</w>
+          <c type="s" xml:id="A-2100105440-8-43"/>
+          <w xml:id="A-2100105440-8-44">cyberspace</w>
+          <c type="p" xml:id="A-2100105440-8-45">,</c>
+          <c type="s" xml:id="A-2100105440-8-46"/>
+          <w xml:id="A-2100105440-8-47">at</w>
+          <c type="s" xml:id="A-2100105440-8-48"/>
+          <w xml:id="A-2100105440-8-49">det</w>
+          <c type="s" xml:id="A-2100105440-8-50"/>
+          <w xml:id="A-2100105440-8-51">faktisk</w>
+          <c type="s" xml:id="A-2100105440-8-52"/>
+          <w xml:id="A-2100105440-8-53">er</w>
+          <c type="s" xml:id="A-2100105440-8-54"/>
+          <w xml:id="A-2100105440-8-55">en</w>
+          <c type="s" xml:id="A-2100105440-8-56"/>
+          <w xml:id="A-2100105440-8-57">fed</w>
+          <c type="s" xml:id="A-2100105440-8-58"/>
+          <w xml:id="A-2100105440-8-59">fornemmelse</w>
+          <c type="s" xml:id="A-2100105440-8-60"/>
+          <w xml:id="A-2100105440-8-61">at</w>
+          <c type="s" xml:id="A-2100105440-8-62"/>
+          <w xml:id="A-2100105440-8-63">skære</w>
+          <c type="s" xml:id="A-2100105440-8-64"/>
+          <w xml:id="A-2100105440-8-65">ned</w>
+          <c type="s" xml:id="A-2100105440-8-66"/>
+          <w xml:id="A-2100105440-8-67">på</w>
+          <c type="s" xml:id="A-2100105440-8-68"/>
+          <w xml:id="A-2100105440-8-69">sin</w>
+          <c type="s" xml:id="A-2100105440-8-70"/>
+          <w xml:id="A-2100105440-8-71">affaldsmængde</w>
+          <c type="s" xml:id="A-2100105440-8-72"/>
+          <w xml:id="A-2100105440-8-73">og</w>
+          <c type="s" xml:id="A-2100105440-8-74"/>
+          <w xml:id="A-2100105440-8-75">være</w>
+          <c type="s" xml:id="A-2100105440-8-76"/>
+          <w xml:id="A-2100105440-8-77">i</w>
+          <c type="s" xml:id="A-2100105440-8-78"/>
+          <w xml:id="A-2100105440-8-79">stand</w>
+          <c type="s" xml:id="A-2100105440-8-80"/>
+          <w xml:id="A-2100105440-8-81">til</w>
+          <c type="s" xml:id="A-2100105440-8-82"/>
+          <w xml:id="A-2100105440-8-83">at</w>
+          <c type="s" xml:id="A-2100105440-8-84"/>
+          <w xml:id="A-2100105440-8-85">genbruge</w>
+          <c type="s" xml:id="A-2100105440-8-86"/>
+          <w xml:id="A-2100105440-8-87">den</w>
+          <c type="s" xml:id="A-2100105440-8-88"/>
+          <w xml:id="A-2100105440-8-89">selv</w>
+          <c type="p" xml:id="A-2100105440-8-90">.</c>
+        </s>
+        <s>
+          <w xml:id="A-2100105329-1-1">Indtil</w>
+          <c type="s" xml:id="A-2100105329-1-2"/>
+          <w xml:id="A-2100105329-1-3">nu</w>
+          <c type="s" xml:id="A-2100105329-1-4"/>
+          <w xml:id="A-2100105329-1-5">har</w>
+          <c type="s" xml:id="A-2100105329-1-6"/>
+          <w xml:id="A-2100105329-1-7">de</w>
+          <c type="s" xml:id="A-2100105329-1-8"/>
+          <w xml:id="A-2100105329-1-9">holdt</w>
+          <c type="s" xml:id="A-2100105329-1-10"/>
+          <w xml:id="A-2100105329-1-11">stand</w>
+          <c type="s" xml:id="A-2100105329-1-12"/>
+          <w xml:id="A-2100105329-1-13">mod</w>
+          <c type="s" xml:id="A-2100105329-1-14"/>
+          <w xml:id="A-2100105329-1-15">kulde</w>
+          <c type="s" xml:id="A-2100105329-1-16"/>
+          <w xml:id="A-2100105329-1-17">og</w>
+          <c type="s" xml:id="A-2100105329-1-18"/>
+          <w xml:id="A-2100105329-1-19">deslige</w>
+          <c type="p" xml:id="A-2100105329-1-20">,</c>
+          <c type="s" xml:id="A-2100105329-1-21"/>
+          <w xml:id="A-2100105329-1-22">mine</w>
+          <c type="s" xml:id="A-2100105329-1-23"/>
+          <w xml:id="A-2100105329-1-24">spanske</w>
+          <c type="s" xml:id="A-2100105329-1-25"/>
+          <w xml:id="A-2100105329-1-26">margueritter</w>
+          <c type="p" xml:id="A-2100105329-1-27">,</c>
+          <c type="s" xml:id="A-2100105329-1-28"/>
+          <w xml:id="A-2100105329-1-29">sommerens</w>
+          <c type="s" xml:id="A-2100105329-1-30"/>
+          <w xml:id="A-2100105329-1-31">allersidste</w>
+          <c type="s" xml:id="A-2100105329-1-32"/>
+          <w xml:id="A-2100105329-1-33">blomsterrester</w>
+          <c type="p" xml:id="A-2100105329-1-34">.</c>
+        </s>
+      </p>
+    </body>
+    <spanGrp ana="#ePOStagger">
+      <span from="#A-2100105668-7-1" xml:id="T-2100105668-7-1">PI:p-u#:--:----</span>
+      <span from="#A-2100105668-7-3" xml:id="T-2100105668-7-3">T-:----:--:----</span>
+      <span from="#A-2100105668-7-5" xml:id="T-2100105668-7-5">PM:p-u#:--:----</span>
+      <span from="#A-2100105668-7-7" xml:id="T-2100105668-7-7">AC:p#u#:--:s---</span>
+      <span from="#A-2100105668-7-9" xml:id="T-2100105668-7-9">NC:piu#:--:----</span>
+      <span from="#A-2100105668-7-11" xml:id="T-2100105668-7-11">T-:----:--:----</span>
+      <span from="#A-2100105668-7-13" xml:id="T-2100105668-7-13">PO:s--n:--:-1ns</span>
+      <span from="#A-2100105668-7-15" xml:id="T-2100105668-7-15">NC:siun:--:----</span>
+      <span from="#A-2100105668-7-17" xml:id="T-2100105668-7-17">VF:----:sa:----</span>
+      <span from="#A-2100105668-7-19" xml:id="T-2100105668-7-19">T-:----:--:----</span>
+      <span from="#A-2100105668-7-21" xml:id="T-2100105668-7-21">UI:----:--:----</span>
+      <span from="#A-2100105668-7-23" xml:id="T-2100105668-7-23">VI:----:-a:----</span>
+      <span from="#A-2100105668-7-25" xml:id="T-2100105668-7-25">CC:----:--:----</span>
+      <span from="#A-2100105668-7-27" xml:id="T-2100105668-7-27">VI:----:-a:----</span>
+      <span from="#A-2100105668-7-29" xml:id="T-2100105668-7-29">AD:----:--:p---</span>
+      <span from="#A-2100105668-7-31" xml:id="T-2100105668-7-31">T-:----:--:----</span>
+      <span from="#A-2100105668-7-33" xml:id="T-2100105668-7-33">PI:s-uc:--:----</span>
+      <span from="#A-2100105668-7-35" xml:id="T-2100105668-7-35">AC:siuc:--:p---</span>
+      <span from="#A-2100105668-7-37" xml:id="T-2100105668-7-37">NC:siuc:--:----</span>
+      <span from="#A-2100105668-7-39" xml:id="T-2100105668-7-39">T-:----:--:----</span>
+      <span from="#A-2100105668-7-41" xml:id="T-2100105668-7-41">UI:----:--:----</span>
+      <span from="#A-2100105668-7-43" xml:id="T-2100105668-7-43">VI:----:-a:----</span>
+      <span from="#A-2100105668-7-45" xml:id="T-2100105668-7-45">T-:----:--:----</span>
+      <span from="#A-2100105668-7-47" xml:id="T-2100105668-7-47">NC:siuc:--:----</span>
+      <span from="#A-2100105668-7-49" xml:id="T-2100105668-7-49">T-:----:--:----</span>
+      <span from="#A-2100105668-7-51" xml:id="T-2100105668-7-51">UI:----:--:----</span>
+      <span from="#A-2100105668-7-53" xml:id="T-2100105668-7-53">VI:----:-a:----</span>
+      <span from="#A-2100105668-7-55" xml:id="T-2100105668-7-55">LC:--u-:--:----</span>
+      <span from="#A-2100105668-7-57" xml:id="T-2100105668-7-57">NC:piu#:--:----</span>
+      <span from="#A-2100105668-7-59" xml:id="T-2100105668-7-59">AD:----:--:p---</span>
+      <span from="#A-2100105668-7-61" xml:id="T-2100105668-7-61">D-:----:--:u---</span>
+      <span from="#A-2100105668-7-62" xml:id="T-2100105668-7-62">ZP</span>
+      <span from="#A-2100105524-5-1" xml:id="T-2100105524-5-1">D-:----:--:u---</span>
+      <span from="#A-2100105524-5-3" xml:id="T-2100105524-5-3">VF:----:ta:----</span>
+      <span from="#A-2100105524-5-5" xml:id="T-2100105524-5-5">PP:s-nc:--:-1n-</span>
+      <span from="#A-2100105524-5-7" xml:id="T-2100105524-5-7">T-:----:--:----</span>
+      <span from="#A-2100105524-5-9" xml:id="T-2100105524-5-9">NC:siuc:--:----</span>
+      <span from="#A-2100105524-5-11" xml:id="T-2100105524-5-11">T-:----:--:----</span>
+      <span from="#A-2100105524-5-13" xml:id="T-2100105524-5-13">UI:----:--:----</span>
+      <span from="#A-2100105524-5-15" xml:id="T-2100105524-5-15">VI:----:-a:----</span>
+      <span from="#A-2100105524-5-16" xml:id="T-2100105524-5-16">ZP</span>
+      <span from="#A-2100105440-8-1" xml:id="T-2100105440-8-1">PP:s-nc:--:-1n-</span>
+      <span from="#A-2100105440-8-3" xml:id="T-2100105440-8-3">VF:----:sa:----</span>
+      <span from="#A-2100105440-8-5" xml:id="T-2100105440-8-5">D-:----:--:u---</span>
+      <span from="#A-2100105440-8-7" xml:id="T-2100105440-8-7">NC:sduc:--:----</span>
+      <span from="#A-2100105440-8-9" xml:id="T-2100105440-8-9">T-:----:--:----</span>
+      <span from="#A-2100105440-8-11" xml:id="T-2100105440-8-11">UI:----:--:----</span>
+      <span from="#A-2100105440-8-13" xml:id="T-2100105440-8-13">VI:----:-a:----</span>
+      <span from="#A-2100105440-8-15" xml:id="T-2100105440-8-15">US:----:--:----</span>
+      <span from="#A-2100105440-8-17" xml:id="T-2100105440-8-17">PI:s-uc:--:----</span>
+      <span from="#A-2100105440-8-19" xml:id="T-2100105440-8-19">VT:siu#:t-:----</span>
+      <span from="#A-2100105440-8-21" xml:id="T-2100105440-8-21">NC:piu#:--:----</span>
+      <span from="#A-2100105440-8-23" xml:id="T-2100105440-8-23">ZD</span>
+      <span from="#A-2100105440-8-24" xml:id="T-2100105440-8-24">AD:----:--:p---</span>
+      <span from="#A-2100105440-8-26" xml:id="T-2100105440-8-26">VF:----:sa:----</span>
+      <span from="#A-2100105440-8-28" xml:id="T-2100105440-8-28">PP:s-nc:--:-1n-</span>
+      <span from="#A-2100105440-8-30" xml:id="T-2100105440-8-30">PP:s-un:--:-3n-</span>
+      <span from="#A-2100105440-8-32" xml:id="T-2100105440-8-32">D-:----:--:u---</span>
+      <span from="#A-2100105440-8-33" xml:id="T-2100105440-8-33">ZP</span>
+      <span from="#A-2100105440-8-34" xml:id="T-2100105440-8-34">ZD</span>
+      <span from="#A-2100105440-8-36" xml:id="T-2100105440-8-36">CC:----:--:----</span>
+      <span from="#A-2100105440-8-38" xml:id="T-2100105440-8-38">VF:----:sa:----</span>
+      <span from="#A-2100105440-8-40" xml:id="T-2100105440-8-40">D-:----:--:u---</span>
+      <span from="#A-2100105440-8-42" xml:id="T-2100105440-8-42">T-:----:--:----</span>
+      <span from="#A-2100105440-8-44" xml:id="T-2100105440-8-44">NC:siun:--:----</span>
+      <span from="#A-2100105440-8-45" xml:id="T-2100105440-8-45">ZD</span>
+      <span from="#A-2100105440-8-47" xml:id="T-2100105440-8-47">CS:----:--:----</span>
+      <span from="#A-2100105440-8-49" xml:id="T-2100105440-8-49">PP:s-un:--:-3n-</span>
+      <span from="#A-2100105440-8-51" xml:id="T-2100105440-8-51">AD:----:--:p---</span>
+      <span from="#A-2100105440-8-53" xml:id="T-2100105440-8-53">VF:----:sa:----</span>
+      <span from="#A-2100105440-8-55" xml:id="T-2100105440-8-55">PI:s-uc:--:----</span>
+      <span from="#A-2100105440-8-57" xml:id="T-2100105440-8-57">AC:siuc:--:p---</span>
+      <span from="#A-2100105440-8-59" xml:id="T-2100105440-8-59">NC:siuc:--:----</span>
+      <span from="#A-2100105440-8-61" xml:id="T-2100105440-8-61">UI:----:--:----</span>
+      <span from="#A-2100105440-8-63" xml:id="T-2100105440-8-63">VI:----:-a:----</span>
+      <span from="#A-2100105440-8-65" xml:id="T-2100105440-8-65">D-:----:--:u---</span>
+      <span from="#A-2100105440-8-67" xml:id="T-2100105440-8-67">T-:----:--:----</span>
+      <span from="#A-2100105440-8-69" xml:id="T-2100105440-8-69">PO:s--c:--:-3ys</span>
+      <span from="#A-2100105440-8-71" xml:id="T-2100105440-8-71">NC:siuc:--:----</span>
+      <span from="#A-2100105440-8-73" xml:id="T-2100105440-8-73">CC:----:--:----</span>
+      <span from="#A-2100105440-8-75" xml:id="T-2100105440-8-75">VI:----:-a:----</span>
+      <span from="#A-2100105440-8-77" xml:id="T-2100105440-8-77">T-:----:--:----</span>
+      <span from="#A-2100105440-8-79" xml:id="T-2100105440-8-79">NC:siuc:--:----</span>
+      <span from="#A-2100105440-8-81" xml:id="T-2100105440-8-81">T-:----:--:----</span>
+      <span from="#A-2100105440-8-83" xml:id="T-2100105440-8-83">UI:----:--:----</span>
+      <span from="#A-2100105440-8-85" xml:id="T-2100105440-8-85">VI:----:-a:----</span>
+      <span from="#A-2100105440-8-87" xml:id="T-2100105440-8-87">PP:s-uc:--:-3n-</span>
+      <span from="#A-2100105440-8-89" xml:id="T-2100105440-8-89">PM:#-u#:--:----</span>
+      <span from="#A-2100105440-8-90" xml:id="T-2100105440-8-90">ZP</span>
+      <span from="#A-2100105329-1-1" xml:id="T-2100105329-1-1">CS:----:--:----</span>
+      <span from="#A-2100105329-1-3" xml:id="T-2100105329-1-3">D-:----:--:u---</span>
+      <span from="#A-2100105329-1-5" xml:id="T-2100105329-1-5">VF:----:sa:----</span>
+      <span from="#A-2100105329-1-7" xml:id="T-2100105329-1-7">PP:p-n#:--:-3n-</span>
+      <span from="#A-2100105329-1-9" xml:id="T-2100105329-1-9">VF:----:ta:----</span>
+      <span from="#A-2100105329-1-11" xml:id="T-2100105329-1-11">NC:siuc:--:----</span>
+      <span from="#A-2100105329-1-13" xml:id="T-2100105329-1-13">T-:----:--:----</span>
+      <span from="#A-2100105329-1-15" xml:id="T-2100105329-1-15">NC:siuc:--:----</span>
+      <span from="#A-2100105329-1-17" xml:id="T-2100105329-1-17">CC:----:--:----</span>
+      <span from="#A-2100105329-1-19" xml:id="T-2100105329-1-19">AD:----:--:p---</span>
+      <span from="#A-2100105329-1-20" xml:id="T-2100105329-1-20">ZD</span>
+      <span from="#A-2100105329-1-22" xml:id="T-2100105329-1-22">NC:siuc:--:----</span>
+      <span from="#A-2100105329-1-24" xml:id="T-2100105329-1-24">AC:p#u#:--:p---</span>
+      <span from="#A-2100105329-1-26" xml:id="T-2100105329-1-26">NC:piu#:--:----</span>
+      <span from="#A-2100105329-1-27" xml:id="T-2100105329-1-27">ZD</span>
+      <span from="#A-2100105329-1-29" xml:id="T-2100105329-1-29">NC:sdgc:--:----</span>
+      <span from="#A-2100105329-1-31" xml:id="T-2100105329-1-31">AC:p#u#:--:p---</span>
+      <span from="#A-2100105329-1-33" xml:id="T-2100105329-1-33">NC:piu#:--:----</span>
+      <span from="#A-2100105329-1-34" xml:id="T-2100105329-1-34">ZP</span>
+    </spanGrp>
+    <spanGrp ana="#ePOSlemmatizer">
+      <span from="#A-2100105668-7-1" xml:id="L-2100105668-7-1">nogen</span>
+      <span from="#A-2100105668-7-3" xml:id="L-2100105668-7-3">af</span>
+      <span from="#A-2100105668-7-5" xml:id="L-2100105668-7-5">den</span>
+      <span from="#A-2100105668-7-7" xml:id="L-2100105668-7-7">grusom</span>
+      <span from="#A-2100105668-7-9" xml:id="L-2100105668-7-9">minde</span>
+      <span from="#A-2100105668-7-11" xml:id="L-2100105668-7-11">fra</span>
+      <span from="#A-2100105668-7-13" xml:id="L-2100105668-7-13">min</span>
+      <span from="#A-2100105668-7-15" xml:id="L-2100105668-7-15">liv</span>
+      <span from="#A-2100105668-7-17" xml:id="L-2100105668-7-17">handle</span>
+      <span from="#A-2100105668-7-19" xml:id="L-2100105668-7-19">om</span>
+      <span from="#A-2100105668-7-21" xml:id="L-2100105668-7-21">at</span>
+      <span from="#A-2100105668-7-23" xml:id="L-2100105668-7-23">sidde</span>
+      <span from="#A-2100105668-7-25" xml:id="L-2100105668-7-25">og</span>
+      <span from="#A-2100105668-7-27" xml:id="L-2100105668-7-27">glo</span>
+      <span from="#A-2100105668-7-29" xml:id="L-2100105668-7-29">tom</span>
+      <span from="#A-2100105668-7-31" xml:id="L-2100105668-7-31">på</span>
+      <span from="#A-2100105668-7-33" xml:id="L-2100105668-7-33">en</span>
+      <span from="#A-2100105668-7-35" xml:id="L-2100105668-7-35">blank</span>
+      <span from="#A-2100105668-7-37" xml:id="L-2100105668-7-37">skærm</span>
+      <span from="#A-2100105668-7-39" xml:id="L-2100105668-7-39">uden</span>
+      <span from="#A-2100105668-7-41" xml:id="L-2100105668-7-41">at</span>
+      <span from="#A-2100105668-7-43" xml:id="L-2100105668-7-43">være</span>
+      <span from="#A-2100105668-7-45" xml:id="L-2100105668-7-45">i</span>
+      <span from="#A-2100105668-7-47" xml:id="L-2100105668-7-47">stand</span>
+      <span from="#A-2100105668-7-49" xml:id="L-2100105668-7-49">til</span>
+      <span from="#A-2100105668-7-51" xml:id="L-2100105668-7-51">at</span>
+      <span from="#A-2100105668-7-53" xml:id="L-2100105668-7-53">sætte</span>
+      <span from="#A-2100105668-7-55" xml:id="L-2100105668-7-55">fem</span>
+      <span from="#A-2100105668-7-57" xml:id="L-2100105668-7-57">ord</span>
+      <span from="#A-2100105668-7-59" xml:id="L-2100105668-7-59">fornuftig</span>
+      <span from="#A-2100105668-7-61" xml:id="L-2100105668-7-61">sammen</span>
+      <span from="#A-2100105668-7-62" xml:id="L-2100105668-7-62">.</span>
+      <span from="#A-2100105524-5-1" xml:id="L-2100105524-5-1">bagefter</span>
+      <span from="#A-2100105524-5-3" xml:id="L-2100105524-5-3">være</span>
+      <span from="#A-2100105524-5-5" xml:id="L-2100105524-5-5">jeg</span>
+      <span from="#A-2100105524-5-7" xml:id="L-2100105524-5-7">i</span>
+      <span from="#A-2100105524-5-9" xml:id="L-2100105524-5-9">stand</span>
+      <span from="#A-2100105524-5-11" xml:id="L-2100105524-5-11">til</span>
+      <span from="#A-2100105524-5-13" xml:id="L-2100105524-5-13">at</span>
+      <span from="#A-2100105524-5-15" xml:id="L-2100105524-5-15">yde</span>
+      <span from="#A-2100105524-5-16" xml:id="L-2100105524-5-16">.</span>
+      <span from="#A-2100105440-8-1" xml:id="L-2100105440-8-1">jeg</span>
+      <span from="#A-2100105440-8-3" xml:id="L-2100105440-8-3">løbe</span>
+      <span from="#A-2100105440-8-5" xml:id="L-2100105440-8-5">gerne</span>
+      <span from="#A-2100105440-8-7" xml:id="L-2100105440-8-7">risiko</span>
+      <span from="#A-2100105440-8-9" xml:id="L-2100105440-8-9">for</span>
+      <span from="#A-2100105440-8-11" xml:id="L-2100105440-8-11">at</span>
+      <span from="#A-2100105440-8-13" xml:id="L-2100105440-8-13">lyde</span>
+      <span from="#A-2100105440-8-15" xml:id="L-2100105440-8-15">som</span>
+      <span from="#A-2100105440-8-17" xml:id="L-2100105440-8-17">en</span>
+      <span from="#A-2100105440-8-19" xml:id="L-2100105440-8-19">frelse</span>
+      <span from="#A-2100105440-8-21" xml:id="L-2100105440-8-21">økoflip</span>
+      <span from="#A-2100105440-8-23" xml:id="L-2100105440-8-23">(</span>
+      <span from="#A-2100105440-8-24" xml:id="L-2100105440-8-24">lidt</span>
+      <span from="#A-2100105440-8-26" xml:id="L-2100105440-8-26">være</span>
+      <span from="#A-2100105440-8-28" xml:id="L-2100105440-8-28">jeg</span>
+      <span from="#A-2100105440-8-30" xml:id="L-2100105440-8-30">det</span>
+      <span from="#A-2100105440-8-32" xml:id="L-2100105440-8-32">nemlig</span>
+      <span from="#A-2100105440-8-33" xml:id="L-2100105440-8-33">!</span>
+      <span from="#A-2100105440-8-34" xml:id="L-2100105440-8-34">)</span>
+      <span from="#A-2100105440-8-36" xml:id="L-2100105440-8-36">og</span>
+      <span from="#A-2100105440-8-38" xml:id="L-2100105440-8-38">råbe</span>
+      <span from="#A-2100105440-8-40" xml:id="L-2100105440-8-40">ud</span>
+      <span from="#A-2100105440-8-42" xml:id="L-2100105440-8-42">i</span>
+      <span from="#A-2100105440-8-44" xml:id="L-2100105440-8-44">cyberspace</span>
+      <span from="#A-2100105440-8-45" xml:id="L-2100105440-8-45">,</span>
+      <span from="#A-2100105440-8-47" xml:id="L-2100105440-8-47">at</span>
+      <span from="#A-2100105440-8-49" xml:id="L-2100105440-8-49">det</span>
+      <span from="#A-2100105440-8-51" xml:id="L-2100105440-8-51">faktisk</span>
+      <span from="#A-2100105440-8-53" xml:id="L-2100105440-8-53">være</span>
+      <span from="#A-2100105440-8-55" xml:id="L-2100105440-8-55">en</span>
+      <span from="#A-2100105440-8-57" xml:id="L-2100105440-8-57">fed</span>
+      <span from="#A-2100105440-8-59" xml:id="L-2100105440-8-59">fornemmelse</span>
+      <span from="#A-2100105440-8-61" xml:id="L-2100105440-8-61">at</span>
+      <span from="#A-2100105440-8-63" xml:id="L-2100105440-8-63">skære</span>
+      <span from="#A-2100105440-8-65" xml:id="L-2100105440-8-65">ned</span>
+      <span from="#A-2100105440-8-67" xml:id="L-2100105440-8-67">på</span>
+      <span from="#A-2100105440-8-69" xml:id="L-2100105440-8-69">sin</span>
+      <span from="#A-2100105440-8-71" xml:id="L-2100105440-8-71">affaldsmængde</span>
+      <span from="#A-2100105440-8-73" xml:id="L-2100105440-8-73">og</span>
+      <span from="#A-2100105440-8-75" xml:id="L-2100105440-8-75">være</span>
+      <span from="#A-2100105440-8-77" xml:id="L-2100105440-8-77">i</span>
+      <span from="#A-2100105440-8-79" xml:id="L-2100105440-8-79">stand</span>
+      <span from="#A-2100105440-8-81" xml:id="L-2100105440-8-81">til</span>
+      <span from="#A-2100105440-8-83" xml:id="L-2100105440-8-83">at</span>
+      <span from="#A-2100105440-8-85" xml:id="L-2100105440-8-85">genbruge</span>
+      <span from="#A-2100105440-8-87" xml:id="L-2100105440-8-87">den</span>
+      <span from="#A-2100105440-8-89" xml:id="L-2100105440-8-89">selv</span>
+      <span from="#A-2100105440-8-90" xml:id="L-2100105440-8-90">.</span>
+      <span from="#A-2100105329-1-1" xml:id="L-2100105329-1-1">indtil</span>
+      <span from="#A-2100105329-1-3" xml:id="L-2100105329-1-3">nu</span>
+      <span from="#A-2100105329-1-5" xml:id="L-2100105329-1-5">have</span>
+      <span from="#A-2100105329-1-7" xml:id="L-2100105329-1-7">de</span>
+      <span from="#A-2100105329-1-9" xml:id="L-2100105329-1-9">holde</span>
+      <span from="#A-2100105329-1-11" xml:id="L-2100105329-1-11">stand</span>
+      <span from="#A-2100105329-1-13" xml:id="L-2100105329-1-13">mod</span>
+      <span from="#A-2100105329-1-15" xml:id="L-2100105329-1-15">kulde</span>
+      <span from="#A-2100105329-1-17" xml:id="L-2100105329-1-17">og</span>
+      <span from="#A-2100105329-1-19" xml:id="L-2100105329-1-19">deslige</span>
+      <span from="#A-2100105329-1-20" xml:id="L-2100105329-1-20">,</span>
+      <span from="#A-2100105329-1-22" xml:id="L-2100105329-1-22">mine</span>
+      <span from="#A-2100105329-1-24" xml:id="L-2100105329-1-24">spansk</span>
+      <span from="#A-2100105329-1-26" xml:id="L-2100105329-1-26">marguerit</span>
+      <span from="#A-2100105329-1-27" xml:id="L-2100105329-1-27">,</span>
+      <span from="#A-2100105329-1-29" xml:id="L-2100105329-1-29">sommer</span>
+      <span from="#A-2100105329-1-31" xml:id="L-2100105329-1-31">allersidst</span>
+      <span from="#A-2100105329-1-33" xml:id="L-2100105329-1-33">blomsterrest</span>
+      <span from="#A-2100105329-1-34" xml:id="L-2100105329-1-34">.</span>
+    </spanGrp>
+  </text>
+</TEI>

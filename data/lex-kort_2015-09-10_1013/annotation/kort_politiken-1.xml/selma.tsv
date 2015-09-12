@@ -1,0 +1,2872 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue
+#id=1
+#text=Det var heldigt, at kortene sad sådan, men det var Syds eneste chance, og det er vel meget rimeligt, at man en gang imellem bliver belønnet for at spille sin chance.
+1-1	Det	det	PP:s-un:--:-3n-	
+1-2	var	være	VF:----:ta:----	
+1-3	heldigt	heldig	AC:siun:--:p---	
+1-4	,	,	ZD	
+1-5	at	at	CS:----:--:----	
+1-6	kortene	kort	NC:pdu#:--:----	
+1-7	sad	sidde	VF:----:ta:----	
+1-8	sådan	sådan	D-:----:--:u---	
+1-9	,	,	ZD	
+1-10	men	men	CC:----:--:----	
+1-11	det	det	PP:s-un:--:-3n-	
+1-12	var	var	XY:----:--:----	
+1-13	Syds	syd	NC:sigc:--:----	
+1-14	eneste	eneste	AC:§§u§:--:p---	
+1-15	chance	chance	NC:siuc:--:----	
+1-16	,	,	ZD	
+1-17	og	og	CC:----:--:----	
+1-18	det	det	PP:s-un:--:-3n-	
+1-19	er	være	VF:----:sa:----	
+1-20	vel	vel	D-:----:--:u---	
+1-21	meget	megen	AD:----:--:p---	
+1-22	rimeligt	rimelig	AC:siun:--:p---	
+1-23	,	,	ZD	
+1-24	at	at	CS:----:--:----	
+1-25	man	man	PI:#-uc:--:----	
+1-26	en	en	PI:s-uc:--:----	
+1-27	gang	gang	NC:siuc:--:----	
+1-28	imellem	imellem	D-:----:--:u---	
+1-29	bliver	blive	VF:----:sa:----	
+1-30	belønnet	belønne	VT:siu#:t-:----	
+1-31	for	for	T-:----:--:----	
+1-32	at	at	UI:----:--:----	
+1-33	spille	spille	VI:----:-a:----	
+1-34	sin	sin	PO:s--c:--:-3ys	
+1-35	chance	chance	NC:siuc:--:----	
+1-36	.	.	ZP	
+
+#id=2
+#text=Den værste var nok en anden frivillig, der ikke kunne få sit kort.
+2-1	Den	den	PM:s-uc:--:----	
+2-2	værste	slem	AC:§du§:--:s---	
+2-3	var	være	VF:----:ta:----	
+2-4	nok	nok	D-:----:--:u---	
+2-5	en	en	PI:s-uc:--:----	
+2-6	anden	anden	PI:s-uc:--:----	
+2-7	frivillig	frivillig	AC:siuc:--:p---	
+2-8	,	,	ZD	
+2-9	der	der	US:----:--:----	
+2-10	ikke	ikke	D-:----:--:u---	
+2-11	kunne	kunne	VF:----:ta:----	
+2-12	få	få	VI:----:-a:----	
+2-13	sit	sin	PO:s--n:--:-3ys	
+2-14	kort	kort	NC:siun:--:----	
+2-15	.	.	ZP	
+
+#id=3
+#text= Den russiske avis Kommersant mener, at det "nu er Kadyrovs afgørelse", og at han næppe ønsker at blive kigget nærmere i kortene.
+3-1	Den	den	PM:s-uc:--:----	
+3-2	russiske	russisk	AC:sdu#:--:p---	
+3-3	avis	avis	NC:siuc:--:----	
+3-4	Kommersant	Kommersant	NP:siu#:--:----	
+3-5	mener	mene	VF:----:sa:----	
+3-6	,	,	ZD	
+3-7	at	at	CS:----:--:----	
+3-8	det	den	PM:s-un:--:----	
+3-9	"	"	ZI	
+3-10	nu	nu	D-:----:--:u---	
+3-11	er	være	VF:----:sa:----	
+3-12	Kadyrovs	Kadyrovs	NP:sig#:--:----	
+3-13	afgørelse	afgørelse	NC:siuc:--:----	
+3-14	"	"	ZI	
+3-15	,	,	ZD	
+3-16	og	og	CC:----:--:----	
+3-17	at	at	CS:----:--:----	
+3-18	han	han	PP:s-nc:--:-3n-	
+3-19	næppe	næppe	D-:----:--:u---	
+3-20	ønsker	ønske	VF:----:sa:----	
+3-21	at	at	UI:----:--:----	
+3-22	blive	blive	VI:----:-a:----	
+3-23	kigget	kig	NC:sdun:--:----	
+3-24	nærmere	nær	AD:----:--:c---	
+3-25	i	i	T-:----:--:----	
+3-26	kortene	kort	NC:pdu#:--:----	
+3-27	.	.	ZP	
+
+#id=4
+#text= Singh har omvendt fokuseret på Advanis partnerskab med den omstridte BJP-politiker Narendra Modi (se under Gujarat på kortet).
+4-1	Singh	Singh	NP:siu#:--:----	
+4-2	har	have	VF:----:sa:----	
+4-3	omvendt	omvende	VT:siu#:t-:----	
+4-4	fokuseret	fokusere	VT:siu#:t-:----	
+4-5	på	på	T-:----:--:----	
+4-6	Advanis	Advanis	:----	
+4-7	partnerskab	partnerskab	NC:siun:--:----	
+4-8	med	med	T-:----:--:----	
+4-9	den	den	PM:s-uc:--:----	
+4-10	omstridte	omstridt	AC:sdu#:--:p---	
+4-11	BJP	BJP	NP:siu#:--:----	
+4-12	-	-	ZH	
+4-13	politiker	politiker	NC:siuc:--:----	
+4-14	Narendra	Narendra	NP:siu#:--:----	
+4-15	Modi	modus	NC:sdun:--:----	
+4-16	(	(	ZD	
+4-17	se	se	VI:----:-a:----	
+4-18	under	under	T-:----:--:----	
+4-19	Gujarat	Gujarat	NP:siu#:--:----	
+4-20	på	på	T-:----:--:----	
+4-21	kortet	kort	NC:sdun:--:----	
+4-22	)	)	ZD	
+4-23	.	.	ZP	
+
+#id=5
+#text=Vi havde håbet, det ville være et korrekt kort, det drejer sig jo om trafikforbindelserne, men nej, alt er som det plejer at være:
+5-1	Vi	vi	PP:p-nc:--:-1n-	
+5-2	havde	have	VF:----:ta:----	
+5-3	håbet	håb	NC:sdun:--:----	
+5-4	,	,	ZD	
+5-5	det	det	PP:s-un:--:-3n-	
+5-6	ville	ville	VF:----:ta:----	
+5-7	være	være	VI:----:-a:----	
+5-8	et	en	PI:s-un:--:----	
+5-9	korrekt	korrekt	AC:siu§:--:p---	
+5-10	kort	kort	NC:siun:--:----	
+5-11	,	,	ZD	
+5-12	det	det	PP:s-un:--:-3n-	
+5-13	drejer	dreje	VF:----:sa:----	
+5-14	sig	sig	PP:#-u#:--:-3y-	
+5-15	jo	jo	D-:----:--:u---	
+5-16	om	om	T-:----:--:----	
+5-17	trafikforbindelserne	trafikforbindelse	NC:pdu#:--:----	
+5-18	,	,	ZD	
+5-19	men	men	CC:----:--:----	
+5-20	nej	nej	I-:----:--:----	
+5-21	,	,	ZD	
+5-22	alt	alt	D-:----:--:u---	
+5-23	er	være	VF:----:sa:----	
+5-24	som	som	US:----:--:----	
+5-25	det	det	PP:s-un:--:-3n-	
+5-26	plejer	pleje	VF:----:sa:----	
+5-27	at	at	UI:----:--:----	
+5-28	være	være	VI:----:-a:----	
+5-29	:	:	ZP	
+
+#id=6
+#text= på dette officielle kort fra trafikministeriet er Bornholm placeret i ' splendid isolation' nederst i højre hjørne i sin egen lille kasse helt uden kontakt til resten af Danmark.
+6-1	på	på	T-:----:--:----	
+6-2	dette	denne	PM:s-un:--:----	
+6-3	officielle	officiel	AC:sdu#:--:p---	
+6-4	kort	kort	NC:siun:--:----	
+6-5	fra	fra	T-:----:--:----	
+6-6	trafikministeriet	trafikministerium	NC:sdun:--:----	
+6-7	er	være	VF:----:sa:----	
+6-8	Bornholm	Bornholm	NP:siu#:--:----	
+6-9	placeret	placere	VT:siu#:t-:----	
+6-10	i	i	D-:----:--:u---	
+6-11	'	'	ZA	
+6-12	splendid	splendid	AC:siuc:--:p---	
+6-13	isolation	isolation	NC:siuc:--:----	
+6-14	'	'	ZA	
+6-15	nederst	nederst	AC:siuc:--:p---	
+6-16	i	i	T-:----:--:----	
+6-17	højre	højre	AC:§§u§:--:p---	
+6-18	hjørne	hjørne	NC:siun:--:----	
+6-19	i	i	T-:----:--:----	
+6-20	sin	sin	PO:s--c:--:-3ys	
+6-21	egen	egen	AC:s§uc:--:p---	
+6-22	lille	lille	AC:s§u§:--:p---	
+6-23	kasse	kasse	NC:siuc:--:----	
+6-24	helt	hel	AD:----:--:p---	
+6-25	uden	uden	T-:----:--:----	
+6-26	kontakt	kontakt	NC:siuc:--:----	
+6-27	til	til	T-:----:--:----	
+6-28	resten	rest	NC:sduc:--:----	
+6-29	af	af	T-:----:--:----	
+6-30	Danmark	Danmark	NP:siu#:--:----	
+6-31	.	.	ZP	
+
+#id=7
+#text=Kortet skulle ellers vise trafikforbindelserne.
+7-1	Kortet	kort	NC:sdun:--:----	
+7-2	skulle	skulle	VF:----:ta:----	
+7-3	ellers	ellers	D-:----:--:u---	
+7-4	vise	vise	VI:----:-a:----	
+7-5	trafikforbindelserne	trafikforbindelse	NC:pdu#:--:----	
+7-6	.	.	ZP	
+
+#id=8
+#text=Som det fremgår af kortet har vi kun én:
+8-1	Som	som	US:----:--:----	
+8-2	det	det	PP:s-un:--:-3n-	
+8-3	fremgår	fremgå	VF:----:sa:----	
+8-4	af	af	T-:----:--:----	
+8-5	kortet	kort	NC:sdun:--:----	
+8-6	har	have	VF:----:sa:----	
+8-7	vi	vi	PP:p-nc:--:-1n-	
+8-8	kun	kun	D-:----:--:u---	
+8-9	én	en	PI:s-uc:--:----	
+8-10	:	:	ZP	
+
+#id=9
+#text=Havde ministeren haft et korrekt kort, der både havde placeret Bornholm det rigtige sted og desuden viste færgeforbindelserne, kunne han måske også have fået øje på de muligheder, der er for Bornholm til at skaffe sig direkte kontakt til andet end den øvrige del af Danmark:
+9-1	Havde	have	VF:----:ta:----	
+9-2	ministeren	minister	NC:sduc:--:----	
+9-3	haft	have	VT:siu#:t-:----	
+9-4	et	en	PI:s-un:--:----	
+9-5	korrekt	korrekt	AC:siu§:--:p---	
+9-6	kort	kort	NC:siun:--:----	
+9-7	,	,	ZD	
+9-8	der	der	US:----:--:----	
+9-9	både	både	D-:----:--:u---	
+9-10	havde	have	VF:----:ta:----	
+9-11	placeret	placere	VT:siu#:t-:----	
+9-12	Bornholm	Bornholm	NP:siu#:--:----	
+9-13	det	det	XY:----:--:----	
+9-14	rigtige	rigtig	AC:sdu#:--:p---	
+9-15	sted	sted	NC:siun:--:----	
+9-16	og	og	CC:----:--:----	
+9-17	desuden	desuden	D-:----:--:u---	
+9-18	viste	vise	VF:----:ta:----	
+9-19	færgeforbindelserne	færgeforbindelse	NC:pdu#:--:----	
+9-20	,	,	ZD	
+9-21	kunne	kunne	VF:----:ta:----	
+9-22	han	han	PP:s-nc:--:-3n-	
+9-23	måske	måske	D-:----:--:u---	
+9-24	også	også	D-:----:--:u---	
+9-25	have	have	VI:----:-a:----	
+9-26	fået	få	VT:siu#:t-:----	
+9-27	øje	øje	NC:siun:--:----	
+9-28	på	på	T-:----:--:----	
+9-29	de	den	PM:p-u#:--:----	
+9-30	muligheder	mulighed	NC:piu#:--:----	
+9-31	,	,	ZD	
+9-32	der	der	US:----:--:----	
+9-33	er	være	VF:----:sa:----	
+9-34	for	for	T-:----:--:----	
+9-35	Bornholm	Bornholm	NP:siu#:--:----	
+9-36	til	til	T-:----:--:----	
+9-37	at	at	UI:----:--:----	
+9-38	skaffe	skaffe	VI:----:-a:----	
+9-39	sig	sig	PP:#-u#:--:-3y-	
+9-40	direkte	direkte	AC:§§u§:--:p---	
+9-41	kontakt	kontakt	NC:siuc:--:----	
+9-42	til	til	T-:----:--:----	
+9-43	andet	anden	PI:s-un:--:----	
+9-44	end	end	CS:----:--:----	
+9-45	den	den	PM:s-uc:--:----	
+9-46	øvrige	øvrig	AC:sdu#:--:p---	
+9-47	del	del	NC:siuc:--:----	
+9-48	af	af	T-:----:--:----	
+9-49	Danmark	Danmark	NP:siu#:--:----	
+9-50	:	:	ZP	
+
+#id=10
+#text= Et enkelt blik på et korrekt kort kan ellers dokumentere, at både Sverige, Tyskland og Polen ligger meget tættere på Bornholm end resten af Danmark, og at der vil være god fornuft i at have tætte forbindelser den vej.
+10-1	Et	en	PI:s-un:--:----	
+10-2	enkelt	enkelt	AC:siu§:--:p---	
+10-3	blik	blik	NC:siun:--:----	
+10-4	på	på	T-:----:--:----	
+10-5	et	en	PI:s-un:--:----	
+10-6	korrekt	korrekt	AC:siu§:--:p---	
+10-7	kort	kort	NC:siun:--:----	
+10-8	kan	kunne	VF:----:sa:----	
+10-9	ellers	ellers	D-:----:--:u---	
+10-10	dokumentere	dokumentere	VI:----:-a:----	
+10-11	,	,	ZD	
+10-12	at	at	CS:----:--:----	
+10-13	både	både	D-:----:--:u---	
+10-14	Sverige	Sverige	NP:siu#:--:----	
+10-15	,	,	ZD	
+10-16	Tyskland	Tyskland	NP:siu#:--:----	
+10-17	og	og	CC:----:--:----	
+10-18	Polen	Polen	NP:siu#:--:----	
+10-19	ligger	ligge	VF:----:sa:----	
+10-20	meget	megen	AD:----:--:p---	
+10-21	tættere	tæt	AC:##u#:--:c---	
+10-22	på	på	T-:----:--:----	
+10-23	Bornholm	Bornholm	NP:siu#:--:----	
+10-24	end	end	CS:----:--:----	
+10-25	resten	rest	NC:sduc:--:----	
+10-26	af	af	T-:----:--:----	
+10-27	Danmark	Danmark	NP:siu#:--:----	
+10-28	,	,	ZD	
+10-29	og	og	CC:----:--:----	
+10-30	at	at	CS:----:--:----	
+10-31	der	der	US:----:--:----	
+10-32	vil	ville	VF:----:sa:----	
+10-33	være	være	VI:----:-a:----	
+10-34	god	god	AC:siuc:--:p---	
+10-35	fornuft	fornuft	NC:siuc:--:----	
+10-36	i	i	T-:----:--:----	
+10-37	at	at	UI:----:--:----	
+10-38	have	have	VI:----:-a:----	
+10-39	tætte	tæt	AC:p#u#:--:p---	
+10-40	forbindelser	forbindelse	NC:piu#:--:----	
+10-41	den	den	PM:s-uc:--:----	
+10-42	vej	vej	NC:siuc:--:----	
+10-43	.	.	ZP	
+
+#id=11
+#text=Se på et korrekt kort og forklar det fornuftige i at placere overvågning af bornholmsområdet i Frederikshavn.
+11-1	Se	se	VM:----:--:----	
+11-2	på	på	T-:----:--:----	
+11-3	et	en	PI:s-un:--:----	
+11-4	korrekt	korrekt	AC:siu§:--:p---	
+11-5	kort	kort	:siun:--:----	
+11-6	og	og	CC:----:--:----	
+11-7	forklar	forklare	VM:----:--:----	
+11-8	det	det	PP:s-un:--:-3n-	
+11-9	fornuftige	fornuftig	AC:p#u#:--:p---	
+11-10	i	i	T-:----:--:----	
+11-11	at	at	UI:----:--:----	
+11-12	placere	placere	VI:----:-a:----	
+11-13	overvågning	overvågning	NC:siuc:--:----	
+11-14	af	af	T-:----:--:----	
+11-15	bornholmsområdet	bornholmsområde	NC:sdun:--:----	
+11-16	i	i	T-:----:--:----	
+11-17	Frederikshavn	Frederikshavn	NP:siu#:--:----	
+11-18	.	.	ZP	
+
+#id=12
+#text=I stedet for at placere Bornholm i et eller andet hjørne uden relationer til sine virkelige naboer, burde man i alle sammenhænge sørge for, at kun korrekte kort måtte gengives.
+12-1	I	i	T-:----:--:----	
+12-2	stedet	sted	NC:sdun:--:----	
+12-3	for	for	T-:----:--:----	
+12-4	at	at	UI:----:--:----	
+12-5	placere	placere	VI:----:-a:----	
+12-6	Bornholm	Bornholm	NP:siu#:--:----	
+12-7	i	i	T-:----:--:----	
+12-8	et	en	PI:s-un:--:----	
+12-9	eller	eller	CC:----:--:----	
+12-10	andet	anden	PI:s-un:--:----	
+12-11	hjørne	hjørne	NC:siun:--:----	
+12-12	uden	uden	T-:----:--:----	
+12-13	relationer	relation	NC:piu#:--:----	
+12-14	til	til	T-:----:--:----	
+12-15	sine	sin	PO:p--#:--:-3ys	
+12-16	virkelige	virkelig	AC:p#u#:--:p---	
+12-17	naboer	nabo	NC:piu#:--:----	
+12-18	,	,	ZD	
+12-19	burde	burde	VF:----:ta:----	
+12-20	man	man	PI:#-uc:--:----	
+12-21	i	i	T-:----:--:----	
+12-22	alle	al	PI:p-u#:--:----	
+12-23	sammenhænge	sammenhæng	NC:piu#:--:----	
+12-24	sørge	sørge	VI:----:-a:----	
+12-25	for	for	T-:----:--:----	
+12-26	,	,	ZD	
+12-27	at	at	CS:----:--:----	
+12-28	kun	kun	D-:----:--:u---	
+12-29	korrekte	korrekt	AC:p#u#:--:p---	
+12-30	kort	kort	NC:piu#:--:----	
+12-31	måtte	måtte	VF:----:ta:----	
+12-32	gengives	gengive	VI:----:-p:----	
+12-33	.	.	ZP	
+
+#id=13
+#text=Det ligner i forbløffende grad de kort, der har Grønland med i en målestok, så dette kæmpeland bliver på størrelse med - Bornholm.
+13-1	Det	det	PP:s-un:--:-3n-	
+13-2	ligner	ligne	VF:----:sa:----	
+13-3	i	i	T-:----:--:----	
+13-4	forbløffende	forbløffe	VP:##u#:s-:----	
+13-5	grad	grad	NC:siuc:--:----	
+13-6	de	den	PM:p-u#:--:----	
+13-7	kort	kort	NC:piu#:--:----	
+13-8	,	,	ZD	
+13-9	der	der	US:----:--:----	
+13-10	har	have	VF:----:sa:----	
+13-11	Grønland	Grønland	NP:siu#:--:----	
+13-12	med	med	D-:----:--:u---	
+13-13	i	i	T-:----:--:----	
+13-14	en	en	PI:s-uc:--:----	
+13-15	målestok	målestok	NC:siuc:--:----	
+13-16	,	,	ZD	
+13-17	så	så	CS:----:--:----	
+13-18	dette	denne	PM:s-un:--:----	
+13-19	kæmpeland	kæmpeland	NC:siun:--:----	
+13-20	bliver	blive	VF:----:sa:----	
+13-21	på	på	T-:----:--:----	
+13-22	størrelse	størrelse	NC:siuc:--:----	
+13-23	med	med	T-:----:--:----	
+13-24	-	-	NC:piu#:--:----	
+13-25	Bornholm	Bornholm	NP:siu#:--:----	
+13-26	.	.	ZP	
+
+#id=14
+#text= Alle ovennævnte retter findes på kortet på Restaurant Sletten i Sletten Kros gamle lokaler, der er blevet overtaget af holdet bag gourmetrestauranten Formel B, hvor Kristian Møller og Rune Jochumsen indkasserede fuldt hus i kokkehuer og stjerner over hele linjen for deres snorlige franske køkken.
+14-1	Alle	al	PI:p-u#:--:----	
+14-2	ovennævnte	ovennævnt	AC:p#u#:--:p---	
+14-3	retter	ret	NC:piu#:--:----	
+14-4	findes	finde	VF:----:sp:----	
+14-5	på	på	T-:----:--:----	
+14-6	kortet	kort	NC:sdun:--:----	
+14-7	på	på	T-:----:--:----	
+14-8	Restaurant	restaurant	NC:siuc:--:----	
+14-9	Sletten	slette	NC:sduc:--:----	
+14-10	i	i	T-:----:--:----	
+14-11	Sletten	slette	NC:sduc:--:----	
+14-12	Kros	Kro	NP:sig#:--:----	
+14-13	gamle	gammel	AC:p#u#:--:p---	
+14-14	lokaler	lokale	NC:piu#:--:----	
+14-15	,	,	ZD	
+14-16	der	der	US:----:--:----	
+14-17	er	være	VF:----:sa:----	
+14-18	blevet	blive	VT:siu#:t-:----	
+14-19	overtaget	overtage	VT:siu#:t-:----	
+14-20	af	af	T-:----:--:----	
+14-21	holdet	hold	NC:sdun:--:----	
+14-22	bag	bag	T-:----:--:----	
+14-23	gourmetrestauranten	gourmetrestaurant	duc:--:----	
+14-24	Formel	formel	NC:siuc:--:----	
+14-25	B	B	NP:siu#:--:----	
+14-26	,	,	ZD	
+14-27	hvor	hvor	D-:----:--:u---	
+14-28	Kristian	Kristian	NP:siu#:--:----	
+14-29	Møller	Møller	NP:siu#:--:----	
+14-30	og	og	CC:----:--:----	
+14-31	Rune	rune	NC:siuc:--:----	
+14-32	Jochumsen	Jochumsen	NP:siu#:--:----	
+14-33	indkasserede	indkassere	VF:----:ta:----	
+14-34	fuldt	fuld	AC:siun:--:p---	
+14-35	hus	hus	NC:siun:--:----	
+14-36	i	i	T-:----:--:----	
+14-37	kokkehuer	kokkehue	NC:piu#:--:----	
+14-38	og	og	CC:----:--:----	
+14-39	stjerner	stjerne	NC:piu#:--:----	
+14-40	over	over	T-:----:--:----	
+14-41	hele	hel	AC:sdu#:--:p---	
+14-42	linjen	linje	NC:sduc:--:----	
+14-43	for	for	T-:----:--:----	
+14-44	deres	deres	PO:#--#:--:-3np	
+14-45	snorlige	snorlige	AD:----:--:p---	
+14-46	franske	fransk	AC:sdu#:--:p---	
+14-47	køkken	køkken	NC:siun:--:----	
+14-48	.	.	ZP	
+
+#id=15
+#text= Kvinden ville køre med bussen med sit månedskort, men da chaufføren ikke kunne se, om kvindens ansigt stemte overens med billedet på abonnementskortet, afviste han at lade hende køre med kortet som billet.
+15-1	Kvinden	kvinde	NC:sduc:--:----	
+15-2	ville	ville	VF:----:ta:----	
+15-3	køre	køre	VI:----:-a:----	
+15-4	med	med	T-:----:--:----	
+15-5	bussen	bus	NC:sduc:--:----	
+15-6	med	med	T-:----:--:----	
+15-7	sit	sin	PO:s--n:--:-3ys	
+15-8	månedskort	månedskort	NC:siun:--:----	
+15-9	,	,	ZD	
+15-10	men	men	CC:----:--:----	
+15-11	da	da	CS:----:--:----	
+15-12	chaufføren	chauffør	NC:sduc:--:----	
+15-13	ikke	ikke	D-:----:--:u---	
+15-14	kunne	kunne	VF:----:ta:----	
+15-15	se	se	VI:----:-a:----	
+15-16	,	,	ZD	
+15-17	om	om	T-:----:--:----	
+15-18	kvindens	kvinde	NC:sdgc:--:----	
+15-19	ansigt	ansigt	NC:siun:--:----	
+15-20	stemte	stemme	VF:----:ta:----	
+15-21	overens	overens	D-:----:--:u---	
+15-22	med	med	T-:----:--:----	
+15-23	billedet	billede	dun:--:----	
+15-24	på	på	T-:----:--:----	
+15-25	abonnementskortet	abonnementskort	NC:sdun:--:----	
+15-26	,	,	ZD	
+15-27	afviste	afvise	VF:----:ta:----	
+15-28	han	han	PP:s-nc:--:-3n-	
+15-29	at	at	UI:----:--:----	
+15-30	lade	lade	VI:----:-a:----	
+15-31	hende	hun	PP:s-uc:--:-3n-	
+15-32	køre	køre	VI:----:-a:----	
+15-33	med	med	T-:----:--:----	
+15-34	kortet	kort	NC:sdun:--:----	
+15-35	som	som	US:----:--:----	
+15-36	billet	billet	NC:siuc:--:----	
+15-37	.	.	ZP	
+
+#id=16
+#text= Og så spiller han et andet kort, der er vigtigt i Danmark, der har været ramt af flere mislykkede forsvarsindkøb:
+16-1	Og	og	CC:----:--:----	
+16-2	så	så	D-:----:--:u---	
+16-3	spiller	ille	VF:----:sa:----	
+16-4	han	han	PP:s-nc:--:-3n-	
+16-5	et	en	PI:s-un:--:----	
+16-6	andet	anden	PI:s-un:--:----	
+16-7	kort	kort	NC:siun:--:----	
+16-8	,	,	ZD	
+16-9	der	der	US:----:--:----	
+16-10	er	være	VF:----:sa:----	
+16-11	vigtigt	vigtig	AD:----:--:p---	
+16-12	i	i	T-:----:--:----	
+16-13	Danmark	Danmark	NP:siu#:--:----	
+16-14	,	,	ZD	
+16-15	der	der	US:----:--:----	
+16-16	har	have	VF:----:sa:----	
+16-17	været	være	VT:siu#:t-:----	
+16-18	ramt	ramme	VT:siu#:t-:----	
+16-19	af	af	T-:----:--:----	
+16-20	flere	mange	AC:##u#:--:c---	
+16-21	mislykkede	mislykket	AC:p#u#:--:p---	
+16-22	forsvarsindkøb	forsvarsindkøb	NC:piu#:--:----	
+16-23	:	:	ZP	
+
+#id=17
+#text=At FCK skulle komme i front lå i kortene, idet det var topholdet, der åbnede bedst.
+17-1	At	at	CS:----:--:----	
+17-2	FCK	FCK	XY:----:--:----	
+17-3	skulle	skulle	VF:----:ta:----	
+17-4	komme	komme	VI:----:-a:----	
+17-5	i	i	T-:----:--:----	
+17-6	front	front	NC:siuc:--:----	
+17-7	lå	ligge	VF:----:ta:----	
+17-8	i	i	T-:----:--:----	
+17-9	kortene	kort	NC:pdu#:--:----	
+17-10	,	,	ZD	
+17-11	idet	idet	CS:----:--:----	
+17-12	det	det	PP:s-un:--:-3n-	
+17-13	var	være	VF:----:ta:----	
+17-14	topholdet	tophold	NC:sdun:--:----	
+17-15	,	,	ZD	
+17-16	der	der	US:----:--:----	
+17-17	åbnede	åbne	VF:----:ta:----	
+17-18	bedst	god	AD:----:--:s---	
+17-19	.	.	ZP	
+
+#id=18
+#text="Og det viser jo, at danske myndigheder ved mere om det her, end de har lyst til at sige", siger generalsekretær i Amnesty International Lars Normann Jørgensen, der mener, at regeringen nu bør lægge alle kort på bordet.
+18-1	"	"	ZI	
+18-2	Og	og	CC:----:--:----	
+18-3	det	det	PP:s-un:--:-3n-	
+18-4	viser	vise	VF:----:sa:----	
+18-5	jo	jo	D-:----:--:u---	
+18-6	,	,	ZD	
+18-7	at	at	CS:----:--:----	
+18-8	danske	dansk	AC:p#u#:--:p---	
+18-9	myndigheder	myndighed	NC:piu#:--:----	
+18-10	ved	ved	T-:----:--:----	
+18-11	mere	megen	AC:##u#:--:c---	
+18-12	om	om	CS:----:--:----	
+18-13	det	det	PP:s-un:--:-3n-	
+18-14	her	her	D-:----:--:u---	
+18-15	,	,	ZD	
+18-16	end	end	CS:----:--:----	
+18-17	de	de	PP:p-n#:--:-3n-	
+18-18	har	have	VF:----:sa:----	
+18-19	lyst	lyst	NC:siuc:--:----	
+18-20	til	til	T-:----:--:----	
+18-21	at	at	UI:----:--:----	
+18-22	sige	sige	VI:----:-a:----	
+18-23	"	"	ZI	
+18-24	,	,	ZD	
+18-25	siger	sige	VF:----:sa:----	
+18-26	generalsekretær	generalsekretær	NC:siuc:--:----	
+18-27	i	i	T-:----:--:----	
+18-28	Amnesty	Amnesty	NP:siu#:--:----	
+18-29	International	International	NP:siu#:--:----	
+18-30	Lars	Lars	NP:siu#:--:----	
+18-31	Normann	Normann	NP:siu#:--:----	
+18-32	Jørgensen	Jørgensen	NP:siu#:--:----	
+18-33	,	,	ZD	
+18-34	der	der	US:----:--:----	
+18-35	mener	mene	VF:----:sa:----	
+18-36	,	,	ZD	
+18-37	at	at	CS:----:--:----	
+18-38	regeringen	regering	NC:sduc:--:----	
+18-39	nu	nu	D-:----:--:u---	
+18-40	bør	burde	VF:----:sa:----	
+18-41	lægge	lægge	VI:----:-a:----	
+18-42	alle	al	PI:p-u#:--:----	
+18-43	kort	kort	NC:piu#:--:----	
+18-44	på	på	T-:----:--:----	
+18-45	bordet	bord	NC:sdun:--:----	
+18-46	.	.	ZP	
+
+#id=19
+#text= En renovering ligger allerede i kortene, mener V. 1
+19-1	En	en	PI:s-uc:--:----	
+19-2	renovering	renovering	NC:siuc:--:----	
+19-3	ligger	ligge	VF:----:sa:----	
+19-4	allerede	allerede	D-:----:--:u---	
+19-5	i	i	T-:----:--:----	
+19-6	kortene	kort	NC:pdu#:--:----	
+19-7	,	,	ZD	
+19-8	mener	mene	VF:----:sa:----	
+19-9	V	V	NP:siu#:--:----	
+19-10	.	.	ZP	
+19-11	1	1	LC:--u-:--:----	
+
+#id=20
+#text= Og trods hendes hang til det landlige har det aldrig ligget i kortene, at hun skulle være landmand.
+20-1	Og	og	CC:----:--:----	
+20-2	trods	trods	T-:----:--:----	
+20-3	hendes	hendes	PO:#--#:--:-3ns	
+20-4	hang	hang	NC:siu#:--:----	
+20-5	til	til	T-:----:--:----	
+20-6	det	den	PM:s-un:--:----	
+20-7	landlige	landlig	AC:sdu#:--:p---	
+20-8	har	have	VF:----:sa:----	
+20-9	det	det	PP:s-un:--:-3n-	
+20-10	aldrig	aldrig	D-:----:--:u---	
+20-11	ligget	ligge	VT:siu#:t-:----	
+20-12	i	i	T-:----:--:----	
+20-13	kortene	kort	NC:pdu#:--:----	
+20-14	,	,	ZD	
+20-15	at	at	CS:----:--:----	
+20-16	hun	hun	PP:s-nc:--:-3n-	
+20-17	skulle	skulle	VF:----:ta:----	
+20-18	være	være	VI:----:-a:----	
+20-19	landmand	landmand	NC:siuc:--:----	
+20-20	.	.	ZP	
+
+#id=21
+#text="Eksempelvis vil vi gerne ved hjælp af en satellit og radiohalsbåndet vise på et kort, hvordan denne her mærkelige tapir bevæger sig rundt i sit skovområde.
+21-1	"	"	ZI	
+21-2	Eksempelvis	eksempelvis	D-:----:--:u---	
+21-3	vil	ville	VF:----:sa:----	
+21-4	vi	vi	PP:p-nc:--:-1n-	
+21-5	gerne	gerne	D-:----:--:u---	
+21-6	ved	ved	T-:----:--:----	
+21-7	hjælp	hjælp	NC:siuc:--:----	
+21-8	af	af	T-:----:--:----	
+21-9	en	en	PI:s-uc:--:----	
+21-10	satellit	satellit	NC:siuc:--:----	
+21-11	og	og	CC:----:--:----	
+21-12	radiohalsbåndet	radiohalsbånd	NC:sdun:--:----	
+21-13	vise	vise	VI:----:-a:----	
+21-14	på	på	T-:----:--:----	
+21-15	et	en	PI:s-un:--:----	
+21-16	kort	kort	NC:siun:--:----	
+21-17	,	,	ZD	
+21-18	hvordan	hvordan	D-:----:--:u---	
+21-19	denne	denne	PM:s-uc:--:----	
+21-20	her	her	D-:----:--:u---	
+21-21	mærkelige	mærkelig	AC:sdu#:--:p---	
+21-22	tapir	tapir	NC:siuc:--:----	
+21-23	bevæger	bevæge	VF:----:sa:----	
+21-24	sig	sig	PP:#-u#:--:-3y-	
+21-25	rundt	rundt	D-:----:--:u---	
+21-26	i	i	T-:----:--:----	
+21-27	sit	sin	PO:s--n:--:-3ys	
+21-28	skovområde	skovområde	NC:siun:--:----	
+21-29	.	.	ZP	
+
+#id=22
+#text= Nogle bukker lidt dybere end andre, men bukke gør alle, for det ligger ligesom i kortene, at man ikke skal lade være.
+22-1	Nogle	nogen	PI:p-u#:--:----	
+22-2	bukker	bukke	VF:----:sa:----	
+22-3	lidt	lidt	AD:----:--:p---	
+22-4	dybere	dyb	AC:##u#:--:c---	
+22-5	end	end	CS:----:--:----	
+22-6	andre	anden	PI:p-u#:--:----	
+22-7	,	,	ZD	
+22-8	men	men	CC:----:--:----	
+22-9	bukke	buk	NC:piu#:--:----	
+22-10	gør	gøre	VF:----:sa:----	
+22-11	alle	al	PI:p-u#:--:----	
+22-12	,	,	ZD	
+22-13	for	for	CC:----:--:----	
+22-14	det	det	PP:s-un:--:-3n-	
+22-15	ligger	e	VF:----:sa:----	
+22-16	ligesom	ligesom	D-:----:--:u---	
+22-17	i	i	T-:----:--:----	
+22-18	kortene	kort	NC:pdu#:--:----	
+22-19	,	,	ZD	
+22-20	at	at	CS:----:--:----	
+22-21	man	man	PI:#-uc:--:----	
+22-22	ikke	ikke	D-:----:--:u---	
+22-23	skal	skulle	VF:----:sa:----	
+22-24	lade	lade	VI:----:-a:----	
+22-25	være	være	VI:----:-a:----	
+22-26	.	.	ZP	
+
+#id=23
+#text= mener, at en renovering af de resterende skoler allerede ligger i kortene.
+23-1	mener	mene	VF:----:sa:----	
+23-2	,	,	ZD	
+23-3	at	at	CS:----:--:----	
+23-4	en	en	PI:s-uc:--:----	
+23-5	renovering	renovering	NC:siuc:--:----	
+23-6	af	af	T-:----:--:----	
+23-7	de	den	PM:p-u#:--:----	
+23-8	resterende	restere	VP:##u#:s-:----	
+23-9	skoler	skole	NC:piu#:--:----	
+23-10	allerede	allerede	D-:----:--:u---	
+23-11	ligger	ligge	VF:----:sa:----	
+23-12	i	i	T-:----:--:----	
+23-13	kortene	kort	NC:pdu#:--:----	
+23-14	.	.	ZP	
+
+#id=24
+#text= "Claus Bo, du skal lige huske, at vi har nogle spillere, der har et gult kort i forvejen, og vi er ikke så glade for, hvis de får kort igen"", siger Claus Bo Larsen til B.
+24-1	"	"	ZI	
+24-2	Claus	Claus	NP:siu#:--:----	
+24-3	Bo	Bo	NP:siu#:--:----	
+24-4	,	,	ZD	
+24-5	du	du	PP:s-nc:--:-2n-	
+24-6	skal	skulle	VF:----:sa:----	
+24-7	lige	lige	D-:----:--:u---	
+24-8	huske	huske	VI:----:-a:----	
+24-9	,	,	ZD	
+24-10	at	at	CS:----:--:----	
+24-11	vi	vi	PP:p-nc:--:-1n-	
+24-12	har	have	VF:----:sa:----	
+24-13	nogle	nogen	PI:p-u#:--:----	
+24-14	spillere	spiller	NC:piu#:--:----	
+24-15	,	,	ZD	
+24-16	der	der	US:----:--:----	
+24-17	har	have	VF:----:sa:----	
+24-18	et	en	PI:s-un:--:----	
+24-19	gult	gul	AC:siun:--:p---	
+24-20	kort	kort	NC:siun:--:----	
+24-21	i	i	T-:----:--:----	
+24-22	forvejen	forvejen	NC:§§u§:--:----	
+24-23	,	,	ZD	
+24-24	og	og	CC:----:--:----	
+24-25	vi	vi	PP:p-nc:--:-1n-	
+24-26	er	være	VF:----:sa:----	
+24-27	ikke	ikke	D-:----:--:u---	
+24-28	så	så	D-:----:--:u---	
+24-29	glade	glad	AC:p#u#:--:p---	
+24-30	for	for	T-:----:--:----	
+24-31	,	,	ZD	
+24-32	hvis	hvis	CS:----:--:----	
+24-33	de	de	PP:p-n#:--:-3n-	
+24-34	får	få	VF:----:sa:----	
+24-35	kort	kort	AD:----:--:p---	
+24-36	igen	igen	D-:----:--:u---	
+24-37	"	"	ZI	
+24-38	"	"	ZI	
+24-39	,	,	ZD	
+24-40	siger	sige	VF:----:sa:----	
+24-41	Claus	Claus	NP:siu#:--:----	
+24-42	Bo	Bo	NP:siu#:--:----	
+24-43	Larsen	Larsen	NP:siu#:--:----	
+24-44	til	til	T-:----:--:----	
+24-45	B	B	NP:siu#:--:----	
+24-46	.	.	ZP	
+
+#id=25
+#text= Hun kunne se, at Sp 10 var et rigtig godt kort, hvis Øst havde en blank sparhonnør.
+25-1	Hun	hun	PP:s-nc:--:-3n-	
+25-2	kunne	kunne	VF:----:ta:----	
+25-3	se	se	VI:----:-a:----	
+25-4	,	,	ZD	
+25-5	at	at	XY:----:--:----	
+25-6	Sp	sp	XS:----:--:----	
+25-7	10	10	LC:--u-:--:----	
+25-8	var	være	VF:----:ta:----	
+25-9	et	en	PI:s-un:--:----	
+25-10	rigtig	rigtig	AD:----:--:p---	
+25-11	godt	god	AC:siun:--:p---	
+25-12	kort	kort	NC:siun:--:----	
+25-13	,	,	ZD	
+25-14	hvis	hvis	CS:----:--:----	
+25-15	Øst	Øst	NP:siu#:--:----	
+25-16	havde	have	VF:----:ta:----	
+25-17	en	en	PI:s-uc:--:----	
+25-18	blank	blank	AC:siuc:--:p---	
+25-19	sparhonnør	sparhonnør	NC:siuc:--:----	
+25-20	.	.	ZP	
+
+#id=26
+#text=Samme Martin Spelmann kom i fokus kort efter, da han fik marchordre efter at have fældet Peter Graulund, der havde direkte kurs mod et tomt mål.
+26-1	Samme	samme	AC:§§u§:--:p---	
+26-2	Martin	Martin	NP:siu#:--:----	
+26-3	Spelmann	Spelmann	NP:siu#:--:----	
+26-4	kom	komme	VF:----:ta:----	
+26-5	i	i	T-:----:--:----	
+26-6	fokus	fokus	NC:siu#:--:----	
+26-7	kort	kort	NC:siun:--:----	
+26-8	efter	efter	T-:----:--:----	
+26-9	,	,	ZD	
+26-10	da	da	CS:----:--:----	
+26-11	han	han	PP:s-nc:--:-3n-	
+26-12	fik	få	VF:----:ta:----	
+26-13	marchordre	marchordre	NC:siuc:--:----	
+26-14	efter	efter	T-:----:--:----	
+26-15	at	at	UI:----:--:----	
+26-16	have	have	VI:----:-a:----	
+26-17	fældet	fælde	VT:siu#:t-:----	
+26-18	Peter	Peter	NP:siu#:--:----	
+26-19	Graulund	Graulund	NP:siu#:--:----	
+26-20	,	,	ZD	
+26-21	der	der	US:----:--:----	
+26-22	havde	have	VF:----:ta:----	
+26-23	direkte	direkte	AC:§§u§:--:p---	
+26-24	kurs	kurs	NC:siuc:--:----	
+26-25	mod	mod	T-:----:--:----	
+26-26	et	en	PI:s-un:--:----	
+26-27	tomt	tom	AC:siun:--:p---	
+26-28	mål	mål	NC:siun:--:----	
+26-29	.	.	ZP	
+
+#id=27
+#text= Amit begynder at blande kortene til en sidste omgang profetier.
+27-1	Amit	Amit	NP:siu#:--:----	
+27-2	begynder	begynde	VF:----:sa:----	
+27-3	at	at	UI:----:--:----	
+27-4	blande	blande	VI:----:-a:----	
+27-5	kortene	kort	NC:pdu#:--:----	
+27-6	til	til	T-:----:--:----	
+27-7	en	en	PI:s-uc:--:----	
+27-8	sidste	sidste	AC:§§u§:--:p---	
+27-9	omgang	omgang	NC:siuc:--:----	
+27-10	profetier	profeti	NC:piu#:--:----	
+27-11	.	.	ZP	
+
+#id=28
+#text= Nord kunne godt have de rigtige kort til storeslem, men det var umuligt at finde ud af.
+28-1	Nord	nord	D-:----:--:u---	
+28-2	kunne	kunne	VF:----:ta:----	
+28-3	godt	god	AD:----:--:p---	
+28-4	have	have	VI:----:-a:----	
+28-5	de	den	PM:p-u#:--:----	
+28-6	rigtige	rigtig	AC:p#u#:--:p---	
+28-7	kort	kort	NC:piu#:--:----	
+28-8	til	til	T-:----:--:----	
+28-9	storeslem	storeslem	AC:siuc:--:p---	
+28-10	,	,	ZD	
+28-11	men	men	CC:----:--:----	
+28-12	det	det	PP:s-un:--:-3n-	
+28-13	var	være	VF:----:ta:----	
+28-14	umuligt	umulig	AC:siun:--:p---	
+28-15	at	at	UI:----:--:----	
+28-16	finde	finde	VI:----:-a:----	
+28-17	ud	ud	D-:----:--:u---	
+28-18	af	af	T-:----:--:----	
+28-19	.	.	ZP	
+
+#id=29
+#text= com Se de fem klubber på et interaktivt kort.
+29-1	com	com	CS:----:--:----	
+29-2	Se	se	VM:----:--:----	
+29-3	de	den	PM:p-u#:--:----	
+29-4	fem	fem	LC:--u-:--:----	
+29-5	klubber	klub	NC:piu#:--:----	
+29-6	på	på	T-:----:--:----	
+29-7	et	en	PI:s-un:--:----	
+29-8	interaktivt	interaktiv	AC:siun:--:p---	
+29-9	kort	kort	NC:siun:--:----	
+29-10	.	.	ZP	
+
+#id=30
+#text= Tjek drømmeparadens rute på kortet og find en placering, hvor du kan se noget, for du er ikke den eneste, der satser på en halv times underholdning.
+30-1	Tjek	tjekke	VM:----:--:----	
+30-2	drømmeparadens	drømmeparade	NC:sdgc:--:----	
+30-3	rute	rute	NC:siuc:--:----	
+30-4	på	på	T-:----:--:----	
+30-5	kortet	kort	NC:sdun:--:----	
+30-6	og	og	CC:----:--:----	
+30-7	find	finde	VM:----:--:----	
+30-8	en	en	PI:s-uc:--:----	
+30-9	placering	placering	NC:siuc:--:----	
+30-10	,	,	ZD	
+30-11	hvor	hvor	XY:----:--:----	
+30-12	du	du	XF:----:--:----	
+30-13	kan	kunne	VF:----:sa:----	
+30-14	se	se	VI:----:-a:----	
+30-15	noget	nogen	PI:s-un:--:----	
+30-16	,	,	ZD	
+30-17	for	for	CC:----:--:----	
+30-18	du	du	PP:s-nc:--:-2n-	
+30-19	er	være	VF:----:sa:----	
+30-20	ikke	ikke	D-:----:--:u---	
+30-21	den	den	PM:s-uc:--:----	
+30-22	eneste	eneste	AC:§§u§:--:p---	
+30-23	,	,	ZD	
+30-24	der	der	US:----:--:----	
+30-25	satser	satse	VF:----:sa:----	
+30-26	på	på	T-:----:--:----	
+30-27	en	en	PI:s-uc:--:----	
+30-28	halv	halv	AC:siuc:--:p---	
+30-29	times	time	NC:sigc:--:----	
+30-30	underholdning	underholdning	NC:siuc:--:----	
+30-31	.	.	ZP	
+
+#id=31
+#text= En vellykket afslutning på Doha-runden vil være det stærkeste kort  i kampen mod protektionistiske tendenser og for fornyet vækst i verdenshandlen.
+31-1	En	en	PI:s-uc:--:----	
+31-2	vellykket	vellykket	AC:siu§:--:p---	
+31-3	afslutning	afslutning	NC:siuc:--:----	
+31-4	på	på	T-:----:--:----	
+31-5	Doha	Doha	NP:siu#:--:----	
+31-6	-	-	ZH	
+31-7	runden	runde	NC:sduc:--:----	
+31-8	vil	ville	VF:----:sa:----	
+31-9	være	være	VI:----:-a:----	
+31-10	det	den	PM:s-un:--:----	
+31-11	stærkeste	stærk	AC:§du§:--:s---	
+31-12	kort	kort	NC:siun:--:----	
+31-13	i	i	T-:----:--:----	
+31-14	kampen	kamp	NC:sduc:--:----	
+31-15	mod	mod	T-:----:--:----	
+31-16	protektionistiske	protektionistisk	AC:p#u#:--:p---	
+31-17	tendenser	tendens	NC:piu#:--:----	
+31-18	og	og	CC:----:--:----	
+31-19	for	for	D-:----:--:u---	
+31-20	fornyet	forny	VT:siu#:t-:----	
+31-21	vækst	vækst	NC:siuc:--:----	
+31-22	i	i	T-:----:--:----	
+31-23	verdenshandlen	verdenshandlen	NC:sduc:--:----	
+31-24	.	.	ZP	
+
+#id=32
+#text=Selv om de filmiske teaterstykker måske kan virke som  sikre kort fra teaterchefernes side, mener Mikael Woelke fra manuskriptskolen også, at der kan være opstået et behov fra publikums side om let genkendelige og let fordøjelige teaterstykker i kølvandet på de mange krige rundt omkring i verden og ikke mindst den økonomiske krise:
+32-1	Selv	selv	D-:----:--:u---	
+32-2	om	om	T-:----:--:----	
+32-3	de	den	PM:p-u#:--:----	
+32-4	filmiske	filmisk	AC:p#u#:--:p---	
+32-5	teaterstykker	teaterstykke	NC:piu#:--:----	
+32-6	måske	måske	D-:----:--:u---	
+32-7	kan	kunne	VF:----:sa:----	
+32-8	virke	virke	VI:----:-a:----	
+32-9	som	som	US:----:--:----	
+32-10	sikre	sikker	AC:p#u#:--:p---	
+32-11	kort	kort	NC:piu#:--:----	
+32-12	fra	fra	T-:----:--:----	
+32-13	teaterchefernes	teaterchef	NC:pdg#:--:----	
+32-14	side	side	NC:siuc:--:----	
+32-15	,	,	ZD	
+32-16	mener	mene	VF:----:sa:----	
+32-17	Mikael	Mikael	NP:siu#:--:----	
+32-18	Woelke	Woelke	NP:siu#:--:----	
+32-19	fra	fra	T-:----:--:----	
+32-20	manuskriptskolen	manuskriptskole	NC:sduc:--:----	
+32-21	også	også	D-:----:--:u---	
+32-22	,	,	ZD	
+32-23	at	at	CS:----:--:----	
+32-24	der	der	US:----:--:----	
+32-25	kan	kunne	VF:----:sa:----	
+32-26	være	være	VI:----:-a:----	
+32-27	opstået	opstå	VT:siu#:t-:----	
+32-28	et	en	PI:s-un:--:----	
+32-29	behov	behov	NC:siun:--:----	
+32-30	fra	fra	T-:----:--:----	
+32-31	publikums	publikum	NW:----:--:----	
+32-32	side	side	NC:siuc:--:----	
+32-33	om	om	T-:----:--:----	
+32-34	let	let	AD:----:--:p---	
+32-35	genkendelige	genkendelig	AC:p#u#:--:p---	
+32-36	og	og	CC:----:--:----	
+32-37	let	let	AD:----:--:p---	
+32-38	fordøjelige	fordøjelig	AC:p#u#:--:p---	
+32-39	teaterstykker	teaterstykke	NC:piu#:--:----	
+32-40	i	i	T-:----:--:----	
+32-41	kølvandet	kølvand	NC:sdun:--:----	
+32-42	på	på	T-:----:--:----	
+32-43	de	den	PM:p-u#:--:----	
+32-44	mange	mangen	AC:p#u#:--:p---	
+32-45	krige	krig	NC:piu#:--:----	
+32-46	rundt	rundt	D-:----:--:u---	
+32-47	omkring	omkring	T-:----:--:----	
+32-48	i	i	T-:----:--:----	
+32-49	verden	verden	NC:siuc:--:----	
+32-50	og	og	CC:----:--:----	
+32-51	ikke	ikke	D-:----:--:u---	
+32-52	mindst	liden	AD:----:--:s---	
+32-53	den	den	PM:s-uc:--:----	
+32-54	økonomiske	økonomisk	AC:sdu#:--:p---	
+32-55	krise	krise	NC:siuc:--:----	
+32-56	:	:	ZP	
+
+#id=33
+#text=Da arabiske pengemænd i sommer gik ind i Manchester City og erklærede sig i stand til at købe verdens bedste spillere, lå det i kortene, at sæsonens profiler skulle være sydlandske stjerner med kuglelejer i hofterne, bestemt ikke en løbemaskine fra Cork i Irland.
+33-1	Da	da	CS:----:--:----	
+33-2	arabiske	arabisk	AC:p#u#:--:p---	
+33-3	pengemænd	pengemænd	NC:piu#:--:----	
+33-4	i	i	T-:----:--:----	
+33-5	sommer	sommer	NC:siuc:--:----	
+33-6	gik	gå	VF:----:ta:----	
+33-7	ind	ind	D-:----:--:u---	
+33-8	i	i	T-:----:--:----	
+33-9	Manchester	Manchester	NP:siu#:--:----	
+33-10	City	City	NP:siu#:--:----	
+33-11	og	og	CC:----:--:----	
+33-12	erklærede	erklære	VF:----:ta:----	
+33-13	sig	sig	PP:#-u#:--:-3y-	
+33-14	i	i	T-:----:--:----	
+33-15	stand	stand	NC:siuc:--:----	
+33-16	til	til	T-:----:--:----	
+33-17	at	at	CS:----:--:----	
+33-18	købe	købe	XY:----:--:----	
+33-19	verdens	verden	NC:sigc:--:----	
+33-20	bedste	god	AC:§du§:--:s---	
+33-21	spillere	spiller	NC:piu#:--:----	
+33-22	,	,	ZD	
+33-23	lå	ligge	VF:----:ta:----	
+33-24	det	det	PP:s-un:--:-3n-	
+33-25	i	i	T-:----:--:----	
+33-26	kortene	kort	NC:pdu#:--:----	
+33-27	,	,	ZD	
+33-28	at	at	CS:----:--:----	
+33-29	sæsonens	sæson	NC:sdgc:--:----	
+33-30	profiler	profil	NC:piu#:--:----	
+33-31	skulle	skulle	VF:----:ta:----	
+33-32	være	være	VI:----:-a:----	
+33-33	sydlandske	sydlandsk	AC:p#u#:--:p---	
+33-34	stjerner	stjerne	NC:piu#:--:----	
+33-35	med	med	T-:----:--:----	
+33-36	kuglelejer	kugleleje	NC:piu#:--:----	
+33-37	i	i	T-:----:--:----	
+33-38	hofterne	hofte	NC:pdu#:--:----	
+33-39	,	,	ZD	
+33-40	bestemt	bestemme	VT:siu#:t-:----	
+33-41	ikke	ikke	D-:----:--:u---	
+33-42	en	en	PI:s-uc:--:----	
+33-43	løbemaskine	løbemaskine	NC:siuc:--:----	
+33-44	fra	fra	T-:----:--:----	
+33-45	Cork	Cork	NP:siu#:--:----	
+33-46	i	i	T-:----:--:----	
+33-47	Irland	Irland	NP:siu#:--:----	
+33-48	.	.	ZP	
+
+#id=34
+#text=Helt præcis kan du ikke betale med internationale kort i tidsrummet klokken 04.00 til 06.00.
+34-1	Helt	hel	AD:----:--:p---	
+34-2	præcis	præcis	D-:----:--:u---	
+34-3	kan	kunne	VF:----:sa:----	
+34-4	du	du	PP:s-nc:--:-2n-	
+34-5	ikke	ikke	D-:----:--:u---	
+34-6	betale	betale	VI:----:-a:----	
+34-7	med	med	T-:----:--:----	
+34-8	internationale	international	AC:p#u#:--:p---	
+34-9	kort	kort	NC:piu#:--:----	
+34-10	i	i	T-:----:--:----	
+34-11	tidsrummet	tidsrum	NC:sdun:--:----	
+34-12	klokken	klokke	NC:sduc:--:----	
+34-13	04	04	LC:--u-:--:----	
+34-14	.	.	ZP	
+34-15	00	00	LC:--u-:--:----	
+34-16	til	til	T-:----:--:----	
+34-17	06	06	LC:--u-:--:----	
+34-18	.	.	ZP	
+34-19	00	00	LC:--u-:--:----	
+34-20	.	.	ZP	
+
+#id=35
+#text=Det var helt åbenlyst vanskeligt for et enkelt af de hårdt fightende mandskaber at sikre sig kommandoen i fi-nalen, men Cavendish endte med at have de bedste kort på hånden.
+35-1	Det	det	PP:s-un:--:-3n-	
+35-2	var	være	VF:----:ta:----	
+35-3	helt	hel	AD:----:--:p---	
+35-4	åbenlyst	åbenlys	AD:----:--:p---	
+35-5	vanskeligt	vanskelig	AD:----:--:p---	
+35-6	for	for	T-:----:--:----	
+35-7	et	en	PI:s-un:--:----	
+35-8	enkelt	enkelt	:siu§:--:p---	
+35-9	af	af	T-:----:--:----	
+35-10	de	den	PM:p-u#:--:----	
+35-11	hårdt	hård	AD:----:--:p---	
+35-12	fightende	fighte	VP:##u#:s-:----	
+35-13	mandskaber	mandskab	NC:piu#:--:----	
+35-14	at	at	UI:----:--:----	
+35-15	sikre	sikre	VI:----:-a:----	
+35-16	sig	sig	PP:#-u#:--:-3y-	
+35-17	kommandoen	kommando	NC:sduc:--:----	
+35-18	i	i	T-:----:--:----	
+35-19	fi	fi	NW:----:--:----	
+35-20	-	-	ZH	
+35-21	nalen	nalen	NP:siu#:--:----	
+35-22	,	,	ZD	
+35-23	men	men	CC:----:--:----	
+35-24	Cavendish	Cavendish	NP:siu#:--:----	
+35-25	endte	ende	VF:----:ta:----	
+35-26	med	med	T-:----:--:----	
+35-27	at	at	UI:----:--:----	
+35-28	have	have	VI:----:-a:----	
+35-29	de	den	PM:p-u#:--:----	
+35-30	bedste	god	AC:§du§:--:s---	
+35-31	kort	kort	NC:siun:--:----	
+35-32	på	på	-:----	
+35-33	hånden	hånd	NC:sduc:--:----	
+35-34	.	.	ZP	
+
+#id=36
+#text=Spørgsmålet er derfor, om den vestlige verden gennem domstolen har overspillet sine kort i Afrika ved at satse så benhårdt på menneskerettigheder,  og om Darfurs befolkning nu kommer til at betale prisen.
+36-1	Spørgsmålet	spørgsmål	NC:sdun:--:----	
+36-2	er	være	VF:----:sa:----	
+36-3	derfor	derfor	D-:----:--:u---	
+36-4	,	,	ZD	
+36-5	om	om	CS:----:--:----	
+36-6	den	den	PM:s-uc:--:----	
+36-7	vestlige	vestlig	AC:sdu#:--:p---	
+36-8	verden	verden	NC:siuc:--:----	
+36-9	gennem	gennem	T-:----:--:----	
+36-10	domstolen	domstol	NC:sduc:--:----	
+36-11	har	have	VF:----:sa:----	
+36-12	overspillet	overspille	VT:siu#:t-:----	
+36-13	sine	sin	PO:p--#:--:-3ys	
+36-14	kort	kort	NC:piu#:--:----	
+36-15	i	i	T-:----:--:----	
+36-16	Afrika	Afrika	NP:siu#:--:----	
+36-17	ved	ved	T-:----:--:----	
+36-18	at	at	UI:----:--:----	
+36-19	satse	satse	VI:----:-a:----	
+36-20	så	så	D-:----:--:u---	
+36-21	benhårdt	benhård	AD:----:--:p---	
+36-22	på	på	T-:----:--:----	
+36-23	menneskerettigheder	menneskerettighed	NC:piu#:--:----	
+36-24	,	,	ZD	
+36-25	og	og	CC:----:--:----	
+36-26	om	om	T-:----:--:----	
+36-27	Darfurs	Darfurs	NP:sig#:--:----	
+36-28	befolkning	befolkning	NC:siuc:--:----	
+36-29	nu	nu	D-:----:--:u---	
+36-30	kommer	komme	VF:----:sa:----	
+36-31	til	til	T-:----:--:----	
+36-32	at	at	UI:----:--:----	
+36-33	betale	betale	VI:----:-a:----	
+36-34	prisen	pris	NC:sduc:--:----	
+36-35	.	.	ZP	
+
+#id=37
+#text= En succes som andre museer muligvis vil kigge i kortene, men ikke direkte kopiere.
+37-1	En	en	PI:s-uc:--:----	
+37-2	succes	succes	NC:siuc:--:----	
+37-3	som	som	US:----:--:----	
+37-4	andre	anden	PI:p-u#:--:----	
+37-5	museer	museum	NC:piu#:--:----	
+37-6	muligvis	muligvis	D-:----:--:u---	
+37-7	vil	ville	VF:----:sa:----	
+37-8	kigge	kigge	VI:----:-a:----	
+37-9	i	i	T-:----:--:----	
+37-10	kortene	kort	NC:pdu#:--:----	
+37-11	,	,	ZD	
+37-12	men	men	CC:----:--:----	
+37-13	ikke	ikke	D-:----:--:u---	
+37-14	direkte	direkte	AD:----:--:p---	
+37-15	kopiere	kopiere	VI:----:-a:----	
+37-16	.	.	ZP	
+
+#id=38
+#text= Når jeg for eksempel forsøger at betale med datterens Fætter BR-kort i Føtex eller rækker massøren i Nautilus mit donorkort.
+38-1	Når	når	CS:----:--:----	
+38-2	jeg	jeg	PP:s-nc:--:-1n-	
+38-3	for	for	T-:----:--:----	
+38-4	eksempel	eksempel	NC:siun:--:----	
+38-5	forsøger	forsøge	VF:----:sa:----	
+38-6	at	at	UI:----:--:----	
+38-7	betale	betale	VI:----:-a:----	
+38-8	med	med	T-:----:--:----	
+38-9	datterens	datter	NC:sdgc:--:----	
+38-10	Fætter	fætter	NC:siuc:--:----	
+38-11	BR	BR	NW:----:--:----	
+38-12	-	-	ZH	
+38-13	kort	kort	NC:siun:--:----	
+38-14	i	i	T-:----:--:----	
+38-15	Føtex	Føtex	NP:siu#:--:----	
+38-16	eller	eller	CC:----:--:----	
+38-17	rækker	række	VF:----:sa:----	
+38-18	massøren	massør	NC:sduc:--:----	
+38-19	i	i	T-:----:--:----	
+38-20	Nautilus	Nautilus	NP:siu#:--:----	
+38-21	mit	mit	XF:----:--:----	
+38-22	donorkort	donorkort	NC:siun:--:----	
+38-23	.	.	ZP	
+
+#id=39
+#text= Dankort, sygesikringskort, adgangskort, Forbrugsforeningens kort, Fætter BR-kort, datterens sygesikringskort, visitkort, telekort, tandlægekort, Baresso-kaffe-kort, H& M-kort, metrokort, benzinkort, kørekort, pressekort, buskort, fitnesskort, donorkort, videokort, Ikea-kort, Tivolikort, SAS-EuroBonus-kort.
+39-1	Dankort	dankort	NC:siun:--:----	
+39-2	,	,	ZD	
+39-3	sygesikringskort	sygesikringskort	NC:siun:--:----	
+39-4	,	,	ZD	
+39-5	adgangskort	adgangskort	NC:siun:--:----	
+39-6	,	,	ZD	
+39-7	Forbrugsforeningens	Forbrugsforeningens	NP:sig#:--:----	
+39-8	kort	kort	NC:siun:--:----	
+39-9	,	,	ZD	
+39-10	Fætter	fætter	NC:siuc:--:----	
+39-11	BR	BR	NW:----:--:----	
+39-12	-	-	ZH	
+39-13	kort	kort	NC:siun:--:----	
+39-14	,	,	ZD	
+39-15	datterens	datter	NC:sdgc:--:----	
+39-16	sygesikringskort	sygesikringskort	NC:siun:--:----	
+39-17	,	,	ZD	
+39-18	visitkort	visitkort	NC:siun:--:----	
+39-19	,	,	ZD	
+39-20	telekort	telekort	NC:siun:--:----	
+39-21	,	,	ZD	
+39-22	tandlægekort	tandlægekort	AC:siu§:--:p---	
+39-23	,	,	ZD	
+39-24	Baresso	Baresso	NP:siu#:--:----	
+39-25	-	-	ZH	
+39-26	kaffe	kaffe	NW:----:--:----	
+39-27	-	-	ZH	
+39-28	kort	kort	NC:siun:--:----	
+39-29	,	,	ZD	
+39-30	H&	&	NP:siu#:--:----	
+39-31	M	meter	NW:----:--:----	
+39-32	-	-	ZH	
+39-33	kort	kort	NC:siun:--:----	
+39-34	,	,	ZD	
+39-35	metrokort	metrokort	AC:siu§:--:p---	
+39-36	,	,	ZD	
+39-37	benzinkort	benzinkort	NC:siun:--:----	
+39-38	,	,	ZD	
+39-39	kørekort	kørekort	NC:siun:--:----	
+39-40	,	,	ZD	
+39-41	pressekort	pressekort	NC:siun:--:----	
+39-42	,	,	ZD	
+39-43	buskort	buskort	NC:siun:--:----	
+39-44	,	,	ZD	
+39-45	fitnesskort	fitnesskorte	VM:----:--:----	
+39-46	,	,	ZD	
+39-47	donorkort	donorkort	AC:siu§:--:p---	
+39-48	,	,	ZD	
+39-49	videokort	videokort	AC:siu§:--:p---	
+39-50	,	,	ZD	
+39-51	Ikea	IKEA	NW:----:--:----	
+39-52	-	-	ZH	
+39-53	kort	kort	NC:siun:--:----	
+39-54	,	,	ZD	
+39-55	Tivolikort	Tivolikort	NP:siu#:--:----	
+39-56	,	,	ZD	
+39-57	SAS	SA	NW:----:--:----	
+39-58	-	-	ZH	
+39-59	EuroBonus	EuroBonus	NP:siu#:--:----	
+39-60	-	-	ZH	
+39-61	kort	kort	NC:siun:--:----	
+39-62	.	.	ZP	
+
+#id=40
+#text=Desværre er det ikke nok for kortene at optage  pladsen i min pung.
+40-1	Desværre	desværre	D-:----:--:u---	
+40-2	er	være	VF:----:sa:----	
+40-3	det	det	PP:s-un:--:-3n-	
+40-4	ikke	ikke	D-:----:--:u---	
+40-5	nok	nok	D-:----:--:u---	
+40-6	for	for	T-:----:--:----	
+40-7	kortene	kort	NC:pdu#:--:----	
+40-8	at	at	UI:----:--:----	
+40-9	optage	optage	VI:----:-a:----	
+40-10	pladsen	plads	NC:sduc:--:----	
+40-11	i	i	T-:----:--:----	
+40-12	min	min	PO:s--c:--:-1ns	
+40-13	pung	pung	NC:siuc:--:----	
+40-14	.	.	ZP	
+
+#id=41
+#text=Så ikke nok med, at jeg kan have glemt et kort, forlagt et kort, mistet et kort - så kan jeg også glemme en kode.
+41-1	Så	så	D-:----:--:u---	
+41-2	ikke	ikke	D-:----:--:u---	
+41-3	nok	nok	D-:----:--:u---	
+41-4	med	med	T-:----:--:----	
+41-5	,	,	ZD	
+41-6	at	at	CS:----:--:----	
+41-7	jeg	jeg	PP:s-nc:--:-1n-	
+41-8	kan	kunne	VF:----:sa:----	
+41-9	have	have	VI:----:-a:----	
+41-10	glemt	glemt	VT:siu#:t-:----	
+41-11	et	en	PI:s-un:--:----	
+41-12	kort	kort	NC:siun:--:----	
+41-13	,	,	ZD	
+41-14	forlagt	forlægge	VT:siu#:t-:----	
+41-15	et	en	PI:s-un:--:----	
+41-16	kort	kort	NC:siun:--:----	
+41-17	,	,	ZD	
+41-18	mistet	miste	VT:siu#:t-:----	
+41-19	et	en	PI:s-un:--:----	
+41-20	kort	kort	iu§:--:p---	
+41-21	-	-	ZH	
+41-22	så	så	D-:----:--:u---	
+41-23	kan	kunne	VF:----:sa:----	
+41-24	jeg	jeg	PP:s-nc:--:-1n-	
+41-25	også	også	D-:----:--:u---	
+41-26	glemme	glemme	VI:----:-a:----	
+41-27	en	en	PI:s-uc:--:----	
+41-28	kode	kode	NC:siuc:--:----	
+41-29	.	.	ZP	
+
+#id=42
+#text= Hvorfor alle disse kort og koder?
+42-1	Hvorfor	hvorfor	D-:----:--:u---	
+42-2	alle	al	PI:p-u#:--:----	
+42-3	disse	denne	PM:p-u#:--:----	
+42-4	kort	kort	NC:piu#:--:----	
+42-5	og	og	CC:----:--:----	
+42-6	koder	kode	NC:piu#:--:----	
+42-7	?	?	ZQ	
+
+#id=43
+#text= Jeg kan ikke bære flere kort og rumme flere koder.
+43-1	Jeg	jeg	PP:s-nc:--:-1n-	
+43-2	kan	kunne	VF:----:sa:----	
+43-3	ikke	ikke	D-:----:--:u---	
+43-4	bære	bære	VI:----:-a:----	
+43-5	flere	mange	AC:##u#:--:c---	
+43-6	kort	kort	NC:piu#:--:----	
+43-7	og	og	CC:----:--:----	
+43-8	rumme	rumme	VI:----:-a:----	
+43-9	flere	mange	AC:##u#:--:c---	
+43-10	koder	kode	NC:piu#:--:----	
+43-11	.	.	ZP	
+
+#id=44
+#text= Sidde og nyde stilheden og se på korset, bladre i Bibelen og måske læse et lille kort med en bøn - og det er godt", siger Kaj Bollmann.
+44-1	Sidde	Sidde	XY:----:--:----	
+44-2	og	og	CC:----:--:----	
+44-3	nyde	nyde	VI:----:-a:----	
+44-4	stilheden	stilhed	NC:sduc:--:----	
+44-5	og	og	CC:----:--:----	
+44-6	se	se	VI:----:-a:----	
+44-7	på	på	T-:----:--:----	
+44-8	korset	kors	NP:siu#:--:----	
+44-9	,	,	ZD	
+44-10	bladre	bladre	VI:----:-a:----	
+44-11	i	i	T-:----:--:----	
+44-12	Bibelen	bibel	NC:sduc:--:----	
+44-13	og	og	CC:----:--:----	
+44-14	måske	måske	D-:----:--:u---	
+44-15	læse	læse	VI:----:-a:----	
+44-16	et	en	PI:s-un:--:----	
+44-17	lille	lille	AC:s§u§:--:p---	
+44-18	kort	kort	NC:siun:--:----	
+44-19	med	med	T-:----:--:----	
+44-20	en	en	PI:s-uc:--:----	
+44-21	bøn	bøn	NW:----:--:----	
+44-22	-	-	ZH	
+44-23	og	og	CC:----:--:----	
+44-24	det	det	PP:s-un:--:-3n-	
+44-25	er	være	VF:----:sa:----	
+44-26	godt	god	AD:----:--:p---	
+44-27	"	"	ZI	
+44-28	,	,	ZD	
+44-29	siger	sige	VF:----:sa:----	
+44-30	Kaj	Kaj	NP:siu#:--:----	
+44-31	Bollmann	Bollmann	NP:siu#:--:----	
+44-32	.	.	ZP	
+
+#id=45
+#text= Byernes sorte navne kopierer sig selv op ad væggen, efterhånden som malerrullen vandrer videre på kortet og gør rødt til lyserødt.
+45-1	Byernes	by	NC:pdg#:--:----	
+45-2	sorte	sort	AC:p#u#:--:p---	
+45-3	navne	navn	NC:piu#:--:----	
+45-4	kopierer	kopiere	VF:----:sa:----	
+45-5	sig	sig	PP:#-u#:--:-3y-	
+45-6	selv	selv	PM:#-u#:--:----	
+45-7	op	op	D-:----:--:u---	
+45-8	ad	ad	T-:----:--:----	
+45-9	væggen	væg	NC:sduc:--:----	
+45-10	,	,	ZD	
+45-11	efterhånden	efterhånden	D-:----:--:u---	
+45-12	som	som	US:----:--:----	
+45-13	malerrullen	malerrulle	NC:sduc:--:----	
+45-14	vandrer	vandre	VF:----:sa:----	
+45-15	videre	videre	D-:----:--:u---	
+45-16	på	på	T-:----:--:----	
+45-17	kortet	kort	NC:sdun:--:----	
+45-18	og	og	CC:----:--:----	
+45-19	gør	gøre	VF:----:sa:----	
+45-20	rødt	rød	AD:----:--:p---	
+45-21	til	til	T-:----:--:----	
+45-22	lyserødt	lyserød	AC:siun:--:p---	
+45-23	.	.	ZP	
+
+#id=46
+#text=For Visa/Dankortet, som du har betalt med, er der fælles regler, uanset hvilken bank der har udstedt kortet.
+46-1	For	for	CC:----:--:----	
+46-2	Visa	visum	NC:piu#:--:----	
+46-3	/	/	NC:siuc:--:----	
+46-4	Dankortet	dankort	NC:sdun:--:----	
+46-5	,	,	ZD	
+46-6	som	som	US:----:--:----	
+46-7	du	du	PP:s-nc:--:-2n-	
+46-8	har	have	VF:----:sa:----	
+46-9	betalt	betale	VT:siu#:t-:----	
+46-10	med	med	T-:----:--:----	
+46-11	,	,	ZD	
+46-12	er	være	VF:----:sa:----	
+46-13	der	der	US:----:--:----	
+46-14	fælles	fælles	-:p---	
+46-15	regler	regel	NC:piu#:--:----	
+46-16	,	,	ZD	
+46-17	uanset	uanset	CS:----:--:----	
+46-18	hvilken	hvilken	XY:----:--:----	
+46-19	bank	bank	NC:siun:--:----	
+46-20	der	der	US:----:--:----	
+46-21	har	have	VF:----:sa:----	
+46-22	udstedt	udstede	VT:siu#:t-:----	
+46-23	kortet	kort	NC:sdun:--:----	
+46-24	.	.	ZP	
+
+#id=47
+#text= Andre igen køber adskillige kort med påsyede knapper, og snakken går om deres alder, og hvad de er lavet af.
+47-1	Andre	anden	PI:p-u#:--:----	
+47-2	igen	igen	D-:----:--:u---	
+47-3	køber	købe	VF:----:sa:----	
+47-4	adskillige	adskillig	AC:p#u#:--:p---	
+47-5	kort	kort	NC:piu#:--:----	
+47-6	med	med	T-:----:--:----	
+47-7	påsyede	påsy	VP:p#u#:t-:----	
+47-8	knapper	knap	NC:piu#:--:----	
+47-9	,	,	ZD	
+47-10	og	og	CC:----:--:----	
+47-11	snakken	snak	NC:sduc:--:----	
+47-12	går	gå	VF:----:sa:----	
+47-13	om	om	T-:----:--:----	
+47-14	deres	deres	PO:#--#:--:-3np	
+47-15	alder	alder	NC:siuc:--:----	
+47-16	,	,	ZD	
+47-17	og	og	CC:----:--:----	
+47-18	hvad	hvad	PR:s-u#:--:----	
+47-19	de	de	PP:p-n#:--:-3n-	
+47-20	er	være	VF:----:sa:----	
+47-21	lavet	lave	VT:siu#:t-:----	
+47-22	af	af	T-:----:--:----	
+47-23	.	.	ZP	
+
+#id=48
+#text= "Det behøver du ikke", svarer Bulmer og forklarer, at det blot handler om at have diktafonen tændt  i lommen, og citere hver en linje på kortet, når tjeneren tager imod bestillingen.
+48-1	"	"	ZI	
+48-2	Det	det	PP:s-un:--:-3n-	
+48-3	behøver	behøve	VF:----:sa:----	
+48-4	du	du	PP:s-nc:--:-2n-	
+48-5	ikke	ikke	D-:----:--:u---	
+48-6	"	"	ZI	
+48-7	,	,	ZD	
+48-8	svarer	svare	VF:----:sa:----	
+48-9	Bulmer	Bulmer	NP:siu#:--:----	
+48-10	og	og	CC:----:--:----	
+48-11	forklarer	forklare	VF:----:sa:----	
+48-12	,	,	ZD	
+48-13	at	at	CS:----:--:----	
+48-14	det	det	PP:s-un:--:-3n-	
+48-15	blot	blot	D-:----:--:u---	
+48-16	handler	handle	VF:----:sa:----	
+48-17	om	om	T-:----:--:----	
+48-18	at	at	UI:----:--:----	
+48-19	have	have	VI:----:-a:----	
+48-20	diktafonen	diktafon	NC:sduc:--:----	
+48-21	tændt	tænde	VT:siu#:t-:----	
+48-22	i	i	T-:----:--:----	
+48-23	lommen	lom	NC:sduc:--:----	
+48-24	,	,	ZD	
+48-25	og	og	CC:----:--:----	
+48-26	citere	citere	VI:----:-a:----	
+48-27	hver	hver	PI:s-uc:--:----	
+48-28	en	en	PI:s-uc:--:----	
+48-29	linje	linje	NC:siuc:--:----	
+48-30	på	på	T-:----:--:----	
+48-31	kortet	kort	NC:sdun:--:----	
+48-32	,	,	ZD	
+48-33	når	når	CS:----:--:----	
+48-34	tjeneren	tjener	NC:sduc:--:----	
+48-35	tager	tage	VF:----:sa:----	
+48-36	imod	imod	T-:----:--:----	
+48-37	bestillingen	bestilling	NC:sduc:--:----	
+48-38	.	.	ZP	
+
+#id=49
+#text= Nord sprang til 3 Ru for at vise gode kort, og så gik Syd direkte i 4 Sp.
+49-1	Nord	nord	D-:----:--:u---	
+49-2	sprang	springe	VF:----:ta:----	
+49-3	til	til	T-:----:--:----	
+49-4	3	3	LC:--u-:--:----	
+49-5	Ru	ru	AC:§§u§:--:p---	
+49-6	for	for	T-:----:--:----	
+49-7	at	at	UI:----:--:----	
+49-8	vise	vise	VI:----:-a:----	
+49-9	gode	god	AC:p#u#:--:p---	
+49-10	kort	kort	NC:piu#:--:----	
+49-11	,	,	ZD	
+49-12	og	og	CC:----:--:----	
+49-13	så	så	D-:----:--:u---	
+49-14	gik	gå	VF:----:ta:----	
+49-15	Syd	syd	D-:----:--:u---	
+49-16	direkte	direkte	AC:§§u§:--:p---	
+49-17	i	i	T-:----:--:----	
+49-18	4	4	LC:--u-:--:----	
+49-19	Sp	sp	XS:----:--:----	
+49-20	.	.	ZP	
+
+#id=50
+#text=Vi slår hul på facaden og spiller med kortene på bordet, færdig med komedien, fra nu af udnævner jeg radio-og tvchefen, så kan ingen anklage mig for luskeri!
+50-1	Vi	vi	PP:p-nc:--:-1n-	
+50-2	slår	slå	VF:----:sa:----	
+50-3	hul	hul	AC:siuc:--:p---	
+50-4	på	på	----	
+50-5	facaden	facade	NC:sduc:--:----	
+50-6	og	og	CC:----:--:----	
+50-7	spiller	spille	NC:piu#:--:----	
+50-8	med	med	T-:----:--:----	
+50-9	kortene	kort	NC:pdu#:--:----	
+50-10	på	på	T-:----:--:----	
+50-11	bordet	bord	NC:sdun:--:----	
+50-12	,	,	ZD	
+50-13	færdig	færdig	AD:----:--:p---	
+50-14	med	med	T-:----:--:----	
+50-15	komedien	komedie	NC:sduc:--:----	
+50-16	,	,	ZD	
+50-17	fra	fra	CS:----:--:----	
+50-18	nu	nu	D-:----:--:u---	
+50-19	af	af	D-:----:--:u---	
+50-20	udnævner	udnævne	VF:----:sa:----	
+50-21	jeg	jeg	NC:siun:--:----	
+50-22	radio	radio	NW:----:--:----	
+50-23	-	-	ZH	
+50-24	og	og	CC:----:--:----	
+50-25	tvchefen	tvchef	NC:sduc:--:----	
+50-26	,	,	ZD	
+50-27	så	så	D-:----:--:u---	
+50-28	kan	kunne	VF:----:sa:----	
+50-29	ingen	ingen	PI:s-uc:--:----	
+50-30	anklage	anklage	VI:----:-a:----	
+50-31	mig	jeg	PP:s-uc:--:-1#-	
+50-32	for	for	T-:----:--:----	
+50-33	luskeri	luskeri	NC:siun:--:----	
+50-34	!	!	ZP	
+
+#id=51
+#text=Med en far, som var både forsvars-og udenrigsminister, og en mor, der var statssekretær i både Erhvervs-og Handelsministeriet, var han arveligt belastet, og det lå derfor i kortene, at han skulle blive politiker.
+51-1	Med	med	T-:----:--:----	
+51-2	en	en	PI:s-uc:--:----	
+51-3	far	far	NC:siuc:--:----	
+51-4	,	,	ZD	
+51-5	som	som	US:----:--:----	
+51-6	var	være	VF:----:ta:----	
+51-7	både	både	D-:----:--:u---	
+51-8	forsvars	forsvar	NW:----:--:----	
+51-9	-	-	ZH	
+51-10	og	og	CC:----:--:----	
+51-11	udenrigsminister	udenrigsminister	NC:siuc:--:----	
+51-12	,	,	ZD	
+51-13	og	og	CC:----:--:----	
+51-14	en	en	PI:s-uc:--:----	
+51-15	mor	mor	NC:siuc:--:----	
+51-16	,	,	ZD	
+51-17	der	der	US:----:--:----	
+51-18	var	være	VF:----:ta:----	
+51-19	statssekretær	statssekretær	NC:siuc:--:----	
+51-20	i	i	T-:----:--:----	
+51-21	både	både	D-:----:--:u---	
+51-22	Erhvervs	erhverv	NW:----:--:----	
+51-23	-	-	ZH	
+51-24	og	og	CC:----:--:----	
+51-25	Handelsministeriet	handelsministerium	NC:sdun:--:----	
+51-26	,	,	ZD	
+51-27	var	være	VF:----:ta:----	
+51-28	han	han	PP:s-nc:--:-3n-	
+51-29	arveligt	arvelig	AD:----:--:p---	
+51-30	belastet	belastet	AC:siu§:--:p---	
+51-31	,	,	ZD	
+51-32	og	og	CC:----:--:----	
+51-33	det	det	PP:s-un:--:-3n-	
+51-34	lå	ligge	VF:----:ta:----	
+51-35	derfor	derfor	D-:----:--:u---	
+51-36	i	i	T-:----:--:----	
+51-37	kortene	kort	NC:pdu#:--:----	
+51-38	,	,	ZD	
+51-39	at	at	CS:----:--:----	
+51-40	han	han	PP:s-nc:--:-3n-	
+51-41	skulle	skulle	VF:----:ta:----	
+51-42	blive	blive	VI:----:-a:----	
+51-43	politiker	politiker	NC:siuc:--:----	
+51-44	.	.	ZP	
+
+#id=52
+#text= Ved hjælp af satellitmålinger har seniorforsker Ole Baltazar og kolleger på DTU Space nu udviklet et globalt kort over Jordens tyngdefelt, som de har anvendt til at kortlægge bjerge og dale på bunden af havet.
+52-1	Ved	ved	T-:----:--:----	
+52-2	hjælp	hjælp	NC:siuc:--:----	
+52-3	af	af	T-:----:--:----	
+52-4	satellitmålinger	satellitmåling	NC:piu#:--:----	
+52-5	har	have	VF:----:sa:----	
+52-6	seniorforsker	seniorforsker	NC:siuc:--:----	
+52-7	Ole	Ole	NP:siu#:--:----	
+52-8	Baltazar	Baltazar	NP:siu#:--:----	
+52-9	og	og	CC:----:--:----	
+52-10	kolleger	kollega	NC:piu#:--:----	
+52-11	på	på	T-:----:--:----	
+52-12	DTU	DTU	NP:siu#:--:----	
+52-13	Space	Space	NP:siu#:--:----	
+52-14	nu	nu	D-:----:--:u---	
+52-15	udviklet	udvikle	VT:siu#:t-:----	
+52-16	et	en	PI:s-un:--:----	
+52-17	globalt	global	AC:siun:--:p---	
+52-18	kort	kort	NC:siun:--:----	
+52-19	over	over	T-:----:--:----	
+52-20	Jordens	Jordens	XY:----:--:----	
+52-21	tyngdefelt	tyngdefelt	NC:siun:--:----	
+52-22	,	,	ZD	
+52-23	som	som	US:----:--:----	
+52-24	de	de	PP:p-n#:--:-3n-	
+52-25	har	have	VF:----:sa:----	
+52-26	anvendt	anvende	VT:siu#:t-:----	
+52-27	til	til	T-:----:--:----	
+52-28	at	at	UI:----:--:----	
+52-29	kortlægge	kortlægge	VI:----:-a:----	
+52-30	bjerge	bjerg	NC:piu#:--:----	
+52-31	og	og	CC:----:--:----	
+52-32	dale	dal	NC:piu#:--:----	
+52-33	på	på	T-:----:--:----	
+52-34	bunden	bund	NC:sduc:--:----	
+52-35	af	af	T-:----:--:----	
+52-36	havet	hav	NC:sdun:--:----	
+52-37	.	.	ZP	
+
+#id=53
+#text= Ved at  bruge satellitbaserede højdemålinger af selve havoverfladen til at udregne tyngdefeltet præcist på forskellige positioner - i stedet for direkte målinger af tyngdefeltet - har forskerne kunnet skabe et meget nøjagtigt kort.
+53-1	Ved	ved	T-:----:--:----	
+53-2	at	at	UI:----:--:----	
+53-3	bruge	bruge	VI:----:-a:----	
+53-4	satellitbaserede	satellitbasere	VP:p#u#:t-:----	
+53-5	højdemålinger	højdemåling	NC:piu#:--:----	
+53-6	af	af	T-:----:--:----	
+53-7	selve	selve	AC:§§u§:--:p---	
+53-8	havoverfladen	havoverflade	NC:sduc:--:----	
+53-9	til	til	---:--:----	
+53-10	at	at	UI:----:--:----	
+53-11	udregne	udregne	VI:----:-a:----	
+53-12	tyngdefeltet	tyngdefelt	NC:sdun:--:----	
+53-13	præcist	præcis	AD:----:--:p---	
+53-14	på	på	T-:----:--:----	
+53-15	forskellige	forskellig	AC:p#u#:--:p---	
+53-16	positioner	position	NC:piu#:--:----	
+53-17	-	-	NC:piu#:--:----	
+53-18	i	i	T-:----:--:----	
+53-19	stedet	sted	NC:sdun:--:----	
+53-20	for	for	T-:----:--:----	
+53-21	direkte	direkte	AC:§§u§:--:p---	
+53-22	målinger	måling	NC:piu#:--:----	
+53-23	af	af	T-:----:--:----	
+53-24	tyngdefeltet	tyngdefelt	NC:sdun:--:----	
+53-25	-	-	NC:piu#:--:----	
+53-26	har	have	VF:----:sa:----	
+53-27	forskerne	forsker	NC:pdu#:--:----	
+53-28	kunnet	kunne	VT:siu#:t-:----	
+53-29	skabe	skabe	VI:----:-a:----	
+53-30	et	en	PI:s-un:--:----	
+53-31	meget	megen	AD:----:--:p---	
+53-32	nøjagtigt	nøjagtig	AC:siun:--:p---	
+53-33	kort	kort	NC:siun:--:----	
+53-34	.	.	ZP	
+
+#id=54
+#text=Kortets gule og brune områder er tidevandsflader, som er tørlagt ved lavvande.
+54-1	Kortets	kort	NC:sdgn:--:----	
+54-2	gule	gul	AC:p#u#:--:p---	
+54-3	og	og	CC:----:--:----	
+54-4	brune	brun	AC:p#u#:--:p---	
+54-5	områder	område	NC:piu#:--:----	
+54-6	er	være	VF:----:sa:----	
+54-7	tidevandsflader	tidevandsflade	NC:piu#:--:----	
+54-8	,	,	ZD	
+54-9	som	som	US:----:--:----	
+54-10	er	være	VF:----:sa:----	
+54-11	tørlagt	tørlægge	VT:siu#:t-:----	
+54-12	ved	ved	T-:----:--:----	
+54-13	lavvande	lavvande	NC:siun:--:----	
+54-14	.	.	ZP	
+
+#id=55
+#text= "Jeg havde sådan nogle kort med.
+55-1	"	"	ZI	
+55-2	Jeg	jeg	PP:s-nc:--:-1n-	
+55-3	havde	have	VF:----:ta:----	
+55-4	sådan	sådan	D-:----:--:u---	
+55-5	nogle	nogen	PI:p-u#:--:----	
+55-6	kort	kort	NC:piu#:--:----	
+55-7	med	med	T-:----:--:----	
+55-8	.	.	ZP	
+
+#id=56
+#text= DK Se de fem restauranter på et interaktivt kort.
+56-1	DK	dk	XS:----:--:----	
+56-2	Se	SE	NP:siu#:--:----	
+56-3	de	de	NP:siu#:--:----	
+56-4	fem	fem	LC:--u-:--:----	
+56-5	restauranter	restaurant	NC:piu#:--:----	
+56-6	på	på	T-:----:--:----	
+56-7	et	en	PI:s-un:--:----	
+56-8	interaktivt	interaktiv	AC:siun:--:p---	
+56-9	kort	kort	NC:siun:--:----	
+56-10	.	.	ZP	
+
+#id=57
+#text= Danmark har imidlertid ikke ret gode kort på hånden i en international konkurrence på disse præmisser, for de strider imod de traditioner, som det danske skole-og uddannelsessystem traditionelt har bygget på, og som de fleste af os bekender os til.
+57-1	Danmark	Danmark	NP:siu#:--:----	
+57-2	har	have	VF:----:sa:----	
+57-3	imidlertid	imidlertid	D-:----:--:u---	
+57-4	ikke	ikke	D-:----:--:u---	
+57-5	ret	ret	D-:----:--:u---	
+57-6	gode	god	AC:p#u#:--:p---	
+57-7	kort	kort	NC:piu#:--:----	
+57-8	på	på	T-:----:--:----	
+57-9	hånden	hånd	NC:sduc:--:----	
+57-10	i	i	T-:----:--:----	
+57-11	en	en	PI:s-uc:--:----	
+57-12	international	international	AC:siuc:--:p---	
+57-13	konkurrence	konkurrence	NC:siuc:--:----	
+57-14	på	på	T-:----:--:----	
+57-15	disse	denne	PM:p-u#:--:----	
+57-16	præmisser	præmis	NC:piu#:--:----	
+57-17	,	,	ZD	
+57-18	for	for	CC:----:--:----	
+57-19	de	de	PP:p-n#:--:-3n-	
+57-20	strider	stride	VF:----:sa:----	
+57-21	imod	imod	T-:----:--:----	
+57-22	de	den	PM:p-u#:--:----	
+57-23	traditioner	tradition	NC:piu#:--:----	
+57-24	,	,	ZD	
+57-25	som	som	US:----:--:----	
+57-26	det	den	PM:s-un:--:----	
+57-27	danske	dansk	AC:sdu#:--:p---	
+57-28	skole	skole	NW:----:--:----	
+57-29	-	-	ZH	
+57-30	og	og	CC:----:--:----	
+57-31	uddannelsessystem	uddannelsessystem	NC:siun:--:----	
+57-32	traditionelt	traditionel	AD:----:--:p---	
+57-33	har	have	VF:----:sa:----	
+57-34	bygget	bygge	VT:siu#:t-:----	
+57-35	på	på	T-:----:--:----	
+57-36	,	,	ZD	
+57-37	og	og	CC:----:--:----	
+57-38	som	som	US:----:--:----	
+57-39	de	den	PM:p-u#:--:----	
+57-40	fleste	mange	AC:p#u#:--:s---	
+57-41	af	af	T-:----:--:----	
+57-42	os	vi	PP:p-uc:--:-1#-	
+57-43	bekender	bekende	VF:----:sa:----	
+57-44	os	vi	PP:p-uc:--:-1#-	
+57-45	til	til	T-:----:--:----	
+57-46	.	.	ZP	
+
+#id=58
+#text= division, men kun to borde var i slem på Nord-Syds kort:
+58-1	division	division	NC:siuc:--:----	
+58-2	,	,	ZD	
+58-3	men	men	CC:----:--:----	
+58-4	kun	kun	D-:----:--:u---	
+58-5	to	to	LC:--u-:--:----	
+58-6	borde	bord	NC:piu#:--:----	
+58-7	var	være	VF:----:ta:----	
+58-8	i	i	T-:----:--:----	
+58-9	slem	slem	AC:siuc:--:p---	
+58-10	på	på	T-:----:--:----	
+58-11	Nord	nord	NW:----:--:----	
+58-12	-	-	ZH	
+58-13	Syds	syd	NC:sigc:--:----	
+58-14	kort	kort	NC:siun:--:----	
+58-15	:	:	ZP	
+
+#id=59
+#text= Vi kan klare os med at vise vores udleverede adgangskort til en elektronisk dims, der efter at have registreret kortet udløser et klik, og så kan man åbne døren.
+59-1	Vi	vi	PP:p-nc:--:-1n-	
+59-2	kan	kunne	VF:----:sa:----	
+59-3	klare	klare	VI:----:-a:----	
+59-4	os	vi	PP:p-uc:--:-1#-	
+59-5	med	med	T-:----:--:----	
+59-6	at	at	UI:----:--:----	
+59-7	vise	vise	VI:----:-a:----	
+59-8	vores	vores	XY:----:--:----	
+59-9	udleverede	udlevere	VP:sdu#:t-:----	
+59-10	adgangskort	adgangskort	NC:siun:--:----	
+59-11	til	til	T-:----:--:----	
+59-12	en	en	PI:s-uc:--:----	
+59-13	elektronisk	elektronisk	AC:siu§:--:p---	
+59-14	dims	dims	NC:siuc:--:----	
+59-15	,	,	ZD	
+59-16	der	der	US:----:--:----	
+59-17	efter	efter	T-:----:--:----	
+59-18	at	at	UI:----:--:----	
+59-19	have	have	VI:----:-a:----	
+59-20	registreret	registrere	VT:siu#:t-:----	
+59-21	kortet	kort	NC:sdun:--:----	
+59-22	udløser	udløse	VF:----:sa:----	
+59-23	et	en	PI:s-un:--:----	
+59-24	klik	klik	NC:siun:--:----	
+59-25	,	,	ZD	
+59-26	og	og	CC:----:--:----	
+59-27	så	så	D-:----:--:u---	
+59-28	kan	kunne	VF:----:sa:----	
+59-29	man	man	PI:#-uc:--:----	
+59-30	åbne	åbne	VI:----:-a:----	
+59-31	døren	dør	NC:sduc:--:----	
+59-32	.	.	ZP	
+
+#id=60
+#text= Se, om du bor i et af landets mest kriminelle områder på www.politistatistik.dk Eksempler på politiets kort over kriminalitet i Danmark.
+60-1	Se	se	VM:----:--:----	
+60-2	,	,	ZD	
+60-3	om	om	CS:----:--:----	
+60-4	du	du	PP:s-nc:--:-2n-	
+60-5	bor	bo	VF:----:sa:----	
+60-6	i	i	T-:----:--:----	
+60-7	et	en	PI:s-un:--:----	
+60-8	af	af	T-:----:--:----	
+60-9	landets	land	NC:sdgn:--:----	
+60-10	mest	megen	AD:----:--:s---	
+60-11	kriminelle	kriminel	AC:p#u#:--:p---	
+60-12	områder	område	NC:piu#:--:----	
+60-13	på	på	XY:----:--:----	
+60-14	www	www	XS:----:--:----	
+60-15	.	.	ZP	
+60-16	politistatistik	politistatistik	NC:siuc:--:----	
+60-17	.	.	ZP	
+60-18	dk	dk	XS:----:--:----	
+60-19	Eksempler	eksempel	NC:piu#:--:----	
+60-20	på	på	T-:----:--:----	
+60-21	politiets	politi	NC:sdgn:--:----	
+60-22	kort	kort	NC:siun:--:----	
+60-23	over	over	T-:----:--:----	
+60-24	kriminalitet	kriminalitet	NC:siuc:--:----	
+60-25	i	i	T-:----:--:----	
+60-26	Danmark	Danmark	NP:siu#:--:----	
+60-27	.	.	ZP	
+
+#id=61
+#text= Og for godt et par år siden var  det FC Københavns Champions League-deltagere, der var Danmarks bedste kort ude i Europa.
+61-1	Og	og	CC:----:--:----	
+61-2	for	for	T-:----:--:----	
+61-3	godt	god	AD:----:--:p---	
+61-4	et	en	PI:s-un:--:----	
+61-5	par	par	NC:siun:--:----	
+61-6	år	år	NC:piu#:--:----	
+61-7	siden	siden	D-:----:--:u---	
+61-8	var	være	VF:----:ta:----	
+61-9	det	det	PP:s-un:--:-3n-	
+61-10	FC	FC	NP:siu#:--:----	
+61-11	Københavns	København	NP:sig#:--:----	
+61-12	Champions	champion	NC:piu#:--:----	
+61-13	League	League	NP:siu#:--:----	
+61-14	-	-	ZH	
+61-15	deltagere	deltager	NC:piu#:--:----	
+61-16	,	,	ZD	
+61-17	der	der	US:----:--:----	
+61-18	var	være	VF:----:ta:----	
+61-19	Danmarks	Danmark	NP:sig#:--:----	
+61-20	bedste	god	AC:§du§:--:s---	
+61-21	kort	kort	NC:siun:--:----	
+61-22	ude	ude	D-:----:--:u---	
+61-23	i	i	T-:----:--:----	
+61-24	Europa	Europa	NP:siu#:--:----	
+61-25	.	.	ZP	
+
+#id=62
+#text= AC Horsens vurderer, at en medvirkende årsag til et pointfattigt efterår var, at holdet pådrog sig for mange gule og røde kort med efterfølgende karantæner.
+62-1	AC	AC	NP:siu#:--:----	
+62-2	Horsens	Horsens	NP:siu#:--:----	
+62-3	vurderer	vurdere	VF:----:sa:----	
+62-4	,	,	ZD	
+62-5	at	at	CS:----:--:----	
+62-6	en	en	PI:s-uc:--:----	
+62-7	medvirkende	medvirke	VP:##u#:s-:----	
+62-8	årsag	årsag	NC:siuc:--:----	
+62-9	til	til	T-:----:--:----	
+62-10	et	en	PI:s-un:--:----	
+62-11	pointfattigt	pointfattig	:siun:--:p---	
+62-12	efterår	efterår	NC:siun:--:----	
+62-13	var	være	VF:----:ta:----	
+62-14	,	,	ZD	
+62-15	at	at	CS:----:--:----	
+62-16	holdet	hold	NC:sdun:--:----	
+62-17	pådrog	pådrage	VF:----:ta:----	
+62-18	sig	sig	PP:#-u#:--:-3y-	
+62-19	for	for	T-:----:--:----	
+62-20	mange	mangen	AC:p#u#:--:p---	
+62-21	gule	gul	AC:p#u#:--:p---	
+62-22	og	og	CC:----:--:----	
+62-23	røde	rød	AC:p#u#:--:p---	
+62-24	kort	kort	NC:piu#:--:----	
+62-25	med	med	T-:----:--:----	
+62-26	efterfølgende	efterfølgende	AC:§§u§:--:p---	
+62-27	karantæner	karantæne	NC:piu#:--:----	
+62-28	.	.	ZP	
+
+#id=63
+#text=Vi har ikke råd til at miste point på grund af manglende disciplin i vores situation, og derfor må vi sende et signal om, at unødvendige røde kort ikke er i orden", siger sportsdirektør Jesper Hansen i en pressemeddelelse.
+63-1	Vi	vi	PP:p-nc:--:-1n-	
+63-2	har	have	VF:----:sa:----	
+63-3	ikke	ikke	D-:----:--:u---	
+63-4	råd	råd	NC:piu#:--:----	
+63-5	til	til	T-:----:--:----	
+63-6	at	at	UI:----:--:----	
+63-7	miste	miste	a:----	
+63-8	point	point	NC:siun:--:----	
+63-9	på	på	T-:----:--:----	
+63-10	grund	grund	NC:siuc:--:----	
+63-11	af	af	T-:----:--:----	
+63-12	manglende	mangle	VP:##u#:s-:----	
+63-13	disciplin	disciplin	NC:siuc:--:----	
+63-14	i	i	T-:----:--:----	
+63-15	vores	vores	PO:#--#:--:-1np	
+63-16	situation	situation	NC:siuc:--:----	
+63-17	,	,	ZD	
+63-18	og	og	CC:----:--:----	
+63-19	derfor	derfor	D-:----:--:u---	
+63-20	må	måtte	VF:----:sa:----	
+63-21	vi	vi	PP:p-nc:--:-1n-	
+63-22	sende	sende	VI:----:-a:----	
+63-23	et	en	PI:s-un:--:----	
+63-24	signal	signal	NC:siun:--:----	
+63-25	om	om	T-:----:--:----	
+63-26	,	,	ZD	
+63-27	at	at	CS:----:--:----	
+63-28	unødvendige	unødvendig	AC:p#u#:--:p---	
+63-29	røde	rød	AC:p#u#:--:p---	
+63-30	kort	kort	NC:piu#:--:----	
+63-31	ikke	ikke	D-:----:--:u---	
+63-32	er	være	VF:----:sa:----	
+63-33	i	i	T-:----:--:----	
+63-34	orden	orden	NC:siuc:--:----	
+63-35	"	"	ZI	
+63-36	,	,	ZD	
+63-37	siger	sige	VF:----:sa:----	
+63-38	sportsdirektør	sportsdirektør	NC:siuc:--:----	
+63-39	Jesper	Jesper	NP:siu#:--:----	
+63-40	Hansen	Hansen	NP:siu#:--:----	
+63-41	i	i	T-:----:--:----	
+63-42	en	en	PI:s-uc:--:----	
+63-43	pressemeddelelse	pressemeddelelse	NC:siuc:--:----	
+63-44	.	.	ZP	
+
+#id=64
+#text= Motivet er et danmarkskort, brikkerne de enkelte landsdele, og underneden kommer et mere detaljeret kort med landets største  byer til syne.
+64-1	Motivet	motiv	NC:sdun:--:----	
+64-2	er	være	VF:----:sa:----	
+64-3	et	en	PI:s-un:--:----	
+64-4	danmarkskort	danmarkskort	NC:siun:--:----	
+64-5	,	,	ZD	
+64-6	brikkerne	brik	NC:pdu#:--:----	
+64-7	de	de	NP:siu#:--:----	
+64-8	enkelte	enkelt	AC:p#u#:--:p---	
+64-9	landsdele	landsdel	NC:piu#:--:----	
+64-10	,	,	ZD	
+64-11	og	og	CC:----:--:----	
+64-12	underneden	underneden	D-:----:--:u---	
+64-13	kommer	komme	VF:----:sa:----	
+64-14	et	en	PI:s-un:--:----	
+64-15	mere	megen	AD:----:--:c---	
+64-16	detaljeret	detaljeret	AC:siu§:--:p---	
+64-17	kort	kort	NC:siun:--:----	
+64-18	med	med	T-:----:--:----	
+64-19	landets	land	NC:sdgn:--:----	
+64-20	største	stor	AC:§du§:--:s---	
+64-21	byer	by	NC:piu#:--:----	
+64-22	til	til	T-:----:--:----	
+64-23	syne	syn	NC:sifn:--:----	
+64-24	.	.	ZP	
+
+#id=65
+#text=Kortet byder kun på sandwich og lidt snacks samt kage ud over diverse drikkevarer.
+65-1	Kortet	kort	NC:sdun:--:----	
+65-2	byder	byde	VF:----:sa:----	
+65-3	kun	kun	D-:----:--:u---	
+65-4	på	på	T-:----:--:----	
+65-5	sandwich	sandwich	NC:piu#:--:----	
+65-6	og	og	CC:----:--:----	
+65-7	lidt	lidt	AD:----:--:p---	
+65-8	snacks	snack	NC:piu#:--:----	
+65-9	samt	samt	CC:----:--:----	
+65-10	kage	kage	VI:----:-a:----	
+65-11	ud	ud	D-:----:--:u---	
+65-12	over	over	T-:----:--:----	
+65-13	diverse	diverse	AC:§§u§:--:p---	
+65-14	drikkevarer	drikkevare	NC:piu#:--:----	
+65-15	.	.	ZP	
+
+#id=66
+#text= Nu er det et mere uformelt, primært franskinspireret køkken, man går efter; et lille a la carte-kort med enkle retter på et elegant bistroniveau til rimelige priser.
+66-1	Nu	nu	D-:----:--:u---	
+66-2	er	være	VF:----:sa:----	
+66-3	det	det	PP:s-un:--:-3n-	
+66-4	et	en	PI:s-un:--:----	
+66-5	mere	megen	AD:----:--:c---	
+66-6	uformelt	uformel	AC:siun:--:p---	
+66-7	,	,	ZD	
+66-8	primært	primær	AD:----:--:p---	
+66-9	franskinspireret	franskinspirere	VT:siu#:t-:----	
+66-10	køkken	køkken	NC:siun:--:----	
+66-11	,	,	ZD	
+66-12	man	man	PI:#-uc:--:----	
+66-13	går	gå	VF:----:sa:----	
+66-14	efter	efter	T-:----:--:----	
+66-15	;	;	ZP	
+66-16	et	en	PI:s-un:--:----	
+66-17	lille	lille	XY:----:--:----	
+66-18	a	a	XF:----:--:----	
+66-19	la	la	XF:----:--:----	
+66-20	carte	carte	XF:----:--:----	
+66-21	-	-	ZH	
+66-22	kort	kort	NC:siun:--:----	
+66-23	med	med	T-:----:--:----	
+66-24	enkle	enkel	AC:p#u#:--:p---	
+66-25	retter	ret	NC:piu#:--:----	
+66-26	på	på	T-:----:--:----	
+66-27	et	en	PI:s-un:--:----	
+66-28	elegant	elegant	AC:siu§:--:p---	
+66-29	bistroniveau	bistroniveau	NC:siun:--:----	
+66-30	til	til	T-:----:--:----	
+66-31	rimelige	rimelig	AC:p#u#:--:p---	
+66-32	priser	pris	NC:piu#:--:----	
+66-33	.	.	ZP	
+
+#id=67
+#text= Min gæsts var i kortet beskrevet som "La Minestrone de moules et coquilles-Saint-Jaques" (95 kr.).
+67-1	Min	min	PO:s--c:--:-1ns	
+67-2	gæsts	gæst	NC:sigc:--:----	
+67-3	var	være	VF:----:ta:----	
+67-4	i	i	T-:----:--:----	
+67-5	kortet	kort	NC:sdun:--:----	
+67-6	beskrevet	beskrive	VT:siu#:t-:----	
+67-7	som	som	US:----:--:----	
+67-8	"	"	ZI	
+67-9	La	La	NP:siu#:--:----	
+67-10	Minestrone	minestrone	NC:siuc:--:----	
+67-11	de	de	NP:siu#:--:----	
+67-12	moules	moule	VF:----:sp:----	
+67-13	et	en	PI:s-un:--:----	
+67-14	coquilles	coquille	VF:----:sp:----	
+67-15	-	-	NC:piu#:--:----	
+67-16	Saint	Saint	NW:----:--:----	
+67-17	-	-	ZH	
+67-18	Jaques	Jaques	NP:siu#:--:----	
+67-19	"	"	ZI	
+67-20	(	(	ZD	
+67-21	95	95	LC:--u-:--:----	
+67-22	kr	krone	NC:piu#:--:----	
+67-23	.	.	ZP	
+67-24	)	)	ZD	
+67-25	.	.	ZP	
+
+#id=68
+#text="Kortene er i mine øjne spillet i hænderne på Team Saxo Bank.
+68-1	"	"	ZI	
+68-2	Kortene	kort	NC:pdu#:--:----	
+68-3	er	være	VF:----:sa:----	
+68-4	i	i	T-:----:--:----	
+68-5	mine	min	PO:p--#:--:-1ns	
+68-6	øjne	øje	NC:piu#:--:----	
+68-7	spillet	spille	VT:siu#:t-:----	
+68-8	i	i	T-:----:--:----	
+68-9	hænderne	hånd	NC:pdu#:--:----	
+68-10	på	på	T-:----:--:----	
+68-11	Team	Team	NP:siu#:--:----	
+68-12	Saxo	Saxo	NP:siu#:--:----	
+68-13	Bank	Bank	NP:siu#:--:----	
+68-14	.	.	ZP	
+
+#id=69
+#text=Han var operaens legebarn og så det som sin opgave at tage det fuldtonende, fuldt udtrukne operamaskineri i brug hver gang  - og blande kortene på postmodernistisk vis med et væld af referencer tilbage og frem og op og ned i kulturhistorien.
+69-1	Han	han	PP:s-nc:--:-3n-	
+69-2	var	være	VF:----:ta:----	
+69-3	operaens	opera	NC:sdgc:--:----	
+69-4	legebarn	legebarn	NC:siun:--:----	
+69-5	og	og	CC:----:--:----	
+69-6	så	så	CS:----:--:----	
+69-7	det	det	PP:s-un:--:-3n-	
+69-8	som	som	US:----:--:----	
+69-9	sin	sin	PO:s--c:--:-3ys	
+69-10	opgave	opgave	NC:siuc:--:----	
+69-11	at	at	UI:----:--:----	
+69-12	tage	tage	VI:----:-a:----	
+69-13	det	det	PP:s-un:--:-3n-	
+69-14	fuldtonende	fuldtonende	AD:----:--:p---	
+69-15	,	,	ZD	
+69-16	fuldt	fuld	AD:----:--:p---	
+69-17	udtrukne	udtrække	VP:sdu#:t-:----	
+69-18	operamaskineri	operamaskineri	NC:siun:--:----	
+69-19	i	i	T-:----:--:----	
+69-20	brug	brug	NC:siuc:--:----	
+69-21	hver	hver	PI:s-uc:--:----	
+69-22	gang	gang	NW:----:--:----	
+69-23	-	-	ZH	
+69-24	og	og	CC:----:--:----	
+69-25	blande	blande	VI:----:-a:----	
+69-26	kortene	kort	NC:pdu#:--:----	
+69-27	på	på	T-:----:--:----	
+69-28	postmodernistisk	postmodernistisk	AD:----:--:p---	
+69-29	vis	vis	AC:siuc:--:p---	
+69-30	med	med	T-:----:--:----	
+69-31	et	en	PI:s-un:--:----	
+69-32	væld	væld	NC:siun:--:----	
+69-33	af	af	T-:----:--:----	
+69-34	referencer	reference	NC:piu#:--:----	
+69-35	tilbage	tilbage	D-:----:--:u---	
+69-36	og	og	CC:----:--:----	
+69-37	frem	frem	D-:----:--:u---	
+69-38	og	og	CC:----:--:----	
+69-39	op	op	D-:----:--:u---	
+69-40	og	og	CC:----:--:----	
+69-41	ned	ned	D-:----:--:u---	
+69-42	i	i	T-:----:--:----	
+69-43	kulturhistorien	kulturhistorie	NC:sduc:--:----	
+69-44	.	.	ZP	
+
+#id=70
+#text= Siden er vi tilsammen steget på en bus et par hundrede gange, idet vi har gennemført ture på de forskelligste strækninger inden for kortets gyldighedsområde.
+70-1	Siden	siden	D-:----:--:u---	
+70-2	er	være	VF:----:sa:----	
+70-3	vi	vi	PP:p-nc:--:-1n-	
+70-4	tilsammen	tilsammen	D-:----:--:u---	
+70-5	steget	stige	VT:siu#:t-:----	
+70-6	på	på	T-:----:--:----	
+70-7	en	en	PI:s-uc:--:----	
+70-8	bus	bus	NC:siuc:--:----	
+70-9	et	en	PI:s-un:--:----	
+70-10	par	par	NC:siun:--:----	
+70-11	hundrede	hundrede	NC:piu#:--:----	
+70-12	gange	gang	NC:piu#:--:----	
+70-13	,	,	ZD	
+70-14	idet	idet	CS:----:--:----	
+70-15	vi	vi	PP:p-nc:--:-1n-	
+70-16	har	have	VF:----:sa:----	
+70-17	gennemført	gennemføre	VT:siu#:t-:----	
+70-18	ture	tur	NC:piu#:--:----	
+70-19	på	på	T-:----:--:----	
+70-20	de	den	PM:p-u#:--:----	
+70-21	forskelligste	forskellig	AC:p#u#:--:s---	
+70-22	strækninger	strækning	NC:piu#:--:----	
+70-23	inden	inden	T-:----:--:----	
+70-24	for	for	T-:----:--:----	
+70-25	kortets	kort	NC:sdgn:--:----	
+70-26	gyldighedsområde	gyldighedsområde	NC:siun:--:----	
+70-27	.	.	ZP	
+
+#id=71
+#text=Det lå ellers ikke i kortene, at Vibe Klarup Voetmann skulle springe ind i et nyt lederjob, da en frivillig fra Dannerhuset tilbød hende stillingen.
+71-1	Det	det	PP:s-un:--:-3n-	
+71-2	lå	ligge	VF:----:ta:----	
+71-3	ellers	ellers	D-:----:--:u---	
+71-4	ikke	ikke	D-:----:--:u---	
+71-5	i	i	T-:----:--:----	
+71-6	kortene	kort	NC:pdu#:--:----	
+71-7	,	,	ZD	
+71-8	at	at	CS:----:--:----	
+71-9	Vibe	vibe	NC:siuc:--:----	
+71-10	Klarup	Klarup	NP:siu#:--:----	
+71-11	Voetmann	Voetmann	NP:siu#:--:----	
+71-12	skulle	skulle	VF:----:ta:----	
+71-13	springe	springe	VI:----:-a:----	
+71-14	ind	ind	D-:----:--:u---	
+71-15	i	i	T-:----:--:----	
+71-16	et	en	PI:s-un:--:----	
+71-17	nyt	ny	AC:siun:--:p---	
+71-18	lederjob	lederjob	NC:siun:--:----	
+71-19	,	,	ZD	
+71-20	da	da	CS:----:--:----	
+71-21	en	en	PI:s-uc:--:----	
+71-22	frivillig	frivillig	AC:siuc:--:p---	
+71-23	fra	fra	T-:----:--:----	
+71-24	Dannerhuset	Dannerhuset	NP:siu#:--:----	
+71-25	tilbød	tilbyde	VF:----:ta:----	
+71-26	hende	hun	PP:s-uc:--:-3n-	
+71-27	stillingen	stilling	NC:sduc:--:----	
+71-28	.	.	ZP	
+
+#id=72
+#text= Suppe, steg og citronfromage, og så satte mændene sig til at tæske i kortene ved det store spisebord, hvor cerut-tågerne bølgede, mens konerne tog plads i den pæne stue, der havde tunge stole i grøn, uopskåret mekka med mahogni-armlæn.
+72-1	Suppe	suppe	NC:siuc:--:----	
+72-2	,	,	ZD	
+72-3	steg	stige	VF:----:ta:----	
+72-4	og	og	CC:----:--:----	
+72-5	citronfromage	citronfromage	NC:siuc:--:----	
+72-6	,	,	ZD	
+72-7	og	og	CC:----:--:----	
+72-8	så	så	D-:----:--:u---	
+72-9	satte	sætte	VF:----:ta:----	
+72-10	mændene	mand	NC:pdu#:--:----	
+72-11	sig	sig	PP:#-u#:--:-3y-	
+72-12	til	til	T-:----:--:----	
+72-13	at	at	UI:----:--:----	
+72-14	tæske	tæske	VI:----:-a:----	
+72-15	i	i	T-:----:--:----	
+72-16	kortene	kort	NC:pdu#:--:----	
+72-17	ved	ved	T-:----:--:----	
+72-18	det	den	PM:s-un:--:----	
+72-19	store	stor	AC:sdu#:--:p---	
+72-20	spisebord	spisebord	NC:siun:--:----	
+72-21	,	,	ZD	
+72-22	hvor	hvor	D-:----:--:u---	
+72-23	cerut	cerut	NW:----:--:----	
+72-24	-	-	ZH	
+72-25	tågerne	tåge	NC:pdu#:--:----	
+72-26	bølgede	bølge	VF:----:ta:----	
+72-27	,	,	ZD	
+72-28	mens	mens	CS:----:--:----	
+72-29	konerne	kone	NC:pdu#:--:----	
+72-30	tog	tage	VF:----:ta:----	
+72-31	plads	plads	NC:siuc:--:----	
+72-32	i	i	T-:----:--:----	
+72-33	den	den	PM:s-uc:--:----	
+72-34	pæne	pæn	AC:sdu#:--:p---	
+72-35	stue	stue	NC:siuc:--:----	
+72-36	,	,	ZD	
+72-37	der	der	US:----:--:----	
+72-38	havde	have	VF:----:ta:----	
+72-39	tunge	tung	AC:p#u#:--:p---	
+72-40	stole	stol	NC:piu#:--:----	
+72-41	i	i	T-:----:--:----	
+72-42	grøn	grøn	AC:siuc:--:p---	
+72-43	,	,	ZD	
+72-44	uopskåret	uopskåren	AC:siuc:--:p---	
+72-45	mekka	mekka	NC:siuc:--:----	
+72-46	med	med	T-:----:--:----	
+72-47	mahogni	mahogni	NW:----:--:----	
+72-48	-	-	ZH	
+72-49	armlæn	armlæn	NC:siun:--:----	
+72-50	.	.	ZP	
+
+#id=73
+#text=Det har givet russerne talrige gratis kort på hånden.
+73-1	Det	det	PP:s-un:--:-3n-	
+73-2	har	have	VF:----:sa:----	
+73-3	givet	give	VT:siu#:t-:----	
+73-4	russerne	rus	NC:pdu#:--:----	
+73-5	talrige	talrig	AC:p#u#:--:p---	
+73-6	gratis	gratis	AC:§§u§:--:p---	
+73-7	kort	kort	NC:siun:--:----	
+73-8	på	på	T-:----:--:----	
+73-9	hånden	hånd	NC:sduc:--:----	
+73-10	.	.	ZP	
+
+#id=74
+#text= Dommeren ser det hele og tildeler ham det gule kort, så der er vel ikke så meget at diskutere", siger Alexanders Farnerud til brondby.
+74-1	Dommeren	dommer	NC:sduc:--:----	
+74-2	ser	se	VF:----:sa:----	
+74-3	det	den	PM:s-un:--:----	
+74-4	hele	hel	AC:sdu#:--:p---	
+74-5	og	og	CC:----:--:----	
+74-6	tildeler	tildele	VF:----:sa:----	
+74-7	ham	han	PP:s-uc:--:-3n-	
+74-8	det	den	PM:s-un:--:----	
+74-9	gule	gul	AC:sdu#:--:p---	
+74-10	kort	kort	NC:siun:--:----	
+74-11	,	,	ZD	
+74-12	så	så	CS:----:--:----	
+74-13	der	der	US:----:--:----	
+74-14	er	være	VF:----:sa:----	
+74-15	vel	vel	D-:----:--:u---	
+74-16	ikke	ikke	D-:----:--:u---	
+74-17	så	så	D-:----:--:u---	
+74-18	meget	megen	AD:----:--:p---	
+74-19	at	at	UI:----:--:----	
+74-20	diskutere	diskutere	VI:----:-a:----	
+74-21	"	"	ZI	
+74-22	,	,	ZD	
+74-23	siger	sige	VF:----:sa:----	
+74-24	Alexanders	Alexander	NP:sig#:--:----	
+74-25	Farnerud	Farnerud	NP:siu#:--:----	
+74-26	til	til	T-:----:--:----	
+74-27	brondby	brondby	NC:siuc:--:----	
+74-28	.	.	ZP	
+
+#id=75
+#text=Læg mærke til at Ru K er det eneste kort, der dræber kontrakten, da den tager Ru 10 med i faldet.
+75-1	Læg	læge	VM:----:--:----	
+75-2	mærke	mærke	VI:----:-a:----	
+75-3	til	til	T-:----:--:----	
+75-4	at	at	CS:----:--:----	
+75-5	Ru	RU	NP:siu#:--:----	
+75-6	K	K	NP:siu#:--:----	
+75-7	er	være	VF:----:sa:----	
+75-8	det	den	PM:s-un:--:----	
+75-9	eneste	eneste	AC:§§u§:--:p---	
+75-10	kort	kort	NC:siun:--:----	
+75-11	,	,	ZD	
+75-12	der	der	US:----:--:----	
+75-13	dræber	dræbe	VF:----:sa:----	
+75-14	kontrakten	kontrakt	NC:sduc:--:----	
+75-15	,	,	ZD	
+75-16	da	da	CS:----:--:----	
+75-17	den	den	PP:s-uc:--:-3n-	
+75-18	tager	tage	VF:----:sa:----	
+75-19	Ru	ru	AC:§§u§:--:p---	
+75-20	10	10	LC:--u-:--:----	
+75-21	med	med	T-:----:--:----	
+75-22	i	i	T-:----:--:----	
+75-23	faldet	fald	NC:sdun:--:----	
+75-24	.	.	ZP	
+
+#id=76
+#text=Kortet er bygget op som en menu, hvorfra der kan vælges fra to til fem retter.
+76-1	Kortet	kort	NC:sdun:--:----	
+76-2	er	være	VF:----:sa:----	
+76-3	bygget	bygge	:siu#:t-:----	
+76-4	op	op	D-:----:--:u---	
+76-5	som	som	US:----:--:----	
+76-6	en	en	PI:s-uc:--:----	
+76-7	menu	menu	NC:siuc:--:----	
+76-8	,	,	ZD	
+76-9	hvorfra	hvorfra	D-:----:--:u---	
+76-10	der	der	US:----:--:----	
+76-11	kan	kunne	VF:----:sa:----	
+76-12	vælges	vælge	VI:----:-p:----	
+76-13	fra	fra	T-:----:--:----	
+76-14	to	to	LC:--u-:--:----	
+76-15	til	til	T-:----:--:----	
+76-16	fem	fem	LC:--u-:--:----	
+76-17	retter	ret	NC:piu#:--:----	
+76-18	.	.	ZP	
+
+#id=77
+#text=Fra havet gik vi nu til marken, som er kortets opdeling af fisk og kød.
+77-1	Fra	fra	T-:----:--:----	
+77-2	havet	hav	NC:sdun:--:----	
+77-3	gik	gå	VF:----:ta:----	
+77-4	vi	vi	PP:p-nc:--:-1n-	
+77-5	nu	nu	D-:----:--:u---	
+77-6	til	til	T-:----:--:----	
+77-7	marken	mark	NC:sduc:--:----	
+77-8	,	,	ZD	
+77-9	som	som	US:----:--:----	
+77-10	er	være	VF:----:sa:----	
+77-11	kortets	kort	NC:sdgn:--:----	
+77-12	opdeling	opdeling	NC:siuc:--:----	
+77-13	af	af	T-:----:--:----	
+77-14	fisk	fisk	NC:siuc:--:----	
+77-15	og	og	CC:----:--:----	
+77-16	kød	kød	NC:siun:--:----	
+77-17	.	.	ZP	
+
+#id=78
+#text=Desserten - eller konditoriet, som det hedder i kortet - var denne aften en slags gastronomisk 'hommage a københavnerstang'.
+78-1	Desserten	dessert	NW:----:--:----	
+78-2	-	-	ZH	
+78-3	eller	eller	CC:----:--:----	
+78-4	konditoriet	konditori	NC:sdun:--:----	
+78-5	,	,	ZD	
+78-6	som	som	US:----:--:----	
+78-7	det	det	PP:s-un:--:-3n-	
+78-8	hedder	hedde	VF:----:sa:----	
+78-9	i	i	T-:----:--:----	
+78-10	kortet	kort	NC:sdun:--:----	
+78-11	-	-	NC:piu#:--:----	
+78-12	var	være	VF:----:ta:----	
+78-13	denne	denne	PM:s-uc:--:----	
+78-14	aften	aften	NC:siuc:--:----	
+78-15	en	en	PI:s-uc:--:----	
+78-16	slags	slags	c:--:----	
+78-17	gastronomisk	gastronomisk	AC:siuc:--:p---	
+78-18	'	'	ZA	
+78-19	hommage	hommage	NC:siuc:--:----	
+78-20	a	a	T-:----:--:----	
+78-21	københavnerstang	københavnerstang	NC:siuc:--:----	
+78-22	'	'	ZA	
+78-23	.	.	ZP	
+
+#id=79
+#text= Man skal dog i forhold til prisen huske, at vi var ude i det fulde udtræk med samtlige retter i kortet og gode vine.
+79-1	Man	man	PI:#-uc:--:----	
+79-2	skal	skulle	VF:----:sa:----	
+79-3	dog	dog	D-:----:--:u---	
+79-4	i	i	T-:----:--:----	
+79-5	forhold	forhold	NC:siun:--:----	
+79-6	til	til	T-:----:--:----	
+79-7	prisen	pris	NC:sduc:--:----	
+79-8	huske	huske	VI:----:-a:----	
+79-9	,	,	ZD	
+79-10	at	at	CS:----:--:----	
+79-11	vi	vi	PP:p-nc:--:-1n-	
+79-12	var	være	VF:----:ta:----	
+79-13	ude	ude	D-:----:--:u---	
+79-14	i	i	T-:----:--:----	
+79-15	det	den	PM:s-un:--:----	
+79-16	fulde	fuld	AC:sdu#:--:p---	
+79-17	udtræk	udtræk	NC:siun:--:----	
+79-18	med	med	T-:----:--:----	
+79-19	samtlige	samtlige	AC:§§u§:--:p---	
+79-20	retter	ret	NC:piu#:--:----	
+79-21	i	i	T-:----:--:----	
+79-22	kortet	kort	NC:sdun:--:----	
+79-23	og	og	CC:----:--:----	
+79-24	gode	god	AC:p#u#:--:p---	
+79-25	vine	vin	NC:piu#:--:----	
+79-26	.	.	ZP	
+
+#id=80
+#text= Med to kort igen skal Øst holde Sp D og to ruder, og det kan man som bekendt ikke.
+80-1	Med	med	T-:----:--:----	
+80-2	to	to	LC:--u-:--:----	
+80-3	kort	kort	NC:piu#:--:----	
+80-4	igen	igen	D-:----:--:u---	
+80-5	skal	skulle	VF:----:sa:----	
+80-6	Øst	Øst	NP:siu#:--:----	
+80-7	holde	holde	XY:----:--:----	
+80-8	Sp	sp	XS:----:--:----	
+80-9	D	d	XS:----:--:----	
+80-10	og	og	CC:----:--:----	
+80-11	to	to	LC:--u-:--:----	
+80-12	ruder	rude	NC:piu#:--:----	
+80-13	,	,	ZD	
+80-14	og	og	--	
+80-15	det	det	PP:s-un:--:-3n-	
+80-16	kan	kunne	VF:----:sa:----	
+80-17	man	man	PI:#-uc:--:----	
+80-18	som	som	US:----:--:----	
+80-19	bekendt	bekendt	AC:siu§:--:p---	
+80-20	ikke	ikke	D-:----:--:u---	
+80-21	.	.	ZP	
+
+#id=81
+#text=Det er Farsø Motionsklub i Himmerland, der har fået det røde kort og bliver ekskluderet de næste to år.
+81-1	Det	det	PP:s-un:--:-3n-	
+81-2	er	være	VF:----:sa:----	
+81-3	Farsø	Farsø	NP:siu#:--:----	
+81-4	Motionsklub	motionsklub	NC:siuc:--:----	
+81-5	i	i	T-:----:--:----	
+81-6	Himmerland	Himmerland	NP:siu#:--:----	
+81-7	,	,	ZD	
+81-8	der	der	US:----:--:----	
+81-9	har	have	VF:----:sa:----	
+81-10	fået	få	VT:siu#:t-:----	
+81-11	det	den	PM:s-un:--:----	
+81-12	røde	rød	AC:sdu#:--:p---	
+81-13	kort	kort	NC:siun:--:----	
+81-14	og	og	CC:----:--:----	
+81-15	bliver	blive	VF:----:sa:----	
+81-16	ekskluderet	ekskludere	VT:siu#:t-:----	
+81-17	de	den	-u#:--:----	
+81-18	næste	næste	AC:§§u§:--:p---	
+81-19	to	to	LC:--u-:--:----	
+81-20	år	år	NC:piu#:--:----	
+81-21	.	.	ZP	
+
+#id=82
+#text= Det er klart, at vi ikke udelukkende skal låne os ud af den nuværende krise eller skubbe problemerne foran os, ligesom det ikke ligger i kortene ligefrem at forgylde boligejerne.
+82-1	Det	det	PP:s-un:--:-3n-	
+82-2	er	være	VF:----:sa:----	
+82-3	klart	klar	AC:siun:--:p---	
+82-4	,	,	ZD	
+82-5	at	at	CS:----:--:----	
+82-6	vi	vi	PP:p-nc:--:-1n-	
+82-7	ikke	ikke	D-:----:--:u---	
+82-8	udelukkende	udelukkende	D-:----:--:u---	
+82-9	skal	skulle	VF:----:sa:----	
+82-10	låne	låne	VI:----:-a:----	
+82-11	os	vi	PP:p-uc:--:-1#-	
+82-12	ud	ud	D-:----:--:u---	
+82-13	af	af	T-:----:--:----	
+82-14	den	den	PM:s-uc:--:----	
+82-15	nuværende	nuværende	AC:§§u§:--:p---	
+82-16	krise	krise	NC:piu#:--:----	
+82-17	eller	eller	CC:----:--:----	
+82-18	skubbe	skubbe	VI:----:-a:----	
+82-19	problemerne	problem	NC:pdu#:--:----	
+82-20	foran	foran	--:----	
+82-21	os	vi	PP:p-uc:--:-1#-	
+82-22	,	,	ZD	
+82-23	ligesom	ligesom	CS:----:--:----	
+82-24	det	det	PP:s-un:--:-3n-	
+82-25	ikke	ikke	D-:----:--:u---	
+82-26	ligger	ligge	VF:----:sa:----	
+82-27	i	i	T-:----:--:----	
+82-28	kortene	kort	NC:pdu#:--:----	
+82-29	ligefrem	ligefrem	D-:----:--:u---	
+82-30	at	at	UI:----:--:----	
+82-31	forgylde	forgylde	VI:----:-a:----	
+82-32	boligejerne	boligejer	NC:pdu#:--:----	
+82-33	.	.	ZP	
+
+#id=83
+#text= Jeg synes, bankerne bør skifte til et sikkerhedssystem, hvor brugeren for eksempel får sendt et kort med engangskoder fra banken.
+83-1	Jeg	jeg	PP:s-nc:--:-1n-	
+83-2	synes	syne	VF:----:sp:----	
+83-3	,	,	ZD	
+83-4	bankerne	bank	NC:pdu#:--:----	
+83-5	bør	burde	VF:----:sa:----	
+83-6	skifte	skifte	VI:----:-a:----	
+83-7	til	til	T-:----:--:----	
+83-8	et	en	PI:s-un:--:----	
+83-9	sikkerhedssystem	sikkerhedssystem	NC:siun:--:----	
+83-10	,	,	ZD	
+83-11	hvor	hvor	D-:----:--:u---	
+83-12	brugeren	bruger	NC:sduc:--:----	
+83-13	for	for	T-:----:--:----	
+83-14	eksempel	eksempel	NC:siun:--:----	
+83-15	får	få	VF:----:sa:----	
+83-16	sendt	sende	VT:siu#:t-:----	
+83-17	et	en	PI:s-un:--:----	
+83-18	kort	kort	NC:siun:--:----	
+83-19	med	med	T-:----:--:----	
+83-20	engangskoder	engangskode	NC:piu#:--:----	
+83-21	fra	fra	T-:----:--:----	
+83-22	banken	bank	NC:sduc:--:----	
+83-23	.	.	ZP	
+
+#id=84
+#text=Det vil svare til, at forbryderne skal bryde ind i et hus og stjæle kortet.
+84-1	Det	det	PP:s-un:--:-3n-	
+84-2	vil	ville	VF:----:sa:----	
+84-3	svare	svare	VI:----:-a:----	
+84-4	til	til	T-:----:--:----	
+84-5	,	,	ZD	
+84-6	at	at	CS:----:--:----	
+84-7	forbryderne	forbryder	NC:pdu#:--:----	
+84-8	skal	skulle	VF:----:sa:----	
+84-9	bryde	bryde	VI:----:-a:----	
+84-10	ind	ind	D-:----:--:u---	
+84-11	i	i	T-:----:--:----	
+84-12	et	en	PI:s-un:--:----	
+84-13	hus	hus	NC:siun:--:----	
+84-14	og	og	CC:----:--:----	
+84-15	stjæle	stjæle	VI:----:-a:----	
+84-16	kortet	kort	NC:sdun:--:----	
+84-17	.	.	ZP	
+
+#id=85
+#text= Når man logger ind, får man tilsendt en kode, som man finder på kortet.
+85-1	Når	når	CS:----:--:----	
+85-2	man	man	PI:#-uc:--:----	
+85-3	logger	logge	VF:----:sa:----	
+85-4	ind	ind	D-:----:--:u---	
+85-5	,	,	ZD	
+85-6	får	få	VF:----:sa:----	
+85-7	man	man	PI:#-uc:--:----	
+85-8	tilsendt	tilsende	VT:siu#:t-:----	
+85-9	en	en	PI:s-uc:--:----	
+85-10	kode	kode	NC:siuc:--:----	
+85-11	,	,	ZD	
+85-12	som	som	US:----:--:----	
+85-13	man	man	PI:#-uc:--:----	
+85-14	finder	finde	VF:----:sa:----	
+85-15	på	på	T-:----:--:----	
+85-16	kortet	kort	NC:sdun:--:----	
+85-17	.	.	ZP	
+
+#id=86
+#text=Ifølge efterforskningsleder Flemming Madsen fra Sydsjællands og Lolland-Falsters Politi holdes kortene tæt til kroppen af hensyn til efterforskningen.
+86-1	Ifølge	ifølge	T-:----:--:----	
+86-2	efterforskningsleder	efterforskningsleder	NC:siuc:--:----	
+86-3	Flemming	Flemming	NP:siu#:--:----	
+86-4	Madsen	Madsen	NP:siu#:--:----	
+86-5	fra	fra	T-:----:--:----	
+86-6	Sydsjællands	Sydsjælland	NP:sig#:--:----	
+86-7	og	og	CC:----:--:----	
+86-8	Lolland	Lolland	NW:----:--:----	
+86-9	-	-	ZH	
+86-10	Falsters	Falster	NP:sig#:--:----	
+86-11	Politi	politi	NC:siun:--:----	
+86-12	holdes	holde	VF:----:sp:----	
+86-13	kortene	kort	NC:pdu#:--:----	
+86-14	tæt	tæt	AD:----:--:p---	
+86-15	til	til	T-:----:--:----	
+86-16	kroppen	krop	NC:sduc:--:----	
+86-17	af	af	T-:----:--:----	
+86-18	hensyn	hensyn	NC:siun:--:----	
+86-19	til	til	T-:----:--:----	
+86-20	efterforskningen	efterforskning	NC:sduc:--:----	
+86-21	.	.	ZP	
+
+#id=87
+#text= Omvendt, som kortene er nu, så står Nicklas Bendtner og Søren Larsen foran ham på den plads", siger landstræner Morten Olsen.
+87-1	Omvendt	omvendt	AC:siu§:--:p---	
+87-2	,	,	ZD	
+87-3	som	som	US:----:--:----	
+87-4	kortene	kort	NC:pdu#:--:----	
+87-5	er	være	VF:----:sa:----	
+87-6	nu	nu	D-:----:--:u---	
+87-7	,	,	ZD	
+87-8	så	så	D-:----:--:u---	
+87-9	står	stå	VF:----:sa:----	
+87-10	Nicklas	Nicklas	NP:siu#:--:----	
+87-11	Bendtner	Bendtner	NP:siu#:--:----	
+87-12	og	og	CC:----:--:----	
+87-13	Søren	Søren	NP:siu#:--:----	
+87-14	Larsen	Larsen	NP:siu#:--:----	
+87-15	foran	foran	T-:----:--:----	
+87-16	ham	han	PP:s-uc:--:-3n-	
+87-17	på	på	T-:----:--:----	
+87-18	den	den	PM:s-uc:--:----	
+87-19	plads	plads	NC:siuc:--:----	
+87-20	"	"	ZI	
+87-21	,	,	ZD	
+87-22	siger	sige	VF:----:sa:----	
+87-23	landstræner	landstræner	NC:siuc:--:----	
+87-24	Morten	Morten	NP:siu#:--:----	
+87-25	Olsen	Olsen	NP:siu#:--:----	
+87-26	.	.	ZP	
+
+#id=88
+#text=Modspillet havde seks stik mod dagens 4 Sp, men desværre for dem var der kun tre kort tilbage på det tidspunkt:
+88-1	Modspillet	modspil	NC:sdun:--:----	
+88-2	havde	have	VF:----:ta:----	
+88-3	seks	seks	LC:--u-:--:----	
+88-4	stik	stik	NC:siun:--:----	
+88-5	mod	mod	T-:----:--:----	
+88-6	dagens	dag	NC:sdgc:--:----	
+88-7	4	4	LC:--u-:--:----	
+88-8	Sp	sp	XS:----:--:----	
+88-9	,	,	ZD	
+88-10	men	men	CC:----:--:----	
+88-11	desværre	desværre	D-:----:--:u---	
+88-12	for	for	T-:----:--:----	
+88-13	dem	de	PP:p-u#:--:-3n-	
+88-14	var	være	VF:----:ta:----	
+88-15	der	der	US:----:--:----	
+88-16	kun	kun	D-:----:--:u---	
+88-17	tre	tre	LC:--u-:--:----	
+88-18	kort	kort	NC:piu#:--:----	
+88-19	tilbage	tilbage	D-:----:--:u---	
+88-20	på	på	T-:----:--:----	
+88-21	det	den	PM:s-un:--:----	
+88-22	tidspunkt	tidspunkt	NC:siun:--:----	
+88-23	:	:	ZP	
+
+#id=89
+#text=Visa hedder et af de betalingskort, der er i omløb, og der var da også et fint mærke foran på automaten, der viste, at netop Visa-kortet var gangbart.
+89-1	Visa	visum	NC:piu#:--:----	
+89-2	hedder	hedde	VF:----:sa:----	
+89-3	et	en	PI:s-un:--:----	
+89-4	af	af	T-:----:--:----	
+89-5	de	den	----	
+89-6	betalingskort	betalingskort	NC:piu#:--:----	
+89-7	,	,	ZD	
+89-8	der	der	US:----:--:----	
+89-9	er	være	VF:----:sa:----	
+89-10	i	i	T-:----:--:----	
+89-11	omløb	omløb	NC:siun:--:----	
+89-12	,	,	ZD	
+89-13	og	og	CC:----:--:----	
+89-14	der	der	US:----:--:----	
+89-15	var	være	VF:----:ta:----	
+89-16	da	da	D-:----:--:u---	
+89-17	også	også	D-:----:--:u---	
+89-18	et	en	PI:s-un:--:----	
+89-19	fint	fin	AC:siun:--:p---	
+89-20	mærke	mærke	NC:siun:--:----	
+89-21	foran	foran	T-:----:--:----	
+89-22	på	på	T-:----:--:----	
+89-23	automaten	automat	NC:sduc:--:----	
+89-24	,	,	ZD	
+89-25	der	der	US:----:--:----	
+89-26	viste	vise	VF:----:ta:----	
+89-27	,	,	ZD	
+89-28	at	at	CS:----:--:----	
+89-29	netop	netop	D-:----:--:u---	
+89-30	Visa	visum	NW:----:--:----	
+89-31	-	-	ZH	
+89-32	kortet	kort	NC:sdun:--:----	
+89-33	var	være	VF:----:ta:----	
+89-34	gangbart	gangbar	AD:----:--:p---	
+89-35	.	.	ZP	
+
+#id=90
+#text= I med kortet, vælge 'dansk', vente lidt og vupti, første besked:
+90-1	I	i	T-:----:--:----	
+90-2	med	med	T-:----:--:----	
+90-3	kortet	kort	NC:sdun:--:----	
+90-4	,	,	ZD	
+90-5	vælge	vælge	VI:----:-a:----	
+90-6	'	'	ZA	
+90-7	dansk	dansk	NC:siun:--:----	
+90-8	'	'	ZA	
+90-9	,	,	ZD	
+90-10	vente	vente	VI:----:-a:----	
+90-11	lidt	lidt	AD:----:--:p---	
+90-12	og	og	CC:----:--:----	
+90-13	vupti	vupti	I-:----:--:----	
+90-14	,	,	ZD	
+90-15	første	første	AC:§§u§:--:p---	
+90-16	besked	besked	NC:siuc:--:----	
+90-17	:	:	ZP	
+
+#id=91
+#text= Ud med kortet.
+91-1	Ud	ud	D-:----:--:u---	
+91-2	med	med	T-:----:--:----	
+91-3	kortet	kort	NC:sdun:--:----	
+91-4	.	.	ZP	
+
+#id=92
+#text= "Deres kort er af hemmelighedsgrunder blevet gespærret".
+92-1	"	"	ZI	
+92-2	Deres	Deres	XY:----:--:----	
+92-3	kort	kort	NC:siun:--:----	
+92-4	er	være	VF:----:sa:----	
+92-5	af	af	D-:----:--:u---	
+92-6	hemmelighedsgrunder	hemmelighedsgrunde	VF:----:sa:----	
+92-7	blevet	blive	VT:siu#:t-:----	
+92-8	gespærret	gespærre	NC:sdun:--:----	
+92-9	"	"	ZI	
+92-10	.	.	ZP	
+
+#id=93
+#text= For den mondæne bank tog skam ikke Visa-kort.
+93-1	For	for	T-:----:--:----	
+93-2	den	den	PM:s-uc:--:----	
+93-3	mondæne	mondæn	AC:sdu#:--:p---	
+93-4	bank	bank	NC:siun:--:----	
+93-5	tog	tage	VF:----:ta:----	
+93-6	skam	skam	D-:----:--:u---	
+93-7	ikke	ikke	D-:----:--:u---	
+93-8	Visa	visum	NW:----:--:----	
+93-9	-	-	ZH	
+93-10	kort	kort	NC:siun:--:----	
+93-11	.	.	ZP	
+
+#id=94
+#text='Sagen kort' på side 3 i 2.
+94-1	'	'	XY:----:--:----	
+94-2	Sagen	Sagen	NP:siu#:--:----	
+94-3	kort	kort	NC:siun:--:----	
+94-4	'	'	ZA	
+94-5	på	på	T-:----:--:----	
+94-6	side	side	NC:siuc:--:----	
+94-7	3	3	LC:--u-:--:----	
+94-8	i	i	T-:----:--:----	
+94-9	2	2	LC:--u-:--:----	
+94-10	.	.	ZP	
+
+#id=95
+#text= Og jeg smadrer heller ikke kortene", griner han.
+95-1	Og	og	CC:----:--:----	
+95-2	jeg	jeg	PP:s-nc:--:-1n-	
+95-3	smadrer	smadre	VF:----:sa:----	
+95-4	heller	heller	D-:----:--:u---	
+95-5	ikke	ikke	D-:----:--:u---	
+95-6	kortene	kort	NC:pdu#:--:----	
+95-7	"	"	ZI	
+95-8	,	,	ZD	
+95-9	griner	grine	VF:----:sa:----	
+95-10	han	han	PP:s-nc:--:-3n-	
+95-11	.	.	ZP	
+
+#id=96
+#text=Frustrationen over SF's ensidige arbejderretorik prægede Fog gennem flere år, og først i 1961 - kort efter den bemærkelsesværdige valgsejr i november 1960, hvor SF strøg i Folketinget med 11 mandater - meldte han sig ind i partiet.
+96-1	Frustrationen	frustration	NC:sduc:--:----	
+96-2	over	over	T-:----:--:----	
+96-3	SF	SF	NP:siu#:--:----	
+96-4	'	'	ZA	
+96-5	s	@s	---	
+96-6	ensidige	ensidig	AC:sdu#:--:p---	
+96-7	arbejderretorik	arbejderretorik	NC:siuc:--:----	
+96-8	prægede	præget	AC:p#u#:--:p---	
+96-9	Fog	Fog	XF:----:--:----	
+96-10	gennem	gennem	T-:----:--:----	
+96-11	flere	mange	AC:##u#:--:c---	
+96-12	år	år	NC:piu#:--:----	
+96-13	,	,	ZD	
+96-14	og	og	CC:----:--:----	
+96-15	først	først	D-:----:--:u---	
+96-16	i	i	T-:----:--:----	
+96-17	1961	1961	LC:--u-:--:----	
+96-18	-	-	ZH	
+96-19	kort	kort	NC:siun:--:----	
+96-20	efter	efter	T-:----:--:----	
+96-21	den	den	PM:s-uc:--:----	
+96-22	bemærkelsesværdige	bemærkelsesværdig	AC:sdu#:--:p---	
+96-23	valgsejr	valgsejr	NC:siuc:--:----	
+96-24	i	i	T-:----:--:----	
+96-25	november	november	NC:siuc:--:----	
+96-26	1960	1960	LC:--u-:--:----	
+96-27	,	,	ZD	
+96-28	hvor	hvor	D-:----:--:u---	
+96-29	SF	SF	NP:siu#:--:----	
+96-30	strøg	stryge	VF:----:ta:----	
+96-31	i	i	T-:----:--:----	
+96-32	Folketinget	folketing	NC:sdun:--:----	
+96-33	med	med	T-:----:--:----	
+96-34	11	11	LC:--u-:--:----	
+96-35	mandater	mandat	NC:piu#:--:----	
+96-36	-	-	NC:piu#:--:----	
+96-37	meldte	melde	VF:----:ta:----	
+96-38	han	han	PP:s-nc:--:-3n-	
+96-39	sig	sig	PP:#-u#:--:-3y-	
+96-40	ind	ind	D-:----:--:u---	
+96-41	i	i	T-:----:--:----	
+96-42	partiet	parti	NC:sdun:--:----	
+96-43	.	.	ZP	
+
+#id=97
+#text= Vi er nødt til at blande kortene for at få en god debat, og derfor kan kvinderne klart gøre en forskel i bestyrelserne".
+97-1	Vi	vi	PP:p-nc:--:-1n-	
+97-2	er	være	VF:----:sa:----	
+97-3	nødt	nødt	AC:§§u§:--:p---	
+97-4	til	til	T-:----:--:----	
+97-5	at	at	UI:----:--:----	
+97-6	blande	blande	VI:----:-a:----	
+97-7	kortene	kort	NC:pdu#:--:----	
+97-8	for	for	T-:----:--:----	
+97-9	at	at	UI:----:--:----	
+97-10	få	få	VI:----:-a:----	
+97-11	en	en	PI:s-uc:--:----	
+97-12	god	god	AC:siuc:--:p---	
+97-13	debat	debat	NC:siuc:--:----	
+97-14	,	,	ZD	
+97-15	og	og	CC:----:--:----	
+97-16	derfor	derfor	D-:----:--:u---	
+97-17	kan	kunne	VF:----:sa:----	
+97-18	kvinderne	kvinde	NC:pdu#:--:----	
+97-19	klart	klar	AD:----:--:p---	
+97-20	gøre	gøre	VI:----:-a:----	
+97-21	en	en	PI:s-uc:--:----	
+97-22	forskel	forskel	NC:siuc:--:----	
+97-23	i	i	T-:----:--:----	
+97-24	bestyrelserne	bestyrelse	NC:pdu#:--:----	
+97-25	"	"	ZI	
+97-26	.	.	ZP	
+
+#id=98
+#text=Når engangskoderne er ved at være brugt, får brugeren tilsendt et nyt kort, ligesom man selv kan bestille flere nøglekort på nettet.
+98-1	Når	når	CS:----:--:----	
+98-2	engangskoderne	engangskode	NC:pdu#:--:----	
+98-3	er	være	VF:----:sa:----	
+98-4	ved	ved	T-:----:--:----	
+98-5	at	at	UI:----:--:----	
+98-6	være	være	VI:----:-a:----	
+98-7	brugt	bruge	----	
+98-8	,	,	ZD	
+98-9	får	få	VF:----:sa:----	
+98-10	brugeren	bruger	NC:sduc:--:----	
+98-11	tilsendt	tilsende	VT:siu#:t-:----	
+98-12	et	en	PI:s-un:--:----	
+98-13	nyt	ny	AC:siun:--:p---	
+98-14	kort	kort	NC:siun:--:----	
+98-15	,	,	ZD	
+98-16	ligesom	ligesom	CS:----:--:----	
+98-17	man	man	PI:#-uc:--:----	
+98-18	selv	selv	PM:#-u#:--:----	
+98-19	kan	kunne	VF:----:sa:----	
+98-20	bestille	bestille	VI:----:-a:----	
+98-21	flere	mange	AC:##u#:--:c---	
+98-22	nøglekort	nøglekort	NC:piu#:--:----	
+98-23	på	på	T-:----:--:----	
+98-24	nettet	net	NC:sdun:--:----	
+98-25	.	.	ZP	
+
+#id=99
+#text= Vi sender forfrankerede kort ud til 600.000 husstande, og så kan de sætte to krydser eller gå på vores hjemmeside.
+99-1	Vi	vi	PP:p-nc:--:-1n-	
+99-2	sender	sende	VF:----:sa:----	
+99-3	forfrankerede	forfrankere	VP:p#u#:t-:----	
+99-4	kort	kort	NC:piu#:--:----	
+99-5	ud	ud	D-:----:--:u---	
+99-6	til	til	T-:----:--:----	
+99-7	600	600	LC:--u-:--:----	
+99-8	.	.	ZP	
+99-9	000	000	LC:--u-:--:----	
+99-10	husstande	husstand	NC:piu#:--:----	
+99-11	,	,	ZD	
+99-12	og	og	CC:----:--:----	
+99-13	så	så	D-:----:--:u---	
+99-14	kan	kunne	VF:----:sa:----	
+99-15	de	de	PP:p-n#:--:-3n-	
+99-16	sætte	sætte	VI:----:-a:----	
+99-17	to	to	LC:--u-:--:----	
+99-18	krydser	kryds	NC:piu#:--:----	
+99-19	eller	eller	CC:----:--:----	
+99-20	gå	gå	VI:----:-a:----	
+99-21	på	på	T-:----:--:----	
+99-22	vores	vores	PO:#--#:--:-1np	
+99-23	hjemmeside	hjemmeside	NC:siuc:--:----	
+99-24	.	.	ZP	
+
+#id=100
+#text=I den hidtil største sag om tyveri af betalingskort i verden er flere  tusinde danskere i risiko for at få misbrugt deres kort.
+100-1	I	i	T-:----:--:----	
+100-2	den	den	PP:s-uc:--:-3n-	
+100-3	hidtil	hidtil	D-:----:--:u---	
+100-4	største	største	XY:----:--:----	
+100-5	sag	sag	NC:siuc:--:----	
+100-6	om	om	T-:----:--:----	
+100-7	tyveri	tyveri	NC:siun:--:----	
+100-8	af	af	T-:----:--:----	
+100-9	betalingskort	betalingskort	NC:siun:--:----	
+100-10	i	i	T-:----:--:----	
+100-11	verden	verden	NC:siuc:--:----	
+100-12	er	være	VF:----:sa:----	
+100-13	flere	mange	AC:##u#:--:c---	
+100-14	tusinde	tusinde	NC:piu#:--:----	
+100-15	danskere	dansker	NC:piu#:--:----	
+100-16	i	i	T-:----:--:----	
+100-17	risiko	risiko	NC:siuc:--:----	
+100-18	for	for	T-:----:--:----	
+100-19	at	at	UI:----:--:----	
+100-20	få	få	VI:----:-a:----	
+100-21	misbrugt	misbruge	VT:siu#:t-:----	
+100-22	deres	deres	PO:#--#:--:-3np	
+100-23	kort	kort	NC:siun:--:----	
+100-24	.	.	ZP	
+

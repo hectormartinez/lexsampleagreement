@@ -1,0 +1,869 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue
+#id=1
+#text=Den nu 34-årige multikunstner debuterede ved DM i stand-up i 1993, hvor han fik en 2.-plads.
+1-1	Den	den	PP:s-uc:--:-3n-	
+1-2	nu	_	_	
+1-3	34	_	_	
+1-4	-	_	_	
+1-5	årige	_	_	
+1-6	multikunstner	_	_	
+1-7	debuterede	_	_	
+1-8	ved	_	_	
+1-9	DM	_	_	
+1-10	i	_	_	
+1-11	stand	_	_	
+1-12	-	_	_	
+1-13	up	_	_	
+1-14	i	_	_	
+1-15	1993	_	_	
+1-16	,	_	_	
+1-17	hvor	_	_	
+1-18	han	_	_	
+1-19	fik	_	_	
+1-20	en	_	_	
+1-21	2	_	_	
+1-22	.	_	_	
+1-23	-	_	_	
+1-24	plads	_	_	
+1-25	.	_	_	
+
+#id=2
+#text=- Selvfølgelig skal det hænge sammen med baglandet, at jeg er væk i weekenderne, men min mand er bidt af en gal fisker, så vi giver plads til hver vores.
+2-1	-	_	_	
+2-2	Selvfølgelig	_	_	
+2-3	skal	_	_	
+2-4	det	_	_	
+2-5	hænge	_	_	
+2-6	sammen	_	_	
+2-7	med	_	_	
+2-8	baglandet	_	_	
+2-9	,	_	_	
+2-10	at	_	_	
+2-11	jeg	_	_	
+2-12	er	_	_	
+2-13	væk	_	_	
+2-14	i	_	_	
+2-15	weekenderne	_	_	
+2-16	,	_	_	
+2-17	men	_	_	
+2-18	min	_	_	
+2-19	mand	_	_	
+2-20	er	_	_	
+2-21	bidt	_	_	
+2-22	af	_	_	
+2-23	en	_	_	
+2-24	gal	_	_	
+2-25	fisker	_	_	
+2-26	,	_	_	
+2-27	så	_	_	
+2-28	vi	_	_	
+2-29	giver	_	_	
+2-30	plads	_	_	
+2-31	til	_	_	
+2-32	hver	_	_	
+2-33	vores	_	_	
+2-34	.	_	_	
+
+#id=3
+#text= Alle voksenting var på plads, men en dag fik jeg virkelig lyst til, at der skulle ske noget nyt, erkender Maria.
+3-1	Alle	_	_	
+3-2	voksenting	_	_	
+3-3	var	_	_	
+3-4	på	_	_	
+3-5	plads	_	_	
+3-6	,	_	_	
+3-7	men	_	_	
+3-8	en	_	_	
+3-9	dag	_	_	
+3-10	fik	_	_	
+3-11	jeg	_	_	
+3-12	virkelig	_	_	
+3-13	lyst	_	_	
+3-14	til	_	_	
+3-15	,	_	_	
+3-16	at	_	_	
+3-17	der	_	_	
+3-18	skulle	_	_	
+3-19	ske	_	_	
+3-20	noget	_	_	
+3-21	nyt	_	_	
+3-22	,	_	_	
+3-23	erkender	_	_	
+3-24	Maria	_	_	
+3-25	.	_	_	
+
+#id=4
+#text=Allerede torsdag tog Rigmor  så hul på det, der skal bane hendes vej tilbage til en plads i solen med lejlighed tæt på de danske jetsettere.
+4-1	Allerede	_	_	
+4-2	torsdag	_	_	
+4-3	tog	_	_	
+4-4	Rigmor	_	_	
+4-5	så	_	_	
+4-6	hul	_	_	
+4-7	på	_	_	
+4-8	det	_	_	
+4-9	,	_	_	
+4-10	der	_	_	
+4-11	skal	_	_	
+4-12	bane	_	_	
+4-13	hendes	_	_	
+4-14	vej	_	_	
+4-15	tilbage	_	_	
+4-16	til	_	_	
+4-17	en	_	_	
+4-18	plads	_	_	
+4-19	i	_	_	
+4-20	solen	_	_	
+4-21	med	_	_	
+4-22	lejlighed	_	_	
+4-23	tæt	_	_	
+4-24	på	_	_	
+4-25	de	_	_	
+4-26	danske	_	_	
+4-27	jetsettere	_	_	
+4-28	.	_	_	
+
+#id=5
+#text= For så er der plads til Jim Lyngvilds mange ting, som han har samlet igennem årene.
+5-1	For	_	_	
+5-2	så	_	_	
+5-3	er	_	_	
+5-4	der	_	_	
+5-5	plads	_	_	
+5-6	til	_	_	
+5-7	Jim	_	_	
+5-8	Lyngvilds	_	_	
+5-9	mange	_	_	
+5-10	ting	_	_	
+5-11	,	_	_	
+5-12	som	_	_	
+5-13	han	_	_	
+5-14	har	_	_	
+5-15	samlet	_	_	
+5-16	igennem	_	_	
+5-17	årene	_	_	
+5-18	.	_	_	
+
+#id=6
+#text=For at gøre plads til hele flokken har forældrene flyttet deres soveværelse ud i en campingvogn.
+6-1	For	_	_	
+6-2	at	_	_	
+6-3	gøre	_	_	
+6-4	plads	_	_	
+6-5	til	_	_	
+6-6	hele	_	_	
+6-7	flokken	_	_	
+6-8	har	_	_	
+6-9	forældrene	_	_	
+6-10	flyttet	_	_	
+6-11	deres	_	_	
+6-12	soveværelse	_	_	
+6-13	ud	_	_	
+6-14	i	_	_	
+6-15	en	_	_	
+6-16	campingvogn	_	_	
+6-17	.	_	_	
+
+#id=7
+#text=De har sammen med hustruen Rebecca Rigg en helt speciel plads i Simon Bakers hjerte.
+7-1	De	_	_	
+7-2	har	_	_	
+7-3	sammen	_	_	
+7-4	med	_	_	
+7-5	hustruen	_	_	
+7-6	Rebecca	_	_	
+7-7	Rigg	_	_	
+7-8	en	_	_	
+7-9	helt	_	_	
+7-10	speciel	_	_	
+7-11	plads	_	_	
+7-12	i	_	_	
+7-13	Simon	_	_	
+7-14	Bakers	_	_	
+7-15	hjerte	_	_	
+7-16	.	_	_	
+
+#id=8
+#text=Da de tager plads i sofaen i Michellas lejlighed i Odense, lægger han armen om hende og trækker hende ind til sig.
+8-1	Da	_	_	
+8-2	de	_	_	
+8-3	tager	_	_	
+8-4	plads	_	_	
+8-5	i	_	_	
+8-6	sofaen	_	_	
+8-7	i	_	_	
+8-8	Michellas	_	_	
+8-9	lejlighed	_	_	
+8-10	i	_	_	
+8-11	Odense	_	_	
+8-12	,	_	_	
+8-13	lægger	_	_	
+8-14	han	_	_	
+8-15	armen	_	_	
+8-16	om	_	_	
+8-17	hende	_	_	
+8-18	og	_	_	
+8-19	trækker	_	_	
+8-20	hende	_	_	
+8-21	ind	_	_	
+8-22	til	_	_	
+8-23	sig	_	_	
+8-24	.	_	_	
+
+#id=9
+#text=Skulle ens øvrige sanser også trænge til stimulation, er det ingen sag at lade sig adsprede af et show i skibets teater eller tage plads ved manegekanten i det lille " cirkus", hvor artister svinger sig i trapezerne, mens man indtager sin menu.
+9-1	Skulle	_	_	
+9-2	ens	_	_	
+9-3	øvrige	_	_	
+9-4	sanser	_	_	
+9-5	også	_	_	
+9-6	trænge	_	_	
+9-7	til	_	_	
+9-8	stimulation	_	_	
+9-9	,	_	_	
+9-10	er	_	_	
+9-11	det	_	_	
+9-12	ingen	_	_	
+9-13	sag	_	_	
+9-14	at	_	_	
+9-15	lade	_	_	
+9-16	sig	_	_	
+9-17	adsprede	_	_	
+9-18	af	_	_	
+9-19	et	_	_	
+9-20	show	_	_	
+9-21	i	_	_	
+9-22	skibets	_	_	
+9-23	teater	_	_	
+9-24	eller	_	_	
+9-25	tage	_	_	
+9-26	plads	_	_	
+9-27	ved	_	_	
+9-28	manegekanten	_	_	
+9-29	i	_	_	
+9-30	det	_	_	
+9-31	lille	_	_	
+9-32	"	_	_	
+9-33	cirkus	_	_	
+9-34	"	_	_	
+9-35	,	_	_	
+9-36	hvor	_	_	
+9-37	artister	_	_	
+9-38	svinger	_	_	
+9-39	sig	_	_	
+9-40	i	_	_	
+9-41	trapezerne	_	_	
+9-42	,	_	_	
+9-43	mens	_	_	
+9-44	man	_	_	
+9-45	indtager	_	_	
+9-46	sin	_	_	
+9-47	menu	_	_	
+9-48	.	_	_	
+
+#id=10
+#text=Så er der også plads nok med 378 kvadratmeter bolig og over 200 kvadratmeter kælder.
+10-1	Så	_	_	
+10-2	er	_	_	
+10-3	der	_	_	
+10-4	også	_	_	
+10-5	plads	_	_	
+10-6	nok	_	_	
+10-7	med	_	_	
+10-8	378	_	_	
+10-9	kvadratmeter	_	_	
+10-10	bolig	_	_	
+10-11	og	_	_	
+10-12	over	_	_	
+10-13	200	_	_	
+10-14	kvadratmeter	_	_	
+10-15	kælder	_	_	
+10-16	.	_	_	
+
+#id=11
+#text=Ved den lejlighed samler folk sig på byens åbne pladser for at markere dagen sammen med krigsveteranerne.
+11-1	Ved	_	_	
+11-2	den	_	_	
+11-3	lejlighed	_	_	
+11-4	samler	_	_	
+11-5	folk	_	_	
+11-6	sig	_	_	
+11-7	på	_	_	
+11-8	byens	_	_	
+11-9	åbne	_	_	
+11-10	pladser	_	_	
+11-11	for	_	_	
+11-12	at	_	_	
+11-13	markere	_	_	
+11-14	dagen	_	_	
+11-15	sammen	_	_	
+11-16	med	_	_	
+11-17	krigsveteranerne	_	_	
+11-18	.	_	_	
+
+#id=12
+#text= Det kunne man da godt interessere sig lidt for Den lille, lilla prins gik hurtigt på scenen til stor overraskelse for filmparret Charlotte Fich og Per Fly, som måtte skynde sig ind at  finde en plads En funky fætter kræver et funky publikum, og selv i islænder og gummisko var Pernille Højmark og Jesper Rytkov mere funky end de fleste Lillebror Jimmy Bøjgaard - flankeret af søstrene Liff og Bettina, var ude for at fejre storesøster Bettinas fødselsdag.
+12-1	Det	_	_	
+12-2	kunne	_	_	
+12-3	man	_	_	
+12-4	da	_	_	
+12-5	godt	_	_	
+12-6	interessere	_	_	
+12-7	sig	_	_	
+12-8	lidt	_	_	
+12-9	for	_	_	
+12-10	Den	_	_	
+12-11	lille	_	_	
+12-12	,	_	_	
+12-13	lilla	_	_	
+12-14	prins	_	_	
+12-15	gik	_	_	
+12-16	hurtigt	_	_	
+12-17	på	_	_	
+12-18	scenen	_	_	
+12-19	til	_	_	
+12-20	stor	_	_	
+12-21	overraskelse	_	_	
+12-22	for	_	_	
+12-23	filmparret	_	_	
+12-24	Charlotte	_	_	
+12-25	Fich	_	_	
+12-26	og	_	_	
+12-27	Per	_	_	
+12-28	Fly	_	_	
+12-29	,	_	_	
+12-30	som	_	_	
+12-31	måtte	_	_	
+12-32	skynde	_	_	
+12-33	sig	_	_	
+12-34	ind	_	_	
+12-35	at	_	_	
+12-36	finde	_	_	
+12-37	en	_	_	
+12-38	plads	_	_	
+12-39	En	_	_	
+12-40	funky	_	_	
+12-41	fætter	_	_	
+12-42	kræver	_	_	
+12-43	et	_	_	
+12-44	funky	_	_	
+12-45	publikum	_	_	
+12-46	,	_	_	
+12-47	og	_	_	
+12-48	selv	_	_	
+12-49	i	_	_	
+12-50	islænder	_	_	
+12-51	og	_	_	
+12-52	gummisko	_	_	
+12-53	var	_	_	
+12-54	Pernille	_	_	
+12-55	Højmark	_	_	
+12-56	og	_	_	
+12-57	Jesper	_	_	
+12-58	Rytkov	_	_	
+12-59	mere	_	_	
+12-60	funky	_	_	
+12-61	end	_	_	
+12-62	de	_	_	
+12-63	fleste	_	_	
+12-64	Lillebror	_	_	
+12-65	Jimmy	_	_	
+12-66	Bøjgaard	_	_	
+12-67	-	_	_	
+12-68	flankeret	_	_	
+12-69	af	_	_	
+12-70	søstrene	_	_	
+12-71	Liff	_	_	
+12-72	og	_	_	
+12-73	Bettina	_	_	
+12-74	,	_	_	
+12-75	var	_	_	
+12-76	ude	_	_	
+12-77	for	_	_	
+12-78	at	_	_	
+12-79	fejre	_	_	
+12-80	storesøster	_	_	
+12-81	Bettinas	_	_	
+12-82	fødselsdag	_	_	
+12-83	.	_	_	
+
+#id=13
+#text=- Vi har det herligt sammen, fordi vi giver hinanden plads og frihed, afslørede Anne.
+13-1	-	_	_	
+13-2	Vi	_	_	
+13-3	har	_	_	
+13-4	det	_	_	
+13-5	herligt	_	_	
+13-6	sammen	_	_	
+13-7	,	_	_	
+13-8	fordi	_	_	
+13-9	vi	_	_	
+13-10	giver	_	_	
+13-11	hinanden	_	_	
+13-12	plads	_	_	
+13-13	og	_	_	
+13-14	frihed	_	_	
+13-15	,	_	_	
+13-16	afslørede	_	_	
+13-17	Anne	_	_	
+13-18	.	_	_	
+
+#id=14
+#text=Det ville også hjælpe, hvis du lagde de her Blågårds Plads-og Vollsmose-attituder væk.
+14-1	Det	_	_	
+14-2	ville	_	_	
+14-3	også	_	_	
+14-4	hjælpe	_	_	
+14-5	,	_	_	
+14-6	hvis	_	_	
+14-7	du	_	_	
+14-8	lagde	_	_	
+14-9	de	_	_	
+14-10	her	_	_	
+14-11	Blågårds	_	_	
+14-12	Plads	_	_	
+14-13	-	_	_	
+14-14	og	_	_	
+14-15	Vollsmose	_	_	
+14-16	-	_	_	
+14-17	attituder	_	_	
+14-18	væk	_	_	
+14-19	.	_	_	
+
+#id=15
+#text=- gravid TVAvært, får masser af plads til sin og kæresten Michael Christiansens baby til august, idet parret har købt en 280 kvadratmeter stor lejlighed på Østerbro til 6,5 millioner kr.
+15-1	-	_	_	
+15-2	gravid	_	_	
+15-3	TVAvært	_	_	
+15-4	,	_	_	
+15-5	får	_	_	
+15-6	masser	_	_	
+15-7	af	_	_	
+15-8	plads	_	_	
+15-9	til	_	_	
+15-10	sin	_	_	
+15-11	og	_	_	
+15-12	kæresten	_	_	
+15-13	Michael	_	_	
+15-14	Christiansens	_	_	
+15-15	baby	_	_	
+15-16	til	_	_	
+15-17	august	_	_	
+15-18	,	_	_	
+15-19	idet	_	_	
+15-20	parret	_	_	
+15-21	har	_	_	
+15-22	købt	_	_	
+15-23	en	_	_	
+15-24	280	_	_	
+15-25	kvadratmeter	_	_	
+15-26	stor	_	_	
+15-27	lejlighed	_	_	
+15-28	på	_	_	
+15-29	Østerbro	_	_	
+15-30	til	_	_	
+15-31	6	_	_	
+15-32	,	_	_	
+15-33	5	_	_	
+15-34	millioner	_	_	
+15-35	kr	_	_	
+15-36	.	_	_	
+
+#id=16
+#text= Et godt råd, hvis man vil være sikker på at få plads:
+16-1	Et	_	_	
+16-2	godt	_	_	
+16-3	råd	_	_	
+16-4	,	_	_	
+16-5	hvis	_	_	
+16-6	man	_	_	
+16-7	vil	_	_	
+16-8	være	_	_	
+16-9	sikker	_	_	
+16-10	på	_	_	
+16-11	at	_	_	
+16-12	få	_	_	
+16-13	plads	_	_	
+16-14	:	_	_	
+
+#id=17
+#text= I Sidneys tilfælde falder alle brikkerne således på plads:
+17-1	I	_	_	
+17-2	Sidneys	_	_	
+17-3	tilfælde	_	_	
+17-4	falder	_	_	
+17-5	alle	_	_	
+17-6	brikkerne	_	_	
+17-7	således	_	_	
+17-8	på	_	_	
+17-9	plads	_	_	
+17-10	:	_	_	
+
+#id=18
+#text=- Hvorfor skal vi give plads til personer kendt for svindel og humbug til at blive berømte på licensfinansieret TV?
+18-1	-	_	_	
+18-2	Hvorfor	_	_	
+18-3	skal	_	_	
+18-4	vi	_	_	
+18-5	give	_	_	
+18-6	plads	_	_	
+18-7	til	_	_	
+18-8	personer	_	_	
+18-9	kendt	_	_	
+18-10	for	_	_	
+18-11	svindel	_	_	
+18-12	og	_	_	
+18-13	humbug	_	_	
+18-14	til	_	_	
+18-15	at	_	_	
+18-16	blive	_	_	
+18-17	berømte	_	_	
+18-18	på	_	_	
+18-19	licensfinansieret	_	_	
+18-20	TV	_	_	
+18-21	?	_	_	
+
+#id=19
+#text= Midt på Ramblaen og de mondæne pladser er det selvfølgelig dyrest.
+19-1	Midt	_	_	
+19-2	på	_	_	
+19-3	Ramblaen	_	_	
+19-4	og	_	_	
+19-5	de	_	_	
+19-6	mondæne	_	_	
+19-7	pladser	_	_	
+19-8	er	_	_	
+19-9	det	_	_	
+19-10	selvfølgelig	_	_	
+19-11	dyrest	_	_	
+19-12	.	_	_	
+
+#id=20
+#text=Men selv om Jim har masser af plads, og selv om han elsker at lege, har han ingen planer om at få børn.
+20-1	Men	_	_	
+20-2	selv	_	_	
+20-3	om	_	_	
+20-4	Jim	_	_	
+20-5	har	_	_	
+20-6	masser	_	_	
+20-7	af	_	_	
+20-8	plads	_	_	
+20-9	,	_	_	
+20-10	og	_	_	
+20-11	selv	_	_	
+20-12	om	_	_	
+20-13	han	_	_	
+20-14	elsker	_	_	
+20-15	at	_	_	
+20-16	lege	_	_	
+20-17	,	_	_	
+20-18	har	_	_	
+20-19	han	_	_	
+20-20	ingen	_	_	
+20-21	planer	_	_	
+20-22	om	_	_	
+20-23	at	_	_	
+20-24	få	_	_	
+20-25	børn	_	_	
+20-26	.	_	_	
+
+#id=21
+#text=Her blev det dog kun til en plads som nummer 16 ud af 20 lande.
+21-1	Her	_	_	
+21-2	blev	_	_	
+21-3	det	_	_	
+21-4	dog	_	_	
+21-5	kun	_	_	
+21-6	til	_	_	
+21-7	en	_	_	
+21-8	plads	_	_	
+21-9	som	_	_	
+21-10	nummer	_	_	
+21-11	16	_	_	
+21-12	ud	_	_	
+21-13	af	_	_	
+21-14	20	_	_	
+21-15	lande	_	_	
+21-16	.	_	_	
+
+#id=22
+#text=Stig Rossen, hans kone og to børn har masser af plads i ejendommen, der er opført i 1924.
+22-1	Stig	_	_	
+22-2	Rossen	_	_	
+22-3	,	_	_	
+22-4	hans	_	_	
+22-5	kone	_	_	
+22-6	og	_	_	
+22-7	to	_	_	
+22-8	børn	_	_	
+22-9	har	_	_	
+22-10	masser	_	_	
+22-11	af	_	_	
+22-12	plads	_	_	
+22-13	i	_	_	
+22-14	ejendommen	_	_	
+22-15	,	_	_	
+22-16	der	_	_	
+22-17	er	_	_	
+22-18	opført	_	_	
+22-19	i	_	_	
+22-20	1924	_	_	
+22-21	.	_	_	
+
+#id=23
+#text=Da Amalie gik ind for at slå sig løs til musikkens dunkende beats, overtog Camilla straks pladsen foran superligaspilleren.
+23-1	Da	_	_	
+23-2	Amalie	_	_	
+23-3	gik	_	_	
+23-4	ind	_	_	
+23-5	for	_	_	
+23-6	at	_	_	
+23-7	slå	_	_	
+23-8	sig	_	_	
+23-9	løs	_	_	
+23-10	til	_	_	
+23-11	musikkens	_	_	
+23-12	dunkende	_	_	
+23-13	beats	_	_	
+23-14	,	_	_	
+23-15	overtog	_	_	
+23-16	Camilla	_	_	
+23-17	straks	_	_	
+23-18	pladsen	_	_	
+23-19	foran	_	_	
+23-20	superligaspilleren	_	_	
+23-21	.	_	_	
+
+#id=24
+#text=Beskrivelsen får de fleste til at tænke på et hotel i luksusklassen, men i stedet er det beskrivelsen af Norges andetstørste fængsel med plads til 248 indsatte.
+24-1	Beskrivelsen	_	_	
+24-2	får	_	_	
+24-3	de	_	_	
+24-4	fleste	_	_	
+24-5	til	_	_	
+24-6	at	_	_	
+24-7	tænke	_	_	
+24-8	på	_	_	
+24-9	et	_	_	
+24-10	hotel	_	_	
+24-11	i	_	_	
+24-12	luksusklassen	_	_	
+24-13	,	_	_	
+24-14	men	_	_	
+24-15	i	_	_	
+24-16	stedet	_	_	
+24-17	er	_	_	
+24-18	det	_	_	
+24-19	beskrivelsen	_	_	
+24-20	af	_	_	
+24-21	Norges	_	_	
+24-22	andetstørste	_	_	
+24-23	fængsel	_	_	
+24-24	med	_	_	
+24-25	plads	_	_	
+24-26	til	_	_	
+24-27	248	_	LC:--u-:--:----	
+24-28	indsatte	_	_	
+24-29	.	_	_	
+
+#id=25
+#text=Huset er på 118 kvadratmeter, og i den sydvestvendte have på 753 kvadratmeter er  der plads til både trampolin, sandkasse, fodboldmål og gyngestativ - samt en liggestol til Morten.
+25-1	Huset	_	_	
+25-2	er	_	_	
+25-3	på	_	_	
+25-4	118	_	_	
+25-5	kvadratmeter	_	_	
+25-6	,	_	_	
+25-7	og	_	_	
+25-8	i	_	_	
+25-9	den	_	_	
+25-10	sydvestvendte	_	_	
+25-11	have	_	_	
+25-12	på	_	_	
+25-13	753	_	_	
+25-14	kvadratmeter	_	_	
+25-15	er	_	_	
+25-16	der	_	_	
+25-17	plads	_	_	
+25-18	til	_	_	
+25-19	både	_	_	
+25-20	trampolin	_	_	
+25-21	,	_	_	
+25-22	sandkasse	_	_	
+25-23	,	_	_	
+25-24	fodboldmål	_	_	
+25-25	og	_	_	
+25-26	gyngestativ	_	_	
+25-27	-	_	_	
+25-28	samt	_	_	
+25-29	en	_	_	
+25-30	liggestol	_	_	
+25-31	til	_	_	
+25-32	Morten	_	_	
+25-33	.	_	_	
+
+#id=26
+#text= Én, der kan sætte mig på plads Favorittøj:
+26-1	Én	_	_	
+26-2	,	_	_	
+26-3	der	_	_	
+26-4	kan	_	_	
+26-5	sætte	_	_	
+26-6	mig	_	_	
+26-7	på	_	_	
+26-8	plads	_	_	
+26-9	Favorittøj	_	_	
+26-10	:	_	_	
+
+#id=27
+#text=Selv om der kun er seks år mellem Brian Laudrup og hans kone Mette, fortjener hun en plads på listen alligevel.
+27-1	Selv	_	_	
+27-2	om	_	_	
+27-3	der	_	_	
+27-4	kun	_	_	
+27-5	er	_	_	
+27-6	seks	_	_	
+27-7	år	_	_	
+27-8	mellem	_	_	
+27-9	Brian	_	NP:siu#:--:----	
+27-10	Laudrup	_	_	
+27-11	og	_	_	
+27-12	hans	_	_	
+27-13	kone	_	_	
+27-14	Mette	_	_	
+27-15	,	_	_	
+27-16	fortjener	_	_	
+27-17	hun	_	_	
+27-18	en	_	_	
+27-19	plads	_	_	
+27-20	på	_	_	
+27-21	listen	_	_	
+27-22	alligevel	_	_	
+27-23	.	_	_	
+
+#id=28
+#text=- blonderet brystbombe, fik ikke en særlig god start på ugen efter en ellers dejlig weekend i Jylland: - Har glemt mit Visa i Jylland, min taske på Sydsjælland, nogen har taget min p-plads, og bilen blinker på olie og benzin.
+28-1	-	_	_	
+28-2	blonderet	_	_	
+28-3	brystbombe	_	_	
+28-4	,	_	_	
+28-5	fik	_	_	
+28-6	ikke	_	_	
+28-7	en	_	_	
+28-8	særlig	_	_	
+28-9	god	_	_	
+28-10	start	_	_	
+28-11	på	_	_	
+28-12	ugen	_	_	
+28-13	efter	_	_	
+28-14	en	_	_	
+28-15	ellers	_	_	
+28-16	dejlig	_	_	
+28-17	weekend	_	_	
+28-18	i	_	_	
+28-19	Jylland	_	_	
+28-20	:	_	_	
+28-21	-	_	_	
+28-22	Har	_	_	
+28-23	glemt	_	_	
+28-24	mit	_	_	
+28-25	Visa	_	_	
+28-26	i	_	_	
+28-27	Jylland	_	_	
+28-28	,	_	_	
+28-29	min	_	_	
+28-30	taske	_	_	
+28-31	på	_	_	
+28-32	Sydsjælland	_	_	
+28-33	,	_	_	
+28-34	nogen	_	_	
+28-35	har	_	_	
+28-36	taget	_	_	
+28-37	min	_	_	
+28-38	p	_	_	
+28-39	-	_	_	
+28-40	plads	_	_	
+28-41	,	_	_	
+28-42	og	_	_	
+28-43	bilen	_	_	
+28-44	blinker	_	_	
+28-45	på	_	_	
+28-46	olie	_	_	
+28-47	og	_	_	
+28-48	benzin	_	_	
+28-49	.	_	_	
+
+#id=29
+#text=Hvad vil du egentlig med al den plads?
+29-1	Hvad	_	_	
+29-2	vil	_	_	
+29-3	du	_	_	
+29-4	egentlig	_	_	
+29-5	med	_	_	
+29-6	al	_	_	
+29-7	den	_	_	
+29-8	plads	_	_	
+29-9	?	_	_	
+
+#id=30
+#text= I det store område er der sjældent kø ved lifterne, og der er rigelig plads for både familier og øvede til at boltre sig i røde, blå og udfordrende sorte løjper.
+30-1	I	_	_	
+30-2	det	_	_	
+30-3	store	_	_	
+30-4	område	_	_	
+30-5	er	_	_	
+30-6	der	_	_	
+30-7	sjældent	_	_	
+30-8	kø	_	_	
+30-9	ved	_	_	
+30-10	lifterne	_	_	
+30-11	,	_	_	
+30-12	og	_	_	
+30-13	der	_	_	
+30-14	er	_	_	
+30-15	rigelig	_	_	
+30-16	plads	_	_	
+30-17	for	_	_	
+30-18	både	_	_	
+30-19	familier	_	_	
+30-20	og	_	_	
+30-21	øvede	_	_	
+30-22	til	_	_	
+30-23	at	_	_	
+30-24	boltre	_	_	
+30-25	sig	_	_	
+30-26	i	_	_	
+30-27	røde	_	_	
+30-28	,	_	_	
+30-29	blå	_	_	
+30-30	og	_	_	
+30-31	udfordrende	_	_	
+30-32	sorte	_	_	
+30-33	løjper	_	_	
+30-34	.	_	_	
+
+#id=31
+#text=Skal shoppinggenet luftes, foregår det i finansbyen Luxembourg, hvor der er smarte modebutikker og store pladser med forskellige restauranter.
+31-1	Skal	_	_	
+31-2	shoppinggenet	_	_	
+31-3	luftes	_	_	
+31-4	,	_	_	
+31-5	foregår	_	_	
+31-6	det	_	_	
+31-7	i	_	_	
+31-8	finansbyen	_	_	
+31-9	Luxembourg	_	_	
+31-10	,	_	_	
+31-11	hvor	_	_	
+31-12	der	_	_	
+31-13	er	_	_	
+31-14	smarte	_	_	
+31-15	modebutikker	_	_	
+31-16	og	_	_	
+31-17	store	_	_	
+31-18	pladser	_	_	
+31-19	med	_	_	
+31-20	forskellige	_	_	
+31-21	restauranter	_	_	
+31-22	.	_	_	
+

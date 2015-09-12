@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader type="text">
+    </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s>
+          <c type="s" xml:id="A-2100101560-1-130"/>
+          <w xml:id="A-2100101560-1-131">Så</w>
+          <c type="s" xml:id="A-2100101560-1-132"/>
+          <w xml:id="A-2100101560-1-133">længe</w>
+          <c type="p" xml:id="A-2100101560-1-134">,</c>
+          <c type="s" xml:id="A-2100101560-1-135"/>
+          <w xml:id="A-2100101560-1-136">at</w>
+          <c type="s" xml:id="A-2100101560-1-137"/>
+          <w xml:id="A-2100101560-1-138">de</w>
+          <c type="s" xml:id="A-2100101560-1-139"/>
+          <w xml:id="A-2100101560-1-140">kan</w>
+          <c type="s" xml:id="A-2100101560-1-141"/>
+          <w xml:id="A-2100101560-1-142">lide</w>
+          <c type="s" xml:id="A-2100101560-1-143"/>
+          <w xml:id="A-2100101560-1-144">sporten</w>
+          <c type="p" xml:id="A-2100101560-1-145">,</c>
+          <c type="s" xml:id="A-2100101560-1-146"/>
+          <w xml:id="A-2100101560-1-147">så</w>
+          <c type="s" xml:id="A-2100101560-1-148"/>
+          <w xml:id="A-2100101560-1-149">laver</w>
+          <c type="s" xml:id="A-2100101560-1-150"/>
+          <w xml:id="A-2100101560-1-151">de</w>
+          <c type="s" xml:id="A-2100101560-1-152"/>
+          <w xml:id="A-2100101560-1-153">idetmindste</w>
+          <c type="s" xml:id="A-2100101560-1-154"/>
+          <w xml:id="A-2100101560-1-155">ikke</w>
+          <c type="s" xml:id="A-2100101560-1-156"/>
+          <w xml:id="A-2100101560-1-157">noget</w>
+          <c type="s" xml:id="A-2100101560-1-158"/>
+          <w xml:id="A-2100101560-1-159">andet</w>
+          <c type="p" xml:id="A-2100101560-1-160">,</c>
+          <c type="s" xml:id="A-2100101560-1-161"/>
+          <w xml:id="A-2100101560-1-162">som</w>
+          <c type="s" xml:id="A-2100101560-1-163"/>
+          <w xml:id="A-2100101560-1-164">fx</w>
+          <c type="s" xml:id="A-2100101560-1-165"/>
+          <w xml:id="A-2100101560-1-166">vold</w>
+          <c type="p" xml:id="A-2100101560-1-167">.</c>
+          <c type="p" xml:id="A-2100101560-1-168">.</c>
+          <c type="p" xml:id="A-2100101560-1-169">.</c>
+        </s>
+      </p>
+    </body>
+    <spanGrp ana="#ePOStagger">
+      <span from="#A-2100101560-1-131" xml:id="T-2100101560-1-131">D-:----:--:u---</span>
+      <span from="#A-2100101560-1-133" xml:id="T-2100101560-1-133">D-:----:--:u---</span>
+      <span from="#A-2100101560-1-134" xml:id="T-2100101560-1-134">ZD</span>
+      <span from="#A-2100101560-1-136" xml:id="T-2100101560-1-136">CS:----:--:----</span>
+      <span from="#A-2100101560-1-138" xml:id="T-2100101560-1-138">PP:p-n#:--:-3n-</span>
+      <span from="#A-2100101560-1-140" xml:id="T-2100101560-1-140">VF:----:sa:----</span>
+      <span from="#A-2100101560-1-142" xml:id="T-2100101560-1-142">VI:----:-a:----</span>
+      <span from="#A-2100101560-1-144" xml:id="T-2100101560-1-144">NC:sduc:--:----</span>
+      <span from="#A-2100101560-1-145" xml:id="T-2100101560-1-145">ZD</span>
+      <span from="#A-2100101560-1-147" xml:id="T-2100101560-1-147">D-:----:--:u---</span>
+      <span from="#A-2100101560-1-149" xml:id="T-2100101560-1-149">VF:----:sa:----</span>
+      <span from="#A-2100101560-1-151" xml:id="T-2100101560-1-151">PM:p-u#:--:----</span>
+      <span from="#A-2100101560-1-153" xml:id="T-2100101560-1-153">AC:§du§:--:s---</span>
+      <span from="#A-2100101560-1-155" xml:id="T-2100101560-1-155">D-:----:--:u---</span>
+      <span from="#A-2100101560-1-157" xml:id="T-2100101560-1-157">PI:s-un:--:----</span>
+      <span from="#A-2100101560-1-159" xml:id="T-2100101560-1-159">PI:s-un:--:----</span>
+      <span from="#A-2100101560-1-160" xml:id="T-2100101560-1-160">ZD</span>
+      <span from="#A-2100101560-1-162" xml:id="T-2100101560-1-162">US:----:--:----</span>
+      <span from="#A-2100101560-1-164" xml:id="T-2100101560-1-164">D-:----:--:u---</span>
+      <span from="#A-2100101560-1-166" xml:id="T-2100101560-1-166">NC:siuc:--:----</span>
+      <span from="#A-2100101560-1-167" xml:id="T-2100101560-1-167">ZP</span>
+      <span from="#A-2100101560-1-168" xml:id="T-2100101560-1-168">ZP</span>
+      <span from="#A-2100101560-1-169" xml:id="T-2100101560-1-169">ZP</span>
+    </spanGrp>
+    <spanGrp ana="#ePOSlemmatizer">
+      <span from="#A-2100101560-1-131" xml:id="L-2100101560-1-131">så</span>
+      <span from="#A-2100101560-1-133" xml:id="L-2100101560-1-133">længe</span>
+      <span from="#A-2100101560-1-134" xml:id="L-2100101560-1-134">,</span>
+      <span from="#A-2100101560-1-136" xml:id="L-2100101560-1-136">at</span>
+      <span from="#A-2100101560-1-138" xml:id="L-2100101560-1-138">de</span>
+      <span from="#A-2100101560-1-140" xml:id="L-2100101560-1-140">kunne</span>
+      <span from="#A-2100101560-1-142" xml:id="L-2100101560-1-142">lide</span>
+      <span from="#A-2100101560-1-144" xml:id="L-2100101560-1-144">sport</span>
+      <span from="#A-2100101560-1-145" xml:id="L-2100101560-1-145">,</span>
+      <span from="#A-2100101560-1-147" xml:id="L-2100101560-1-147">så</span>
+      <span from="#A-2100101560-1-149" xml:id="L-2100101560-1-149">lave</span>
+      <span from="#A-2100101560-1-151" xml:id="L-2100101560-1-151">den</span>
+      <span from="#A-2100101560-1-153" xml:id="L-2100101560-1-153">idetlille</span>
+      <span from="#A-2100101560-1-155" xml:id="L-2100101560-1-155">ikke</span>
+      <span from="#A-2100101560-1-157" xml:id="L-2100101560-1-157">nogen</span>
+      <span from="#A-2100101560-1-159" xml:id="L-2100101560-1-159">anden</span>
+      <span from="#A-2100101560-1-160" xml:id="L-2100101560-1-160">,</span>
+      <span from="#A-2100101560-1-162" xml:id="L-2100101560-1-162">som</span>
+      <span from="#A-2100101560-1-164" xml:id="L-2100101560-1-164">fx</span>
+      <span from="#A-2100101560-1-166" xml:id="L-2100101560-1-166">vold</span>
+      <span from="#A-2100101560-1-167" xml:id="L-2100101560-1-167">.</span>
+      <span from="#A-2100101560-1-168" xml:id="L-2100101560-1-168">.</span>
+      <span from="#A-2100101560-1-169" xml:id="L-2100101560-1-169">.</span>
+    </spanGrp>
+  </text>
+</TEI>

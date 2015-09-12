@@ -1,0 +1,857 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Der skal være plads til ecchi!
+1-1	Der	der	US:----:--:----	O	
+1-2	skal	skulle	VF:----:sa:----	O	
+1-3	være	være	VI:----:-a:----	O	
+1-4	plads	_	NC:siuc:--:----	B-plads-1a	
+1-5	til	til	T-:----:--:----	O	
+1-6	ecchi	ecchi	NC:siun:--:----	O	
+1-7	!	!	ZP	O	
+
+#id=2
+#text= Det kan være svært at finde den, da nogle butikker faktisk vælger nogle af egmonts mangaer fra, og kun gør plads til Carlsens (aftalt spil?), heriblandt den ene af tog Bog og Ide i Viborg.
+2-1	Det	_	_	O	
+2-2	kan	_	_	O	
+2-3	være	_	_	O	
+2-4	svært	_	_	O	
+2-5	at	_	_	O	
+2-6	finde	_	_	O	
+2-7	den	_	_	O	
+2-8	,	_	_	O	
+2-9	da	_	_	O	
+2-10	nogle	_	_	O	
+2-11	butikker	_	_	O	
+2-12	faktisk	_	_	O	
+2-13	vælger	_	_	O	
+2-14	nogle	_	_	O	
+2-15	af	_	_	O	
+2-16	egmonts	_	_	O	
+2-17	mangaer	_	_	O	
+2-18	fra	_	_	O	
+2-19	,	_	_	O	
+2-20	og	_	_	O	
+2-21	kun	_	_	O	
+2-22	gør	_	_	O	
+2-23	plads	_	_	O	
+2-24	til	_	_	O	
+2-25	Carlsens	_	_	O	
+2-26	(	_	_	O	
+2-27	aftalt	_	_	O	
+2-28	spil	_	_	O	
+2-29	?	_	_	O	
+2-30	)	_	ZD	O	
+2-31	,	_	_	O	
+2-32	heriblandt	_	_	O	
+2-33	den	_	_	O	
+2-34	ene	_	_	O	
+2-35	af	_	_	O	
+2-36	tog	_	_	O	
+2-37	Bog	_	_	O	
+2-38	og	_	_	O	
+2-39	Ide	_	_	O	
+2-40	i	_	_	O	
+2-41	Viborg	_	_	O	
+2-42	.	_	_	O	
+
+#id=3
+#text=Sikkert fordi at den er linket fra 4chan.,...og næste gang der er en der poster et billede bliver alle de andre billeder rykket en plads ned og derfor bliver linket anderledes...Tror jeg :?
+3-1	Sikkert	_	_	O	
+3-2	fordi	_	_	O	
+3-3	at	_	_	O	
+3-4	den	_	_	O	
+3-5	er	_	_	O	
+3-6	linket	_	_	O	
+3-7	fra	_	_	O	
+3-8	4chan	_	_	O	
+3-9	.	.	ZP	O	
+3-10	,	_	_	O	
+3-11	.	.	ZP	O	
+3-12	.	_	_	O	
+3-13	.	_	_	O	
+3-14	og	_	_	O	
+3-15	næste	_	_	O	
+3-16	gang	_	_	O	
+3-17	der	_	_	O	
+3-18	er	_	_	O	
+3-19	en	_	_	O	
+3-20	der	_	_	O	
+3-21	poster	_	_	O	
+3-22	et	_	_	O	
+3-23	billede	_	_	O	
+3-24	bliver	_	_	O	
+3-25	alle	_	_	O	
+3-26	de	_	_	O	
+3-27	andre	_	_	O	
+3-28	billeder	_	_	O	
+3-29	rykket	_	_	O	
+3-30	en	_	_	O	
+3-31	plads	_	_	O	
+3-32	ned	_	_	O	
+3-33	og	_	_	O	
+3-34	derfor	_	_	O	
+3-35	bliver	_	_	O	
+3-36	linket	_	_	O	
+3-37	anderledes	_	_	O	
+3-38	.	.	ZP	O	
+3-39	.	_	_	O	
+3-40	.	_	_	O	
+3-41	Tror	_	_	O	
+3-42	jeg	_	_	O	
+3-43	:	_	_	O	
+3-44	?	_	_	O	
+
+#id=4
+#text= Håber der er plads, og at det ik' er for sent. :D
+4-1	Håber	_	_	O	
+4-2	der	_	_	O	
+4-3	er	_	_	O	
+4-4	plads	_	_	O	
+4-5	,	_	_	O	
+4-6	og	_	_	O	
+4-7	at	_	_	O	
+4-8	det	_	_	O	
+4-9	ik	_	_	O	
+4-10	'	_	_	O	
+4-11	er	_	_	O	
+4-12	for	_	_	O	
+4-13	sent	_	_	O	
+4-14	.	_	_	O	
+4-15	:	_	_	O	
+4-16	D	_	_	O	
+
+#id=5
+#text= Der er vel også plads til de uvidende i verden :lol:
+5-1	Der	_	_	O	
+5-2	er	_	_	O	
+5-3	vel	_	_	O	
+5-4	også	_	_	O	
+5-5	plads	_	_	O	
+5-6	til	_	_	O	
+5-7	de	_	_	O	
+5-8	uvidende	_	_	O	
+5-9	i	_	_	O	
+5-10	verden	_	_	O	
+5-11	:	:	ZP	O	
+5-12	lol	_	_	O	
+5-13	:	_	_	O	
+
+#id=6
+#text=Så er det på plads hvordan det hele kommer til at spinde af i forbindelse med de tre år og sådan.
+6-1	Så	_	_	O	
+6-2	er	_	_	O	
+6-3	det	_	_	O	
+6-4	på	_	_	O	
+6-5	plads	_	_	O	
+6-6	hvordan	_	_	O	
+6-7	det	_	_	O	
+6-8	hele	_	_	O	
+6-9	kommer	_	_	O	
+6-10	til	_	_	O	
+6-11	at	_	_	O	
+6-12	spinde	_	_	O	
+6-13	af	_	_	O	
+6-14	i	_	_	O	
+6-15	forbindelse	_	_	O	
+6-16	med	_	_	O	
+6-17	de	_	_	O	
+6-18	tre	_	_	O	
+6-19	år	_	_	O	
+6-20	og	_	_	O	
+6-21	sådan	_	_	O	
+6-22	.	_	_	O	
+
+#id=7
+#text= Og har alt for lidt plads til at udstille det vi vil... men vi er der, og I skal bare komme forbi, for pladsmangel til trods, så er vi der med højt humør!
+7-1	Og	_	_	O	
+7-2	har	_	_	O	
+7-3	alt	_	_	O	
+7-4	for	_	_	O	
+7-5	lidt	_	_	O	
+7-6	plads	_	_	O	
+7-7	til	_	_	O	
+7-8	at	_	_	O	
+7-9	udstille	_	_	O	
+7-10	det	_	_	O	
+7-11	vi	_	_	O	
+7-12	vil	_	_	O	
+7-13	.	_	_	O	
+7-14	.	_	_	O	
+7-15	.	_	_	O	
+7-16	men	_	_	O	
+7-17	vi	_	_	O	
+7-18	er	_	_	O	
+7-19	der	_	_	O	
+7-20	,	_	_	O	
+7-21	og	_	_	O	
+7-22	I	_	_	O	
+7-23	skal	_	_	O	
+7-24	bare	_	_	O	
+7-25	komme	_	_	O	
+7-26	forbi	_	_	O	
+7-27	,	_	_	O	
+7-28	for	_	_	O	
+7-29	pladsmangel	_	_	O	
+7-30	til	_	_	O	
+7-31	trods	_	_	O	
+7-32	,	_	_	O	
+7-33	så	_	_	O	
+7-34	er	_	_	O	
+7-35	vi	_	_	O	
+7-36	der	_	_	O	
+7-37	med	_	_	O	
+7-38	højt	_	_	O	
+7-39	humør	_	_	O	
+7-40	!	_	_	O	
+
+#id=8
+#text= Næh, nej, vi kender skam godt til Mahou sensei Negima, men vi havde den ikke med på festivallen, da vi simpelthen ikke havde fået plads nok stillet til rådighed af arrangørerne.
+8-1	Næh	_	_	O	
+8-2	,	_	_	O	
+8-3	nej	_	_	O	
+8-4	,	_	_	O	
+8-5	vi	_	_	O	
+8-6	kender	_	_	O	
+8-7	skam	_	_	O	
+8-8	godt	_	_	O	
+8-9	til	_	_	O	
+8-10	Mahou	_	_	O	
+8-11	sensei	_	_	O	
+8-12	Negima	_	_	O	
+8-13	,	_	_	O	
+8-14	men	_	_	O	
+8-15	vi	_	_	O	
+8-16	havde	_	_	O	
+8-17	den	_	_	O	
+8-18	ikke	_	_	O	
+8-19	med	_	_	O	
+8-20	på	_	_	O	
+8-21	festivallen	_	_	O	
+8-22	,	_	_	O	
+8-23	da	_	_	O	
+8-24	vi	_	_	O	
+8-25	simpelthen	_	_	O	
+8-26	ikke	_	_	O	
+8-27	havde	_	_	O	
+8-28	fået	_	_	O	
+8-29	plads	_	_	O	
+8-30	nok	_	_	O	
+8-31	stillet	_	_	O	
+8-32	til	_	_	O	
+8-33	rådighed	_	_	O	
+8-34	af	_	_	O	
+8-35	arrangørerne	_	_	O	
+8-36	.	_	_	O	
+
+#id=9
+#text= Der er ikke meget information om den endu, og navnet er hvist heller ikke helt sat på plads.
+9-1	Der	_	_	O	
+9-2	er	_	_	O	
+9-3	ikke	_	_	O	
+9-4	meget	_	_	O	
+9-5	information	_	_	O	
+9-6	om	_	_	O	
+9-7	den	_	_	O	
+9-8	endu	_	_	O	
+9-9	,	_	_	O	
+9-10	og	_	_	O	
+9-11	navnet	_	_	O	
+9-12	er	_	_	O	
+9-13	hvist	_	_	O	
+9-14	heller	_	_	O	
+9-15	ikke	_	_	O	
+9-16	helt	_	_	O	
+9-17	sat	_	_	O	
+9-18	på	_	_	O	
+9-19	plads	_	_	O	
+9-20	.	_	_	O	
+
+#id=10
+#text= Jeg tror det er fire svar eller noget siden i denne her tråd at det blev diskuteret om der skal være plads til os alle sammen.
+10-1	Jeg	_	_	O	
+10-2	tror	_	_	O	
+10-3	det	_	_	O	
+10-4	er	_	_	O	
+10-5	fire	_	_	O	
+10-6	svar	_	_	O	
+10-7	eller	_	_	O	
+10-8	noget	_	_	O	
+10-9	siden	_	_	O	
+10-10	i	_	_	O	
+10-11	denne	_	_	O	
+10-12	her	_	_	O	
+10-13	tråd	_	_	O	
+10-14	at	_	_	O	
+10-15	det	_	_	O	
+10-16	blev	_	_	O	
+10-17	diskuteret	_	_	O	
+10-18	om	_	_	O	
+10-19	der	_	_	O	
+10-20	skal	_	_	O	
+10-21	være	_	_	O	
+10-22	plads	_	_	O	
+10-23	til	_	_	O	
+10-24	os	_	_	O	
+10-25	alle	_	_	O	
+10-26	sammen	_	_	O	
+10-27	.	_	_	O	
+
+#id=11
+#text= Hvis denne serie bliver sluttet ordentligt af, så står den til et rewatch og en plads i min top 1X. :P
+11-1	Hvis	_	_	O	
+11-2	denne	_	_	O	
+11-3	serie	_	_	O	
+11-4	bliver	_	_	O	
+11-5	sluttet	_	_	O	
+11-6	ordentligt	_	_	O	
+11-7	af	_	_	O	
+11-8	,	_	_	O	
+11-9	så	_	_	O	
+11-10	står	_	_	O	
+11-11	den	_	_	O	
+11-12	til	_	_	O	
+11-13	et	_	_	O	
+11-14	rewatch	_	_	O	
+11-15	og	_	_	O	
+11-16	en	_	_	O	
+11-17	plads	_	_	O	
+11-18	i	_	_	O	
+11-19	min	_	_	O	
+11-20	top	_	_	O	
+11-21	1X	_	_	O	
+11-22	.	_	_	O	
+11-23	:	_	_	O	
+11-24	P	_	_	O	
+
+#id=12
+#text= Bemærk at adgang vil foregå efter først til mølle princippet hvorfor vi ikke kan garantere at der bliver plads til alle til de enkelte specialarrangementer. 150,- kroner (Voksne) 100,- kroner (Børn)
+12-1	Bemærk	_	_	O	
+12-2	at	_	_	O	
+12-3	adgang	_	_	O	
+12-4	vil	_	_	O	
+12-5	foregå	_	_	O	
+12-6	efter	_	_	O	
+12-7	først	_	_	O	
+12-8	til	_	_	O	
+12-9	mølle	_	_	O	
+12-10	princippet	_	_	O	
+12-11	hvorfor	_	_	O	
+12-12	vi	_	_	O	
+12-13	ikke	_	_	O	
+12-14	kan	_	_	O	
+12-15	garantere	_	_	O	
+12-16	at	_	_	O	
+12-17	der	_	_	O	
+12-18	bliver	_	_	O	
+12-19	plads	_	_	O	
+12-20	til	_	_	O	
+12-21	alle	_	_	O	
+12-22	til	_	_	O	
+12-23	de	_	_	O	
+12-24	enkelte	_	_	O	
+12-25	specialarrangementer	_	_	O	
+12-26	.	_	_	O	
+12-27	150	_	_	O	
+12-28	,	_	_	O	
+12-29	-	_	_	O	
+12-30	kroner	_	_	O	
+12-31	(	_	_	O	
+12-32	Voksne	_	_	O	
+12-33	)	_	_	O	
+12-34	100	_	_	O	
+12-35	,	_	_	O	
+12-36	-	_	_	O	
+12-37	kroner	_	_	O	
+12-38	(	_	_	O	
+12-39	Børn	_	_	O	
+12-40	)	_	_	O	
+
+#id=13
+#text= Så fik vi det på plads!
+13-1	Så	_	_	O	
+13-2	fik	_	_	O	
+13-3	vi	_	_	O	
+13-4	det	_	_	O	
+13-5	på	_	_	O	
+13-6	plads	_	_	O	
+13-7	!	_	_	O	
+
+#id=14
+#text= Men da "Yu-Gi-Oh" har taget pladsen fra "Dragonball Z" om mandagen betyder det så at vi må slippe serien her lige midt i Freezer-Sagaen... eller fortsætter "Dragonball Z" på dansk TV senere engang.
+14-1	Men	_	_	O	
+14-2	da	_	_	O	
+14-3	"	_	_	O	
+14-4	Yu	_	_	O	
+14-5	-	_	_	O	
+14-6	Gi	_	_	O	
+14-7	-	_	_	O	
+14-8	Oh	_	_	O	
+14-9	"	_	_	O	
+14-10	har	_	_	O	
+14-11	taget	_	_	O	
+14-12	pladsen	_	_	O	
+14-13	fra	_	_	O	
+14-14	"	"	ZI	O	
+14-15	Dragonball	_	_	O	
+14-16	Z	_	_	O	
+14-17	"	_	_	O	
+14-18	om	_	_	O	
+14-19	mandagen	_	_	O	
+14-20	betyder	_	_	O	
+14-21	det	_	_	O	
+14-22	så	_	_	O	
+14-23	at	_	_	O	
+14-24	vi	_	_	O	
+14-25	må	_	_	O	
+14-26	slippe	_	_	O	
+14-27	serien	_	_	O	
+14-28	her	_	_	O	
+14-29	lige	_	_	O	
+14-30	midt	_	_	O	
+14-31	i	_	_	O	
+14-32	Freezer	_	_	O	
+14-33	-	_	_	O	
+14-34	Sagaen	_	_	O	
+14-35	.	_	_	O	
+14-36	.	_	_	O	
+14-37	.	_	_	O	
+14-38	eller	_	_	O	
+14-39	fortsætter	_	_	O	
+14-40	"	"	ZI	O	
+14-41	Dragonball	_	_	O	
+14-42	Z	_	_	O	
+14-43	"	_	_	O	
+14-44	på	_	_	O	
+14-45	dansk	_	_	O	
+14-46	TV	_	_	O	
+14-47	senere	_	_	O	
+14-48	engang	_	_	O	
+14-49	.	_	_	O	
+
+#id=15
+#text=Undskyld jeg sådan bringer rod i Chromos tråd, men jeg synes lige at det var på sin plads at vise en af de omtalte  figurer man får med i "limited edition" udgaver.
+15-1	Undskyld	_	_	O	
+15-2	jeg	_	_	O	
+15-3	sådan	_	_	O	
+15-4	bringer	_	_	O	
+15-5	rod	_	_	O	
+15-6	i	_	_	O	
+15-7	Chromos	_	_	O	
+15-8	tråd	_	_	O	
+15-9	,	_	_	O	
+15-10	men	_	_	O	
+15-11	jeg	_	_	O	
+15-12	synes	_	_	O	
+15-13	lige	_	_	O	
+15-14	at	_	_	O	
+15-15	det	_	_	O	
+15-16	var	_	_	O	
+15-17	på	_	_	O	
+15-18	sin	_	_	O	
+15-19	plads	_	_	O	
+15-20	at	_	_	O	
+15-21	vise	_	_	O	
+15-22	en	_	_	O	
+15-23	af	_	_	O	
+15-24	de	_	_	O	
+15-25	omtalte	_	_	O	
+15-26	figurer	_	_	O	
+15-27	man	_	_	O	
+15-28	får	_	_	O	
+15-29	med	_	_	O	
+15-30	i	_	_	O	
+15-31	"	_	_	O	
+15-32	limited	_	_	O	
+15-33	edition	_	_	O	
+15-34	"	_	_	O	
+15-35	udgaver	_	_	O	
+15-36	.	_	_	O	
+
+#id=16
+#text= Denne serie fokuserer på Yoko, og hendes plads i den nye fantastiske verden.
+16-1	Denne	_	_	O	
+16-2	serie	_	_	O	
+16-3	fokuserer	_	_	O	
+16-4	på	_	_	O	
+16-5	Yoko	_	_	O	
+16-6	,	_	_	O	
+16-7	og	_	_	O	
+16-8	hendes	_	_	O	
+16-9	plads	_	_	O	
+16-10	i	_	_	O	
+16-11	den	_	_	O	
+16-12	nye	_	_	O	
+16-13	fantastiske	_	_	O	
+16-14	verden	_	_	O	
+16-15	.	_	_	O	
+
+#id=17
+#text=Jeg synes lige at det var på sin plads at bidrage med en  er trods alt lidt sjovere når man kan se tegningerne også. (klik på pilen; og når der ikke er flere sider så klik på Krydset)
+17-1	Jeg	_	_	O	
+17-2	synes	_	_	O	
+17-3	lige	_	_	O	
+17-4	at	_	_	O	
+17-5	det	_	_	O	
+17-6	var	_	_	O	
+17-7	på	_	_	O	
+17-8	sin	_	_	O	
+17-9	plads	_	_	O	
+17-10	at	_	_	O	
+17-11	bidrage	_	_	O	
+17-12	med	_	_	O	
+17-13	en	_	_	O	
+17-14	er	_	_	O	
+17-15	trods	_	_	O	
+17-16	alt	_	_	O	
+17-17	lidt	_	_	O	
+17-18	sjovere	_	_	O	
+17-19	når	_	_	O	
+17-20	man	_	_	O	
+17-21	kan	_	_	O	
+17-22	se	_	_	O	
+17-23	tegningerne	_	_	O	
+17-24	også	_	_	O	
+17-25	.	_	ZP	O	
+17-26	(	_	_	O	
+17-27	klik	_	_	O	
+17-28	på	_	_	O	
+17-29	pilen	_	_	O	
+17-30	;	_	_	O	
+17-31	og	_	_	O	
+17-32	når	_	_	O	
+17-33	der	_	_	O	
+17-34	ikke	_	_	O	
+17-35	er	_	_	O	
+17-36	flere	_	_	O	
+17-37	sider	_	_	O	
+17-38	så	_	_	O	
+17-39	klik	_	_	O	
+17-40	på	_	_	O	
+17-41	Krydset	_	_	O	
+17-42	)	_	_	O	
+
+#id=18
+#text= Der en stadig rigtig mange andre serier som jeg virkelig elsker, og det ikke til at sige om nogle disse vil overtage de overnævntes pladser engang.
+18-1	Der	_	_	O	
+18-2	en	_	_	O	
+18-3	stadig	_	_	O	
+18-4	rigtig	_	_	O	
+18-5	mange	_	_	O	
+18-6	andre	_	_	O	
+18-7	serier	_	_	O	
+18-8	som	_	_	O	
+18-9	jeg	_	_	O	
+18-10	virkelig	_	_	O	
+18-11	elsker	_	_	O	
+18-12	,	_	_	O	
+18-13	og	_	_	O	
+18-14	det	_	_	O	
+18-15	ikke	_	_	O	
+18-16	til	_	_	O	
+18-17	at	_	_	O	
+18-18	sige	_	_	O	
+18-19	om	_	_	O	
+18-20	nogle	_	_	O	
+18-21	disse	_	_	O	
+18-22	vil	_	_	O	
+18-23	overtage	_	_	O	
+18-24	de	_	_	O	
+18-25	overnævntes	_	_	O	
+18-26	pladser	_	_	O	
+18-27	engang	_	_	O	
+18-28	.	_	_	O	
+
+#id=19
+#text= Der vil selvfølgelig være forskellige niveauer, nogle vil gerne forstå det hele, andre har måske bare lyst til at læse lidt og se billeder - Der vil være plads til alle!!!
+19-1	Der	_	_	O	
+19-2	vil	_	_	O	
+19-3	selvfølgelig	_	_	O	
+19-4	være	_	_	O	
+19-5	forskellige	_	_	O	
+19-6	niveauer	_	_	O	
+19-7	,	_	_	O	
+19-8	nogle	_	_	O	
+19-9	vil	_	_	O	
+19-10	gerne	_	_	O	
+19-11	forstå	_	_	O	
+19-12	det	_	_	O	
+19-13	hele	_	_	O	
+19-14	,	_	_	O	
+19-15	andre	_	_	O	
+19-16	har	_	_	O	
+19-17	måske	_	_	O	
+19-18	bare	_	_	O	
+19-19	lyst	_	_	O	
+19-20	til	_	_	O	
+19-21	at	_	_	O	
+19-22	læse	_	_	O	
+19-23	lidt	_	_	O	
+19-24	og	_	_	O	
+19-25	se	_	_	O	
+19-26	billeder	_	_	O	
+19-27	-	_	_	O	
+19-28	Der	_	_	O	
+19-29	vil	_	_	O	
+19-30	være	_	_	O	
+19-31	plads	_	_	O	
+19-32	til	_	_	O	
+19-33	alle	_	_	O	
+19-34	!	_	_	O	
+19-35	!	_	_	O	
+19-36	!	_	_	O	
+
+#id=20
+#text= Her er der plads til masser af aktion, når den arketypiske stolte, japanske kriger gør det af med alverdens ondskab i en kamp, som kræver både blod, sved og tårer.
+20-1	Her	_	_	O	
+20-2	er	_	_	O	
+20-3	der	_	_	O	
+20-4	plads	_	_	O	
+20-5	til	_	_	O	
+20-6	masser	_	_	O	
+20-7	af	_	_	O	
+20-8	aktion	_	_	O	
+20-9	,	_	_	O	
+20-10	når	_	_	O	
+20-11	den	_	_	O	
+20-12	arketypiske	_	_	O	
+20-13	stolte	_	_	O	
+20-14	,	_	_	O	
+20-15	japanske	_	_	O	
+20-16	kriger	_	_	O	
+20-17	gør	_	_	O	
+20-18	det	_	_	O	
+20-19	af	_	_	O	
+20-20	med	_	_	O	
+20-21	alverdens	_	_	O	
+20-22	ondskab	_	_	O	
+20-23	i	_	_	O	
+20-24	en	_	_	O	
+20-25	kamp	_	_	O	
+20-26	,	_	_	O	
+20-27	som	_	_	O	
+20-28	kræver	_	_	O	
+20-29	både	_	_	O	
+20-30	blod	_	_	O	
+20-31	,	_	_	O	
+20-32	sved	_	_	O	
+20-33	og	_	_	O	
+20-34	tårer	_	_	O	
+20-35	.	_	_	O	
+
+#id=21
+#text= Det var ik mig der har skrevet det er min lillebror som har været inde og rodet på min com han kender ik ret andre end mig der ['@00B4]kender til anime men har fået sat ham på plads!
+21-1	Det	_	_	O	
+21-2	var	_	_	O	
+21-3	ik	_	_	O	
+21-4	mig	_	_	O	
+21-5	der	_	_	O	
+21-6	har	_	_	O	
+21-7	skrevet	_	_	O	
+21-8	det	_	_	O	
+21-9	er	_	_	O	
+21-10	min	_	_	O	
+21-11	lillebror	_	_	O	
+21-12	som	_	_	O	
+21-13	har	_	_	O	
+21-14	været	_	_	O	
+21-15	inde	_	_	O	
+21-16	og	_	_	O	
+21-17	rodet	_	_	O	
+21-18	på	_	_	O	
+21-19	min	_	_	O	
+21-20	com	_	_	O	
+21-21	han	_	_	O	
+21-22	kender	_	_	O	
+21-23	ik	_	_	O	
+21-24	ret	_	_	O	
+21-25	andre	_	_	O	
+21-26	end	_	_	O	
+21-27	mig	_	_	O	
+21-28	der	_	_	O	
+21-29	['@00B4]	_	_	O	
+21-30	kender	_	_	O	
+21-31	til	_	_	O	
+21-32	anime	_	_	O	
+21-33	men	_	_	O	
+21-34	har	_	_	O	
+21-35	fået	_	_	O	
+21-36	sat	_	_	O	
+21-37	ham	_	_	O	
+21-38	på	_	_	O	
+21-39	plads	_	_	O	
+21-40	!	_	_	O	
+
+#id=22
+#text= Hvis en serie/film er god nok til at se igen, er det også på sin plads at jeg betaler for det!
+22-1	Hvis	_	_	O	
+22-2	en	_	_	O	
+22-3	serie	_	_	O	
+22-4	/	_	_	O	
+22-5	film	_	_	O	
+22-6	er	_	_	O	
+22-7	god	_	_	O	
+22-8	nok	_	_	O	
+22-9	til	_	_	O	
+22-10	at	_	_	O	
+22-11	se	_	_	O	
+22-12	igen	_	_	O	
+22-13	,	_	_	O	
+22-14	er	_	_	O	
+22-15	det	_	_	O	
+22-16	også	_	_	O	
+22-17	på	_	_	O	
+22-18	sin	_	_	O	
+22-19	plads	_	_	O	
+22-20	at	_	_	O	
+22-21	jeg	_	_	O	
+22-22	betaler	_	_	O	
+22-23	for	_	_	O	
+22-24	det	_	_	O	
+22-25	!	_	_	O	
+
+#id=23
+#text=Det er da fuldstændigt ligemeget om man gemmer Det anime man henter ned, elller om man sletter sit anime for at få plads til mere anime....
+23-1	Det	_	_	O	
+23-2	er	_	_	O	
+23-3	da	_	_	O	
+23-4	fuldstændigt	_	_	O	
+23-5	ligemeget	_	_	O	
+23-6	om	_	_	O	
+23-7	man	_	_	O	
+23-8	gemmer	_	_	O	
+23-9	Det	_	_	O	
+23-10	anime	_	_	O	
+23-11	man	_	_	O	
+23-12	henter	_	_	O	
+23-13	ned	_	_	O	
+23-14	,	_	_	O	
+23-15	elller	_	_	O	
+23-16	om	_	_	O	
+23-17	man	_	_	O	
+23-18	sletter	_	_	O	
+23-19	sit	_	_	O	
+23-20	anime	_	_	O	
+23-21	for	_	_	O	
+23-22	at	_	_	O	
+23-23	få	_	_	O	
+23-24	plads	_	_	O	
+23-25	til	_	_	O	
+23-26	mere	_	_	O	
+23-27	anime	_	_	O	
+23-28	.	_	_	O	
+23-29	.	_	_	O	
+23-30	.	_	_	O	
+23-31	.	_	_	O	
+
+#id=24
+#text= Måske ville det være på sin plads lige at forklare hvordan det er man gør, så denne tråd ikke kommer til at lide den stille død.
+24-1	Måske	_	_	O	
+24-2	ville	_	_	O	
+24-3	det	_	_	O	
+24-4	være	_	_	O	
+24-5	på	_	_	O	
+24-6	sin	_	_	O	
+24-7	plads	_	_	O	
+24-8	lige	_	_	O	
+24-9	at	_	_	O	
+24-10	forklare	_	_	O	
+24-11	hvordan	_	_	O	
+24-12	det	_	_	O	
+24-13	er	_	_	O	
+24-14	man	_	_	O	
+24-15	gør	_	_	O	
+24-16	,	_	_	O	
+24-17	så	_	_	O	
+24-18	denne	_	_	O	
+24-19	tråd	_	_	O	
+24-20	ikke	_	_	O	
+24-21	kommer	_	_	O	
+24-22	til	_	_	O	
+24-23	at	_	_	O	
+24-24	lide	_	_	O	
+24-25	den	_	_	O	
+24-26	stille	_	_	O	
+24-27	død	_	_	O	
+24-28	.	_	_	O	
+
+#id=25
+#text= Derudover var der sket noget kludder med anmeldelserne af   nu er de rigtige anmeldelser af disse på plads.
+25-1	Derudover	_	_	O	
+25-2	var	_	_	O	
+25-3	der	_	_	O	
+25-4	sket	_	_	O	
+25-5	noget	_	_	O	
+25-6	kludder	_	_	O	
+25-7	med	_	_	O	
+25-8	anmeldelserne	_	_	O	
+25-9	af	_	_	O	
+25-10	nu	_	_	O	
+25-11	er	_	_	O	
+25-12	de	_	_	O	
+25-13	rigtige	_	_	O	
+25-14	anmeldelser	_	_	O	
+25-15	af	_	_	O	
+25-16	disse	_	_	O	
+25-17	på	_	_	O	
+25-18	plads	_	_	O	
+25-19	.	_	_	O	
+
+#id=26
+#text= Tja, så fik vi det på plads...
+26-1	Tja	_	_	O	
+26-2	,	_	_	O	
+26-3	så	_	_	O	
+26-4	fik	_	_	O	
+26-5	vi	_	_	O	
+26-6	det	_	_	O	
+26-7	på	_	_	O	
+26-8	plads	_	_	O	
+26-9	.	_	_	O	
+26-10	.	_	_	O	
+26-11	.	_	_	O	
+
+#id=27
+#text= Der er også plads til at tolke tingene på forskellige måder, da der er nogen af tingene man ikke kan finde svar på, ligemeget hvor godt man leder.
+27-1	Der	_	_	O	
+27-2	er	_	_	O	
+27-3	også	_	_	O	
+27-4	plads	_	_	O	
+27-5	til	_	_	O	
+27-6	at	_	_	O	
+27-7	tolke	_	_	O	
+27-8	tingene	_	_	O	
+27-9	på	_	_	O	
+27-10	forskellige	_	_	O	
+27-11	måder	_	_	O	
+27-12	,	_	_	O	
+27-13	da	_	_	O	
+27-14	der	_	_	O	
+27-15	er	_	_	O	
+27-16	nogen	_	_	O	
+27-17	af	_	_	O	
+27-18	tingene	_	_	O	
+27-19	man	_	_	O	
+27-20	ikke	_	_	O	
+27-21	kan	_	_	O	
+27-22	finde	_	_	O	
+27-23	svar	_	_	O	
+27-24	på	_	_	O	
+27-25	,	_	_	O	
+27-26	ligemeget	_	_	O	
+27-27	hvor	_	_	O	
+27-28	godt	_	_	O	
+27-29	man	_	_	O	
+27-30	leder	_	_	O	
+27-31	.	_	_	O	
+
+#id=28
+#text=Så skal det på plads...
+28-1	Så	_	_	O	
+28-2	skal	_	_	O	
+28-3	det	_	_	O	
+28-4	på	_	_	O	
+28-5	plads	_	_	O	
+28-6	.	_	_	O	
+28-7	.	_	_	O	
+28-8	.	_	_	O	
+

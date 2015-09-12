@@ -1,0 +1,364 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Det er ikke kun teksten, men det er hele siden... også alle linksne/knapperne oppe i toppen.
+1-1	Det	det	PP:s-un:--:-3n-	O	
+1-2	er	re	VF:----:sa:----	O	
+1-3	ikke	ikke	D-:----:--:u---	O	
+1-4	kun	kun	D-:----:--:u---	O	
+1-5	teksten	tekst	NC:sduc:--:----	O	
+1-6	,	,	ZD	O	
+1-7	men	men	CC:----:--:----	O	
+1-8	det	det	PP:s-un:--:-3n-	O	
+1-9	er	være	VF:----:sa:----	O	
+1-10	hele	hel	AC:sdu#:--:p---	O	
+1-11	siden	side	NC:sduc:--:----	O	
+1-12	.	.	ZP	O	
+1-13	.	.	ZP	O	
+1-14	.	.	ZP	O	
+1-15	også	også	D-:----:--:u---	O	
+1-16	alle	al	PI:p-u#:--:----	O	
+1-17	linksne	linksne	VI:----:-a:----	O	
+1-18	/	/	XY:----:--:----	O	
+1-19	knapperne	knap	NC:pdu#:--:----	O	
+1-20	oppe	oppe	D-:----:--:u---	O	
+1-21	i	i	T-:----:--:----	O	
+1-22	toppen	_	NC:sduc:--:----	B-top-1	
+1-23	.	.	ZP	O	
+
+#id=2
+#text= Gintama er på top 10!!!!!...
+2-1	Gintama	_	_	O	
+2-2	er	_	_	O	
+2-3	på	_	_	O	
+2-4	top	_	_	O	
+2-5	10	_	_	O	
+2-6	!	!	ZP	O	
+2-7	!	!	ZP	O	
+2-8	!	!	ZP	O	
+2-9	!	!	ZP	O	
+2-10	!	_	ZP	O	
+2-11	.	.	ZP	O	
+2-12	.	.	ZP	O	
+2-13	.	_	_	O	
+
+#id=3
+#text=Manga, da jeg bedre kan lide at sidde og læse historien, men anime er altså også bare top-dollar.
+3-1	Manga	_	_	O	
+3-2	,	_	_	O	
+3-3	da	_	_	O	
+3-4	jeg	_	_	O	
+3-5	bedre	_	_	O	
+3-6	kan	_	_	O	
+3-7	lide	_	_	O	
+3-8	at	_	_	O	
+3-9	sidde	_	_	O	
+3-10	og	_	_	O	
+3-11	læse	_	_	O	
+3-12	historien	_	_	O	
+3-13	,	_	_	O	
+3-14	men	_	_	O	
+3-15	anime	_	_	O	
+3-16	er	_	_	O	
+3-17	altså	_	_	O	
+3-18	også	_	_	O	
+3-19	bare	_	_	O	
+3-20	top	_	_	O	
+3-21	-	_	_	O	
+3-22	dollar	_	_	O	
+3-23	.	_	_	O	
+
+#id=4
+#text= I dag bliver mit hjerte fyldt med glæde når Barca spiller, og det "varmer" mit hjerte at de er på vej tilbage til toppen af europæiske hold.
+4-1	I	_	_	O	
+4-2	dag	_	_	O	
+4-3	bliver	_	_	O	
+4-4	mit	_	_	O	
+4-5	hjerte	_	_	O	
+4-6	fyldt	_	_	O	
+4-7	med	_	_	O	
+4-8	glæde	_	_	O	
+4-9	når	_	_	O	
+4-10	Barca	_	_	O	
+4-11	spiller	_	_	O	
+4-12	,	_	_	O	
+4-13	og	_	_	O	
+4-14	det	_	_	O	
+4-15	"	_	_	O	
+4-16	varmer	_	_	O	
+4-17	"	_	_	O	
+4-18	mit	_	_	O	
+4-19	hjerte	_	_	O	
+4-20	at	_	_	O	
+4-21	de	_	_	O	
+4-22	er	_	_	O	
+4-23	på	_	_	O	
+4-24	vej	_	_	O	
+4-25	tilbage	_	_	O	
+4-26	til	_	_	O	
+4-27	toppen	_	_	O	
+4-28	af	_	_	O	
+4-29	europæiske	_	_	O	
+4-30	hold	_	_	O	
+4-31	.	_	_	O	
+
+#id=5
+#text=Hmm... der er mange steder jeg gerne vil hen, men har forsøgt at sætte dem ind i  en top 6.
+5-1	Hmm	_	_	O	
+5-2	.	_	_	O	
+5-3	.	_	_	O	
+5-4	.	_	_	O	
+5-5	der	_	_	O	
+5-6	er	_	_	O	
+5-7	mange	_	_	O	
+5-8	steder	_	_	O	
+5-9	jeg	_	_	O	
+5-10	gerne	_	_	O	
+5-11	vil	_	_	O	
+5-12	hen	_	_	O	
+5-13	,	_	_	O	
+5-14	men	_	_	O	
+5-15	har	_	_	O	
+5-16	forsøgt	_	_	O	
+5-17	at	_	_	O	
+5-18	sætte	_	_	O	
+5-19	dem	_	_	O	
+5-20	ind	_	_	O	
+5-21	i	_	_	O	
+5-22	en	_	_	O	
+5-23	top	_	_	O	
+5-24	6	_	_	O	
+5-25	.	_	_	O	
+
+#id=6
+#text= Jeg har lavet min egen lille top seks, og jeg ville blive glad hvis i gjorde det samme. :D 1.
+6-1	Jeg	_	_	O	
+6-2	har	_	_	O	
+6-3	lavet	_	_	O	
+6-4	min	_	_	O	
+6-5	egen	_	_	O	
+6-6	lille	_	_	O	
+6-7	top	_	_	O	
+6-8	seks	_	_	O	
+6-9	,	_	_	O	
+6-10	og	_	_	O	
+6-11	jeg	_	_	O	
+6-12	ville	_	_	O	
+6-13	blive	_	_	O	
+6-14	glad	_	_	O	
+6-15	hvis	_	_	O	
+6-16	i	_	_	O	
+6-17	gjorde	_	_	O	
+6-18	det	_	_	O	
+6-19	samme	_	_	O	
+6-20	.	_	_	O	
+6-21	:	_	_	O	
+6-22	D	_	_	O	
+6-23	1	_	_	O	
+6-24	.	_	_	O	
+
+#id=7
+#text= Hvis denne serie bliver sluttet ordentligt af, så står den til et rewatch og en plads i min top 1X. :P
+7-1	Hvis	_	_	O	
+7-2	denne	_	_	O	
+7-3	serie	_	_	O	
+7-4	bliver	_	_	O	
+7-5	sluttet	_	_	O	
+7-6	ordentligt	_	_	O	
+7-7	af	_	_	O	
+7-8	,	_	_	O	
+7-9	så	_	_	O	
+7-10	står	_	_	O	
+7-11	den	_	_	O	
+7-12	til	_	_	O	
+7-13	et	_	_	O	
+7-14	rewatch	_	_	O	
+7-15	og	_	_	O	
+7-16	en	_	_	O	
+7-17	plads	_	_	O	
+7-18	i	_	_	O	
+7-19	min	_	_	O	
+7-20	top	_	_	O	
+7-21	1X	_	_	O	
+7-22	.	_	_	O	
+7-23	:	_	_	O	
+7-24	P	_	_	O	
+
+#id=8
+#text= Den top moderne japanske Mirai, bliver fanget i en storm.
+8-1	Den	_	_	O	
+8-2	top	_	_	O	
+8-3	moderne	_	_	O	
+8-4	japanske	_	_	O	
+8-5	Mirai	_	_	O	
+8-6	,	_	_	O	
+8-7	bliver	_	_	O	
+8-8	fanget	_	_	O	
+8-9	i	_	_	O	
+8-10	en	_	_	O	
+8-11	storm	_	_	O	
+8-12	.	_	_	O	
+
+#id=9
+#text= ja ok A.I love you er nu heller ikke min favorit, men hans senere projekter ligger på min top 10
+9-1	ja	_	_	O	
+9-2	ok	_	_	O	
+9-3	A	_	_	O	
+9-4	.	_	_	O	
+9-5	I	_	_	O	
+9-6	love	_	_	O	
+9-7	you	_	_	O	
+9-8	er	_	_	O	
+9-9	nu	_	_	O	
+9-10	heller	_	_	O	
+9-11	ikke	_	_	O	
+9-12	min	_	_	O	
+9-13	favorit	_	_	O	
+9-14	,	_	_	O	
+9-15	men	_	_	O	
+9-16	hans	_	_	O	
+9-17	senere	_	_	O	
+9-18	projekter	_	_	O	
+9-19	ligger	_	_	O	
+9-20	på	_	_	O	
+9-21	min	_	_	O	
+9-22	top	_	_	O	
+9-23	10	_	_	O	
+
+#id=10
+#text= Lige til sidst skal det siges at musikken og animationen, ligesom den geniale historie, også er top notch.
+10-1	Lige	_	_	O	
+10-2	til	_	_	O	
+10-3	sidst	_	_	O	
+10-4	skal	_	_	O	
+10-5	det	_	_	O	
+10-6	siges	_	_	O	
+10-7	at	_	_	O	
+10-8	musikken	_	_	O	
+10-9	og	_	_	O	
+10-10	animationen	_	_	O	
+10-11	,	_	_	O	
+10-12	ligesom	_	_	O	
+10-13	den	_	_	O	
+10-14	geniale	_	_	O	
+10-15	historie	_	_	O	
+10-16	,	_	_	O	
+10-17	også	_	_	O	
+10-18	er	_	_	O	
+10-19	top	_	_	O	
+10-20	notch	_	_	O	
+10-21	.	_	_	O	
+
+#id=11
+#text=Min top 1X har ændret sig en hel del siden sidst.
+11-1	Min	_	_	O	
+11-2	top	_	_	O	
+11-3	1X	_	_	O	
+11-4	har	_	_	O	
+11-5	ændret	_	_	O	
+11-6	sig	_	_	O	
+11-7	en	_	_	O	
+11-8	hel	_	_	O	
+11-9	del	_	_	O	
+11-10	siden	_	_	O	
+11-11	sidst	_	_	O	
+11-12	.	_	_	O	
+
+#id=12
+#text=Okey syntes at du helt sikkert mangler Vampire hunter som er min nr 1 og gosth in the shell ville helt sikkert også være på min top 20
+12-1	Okey	_	_	O	
+12-2	syntes	_	_	O	
+12-3	at	_	_	O	
+12-4	du	_	_	O	
+12-5	helt	_	_	O	
+12-6	sikkert	_	_	O	
+12-7	mangler	_	_	O	
+12-8	Vampire	_	_	O	
+12-9	hunter	_	_	O	
+12-10	som	_	_	O	
+12-11	er	_	_	O	
+12-12	min	_	_	O	
+12-13	nr	_	_	O	
+12-14	1	_	_	O	
+12-15	og	_	_	O	
+12-16	gosth	_	_	O	
+12-17	in	_	_	O	
+12-18	the	_	_	O	
+12-19	shell	_	_	O	
+12-20	ville	_	_	O	
+12-21	helt	_	_	O	
+12-22	sikkert	_	_	O	
+12-23	også	_	_	O	
+12-24	være	_	_	O	
+12-25	på	_	_	O	
+12-26	min	_	_	O	
+12-27	top	_	_	O	
+12-28	20	_	_	O	
+
+#id=13
+#text= Hvis jeg skulle liste min top 10, ser den sådan ud:
+13-1	Hvis	_	_	O	
+13-2	jeg	_	_	O	
+13-3	skulle	_	_	O	
+13-4	liste	_	_	O	
+13-5	min	_	_	O	
+13-6	top	_	_	O	
+13-7	10	_	_	O	
+13-8	,	_	_	O	
+13-9	ser	_	_	O	
+13-10	den	_	_	O	
+13-11	sådan	_	_	O	
+13-12	ud	_	_	O	
+13-13	:	_	_	O	
+
+#id=14
+#text= Min nuværende top 20 (edit: 19...) er nok noget lignende det her:
+14-1	Min	_	_	O	
+14-2	nuværende	_	_	O	
+14-3	top	_	_	O	
+14-4	20	_	_	O	
+14-5	(	_	_	O	
+14-6	edit	_	_	O	
+14-7	:	_	_	O	
+14-8	19	_	_	O	
+14-9	.	_	_	O	
+14-10	.	_	_	O	
+14-11	.	_	_	O	
+14-12	)	_	_	O	
+14-13	er	_	_	O	
+14-14	nok	_	_	O	
+14-15	noget	_	_	O	
+14-16	lignende	_	_	O	
+14-17	det	_	_	O	
+14-18	her	_	_	O	
+14-19	:	_	_	O	
+
+#id=15
+#text= Også animationen er i top og soundtracket er glimrende.
+15-1	Også	_	_	O	
+15-2	animationen	_	_	O	
+15-3	er	_	_	O	
+15-4	i	_	_	O	
+15-5	top	_	_	O	
+15-6	og	_	_	O	
+15-7	soundtracket	_	_	O	
+15-8	er	_	_	O	
+15-9	glimrende	_	_	O	
+15-10	.	_	_	O	
+
+#id=16
+#text= Alene, kunne den nok godt snige sig op på min top 20.
+16-1	Alene	_	_	O	
+16-2	,	_	_	O	
+16-3	kunne	_	_	O	
+16-4	den	_	_	O	
+16-5	nok	_	_	O	
+16-6	godt	_	_	O	
+16-7	snige	_	_	O	
+16-8	sig	_	_	O	
+16-9	op	_	_	O	
+16-10	på	_	_	O	
+16-11	min	_	_	O	
+16-12	top	_	_	O	
+16-13	20	_	_	O	
+16-14	.	_	_	O	
+

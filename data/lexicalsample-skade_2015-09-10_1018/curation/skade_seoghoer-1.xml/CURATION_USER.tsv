@@ -1,0 +1,1133 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue # de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity | value
+#id=1
+#text=Menhan slap uden større skader.
+1-1	Men	men	CC:----:--:----	O	
+1-2	han	_	_	O	
+1-3	slap	_	_	O	
+1-4	uden	_	_	O	
+1-5	større	_	_	O	
+1-6	skader	_	_	O	
+1-7	.	_	_	O	
+
+#id=2
+#text=Enlangvarig skade i knæet satte for lidt over et år siden en stopper for den rutinerede fodboldspillers fodboldliv.
+2-1	En	_	_	O	
+2-2	langvarig	_	_	O	
+2-3	skade	_	_	O	
+2-4	i	_	_	O	
+2-5	knæet	_	_	O	
+2-6	satte	_	_	O	
+2-7	for	_	_	O	
+2-8	lidt	_	_	O	
+2-9	over	_	_	O	
+2-10	et	_	_	O	
+2-11	år	_	_	O	
+2-12	siden	_	_	O	
+2-13	en	_	_	O	
+2-14	stopper	_	_	O	
+2-15	for	_	_	O	
+2-16	den	_	_	O	
+2-17	rutinerede	_	_	O	
+2-18	fodboldspillers	_	_	O	
+2-19	fodboldliv	_	_	O	
+2-20	.	_	_	O	
+
+#id=3
+#text=Hendesholdning til sin kidnapper bekymrer psykologer, der er bange for, at Natascha Kampusch har taget skade og er blevet sær.
+3-1	Hendes	_	_	O	
+3-2	holdning	_	_	O	
+3-3	til	_	_	O	
+3-4	sin	_	_	O	
+3-5	kidnapper	_	_	O	
+3-6	bekymrer	_	_	O	
+3-7	psykologer	_	_	O	
+3-8	,	_	_	O	
+3-9	der	_	_	O	
+3-10	er	_	_	O	
+3-11	bange	_	_	O	
+3-12	for	_	_	O	
+3-13	,	_	_	O	
+3-14	at	_	_	O	
+3-15	Natascha	_	_	O	
+3-16	Kampusch	_	_	O	
+3-17	har	_	_	O	
+3-18	taget	_	_	O	
+3-19	skade	_	_	O	
+3-20	og	_	_	O	
+3-21	er	_	_	O	
+3-22	blevet	_	_	O	
+3-23	sær	_	_	O	
+3-24	.	_	_	O	
+
+#id=4
+#text=Hanhavde dog pådraget sig skaden under en fodboldkamp, forklarede han.
+4-1	Han	_	_	O	
+4-2	havde	_	_	O	
+4-3	dog	_	_	O	
+4-4	pådraget	_	_	O	
+4-5	sig	_	_	O	
+4-6	skaden	_	_	O	
+4-7	under	_	_	O	
+4-8	en	_	_	O	
+4-9	fodboldkamp	_	_	O	
+4-10	,	_	_	O	
+4-11	forklarede	_	_	O	
+4-12	han	_	_	O	
+4-13	.	_	_	O	
+
+#id=5
+#text=I2002 kom han alvorligt til skade under et racerløb.
+5-1	I	_	_	O	
+5-2	2002	_	_	O	
+5-3	kom	_	_	O	
+5-4	han	_	_	O	
+5-5	alvorligt	_	_	O	
+5-6	til	_	_	O	
+5-7	skade	_	_	O	
+5-8	under	_	_	O	
+5-9	et	_	_	O	
+5-10	racerløb	_	_	O	
+5-11	.	_	_	O	
+
+#id=6
+#text=...repræsenterede Danmark ved EM i 1996 i England og VM i 1998 i Frankrig, mens han på grund af skader måtte sidde over ved EM i 2000 i Belgien og Holland.
+6-1	.	_	_	O	
+6-2	.	_	_	O	
+6-3	.	_	_	O	
+6-4	repræsenterede	_	_	O	
+6-5	Danmark	_	_	O	
+6-6	ved	_	_	O	
+6-7	EM	_	_	O	
+6-8	i	_	_	O	
+6-9	1996	_	_	O	
+6-10	i	_	_	O	
+6-11	England	_	_	O	
+6-12	og	_	_	O	
+6-13	VM	_	_	O	
+6-14	i	_	_	O	
+6-15	1998	_	_	O	
+6-16	i	_	_	O	
+6-17	Frankrig	_	_	O	
+6-18	,	_	_	O	
+6-19	mens	_	_	O	
+6-20	han	_	_	O	
+6-21	på	_	_	O	
+6-22	grund	_	_	O	
+6-23	af	_	_	O	
+6-24	skader	_	_	O	
+6-25	måtte	_	_	O	
+6-26	sidde	_	_	O	
+6-27	over	_	_	O	
+6-28	ved	_	_	O	
+6-29	EM	_	_	O	
+6-30	i	_	_	O	
+6-31	2000	_	_	O	
+6-32	i	_	_	O	
+6-33	Belgien	_	_	O	
+6-34	og	_	_	O	
+6-35	Holland	_	_	O	
+6-36	.	_	_	O	
+
+#id=7
+#text=Manvil undersøge, om blodproppen har gjort nogen skade, evt.
+7-1	Man	_	_	O	
+7-2	vil	_	_	O	
+7-3	undersøge	_	_	O	
+7-4	,	_	_	O	
+7-5	om	_	_	O	
+7-6	blodproppen	_	_	O	
+7-7	har	_	_	O	
+7-8	gjort	_	_	O	
+7-9	nogen	_	_	O	
+7-10	skade	_	_	O	
+7-11	,	_	_	O	
+7-12	evt	_	_	O	
+7-13	.	_	_	O	
+
+#id=8
+#text=naturlig-Detkunne hun naturligvis vis  ikke have siddende på sig og kommanderede hele Photoshop-afdelingen ind for at reparere " skaderne", så hun ikke  lignede en på de 41 år, hun nu engang er.
+8-1	naturlig	_	_	O	
+8-2	-	_	_	O	
+8-3	Det	_	_	O	
+8-4	kunne	_	_	O	
+8-5	hun	_	_	O	
+8-6	naturligvis	_	_	O	
+8-7	vis	_	_	O	
+8-8	ikke	_	_	O	
+8-9	have	_	_	O	
+8-10	siddende	_	_	O	
+8-11	på	_	_	O	
+8-12	sig	_	_	O	
+8-13	og	_	_	O	
+8-14	kommanderede	_	_	O	
+8-15	hele	_	_	O	
+8-16	Photoshop	_	_	O	
+8-17	-	_	_	O	
+8-18	afdelingen	_	_	O	
+8-19	ind	_	_	O	
+8-20	for	_	_	O	
+8-21	at	_	_	O	
+8-22	reparere	_	_	O	
+8-23	"	_	_	O	
+8-24	skaderne	_	_	O	
+8-25	"	_	_	O	
+8-26	,	_	_	O	
+8-27	så	_	_	O	
+8-28	hun	_	_	O	
+8-29	ikke	_	_	O	
+8-30	lignede	_	_	O	
+8-31	en	_	_	O	
+8-32	på	_	_	O	
+8-33	de	_	_	O	
+8-34	41	_	_	O	
+8-35	år	_	_	O	
+8-36	,	_	_	O	
+8-37	hun	_	_	O	
+8-38	nu	_	_	O	
+8-39	engang	_	_	O	
+8-40	er	_	_	O	
+8-41	.	_	_	O	
+
+#id=9
+#text=Jeg vil stoppe karrieren med hænderne i vejret, siger Reda, som foreløbig har fået comebacket udsat flere gange på grund af skader og problemer med " røvhullet" Mogens Palle.
+9-1	Jeg	_	_	O	
+9-2	vil	_	_	O	
+9-3	stoppe	_	_	O	
+9-4	karrieren	_	_	O	
+9-5	med	_	_	O	
+9-6	hænderne	_	_	O	
+9-7	i	_	_	O	
+9-8	vejret	_	_	O	
+9-9	,	_	_	O	
+9-10	siger	_	_	O	
+9-11	Reda	_	_	O	
+9-12	,	_	_	O	
+9-13	som	_	_	O	
+9-14	foreløbig	_	_	O	
+9-15	har	_	_	O	
+9-16	fået	_	_	O	
+9-17	comebacket	_	_	O	
+9-18	udsat	_	_	O	
+9-19	flere	_	_	O	
+9-20	gange	_	_	O	
+9-21	på	_	_	O	
+9-22	grund	_	_	O	
+9-23	af	_	T-:----:--:----	O	
+9-24	skader	_	_	O	
+9-25	og	_	_	O	
+9-26	problemer	_	_	O	
+9-27	med	_	_	O	
+9-28	"	_	_	O	
+9-29	røvhullet	_	_	O	
+9-30	"	_	_	O	
+9-31	Mogens	_	_	O	
+9-32	Palle	_	_	O	
+9-33	.	_	_	O	
+
+#id=10
+#text=Ingen af dem kunne dog holde styr på den nye Brøndby-træner Henrik Jensens søn Mike Jensen, som i sin gigabrandert flere gange var ved at skvatte, men undgik en mulig skade og et par pinlige fald ved at gribe fat om livet på en letpåklædt brunette.
+10-1	Ingen	_	_	O	
+10-2	af	_	_	O	
+10-3	dem	_	_	O	
+10-4	kunne	_	_	O	
+10-5	dog	_	_	O	
+10-6	holde	_	_	O	
+10-7	styr	_	_	O	
+10-8	på	_	_	O	
+10-9	den	_	_	O	
+10-10	nye	_	_	O	
+10-11	Brøndby	_	_	O	
+10-12	-	_	_	O	
+10-13	træner	_	_	O	
+10-14	Henrik	_	_	O	
+10-15	Jensens	_	_	O	
+10-16	søn	_	_	O	
+10-17	Mike	_	_	O	
+10-18	Jensen	_	_	O	
+10-19	,	_	_	O	
+10-20	som	_	_	O	
+10-21	i	_	_	O	
+10-22	sin	_	_	O	
+10-23	gigabrandert	_	_	O	
+10-24	flere	_	_	O	
+10-25	gange	_	_	O	
+10-26	var	_	_	O	
+10-27	ved	_	_	O	
+10-28	at	_	_	O	
+10-29	skvatte	_	_	O	
+10-30	,	_	_	O	
+10-31	men	_	_	O	
+10-32	undgik	_	_	O	
+10-33	en	_	_	O	
+10-34	mulig	_	_	O	
+10-35	skade	_	_	O	
+10-36	og	_	_	O	
+10-37	et	_	_	O	
+10-38	par	_	_	O	
+10-39	pinlige	_	_	O	
+10-40	fald	_	_	O	
+10-41	ved	_	_	O	
+10-42	at	_	_	O	
+10-43	gribe	_	_	O	
+10-44	fat	_	_	O	
+10-45	om	_	_	O	
+10-46	livet	_	_	O	
+10-47	på	_	_	O	
+10-48	en	_	_	O	
+10-49	letpåklædt	_	_	O	
+10-50	brunette	_	_	O	
+10-51	.	_	_	O	
+
+#id=11
+#text=Falckhavde mandag eftermiddag modtaget 820 anmeldelser om vandskader, og man havde ikke tidligere registreret så mange skader efter et enkelt regnskyl.
+11-1	Falck	_	_	O	
+11-2	havde	_	_	O	
+11-3	mandag	_	_	O	
+11-4	eftermiddag	_	_	O	
+11-5	modtaget	_	_	O	
+11-6	820	_	_	O	
+11-7	anmeldelser	_	_	O	
+11-8	om	_	_	O	
+11-9	vandskader	_	_	O	
+11-10	,	_	_	O	
+11-11	og	_	_	O	
+11-12	man	_	_	O	
+11-13	havde	_	_	O	
+11-14	ikke	_	_	O	
+11-15	tidligere	_	_	O	
+11-16	registreret	_	_	O	
+11-17	så	_	_	O	
+11-18	mange	_	_	O	
+11-19	skader	_	_	O	
+11-20	efter	_	_	O	
+11-21	et	_	_	O	
+11-22	enkelt	_	_	O	
+11-23	regnskyl	_	_	O	
+11-24	.	_	_	O	
+
+#id=12
+#text=Derskete ikke blot materielle skader, men også befolkningen blev ramt.
+12-1	Der	_	_	O	
+12-2	skete	_	_	O	
+12-3	ikke	_	_	O	
+12-4	blot	_	_	O	
+12-5	materielle	_	_	O	
+12-6	skader	_	_	O	
+12-7	,	_	_	O	
+12-8	men	_	_	O	
+12-9	også	_	_	O	
+12-10	befolkningen	_	_	O	
+12-11	blev	_	_	O	
+12-12	ramt	_	_	O	
+12-13	.	_	_	O	
+
+#id=13
+#text=Mendet er nok heller ingen skade til, at hun er gift med den 14 år yngre Martin Jørgensen, der sikkert også kan holde gang i den modne grevinde.
+13-1	Men	_	_	O	
+13-2	det	_	_	O	
+13-3	er	_	_	O	
+13-4	nok	_	_	O	
+13-5	heller	_	_	O	
+13-6	ingen	_	_	O	
+13-7	skade	_	_	O	
+13-8	til	_	_	O	
+13-9	,	_	_	O	
+13-10	at	_	_	O	
+13-11	hun	_	_	O	
+13-12	er	_	_	O	
+13-13	gift	_	_	O	
+13-14	med	_	_	O	
+13-15	den	_	_	O	
+13-16	14	_	_	O	
+13-17	år	_	_	O	
+13-18	yngre	_	_	O	
+13-19	Martin	_	_	O	
+13-20	Jørgensen	_	_	O	
+13-21	,	_	_	O	
+13-22	der	_	_	O	
+13-23	sikkert	_	_	O	
+13-24	også	_	_	O	
+13-25	kan	_	_	O	
+13-26	holde	_	_	O	
+13-27	gang	_	_	O	
+13-28	i	_	_	O	
+13-29	den	_	_	O	
+13-30	modne	_	_	O	
+13-31	grevinde	_	_	O	
+13-32	.	_	_	O	
+
+#id=14
+#text=Ogsåforruden bliver knust, men heldigvis er ingen kommet til skade.
+14-1	Også	_	_	O	
+14-2	forruden	_	_	O	
+14-3	bliver	_	_	O	
+14-4	knust	_	_	O	
+14-5	,	_	_	O	
+14-6	men	_	_	O	
+14-7	heldigvis	_	_	O	
+14-8	er	_	_	O	
+14-9	ingen	_	_	O	
+14-10	kommet	_	_	O	
+14-11	til	_	_	O	
+14-12	skade	_	_	O	
+14-13	.	_	_	O	
+
+#id=15
+#text=Den er på vej til service nu, fortæller Allan, der ikke kom til skade.
+15-1	Den	_	_	O	
+15-2	er	_	_	O	
+15-3	på	_	_	O	
+15-4	vej	_	_	O	
+15-5	til	_	_	O	
+15-6	service	_	_	O	
+15-7	nu	_	_	O	
+15-8	,	_	_	O	
+15-9	fortæller	_	_	O	
+15-10	Allan	_	_	O	
+15-11	,	_	_	O	
+15-12	der	_	_	O	
+15-13	ikke	_	_	O	
+15-14	kom	_	_	O	
+15-15	til	_	_	O	
+15-16	skade	_	_	O	
+15-17	.	_	_	O	
+
+#id=16
+#text=Jeg kunne jo ikke se hendes skade og tog derfor alt for let på det.
+16-1	Jeg	_	_	O	
+16-2	kunne	_	_	O	
+16-3	jo	_	_	O	
+16-4	ikke	_	_	O	
+16-5	se	_	_	O	
+16-6	hendes	_	_	O	
+16-7	skade	_	_	O	
+16-8	og	_	_	O	
+16-9	tog	_	_	O	
+16-10	derfor	_	_	O	
+16-11	alt	_	_	O	
+16-12	for	_	_	O	
+16-13	let	_	_	O	
+16-14	på	_	_	O	
+16-15	det	_	_	O	
+16-16	.	_	_	O	
+
+#id=17
+#text=-Det er ingen skade til at vise sin sårbarhed, siger sangerinden, der betragter sit ægteskab som lykkeligt.
+17-1	-	_	_	O	
+17-2	Det	_	_	O	
+17-3	er	_	_	O	
+17-4	ingen	_	_	O	
+17-5	skade	_	_	O	
+17-6	til	_	_	O	
+17-7	at	_	_	O	
+17-8	vise	_	_	O	
+17-9	sin	_	_	O	
+17-10	sårbarhed	_	_	O	
+17-11	,	_	_	O	
+17-12	siger	_	_	O	
+17-13	sangerinden	_	_	O	
+17-14	,	_	_	O	
+17-15	der	_	_	O	
+17-16	betragter	_	_	O	
+17-17	sit	_	_	O	
+17-18	ægteskab	_	_	O	
+17-19	som	_	_	O	
+17-20	lykkeligt	_	_	O	
+17-21	.	_	_	O	
+
+#id=18
+#text=Tidligere havde hun dyrket badminton og  fodbold på højt plan, men det satte et par skader i korsbåndene en stopper for.
+18-1	Tidligere	_	_	O	
+18-2	havde	_	_	O	
+18-3	hun	_	_	O	
+18-4	dyrket	_	_	O	
+18-5	badminton	_	_	O	
+18-6	og	_	_	O	
+18-7	fodbold	_	_	O	
+18-8	på	_	_	O	
+18-9	højt	_	_	O	
+18-10	plan	_	_	O	
+18-11	,	_	_	O	
+18-12	men	_	_	O	
+18-13	det	_	_	O	
+18-14	satte	_	_	O	
+18-15	et	_	_	O	
+18-16	par	_	_	O	
+18-17	skader	_	_	O	
+18-18	i	_	_	O	
+18-19	korsbåndene	_	_	O	
+18-20	en	_	_	O	
+18-21	stopper	_	_	O	
+18-22	for	_	_	O	
+18-23	.	_	_	O	
+
+#id=19
+#text=Ingenkom heldigvis alvorligt til  skade, men brandvæsenet måtte natten igennem og hele næste dag sprøjte vand på skibet, så det ikke knækkede midt over.
+19-1	Ingen	_	_	O	
+19-2	kom	_	_	O	
+19-3	heldigvis	_	_	O	
+19-4	alvorligt	_	_	O	
+19-5	til	_	_	O	
+19-6	skade	_	_	O	
+19-7	,	_	_	O	
+19-8	men	_	_	O	
+19-9	brandvæsenet	_	_	O	
+19-10	måtte	_	_	O	
+19-11	natten	_	_	O	
+19-12	igennem	_	_	O	
+19-13	og	_	_	O	
+19-14	hele	_	_	O	
+19-15	næste	_	_	O	
+19-16	dag	_	_	O	
+19-17	sprøjte	_	_	O	
+19-18	vand	_	_	O	
+19-19	på	_	_	O	
+19-20	skibet	_	_	O	
+19-21	,	_	_	O	
+19-22	så	_	_	O	
+19-23	det	_	_	O	
+19-24	ikke	_	_	O	
+19-25	knækkede	_	_	O	
+19-26	midt	_	_	O	
+19-27	over	_	_	O	
+19-28	.	_	_	O	
+
+#id=20
+#text=Skaderne har tilsyneladende ikke kunnet rettes op.
+20-1	Skaderne	_	_	O	
+20-2	har	_	_	O	
+20-3	tilsyneladende	_	_	O	
+20-4	ikke	_	_	O	
+20-5	kunnet	_	_	O	
+20-6	rettes	_	_	O	
+20-7	op	_	_	O	
+20-8	.	_	_	O	
+
+#id=21
+#text=Hunskyder skylden for sin skade på ungdommens håndboldspilleri, men mener også, den er grunden til, at hun er kommet sig nogenlunde hurtigt. - Jeg opfatter ikke mig selv som én, der har mange sygedage, og smerter er noget, jeg tager piller imod.
+21-1	Hun	_	_	O	
+21-2	skyder	_	_	O	
+21-3	skylden	_	_	O	
+21-4	for	_	_	O	
+21-5	sin	_	_	O	
+21-6	skade	_	_	O	
+21-7	på	_	_	O	
+21-8	ungdommens	_	_	O	
+21-9	håndboldspilleri	_	_	O	
+21-10	,	_	_	O	
+21-11	men	_	_	O	
+21-12	mener	_	_	O	
+21-13	også	_	_	O	
+21-14	,	_	_	O	
+21-15	den	_	_	O	
+21-16	er	_	_	O	
+21-17	grunden	_	_	O	
+21-18	til	_	_	O	
+21-19	,	_	_	O	
+21-20	at	_	_	O	
+21-21	hun	_	_	O	
+21-22	er	_	_	O	
+21-23	kommet	_	_	O	
+21-24	sig	_	_	O	
+21-25	nogenlunde	_	_	O	
+21-26	hurtigt	_	_	O	
+21-27	.	_	_	O	
+21-28	-	_	_	O	
+21-29	Jeg	_	_	O	
+21-30	opfatter	_	_	O	
+21-31	ikke	_	_	O	
+21-32	mig	_	_	O	
+21-33	selv	_	_	O	
+21-34	som	_	_	O	
+21-35	én	_	_	O	
+21-36	,	_	_	O	
+21-37	der	_	_	O	
+21-38	har	_	_	O	
+21-39	mange	_	_	O	
+21-40	sygedage	_	_	O	
+21-41	,	_	_	O	
+21-42	og	_	_	O	
+21-43	smerter	_	_	O	
+21-44	er	_	_	O	
+21-45	noget	_	_	O	
+21-46	,	,	ZD	O	
+21-47	jeg	_	_	O	
+21-48	tager	_	_	O	
+21-49	piller	_	_	O	
+21-50	imod	_	_	O	
+21-51	.	_	_	O	
+
+#id=22
+#text=Jeger den eneste i Norge,  som er blevet født med så store skader på grund af min mors medicinforbrug, siger 48-årige Judit Karin Steinnes fra Stavanger.
+22-1	Jeg	_	_	O	
+22-2	er	_	_	O	
+22-3	den	_	_	O	
+22-4	eneste	_	_	O	
+22-5	i	_	_	O	
+22-6	Norge	_	_	O	
+22-7	,	_	_	O	
+22-8	som	_	_	O	
+22-9	er	_	_	O	
+22-10	blevet	_	_	O	
+22-11	født	_	_	O	
+22-12	med	_	_	O	
+22-13	så	_	_	O	
+22-14	store	_	_	O	
+22-15	skader	_	_	O	
+22-16	på	_	_	O	
+22-17	grund	_	_	O	
+22-18	af	_	_	O	
+22-19	min	_	_	O	
+22-20	mors	_	_	O	
+22-21	medicinforbrug	_	_	O	
+22-22	,	_	_	O	
+22-23	siger	_	_	O	
+22-24	48	_	_	O	
+22-25	-	_	_	O	
+22-26	årige	_	_	O	
+22-27	Judit	_	_	O	
+22-28	Karin	_	_	O	
+22-29	Steinnes	_	_	O	
+22-30	fra	_	_	O	
+22-31	Stavanger	_	_	O	
+22-32	.	_	_	O	
+
+#id=23
+#text=Årsagen til skaderne er, at moderen tog den farlige sovemedicin Thalidomid tidligt i svangerskabet.
+23-1	Å	_	_	O	
+23-2	rsagen	_	_	O	
+23-3	til	_	T-:----:--:----	O	
+23-4	skaderne	_	_	O	
+23-5	er	_	_	O	
+23-6	,	_	_	O	
+23-7	at	_	_	O	
+23-8	moderen	_	_	O	
+23-9	tog	_	_	O	
+23-10	den	_	_	O	
+23-11	farlige	_	_	O	
+23-12	sovemedicin	_	_	O	
+23-13	Thalidomid	_	_	O	
+23-14	tidligt	_	_	O	
+23-15	i	_	_	O	
+23-16	svangerskabet	_	_	O	
+23-17	.	_	_	O	
+
+#id=24
+#text=FlereThalidomid-ofre mødte dengang op foran Norges Storting med et krav om, at mennesker ikke må bortsorteres, blot fordi lægerne opdager skader på fostrene.
+24-1	Flere	_	_	O	
+24-2	Thalidomid	_	_	O	
+24-3	-	_	_	O	
+24-4	ofre	_	_	O	
+24-5	mødte	_	_	O	
+24-6	dengang	_	_	O	
+24-7	op	_	_	O	
+24-8	foran	_	_	O	
+24-9	Norges	_	_	O	
+24-10	Storting	_	_	O	
+24-11	med	_	_	O	
+24-12	et	_	_	O	
+24-13	krav	_	_	O	
+24-14	om	_	_	O	
+24-15	,	_	_	O	
+24-16	at	_	_	O	
+24-17	mennesker	_	_	O	
+24-18	ikke	_	_	O	
+24-19	må	_	_	O	
+24-20	bortsorteres	_	_	O	
+24-21	,	_	_	O	
+24-22	blot	_	_	O	
+24-23	fordi	_	_	O	
+24-24	lægerne	_	_	O	
+24-25	opdager	_	_	O	
+24-26	skader	_	_	O	
+24-27	på	_	_	O	
+24-28	fostrene	_	_	O	
+24-29	.	_	_	O	
+
+#id=25
+#text=Mine skader er bevis på, at livet begynder meget tidligt i svangerskabet, siger Judit Karin.
+25-1	Mine	_	_	O	
+25-2	skader	skade	NC:piu#:--:----	O	
+25-3	er	_	_	O	
+25-4	bevis	_	_	O	
+25-5	på	_	_	O	
+25-6	,	_	_	O	
+25-7	at	_	_	O	
+25-8	livet	_	_	O	
+25-9	begynder	_	_	O	
+25-10	meget	_	_	O	
+25-11	tidligt	_	_	O	
+25-12	i	_	_	O	
+25-13	svangerskabet	_	_	O	
+25-14	,	_	_	O	
+25-15	siger	_	_	O	
+25-16	Judit	_	_	O	
+25-17	Karin	_	_	O	
+25-18	.	_	_	O	
+
+#id=26
+#text=I alt har jordskældet givet skader for over 80 milliarder kr.
+26-1	I	_	_	O	
+26-2	alt	_	_	O	
+26-3	har	_	_	O	
+26-4	jordskældet	_	_	O	
+26-5	givet	_	_	O	
+26-6	skader	_	_	O	
+26-7	for	_	_	O	
+26-8	over	_	_	O	
+26-9	80	_	_	O	
+26-10	milliarder	_	_	O	
+26-11	kr	_	_	O	
+26-12	.	_	_	O	
+
+#id=27
+#text=Rensdyrenehar en del kræfter og løber stærkt, så det sker, at de undervejs vælter nogle folk, men som regel kommer ingen til skade.
+27-1	Rensdyrene	_	_	O	
+27-2	har	_	_	O	
+27-3	en	_	_	O	
+27-4	del	_	_	O	
+27-5	kræfter	_	_	O	
+27-6	og	_	_	O	
+27-7	løber	_	_	O	
+27-8	stærkt	_	_	O	
+27-9	,	_	_	O	
+27-10	så	_	_	O	
+27-11	det	_	_	O	
+27-12	sker	_	_	O	
+27-13	,	_	_	O	
+27-14	at	_	_	O	
+27-15	de	_	_	O	
+27-16	undervejs	_	_	O	
+27-17	vælter	_	_	O	
+27-18	nogle	_	_	O	
+27-19	folk	_	_	O	
+27-20	,	_	_	O	
+27-21	men	_	_	O	
+27-22	som	_	_	O	
+27-23	regel	_	_	O	
+27-24	kommer	_	_	O	
+27-25	ingen	_	_	O	
+27-26	til	_	_	O	
+27-27	skade	_	_	O	
+27-28	.	_	_	O	
+
+#id=28
+#text=Heldigvis lykkedes det de to mænd at bringe sig i sikkerhed, så de ikke kom til skade.
+28-1	Heldigvis	_	_	O	
+28-2	lykkedes	_	_	O	
+28-3	det	_	_	O	
+28-4	de	_	_	O	
+28-5	to	_	_	O	
+28-6	mænd	_	_	O	
+28-7	at	_	_	O	
+28-8	bringe	_	_	O	
+28-9	sig	_	_	O	
+28-10	i	_	_	O	
+28-11	sikkerhed	_	_	O	
+28-12	,	_	_	O	
+28-13	så	_	_	O	
+28-14	de	_	_	O	
+28-15	ikke	_	_	O	
+28-16	kom	_	_	O	
+28-17	til	_	_	O	
+28-18	skade	_	_	O	
+28-19	.	_	_	O	
+
+#id=29
+#text=Så meget skade gør den ikke, men det ville være slemt, hvis den bed et barn i øjet.
+29-1	Så	_	_	O	
+29-2	meget	_	_	O	
+29-3	skade	_	_	O	
+29-4	gør	_	_	O	
+29-5	den	_	_	O	
+29-6	ikke	_	_	O	
+29-7	,	_	_	O	
+29-8	men	_	_	O	
+29-9	det	_	_	O	
+29-10	ville	_	_	O	
+29-11	være	_	_	O	
+29-12	slemt	_	_	O	
+29-13	,	_	_	O	
+29-14	hvis	_	_	O	
+29-15	den	_	_	O	
+29-16	bed	_	_	O	
+29-17	et	_	_	O	
+29-18	barn	_	_	O	
+29-19	i	_	_	O	
+29-20	øjet	_	_	O	
+29-21	.	_	_	O	
+
+#id=30
+#text=Uenighedog skader har betydet en lang pause, men den 30-årige århusianer regner med at genoptage karrieren inden længe.
+30-1	Uenighed	_	_	O	
+30-2	og	_	_	O	
+30-3	skader	_	_	O	
+30-4	har	_	_	O	
+30-5	betydet	_	_	O	
+30-6	en	_	_	O	
+30-7	lang	_	_	O	
+30-8	pause	_	_	O	
+30-9	,	_	_	O	
+30-10	men	_	_	O	
+30-11	den	_	_	O	
+30-12	30	_	_	O	
+30-13	-	_	_	O	
+30-14	årige	_	_	O	
+30-15	århusianer	_	_	O	
+30-16	regner	_	_	O	
+30-17	med	_	_	O	
+30-18	at	_	_	O	
+30-19	genoptage	_	_	O	
+30-20	karrieren	_	_	O	
+30-21	inden	_	_	O	
+30-22	længe	_	_	O	
+30-23	.	_	_	O	
+
+#id=31
+#text=Sådan noget her kan give kongehuset langvarig skade, og det er klart, at det ikke kommer til at ske igen, forklarer Klaus Kjøller.
+31-1	Sådan	_	_	O	
+31-2	noget	_	_	O	
+31-3	her	_	_	O	
+31-4	kan	_	_	O	
+31-5	give	_	_	O	
+31-6	kongehuset	_	_	O	
+31-7	langvarig	_	_	O	
+31-8	skade	_	_	O	
+31-9	,	_	_	O	
+31-10	og	_	_	O	
+31-11	det	_	_	O	
+31-12	er	_	_	O	
+31-13	klart	_	_	O	
+31-14	,	_	_	O	
+31-15	at	_	_	O	
+31-16	det	_	_	O	
+31-17	ikke	_	_	O	
+31-18	kommer	_	_	O	
+31-19	til	_	_	O	
+31-20	at	_	_	O	
+31-21	ske	_	_	O	
+31-22	igen	_	_	O	
+31-23	,	_	_	O	
+31-24	forklarer	_	_	O	
+31-25	Klaus	_	_	O	
+31-26	Kjøller	_	_	O	
+31-27	.	_	_	O	
+
+#id=32
+#text=Kroppen har desværre også taget varig skade.
+32-1	Kroppen	_	_	O	
+32-2	har	_	_	O	
+32-3	desværre	_	_	O	
+32-4	også	_	_	O	
+32-5	taget	_	_	O	
+32-6	varig	_	_	O	
+32-7	skade	_	_	O	
+32-8	.	_	_	O	
+
+#id=33
+#text=Min strube har taget lidt skade.
+33-1	Min	_	_	O	
+33-2	strube	_	_	O	
+33-3	har	_	_	O	
+33-4	taget	_	_	O	
+33-5	lidt	_	_	O	
+33-6	skade	skade	NC:siuc:--:----	B-skade-F-tage/lide-skade	
+33-7	.	.	ZP	O	
+
+#id=34
+#text=-Man kan virkelig komme til skade, hvis det går galt, siger han.
+34-1	-	_	_	O	
+34-2	Man	_	_	O	
+34-3	kan	_	_	O	
+34-4	virkelig	_	_	O	
+34-5	komme	_	_	O	
+34-6	til	_	_	O	
+34-7	skade	_	_	O	
+34-8	,	_	_	O	
+34-9	hvis	_	_	O	
+34-10	det	_	_	O	
+34-11	går	_	_	O	
+34-12	galt	_	_	O	
+34-13	,	_	_	O	
+34-14	siger	_	_	O	
+34-15	han	_	_	O	
+34-16	.	_	_	O	
+
+#id=35
+#text=Endvidereklappede begge lunger sammen, hjertet forskubbede sig, og han havde meget alvorlige  skader på både milten, leveren og den venstre nyre.
+35-1	Endvidere	_	_	O	
+35-2	klappede	_	_	O	
+35-3	begge	_	_	O	
+35-4	lunger	_	_	O	
+35-5	sammen	_	_	O	
+35-6	,	_	_	O	
+35-7	hjertet	_	_	O	
+35-8	forskubbede	_	_	O	
+35-9	sig	_	_	O	
+35-10	,	_	_	O	
+35-11	og	_	_	O	
+35-12	han	_	_	O	
+35-13	havde	_	_	O	
+35-14	meget	_	_	O	
+35-15	alvorlige	_	_	O	
+35-16	skader	_	_	O	
+35-17	på	_	_	O	
+35-18	både	_	_	O	
+35-19	milten	_	_	O	
+35-20	,	_	_	O	
+35-21	leveren	_	_	O	
+35-22	og	_	_	O	
+35-23	den	_	_	O	
+35-24	venstre	_	_	O	
+35-25	nyre	_	_	O	
+35-26	.	_	_	O	
+
+#id=36
+#text=Så snart lægerne fik ham under behandling, kunne de øjeblikkelig se, at han på grund af de mange alvorlige skader svævede i yderste livsfare.
+36-1	Så	_	_	O	
+36-2	snart	_	_	O	
+36-3	lægerne	_	_	O	
+36-4	fik	_	_	O	
+36-5	ham	_	_	O	
+36-6	under	_	_	O	
+36-7	behandling	_	_	O	
+36-8	,	_	_	O	
+36-9	kunne	_	_	O	
+36-10	de	_	_	O	
+36-11	øjeblikkelig	_	_	O	
+36-12	se	_	_	O	
+36-13	,	_	_	O	
+36-14	at	_	_	O	
+36-15	han	_	_	O	
+36-16	på	_	_	O	
+36-17	grund	_	_	O	
+36-18	af	_	_	O	
+36-19	de	_	_	O	
+36-20	mange	_	_	O	
+36-21	alvorlige	_	_	O	
+36-22	skader	_	_	O	
+36-23	svævede	_	_	O	
+36-24	i	_	_	O	
+36-25	yderste	_	_	O	
+36-26	livsfare	_	_	O	
+36-27	.	_	_	O	
+
+#id=37
+#text=Jeg skal formodentlig være på smertestillende medicin resten af livet, konstaterer Flemming, som også har svært ved at koncentrere sig, ligesom hans korttidshukommelse har taget skade af ulykken.
+37-1	Jeg	_	_	O	
+37-2	skal	_	_	O	
+37-3	formodentlig	_	_	O	
+37-4	være	_	_	O	
+37-5	på	_	_	O	
+37-6	smertestillende	_	_	O	
+37-7	medicin	_	_	O	
+37-8	resten	_	_	O	
+37-9	af	_	_	O	
+37-10	livet	_	_	O	
+37-11	,	_	_	O	
+37-12	konstaterer	_	_	O	
+37-13	Flemming	_	_	O	
+37-14	,	_	_	O	
+37-15	som	_	_	O	
+37-16	også	_	_	O	
+37-17	har	_	_	O	
+37-18	svært	_	_	O	
+37-19	ved	_	_	O	
+37-20	at	_	_	O	
+37-21	koncentrere	_	_	O	
+37-22	sig	_	_	O	
+37-23	,	_	_	O	
+37-24	ligesom	_	_	O	
+37-25	hans	_	_	O	
+37-26	korttidshukommelse	_	_	O	
+37-27	har	_	_	O	
+37-28	taget	_	_	O	
+37-29	skade	_	_	O	
+37-30	af	_	_	O	
+37-31	ulykken	_	_	O	
+37-32	.	_	_	O	
+
+#id=38
+#text=På et tidspunkt kom jeg slemt til skade med mit skinneben, og så var det nærmest slut med fodbold, fortæller Kat, 24.
+38-1	På	_	_	O	
+38-2	et	_	_	O	
+38-3	tidspunkt	_	_	O	
+38-4	kom	_	_	O	
+38-5	jeg	_	_	O	
+38-6	slemt	_	_	O	
+38-7	til	_	_	O	
+38-8	skade	_	_	O	
+38-9	med	_	_	O	
+38-10	mit	_	_	O	
+38-11	skinneben	_	_	O	
+38-12	,	_	_	O	
+38-13	og	_	_	O	
+38-14	så	_	_	O	
+38-15	var	_	_	O	
+38-16	det	_	_	O	
+38-17	nærmest	_	_	O	
+38-18	slut	_	_	O	
+38-19	med	_	_	O	
+38-20	fodbold	_	_	O	
+38-21	,	_	_	O	
+38-22	fortæller	_	_	O	
+38-23	Kat	_	_	O	
+38-24	,	_	_	O	
+38-25	24	_	_	O	
+38-26	.	_	_	O	
+
+#id=39
+#text=Men desværre fik hun en skade i sine ankler, hvorefter hun for alvor begyndte at satse på rappen. - Jeg skal lave underholdning, så jeg fortsætter uanset hvad, siger hun.
+39-1	Men	_	_	O	
+39-2	desværre	_	_	O	
+39-3	fik	_	_	O	
+39-4	hun	_	_	O	
+39-5	en	_	_	O	
+39-6	skade	_	_	O	
+39-7	i	_	_	O	
+39-8	sine	_	_	O	
+39-9	ankler	_	_	O	
+39-10	,	_	_	O	
+39-11	hvorefter	_	_	O	
+39-12	hun	_	_	O	
+39-13	for	_	_	O	
+39-14	alvor	_	NC:siuc:--:----	O	
+39-15	begyndte	_	_	O	
+39-16	at	_	_	O	
+39-17	satse	_	_	O	
+39-18	på	_	_	O	
+39-19	rappen	_	_	O	
+39-20	.	_	_	O	
+39-21	-	_	_	O	
+39-22	Jeg	_	_	O	
+39-23	skal	_	_	O	
+39-24	lave	_	_	O	
+39-25	underholdning	_	_	O	
+39-26	,	_	_	O	
+39-27	så	_	_	O	
+39-28	jeg	_	_	O	
+39-29	fortsætter	_	_	O	
+39-30	uanset	_	_	O	
+39-31	hvad	_	_	O	
+39-32	,	_	_	O	
+39-33	siger	_	_	O	
+39-34	hun	_	_	O	
+39-35	.	_	_	O	
+
+#id=40
+#text=Selvom oplevelserne på felthospitalet har været barske, har Claus aldrig tvivlet på, at han var den rigtige mand til jobbet. - Det lægefaglige skal selvfølgelig være i orden, hvis man vil derned, men det er jo ofte meget grove teknikker, man arbejder med, fordi skaderne er så voldsomme.
+40-1	Selv	_	_	O	
+40-2	om	_	_	O	
+40-3	oplevelserne	_	_	O	
+40-4	på	_	_	O	
+40-5	felthospitalet	_	_	O	
+40-6	har	_	_	O	
+40-7	været	_	_	O	
+40-8	barske	_	_	O	
+40-9	,	_	_	O	
+40-10	har	_	_	O	
+40-11	Claus	_	_	O	
+40-12	aldrig	_	_	O	
+40-13	tvivlet	_	_	O	
+40-14	på	_	_	O	
+40-15	,	_	_	O	
+40-16	at	_	_	O	
+40-17	han	_	_	O	
+40-18	var	_	_	O	
+40-19	den	_	_	O	
+40-20	rigtige	_	_	O	
+40-21	mand	_	_	O	
+40-22	til	_	_	O	
+40-23	jobbet	_	_	O	
+40-24	.	_	_	O	
+40-25	-	_	_	O	
+40-26	Det	_	_	O	
+40-27	lægefaglige	_	_	O	
+40-28	skal	_	_	O	
+40-29	selvfølgelig	_	_	O	
+40-30	være	_	_	O	
+40-31	i	_	_	O	
+40-32	orden	_	_	O	
+40-33	,	_	_	O	
+40-34	hvis	_	_	O	
+40-35	man	_	_	O	
+40-36	vil	_	_	O	
+40-37	derned	_	_	O	
+40-38	,	_	_	O	
+40-39	men	_	_	O	
+40-40	det	_	_	O	
+40-41	er	_	_	O	
+40-42	jo	_	_	O	
+40-43	ofte	_	_	O	
+40-44	meget	_	_	O	
+40-45	grove	_	_	O	
+40-46	teknikker	_	_	O	
+40-47	,	_	_	O	
+40-48	man	_	_	O	
+40-49	arbejder	_	_	O	
+40-50	med	_	_	O	
+40-51	,	_	_	O	
+40-52	fordi	_	_	O	
+40-53	skaderne	_	_	O	
+40-54	er	_	_	O	
+40-55	så	_	_	O	
+40-56	voldsomme	_	_	O	
+40-57	.	_	_	O	
+
+#id=41
+#text=Kongehusetskommunikationschef, Lene Balleby, fortæller dog til Ekstra Bladet, at skaderne hos den vordende far til fire på ingen måde er alvorlige.
+41-1	Kongehusets	_	_	O	
+41-2	kommunikationschef	_	_	O	
+41-3	,	_	_	O	
+41-4	Lene	_	_	O	
+41-5	Balleby	_	_	O	
+41-6	,	_	_	O	
+41-7	fortæller	_	_	O	
+41-8	dog	_	_	O	
+41-9	til	_	_	O	
+41-10	Ekstra	_	_	O	
+41-11	Bladet	_	_	O	
+41-12	,	_	_	O	
+41-13	at	_	_	O	
+41-14	skaderne	_	_	O	
+41-15	hos	_	_	O	
+41-16	den	_	_	O	
+41-17	vordende	_	_	O	
+41-18	far	_	_	O	
+41-19	til	_	_	O	
+41-20	fire	_	_	O	
+41-21	på	_	_	O	
+41-22	ingen	_	_	O	
+41-23	måde	_	_	O	
+41-24	er	_	_	O	
+41-25	alvorlige	_	_	O	
+41-26	.	_	_	O	
+
+#id=42
+#text=Fortre år siden  brød en gammel skade i hendes ryg op, og Troels og Rebecca måtte med ét skrinlægge deres musikalske parløb.
+42-1	For	_	_	O	
+42-2	tre	_	_	O	
+42-3	år	_	_	O	
+42-4	siden	_	_	O	
+42-5	brød	_	_	O	
+42-6	en	_	_	O	
+42-7	gammel	_	_	O	
+42-8	skade	_	_	O	
+42-9	i	_	_	O	
+42-10	hendes	_	_	O	
+42-11	ryg	_	_	O	
+42-12	op	_	_	O	
+42-13	,	_	_	O	
+42-14	og	_	_	O	
+42-15	Troels	_	_	O	
+42-16	og	_	_	O	
+42-17	Rebecca	_	_	O	
+42-18	måtte	_	_	O	
+42-19	med	_	_	O	
+42-20	ét	_	_	O	
+42-21	skrinlægge	_	_	O	
+42-22	deres	_	_	O	
+42-23	musikalske	_	_	O	
+42-24	parløb	_	_	O	
+42-25	.	_	_	O	
+

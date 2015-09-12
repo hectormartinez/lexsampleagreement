@@ -1,0 +1,650 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Lemma | value # de.tudarmstadt.ukp.dkpro.core.api.lexmorph.type.pos.POS | PosValue
+#id=1
+#text=Men når jeg kigger dybt i min statistik, viser det sig igen og igen, at det er madindlæggene, der hitter (også længere nede på listen end top 5).
+1-1	Men	men	CC:----:--:----	
+1-2	når	når	CS:----:--:----	
+1-3	jeg	jeg	PP:s-nc:--:-1n-	
+1-4	kigger	kigge	VF:----:sa:----	
+1-5	dybt	dyb	AD:----:--:p---	
+1-6	i	i	T-:----:--:----	
+1-7	min	min	PO:s--c:--:-1ns	
+1-8	statistik	statistik	NC:siuc:--:----	
+1-9	,	,	ZD	
+1-10	viser	vise	VF:----:sa:----	
+1-11	det	det	PP:s-un:--:-3n-	
+1-12	sig	sig	PP:#-u#:--:-3y-	
+1-13	igen	igen	D-:----:--:u---	
+1-14	og	og	CC:----:--:----	
+1-15	igen	igen	D-:----:--:u---	
+1-16	,	,	ZD	
+1-17	at	at	CS:----:--:----	
+1-18	det	det	PP:s-un:--:-3n-	
+1-19	er	være	VF:----:sa:----	
+1-20	madindlæggene	madindlæg	NC:pdu#:--:----	
+1-21	,	,	ZD	
+1-22	der	der	US:----:--:----	
+1-23	hitter	hitte	VF:----:sa:----	
+1-24	(	(	ZD	
+1-25	også	også	D-:----:--:u---	
+1-26	længere	længere	D-:----:--:c---	
+1-27	nede	nede	D-:----:--:u---	
+1-28	på	på	T-:----:--:----	
+1-29	listen	list	NC:sduc:--:----	
+1-30	end	end	CS:----:--:----	
+1-31	top	top|top-3|top-2a-2b|top-2|top-1a-1b|top-1|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-toppen-af-isbjerget|top-F-til-tops|top-F-på-toppen-af|top-F-fra-top-til-tå|top-F-der-er-koldt-på-toppen|top-4	NC:siuc:--:----	
+1-32	5	5	LC:--u-:--:----	
+1-33	)	)	ZD	
+1-34	.	.	ZP	
+
+#id=2
+#text=Og de sammenbragte familier bliver altid synlige i toppen af min statistik, når der er ferie eller højtider i farvandet (ikke overraskende).
+2-1	Og	og	CC:----:--:----	
+2-2	de	den	PM:p-u#:--:----	
+2-3	sammenbragte	sammenbragt	AC:p#u#:--:p---	
+2-4	familier	familie	NC:piu#:--:----	
+2-5	bliver	blive	VF:----:sa:----	
+2-6	altid	altid	D-:----:--:u---	
+2-7	synlige	synlig	AC:p#u#:--:p---	
+2-8	i	i	:--:----	
+2-9	toppen	top|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-toppen-af-isbjerget|top-F-til-tops|top-1|top-2|top-1a-1b|top-F-fra-top-til-tå|top-F-der-er-koldt-på-toppen|top-4|top-3|top-2a-2b|top-F-på-toppen-af	NC:sduc:--:----	
+2-10	af	af	T-:----:--:----	
+2-11	min	min	PO:s--c:--:-1ns	
+2-12	statistik	statistik	NC:siuc:--:----	
+2-13	,	,	ZD	
+2-14	når	når	CS:----:--:----	
+2-15	der	der	US:----:--:----	
+2-16	er	være	VF:----:sa:----	
+2-17	ferie	ferie	NC:siuc:--:----	
+2-18	eller	eller	CC:----:--:----	
+2-19	højtider	højtid	NC:piu#:--:----	
+2-20	i	i	T-:----:--:----	
+2-21	farvandet	farvand	NC:sdun:--:----	
+2-22	(	(	ZD	
+2-23	ikke	ikke	D-:----:--:u---	
+2-24	overraskende	overraske	VP:##u#:s-:----	
+2-25	)	)	ZD	
+2-26	.	.	ZP	
+
+#id=3
+#text=Det er cirka fire år siden, jeg sidst har købt større løsdele til husstandens Lundia-reoler, så det er ikke engang, fordi jeg er en god, fast kunde, at servicen var i top.
+3-1	Det	det	PP:s-un:--:-3n-	
+3-2	er	være	VF:----:sa:----	
+3-3	cirka	cirka	D-:----:--:u---	
+3-4	fire	fire	LC:--u-:--:----	
+3-5	år	år	NC:piu#:--:----	
+3-6	siden	siden	D-:----:--:u---	
+3-7	,	,	ZD	
+3-8	jeg	jeg	PP:s-nc:--:-1n-	
+3-9	sidst	sidst	D-:----:--:u---	
+3-10	har	have	VF:----:sa:----	
+3-11	købt	købe	VT:siu#:t-:----	
+3-12	større	stor	AC:##u#:--:c---	
+3-13	løsdele	løsdel	NC:piu#:--:----	
+3-14	til	til	T-:----:--:----	
+3-15	husstandens	husstand	NC:sdgc:--:----	
+3-16	Lundia	Lundia	NP:siu#:--:----	
+3-17	-	-	ZH	
+3-18	reoler	reol	NC:piu#:--:----	
+3-19	,	,	ZD	
+3-20	så	så	CS:----:--:----	
+3-21	det	det	PP:s-un:--:-3n-	
+3-22	er	være	VF:----:sa:----	
+3-23	ikke	ikke	D-:----:--:u---	
+3-24	engang	engang	D-:----:--:u---	
+3-25	,	,	ZD	
+3-26	fordi	fordi	CS:----:--:----	
+3-27	jeg	jeg	PP:s-nc:--:-1n-	
+3-28	er	være	VF:----:sa:----	
+3-29	en	en	PI:s-uc:--:----	
+3-30	god	god	AC:siuc:--:p---	
+3-31	,	,	ZD	
+3-32	fast	fast	AC:siu§:--:p---	
+3-33	kunde	kunde	NC:siuc:--:----	
+3-34	,	,	ZD	
+3-35	at	at	CS:----:--:----	
+3-36	servicen	service	NC:sduc:--:----	
+3-37	var	være	VF:----:ta:----	
+3-38	i	i	T-:----:--:----	
+3-39	top	top|top-1a-1b|top-1|top-2a-2b|top-F-fra-top-til-tå|top-F-der-er-koldt-på-toppen|top-4|top-3|top-2|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-toppen-af-isbjerget|top-F-til-tops|top-F-på-toppen-af	NC:siuc:--:----	
+3-40	.	.	ZP	
+
+#id=4
+#text=Det hører til mine allerskønneste  beskæftigelser (og er med til at tage toppen af irritationen ved dagligt at spendere i alt en time og 40 minutter i DSBs varetægt) og sender mig på mange spændende fantasitogter.
+4-1	Det	det	PP:s-un:--:-3n-	
+4-2	hører	høre	VF:----:sa:----	
+4-3	til	til	T-:----:--:----	
+4-4	mine	min	PO:p--#:--:-1ns	
+4-5	allerskønneste	allerskøn	AC:§du§:--:s---	
+4-6	beskæftigelser	beskæftigelse	NC:piu#:--:----	
+4-7	(	(	ZD	
+4-8	og	og	CC:----:--:----	
+4-9	er	være	VF:----:sa:----	
+4-10	med	med	D-:----:--:u---	
+4-11	til	til	T-:----:--:----	
+4-12	at	at	UI:----:--:----	
+4-13	tage	tage	VI:----:-a:----	
+4-14	toppen	top|top-1|top-2|top-F-der-er-koldt-på-toppen|top-F-toppen-af-isbjerget|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-til-tops|top-F-på-toppen-af|top-F-fra-top-til-tå|top-4|top-3|top-2a-2b|top-1a-1b	NC:sduc:--:----	
+4-15	af	af	T-:----:--:----	
+4-16	irritationen	irritation	NC:sduc:--:----	
+4-17	ved	ved	T-:----:--:----	
+4-18	dagligt	daglig	AC:siun:--:p---	
+4-19	at	at	UI:----:--:----	
+4-20	spendere	spendere	VI:----:-a:----	
+4-21	i	i	T-:----:--:----	
+4-22	alt	alt	D-:----:--:u---	
+4-23	en	en	PI:s-uc:--:----	
+4-24	time	time	NC:siuc:--:----	
+4-25	og	og	CC:----:--:----	
+4-26	40	40	LC:--u-:--:----	
+4-27	minutter	minut	NC:piu#:--:----	
+4-28	i	i	T-:----:--:----	
+4-29	DSBs	DSB	NP:sig#:--:----	
+4-30	varetægt	varetægt	NC:siuc:--:----	
+4-31	)	)	ZD	
+4-32	og	og	CC:----:--:----	
+4-33	sender	sende	VF:----:sa:----	
+4-34	mig	jeg	PP:s-uc:--:-1#-	
+4-35	på	på	:--:----	
+4-36	mange	mangen	AC:p#u#:--:p---	
+4-37	spændende	spændende	AC:§§u§:--:p---	
+4-38	fantasitogter	fantasitogt	NC:piu#:--:----	
+4-39	.	.	ZP	
+
+#id=5
+#text=Og en glasur med limesaft på toppen.
+5-1	Og	og	CC:----:--:----	
+5-2	en	en	PI:s-uc:--:----	
+5-3	glasur	glasur	NC:siuc:--:----	
+5-4	med	med	T-:----:--:----	
+5-5	limesaft	limesaft	NC:siuc:--:----	
+5-6	på	på	T-:----:--:----	
+5-7	toppen	top|top-F-fra-top-til-tå|top-F-til-tops|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-toppen-af-isbjerget|top-F-på-toppen-af|top-F-der-er-koldt-på-toppen|top-1a-1b|top-2a-2b|top-2|top-1|top-4|top-3	NC:sduc:--:----	
+5-8	.	.	ZP	
+
+#id=6
+#text=Profiler i sociale medier som Facebook eller LinkedIn ligger højt i Googles søgeresultat, så de bringer dit navn i top.
+6-1	Profiler	profil	NC:piu#:--:----	
+6-2	i	i	T-:----:--:----	
+6-3	sociale	social	AC:p#u#:--:p---	
+6-4	medier	medie	NC:piu#:--:----	
+6-5	som	som	US:----:--:----	
+6-6	Facebook	Facebook	NP:siu#:--:----	
+6-7	eller	eller	CC:----:--:----	
+6-8	LinkedIn	LinkedIn	NP:siu#:--:----	
+6-9	ligger	ligge	VF:----:sa:----	
+6-10	højt	høj	AD:----:--:p---	
+6-11	i	i	T-:----:--:----	
+6-12	Googles	Googles	NP:sig#:--:----	
+6-13	søgeresultat	søgeresultat	NC:siun:--:----	
+6-14	,	,	ZD	
+6-15	så	så	CS:----:--:----	
+6-16	de	de	PP:p-n#:--:-3n-	
+6-17	bringer	bringe	VF:----:sa:----	
+6-18	dit	dit	XY:----:--:----	
+6-19	navn	navn	NC:siun:--:----	
+6-20	i	i	T-:----:--:----	
+6-21	top	top|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-til-tops|top-2|top-1a-1b|top-1|top-3|top-F-på-toppen-af|top-F-fra-top-til-tå|top-F-der-er-koldt-på-toppen|top-4|top-2a-2b|top-F-tånd/grå-i-toppen	NC:siuc:--:----	
+6-22	.	.	ZP	
+
+#id=7
+#text=Og det er faktisk ret synd for teenageren, hvis hun ikke er på toppen, når det sker.
+7-1	Og	og	CC:----:--:----	
+7-2	det	det	PP:s-un:--:-3n-	
+7-3	er	være	VF:----:sa:----	
+7-4	faktisk	faktisk	AD:----:--:p---	
+7-5	ret	ret	D-:----:--:u---	
+7-6	synd	synd	AC:§§u§:--:p---	
+7-7	for	for	T-:----:--:----	
+7-8	teenageren	teenager	NC:sduc:--:----	
+7-9	,	,	ZD	
+7-10	hvis	hvis	CS:----:--:----	
+7-11	hun	hun	PP:s-nc:--:-3n-	
+7-12	ikke	ikke	D-:----:--:u---	
+7-13	er	være	VF:----:sa:----	
+7-14	på	på	T-:----:--:----	
+7-15	toppen	top|top-3|top-1|top-2a-2b|top-2|top-1a-1b|top-4|top-F-fra-top-til-tå|top-F-til-tops|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-toppen-af-isbjerget|top-F-på-toppen-af|top-F-der-er-koldt-på-toppen	NC:sduc:--:----	
+7-16	,	,	ZD	
+7-17	når	når	CS:----:--:----	
+7-18	det	det	PP:s-un:--:-3n-	
+7-19	sker	ske	VF:----:sa:----	
+7-20	.	.	ZP	
+
+#id=8
+#text=I øvrigt er de to pudsige toppe helt til venstre på billedet herover de sørgelige rester af sneskulpturerne, der  blev kreeret lillejuleaften.
+8-1	I	i	T-:----:--:----	
+8-2	øvrigt	øvrig	AD:----:--:p---	
+8-3	er	være	VF:----:sa:----	
+8-4	de	den	PM:p-u#:--:----	
+8-5	to	to	LC:--u-:--:----	
+8-6	pudsige	pudsig	AC:p#u#:--:p---	
+8-7	toppe	top|top-2|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-4|top-3|top-2a-2b|top-1a-1b|top-1|top-F-på-toppen-af|top-F-toppen-af-isbjerget|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-til-tops	NC:piu#:--:----	
+8-8	helt	hel	AD:----:--:p---	
+8-9	til	til	T-:----:--:----	
+8-10	venstre	venstre	NC:siun:--:----	
+8-11	på	på	T-:----:--:----	
+8-12	billedet	billede	NC:sdun:--:----	
+8-13	herover	herover	D-:----:--:u---	
+8-14	de	den	PM:p-u#:--:----	
+8-15	sørgelige	sørgelig	AC:p#u#:--:p---	
+8-16	rester	rest	-	
+8-17	af	af	T-:----:--:----	
+8-18	sneskulpturerne	sneskulptur	NC:pdu#:--:----	
+8-19	,	,	ZD	
+8-20	der	der	US:----:--:----	
+8-21	blev	blive	VF:----:ta:----	
+8-22	kreeret	kreere	VT:siu#:t-:----	
+8-23	lillejuleaften	lillejuleaften	NC:siuc:--:----	
+8-24	.	.	ZP	
+
+#id=9
+#text=Men allerede den første bragte hende helt op i toppen af top 10en på min personlige favoritliste.
+9-1	Men	men	CC:----:--:----	
+9-2	allerede	allerede	D-:----:--:u---	
+9-3	den	den	PM:s-uc:--:----	
+9-4	første	første	AC:§§u§:--:p---	
+9-5	bragte	bringe	VF:----:ta:----	
+9-6	hende	hun	PP:s-uc:--:-3n-	
+9-7	helt	hel	AD:----:--:p---	
+9-8	op	op	D-:----:--:u---	
+9-9	i	i	T-:----:--:----	
+9-10	toppen	top|top-1a-1b|top-2a-2b|top-3|top-2|top-1|top-4|top-F-fra-top-til-tå|top-F-til-tops|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-toppen-af-isbjerget|top-F-på-toppen-af|top-F-der-er-koldt-på-toppen	NC:sduc:--:----	
+9-11	af	af	T-:----:--:----	
+9-12	top	top	NC:siuc:--:----	
+9-13	10en	10en	NP:siu#:--:----	
+9-14	på	på	T-:----:--:----	
+9-15	min	min	PO:s--c:--:-1ns	
+9-16	personlige	personlig	AC:sdu#:--:p---	
+9-17	favoritliste	favoritliste	NC:siuc:--:----	
+9-18	.	.	ZP	
+
+#id=10
+#text=Ogselvfølgelig kom kompostbeholderen også op i toppen af prioritetslisten, da den sammenbragte familie blev etableret og slog sig ned her i Frederikssund.
+10-1	Og	og	CC:----:--:----	
+10-2	selvfølgelig	selvfølgelig	D-:----:--:u---	
+10-3	kom	komme	VF:----:ta:----	
+10-4	kompostbeholderen	kompostbeholder	NC:sduc:--:----	
+10-5	også	også	D-:----:--:u---	
+10-6	op	op	D-:----:--:u---	
+10-7	i	i	T-:----:--:----	
+10-8	toppen	top|top-1a-1b|top-1|top-2|top-3|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-toppen-af-isbjerget|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-til-tops|top-4|top-2a-2b	NC:sduc:--:----	
+10-9	af	af	T-:----:--:----	
+10-10	prioritetslisten	prioritetslist	NC:sduc:--:----	
+10-11	,	,	ZD	
+10-12	da	da	CS:----:--:----	
+10-13	den	den	PM:s-uc:--:----	
+10-14	sammenbragte	sammenbragt	AC:sdu#:--:p---	
+10-15	familie	familie	NC:siuc:--:----	
+10-16	blev	blive	VF:----:ta:----	
+10-17	etableret	etablere	VT:siu#:t-:----	
+10-18	og	og	CC:----:--:----	
+10-19	slog	slå	VF:----:ta:----	
+10-20	sig	sig	PP:#-u#:--:-3y-	
+10-21	ned	ned	D-:----:--:u---	
+10-22	her	her	D-:----:--:u---	
+10-23	i	i	T-:----:--:----	
+10-24	Frederikssund	Frederikssund	NP:siu#:--:----	
+10-25	.	.	ZP	
+
+#id=11
+#text=Todage på jobbet har gnavet toppen af feriepuklen, men alvorlig talt jeg er ikke kommet op i de hastige omdrejninger.
+11-1	To	to	LC:--u-:--:----	
+11-2	dage	dag	NC:piu#:--:----	
+11-3	på	på	T-:----:--:----	
+11-4	jobbet	job	NC:sdun:--:----	
+11-5	har	have	VF:----:sa:----	
+11-6	gnavet	gnave	VT:siu#:t-:----	
+11-7	toppen	top|top-2a-2b|top-4|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-der-er-koldt-på-toppen|top-3|top-2|top-1a-1b|top-1|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen	NC:sduc:--:----	
+11-8	af	af	T-:----:--:----	
+11-9	feriepuklen	feriepukkel	NC:sduc:--:----	
+11-10	,	,	ZD	
+11-11	men	men	CC:----:--:----	
+11-12	alvorlig	alvorlig	AD:----:--:p---	
+11-13	talt	tale	VT:siu#:t-:----	
+11-14	jeg	jeg	NC:siun:--:----	
+11-15	er	være	VF:----:sa:----	
+11-16	ikke	ikke	D-:----:--:u---	
+11-17	kommet	komme	VT:siu#:t-:----	
+11-18	op	op	D-:----:--:u---	
+11-19	i	i	T-:----:--:----	
+11-20	de	den	PM:p-u#:--:----	
+11-21	hastige	hastig	AC:p#u#:--:p---	
+11-22	omdrejninger	omdrejning	NC:piu#:--:----	
+11-23	.	.	ZP	
+
+#id=12
+#text=Ud over at filmene er smukt animationsfilm-håndværk, er figurerne morsomt fundet på og humoren helt i top.
+12-1	Ud	ud	D-:----:--:u---	
+12-2	over	over	T-:----:--:----	
+12-3	at	at	CS:----:--:----	
+12-4	filmene	film	NC:pdu#:--:----	
+12-5	er	være	VF:----:sa:----	
+12-6	smukt	smuk	AC:siun:--:p---	
+12-7	animationsfilm	animationsfilm	NW:----:--:----	
+12-8	-	-	ZH	
+12-9	håndværk	håndværk	NC:siun:--:----	
+12-10	,	,	ZD	
+12-11	er	være	VF:----:sa:----	
+12-12	figurerne	figur	NC:pdu#:--:----	
+12-13	morsomt	morsom	AD:----:--:p---	
+12-14	fundet	finde	VT:siu#:t-:----	
+12-15	på	på	T-:----:--:----	
+12-16	og	og	CC:----:--:----	
+12-17	humoren	humor	NC:sduc:--:----	
+12-18	helt	hel	AD:----:--:p---	
+12-19	i	i	T-:----:--:----	
+12-20	top	top|top-F-der-er-koldt-på-toppen|top-F-på-toppen-af|top-F-toppen-af-isbjerget|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-F-til-tops|top-F-fra-top-til-tå|top-2|top-2a-2b|top-1a-1b|top-1|top-3|top-4	NC:siuc:--:----	
+12-21	.	.	ZP	
+
+#id=13
+#text=Humøret var dog i top og lysten til mere jazz intakt, så turen gik nu til Huset, som havde været så forudsigende at flytte deres koncert med Skylight Lounge indenfor.
+13-1	Humøret	humør	NC:sdun:--:----	
+13-2	var	være	VF:----:ta:----	
+13-3	dog	dog	D-:----:--:u---	
+13-4	i	i	T-:----:--:----	
+13-5	top	top|top-4|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-toppen-af-isbjerget|top-F-der-er-koldt-på-toppen|top-3|top-1a-1b|top-2a-2b|top-2|top-1	NC:siuc:--:----	
+13-6	og	og	CC:----:--:----	
+13-7	lysten	lyst	NC:sduc:--:----	
+13-8	til	til	T-:----:--:----	
+13-9	mere	megen	AC:##u#:--:c---	
+13-10	jazz	jazz	NC:siuc:--:----	
+13-11	intakt	intakt	AC:siu§:--:p---	
+13-12	,	,	ZD	
+13-13	så	så	CS:----:--:----	
+13-14	turen	tur	NC:sduc:--:----	
+13-15	gik	gå	VF:----:ta:----	
+13-16	nu	nu	D-:----:--:u---	
+13-17	til	til	T-:----:--:----	
+13-18	Huset	hus	NC:sdun:--:----	
+13-19	,	,	ZD	
+13-20	som	som	US:----:--:----	
+13-21	havde	have	VF:----:ta:----	
+13-22	været	re	VT:siu#:t-:----	
+13-23	så	så	D-:----:--:u---	
+13-24	forudsigende	forudsige	VP:##u#:s-:----	
+13-25	at	at	UI:----:--:----	
+13-26	flytte	flytte	VI:----:-a:----	
+13-27	deres	deres	PO:#--#:--:-3np	
+13-28	koncert	koncert	NC:siuc:--:----	
+13-29	med	med	T-:----:--:----	
+13-30	Skylight	skylight	NC:siun:--:----	
+13-31	Lounge	lounge	NC:siuc:--:----	
+13-32	indenfor	indenfor	T-:----:--:----	
+13-33	.	.	ZP	
+
+#id=14
+#text=Maden var lækker, betjeningen i top, atmosfæren intim og regningen helt fornuftig.
+14-1	Maden	mad	NC:sduc:--:----	
+14-2	var	være	VF:----:ta:----	
+14-3	lækker	lækker	AC:siuc:--:p---	
+14-4	,	,	ZD	
+14-5	betjeningen	betjening	NC:sduc:--:----	
+14-6	i	i	T-:----:--:----	
+14-7	top	top|top-2a-2b|top-3|top-F-der-er-koldt-på-toppen|top-F-på-toppen-af|top-F-til-tops|top-F-fra-top-til-tå|top-4|top-1a-1b|top-1|top-2|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen	NC:siuc:--:----	
+14-8	,	,	ZD	
+14-9	atmosfæren	atmosfære	NC:sduc:--:----	
+14-10	intim	intim	AC:siuc:--:p---	
+14-11	og	og	CC:----:--:----	
+14-12	regningen	regning	NC:sduc:--:----	
+14-13	helt	hel	AD:----:--:p---	
+14-14	fornuftig	fornuftig	AC:siuc:--:p---	
+14-15	.	.	ZP	
+
+#id=15
+#text=Så lad mig indskrænke mig til at skrive, at toppen er jeg langt fra.
+15-1	Så	så	D-:----:--:u---	
+15-2	lad	lade	VM:----:--:----	
+15-3	mig	jeg	PP:s-uc:--:-1#-	
+15-4	indskrænke	indskrænke	VI:----:-a:----	
+15-5	mig	jeg	PP:s-uc:--:-1#-	
+15-6	til	til	T-:----:--:----	
+15-7	at	at	UI:----:--:----	
+15-8	skrive	skrive	VI:----:-a:----	
+15-9	,	,	ZD	
+15-10	at	at	CS:----:--:----	
+15-11	toppen	top|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-toppen-af-isbjerget|top-2|top-2a-2b|top-4|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-til-tops|top-F-på-toppen-af|top-3|top-1a-1b|top-1	NC:sduc:--:----	
+15-12	er	være	VF:----:sa:----	
+15-13	jeg	jeg	PP:s-nc:--:-1n-	
+15-14	langt	lang	AD:----:--:p---	
+15-15	fra	fra	T-:----:--:----	
+15-16	.	.	ZP	
+
+#id=16
+#text=Billedkvalitetener ikke i top på min mobiltelefon (og så er jeg jo foto-kræsen ), men spejlreflekskameraet fik ikke lov at komme med, da manden i mit liv og jeg i eftermiddags trodsede den konstant dalende sne og gik en tur til fjorden.
+16-1	Billedkvaliteten	billedkvalitet	NC:sduc:--:----	
+16-2	er	være	VF:----:sa:----	
+16-3	ikke	ikke	D-:----:--:u---	
+16-4	i	i	T-:----:--:----	
+16-5	top	top|top-4|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-1a-1b|top-2|top-3|top-2a-2b|top-1|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen	NC:siuc:--:----	
+16-6	på	på	T-:----:--:----	
+16-7	min	min	PO:s--c:--:-1ns	
+16-8	mobiltelefon	mobiltelefon	NC:siuc:--:----	
+16-9	(	(	ZD	
+16-10	og	og	CC:----:--:----	
+16-11	så	så	D-:----:--:u---	
+16-12	er	være	VF:----:sa:----	
+16-13	jeg	jeg	PP:s-nc:--:-1n-	
+16-14	jo	jo	D-:----:--:u---	
+16-15	foto	foto	NW:----:--:----	
+16-16	-	-	ZH	
+16-17	kræsen	kræsen	AC:siuc:--:p---	
+16-18	)	)	ZD	
+16-19	,	,	ZD	
+16-20	men	men	CC:----:--:----	
+16-21	spejlreflekskameraet	spejlreflekskamera	NC:sdun:--:----	
+16-22	fik	få	VF:----:ta:----	
+16-23	ikke	ikke	D-:----:--:u---	
+16-24	lov	lov	NC:siuc:--:----	
+16-25	at	at	UI:----:--:----	
+16-26	komme	komme	VI:----:-a:----	
+16-27	med	med	T-:----:--:----	
+16-28	,	,	ZD	
+16-29	da	da	CS:----:--:----	
+16-30	manden	mand	NC:sduc:--:----	
+16-31	i	i	T-:----:--:----	
+16-32	mit	min	PO:s--n:--:-1ns	
+16-33	liv	liv	NC:siun:--:----	
+16-34	og	og	CC:----:--:----	
+16-35	jeg	jeg	PP:s-nc:--:-1n-	
+16-36	i	i	T-:----:--:----	
+16-37	eftermiddags	eftermiddag	NC:sigc:--:----	
+16-38	trodsede	trodse	VF:----:ta:----	
+16-39	den	den	PM:s-uc:--:----	
+16-40	konstant	konstant	AD:----:--:p---	
+16-41	dalende	dale	VP:##u#:s-:----	
+16-42	sne	sne	NC:siuc:--:----	
+16-43	og	og	CC:----:--:----	
+16-44	gik	gå	VF:----:ta:----	
+16-45	en	en	PI:s-uc:--:----	
+16-46	tur	tur	NC:siuc:--:----	
+16-47	til	til	T-:----:--:----	
+16-48	fjorden	fjord	NC:sduc:--:----	
+16-49	.	.	ZP	
+
+#id=17
+#text=Blivervist nødt til at flade ud hele weekenden for at genvinde den aftappede energi og også vinde over den ihærdige omgang ondt i halsen, som ligger på toppen af det hele suk
+17-1	Bliver	blive	VF:----:sa:----	
+17-2	vist	vise	VT:siu#:t-:----	
+17-3	nødt	nødt	AC:§§u§:--:p---	
+17-4	til	til	T-:----:--:----	
+17-5	at	at	UI:----:--:----	
+17-6	flade	flade	VI:----:-a:----	
+17-7	ud	ud	D-:----:--:u---	
+17-8	hele	hel	AC:sdu#:--:p---	
+17-9	weekenden	weekend	NC:sduc:--:----	
+17-10	for	for	T-:----:--:----	
+17-11	at	at	UI:----:--:----	
+17-12	genvinde	genvinde	VI:----:-a:----	
+17-13	den	den	PM:s-uc:--:----	
+17-14	aftappede	aftappe	VP:sdu#:t-:----	
+17-15	energi	energi	NC:siuc:--:----	
+17-16	og	og	CC:----:--:----	
+17-17	også	også	D-:----:--:u---	
+17-18	vinde	vinde	VI:----:-a:----	
+17-19	over	over	T-:----:--:----	
+17-20	den	den	PM:s-uc:--:----	
+17-21	ihærdige	ihærdig	AC:sdu#:--:p---	
+17-22	omgang	omgang	NC:siuc:--:----	
+17-23	ondt	ond	AD:----:--:p---	
+17-24	i	i	T-:----:--:----	
+17-25	halsen	hals	NC:sduc:--:----	
+17-26	,	,	ZD	
+17-27	som	som	US:----:--:----	
+17-28	ligger	ligge	VF:----:sa:----	
+17-29	på	på	T-:----:--:----	
+17-30	toppen	top|top-1a-1b|top-2a-2b|top-3|top-4|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-der-er-koldt-på-toppen|top-2|top-1	NC:sduc:--:----	
+17-31	af	af	T-:----:--:----	
+17-32	det	den	PM:s-un:--:----	
+17-33	hele	hel	AC:sdu#:--:p---	
+17-34	suk	suk	NC:siun:--:----	
+
+#id=18
+#text=Den allerførste af shorts og top-slagsen.
+18-1	Den	den	PM:s-uc:--:----	
+18-2	allerførste	allerførst	AC:sdu#:--:p---	
+18-3	af	af	T-:----:--:----	
+18-4	shorts	shorts	NC:piu#:--:----	
+18-5	og	og	CC:----:--:----	
+18-6	top	top|top-1|top-2|top-2a-2b|top-3|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-til-tops|top-4|top-1a-1b	NW:----:--:----	
+18-7	-	-	ZH	
+18-8	slagsen	ags	NC:sduc:--:----	
+18-9	.	.	ZP	
+
+#id=19
+#text=Og i går aftes så top 10en sådan her ud.
+19-1	Og	og	CC:----:--:----	
+19-2	i	i	T-:----:--:----	
+19-3	går	går	NC:§§u§:--:----	
+19-4	aftes	aften	NC:sifc:--:----	
+19-5	så	se	VF:----:ta:----	
+19-6	top	top|top-2a-2b|top-3|top-1a-1b|top-2|top-1|top-4|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen	NC:siuc:--:----	
+19-7	10en	10en	NP:siu#:--:----	
+19-8	sådan	sådan	D-:----:--:u---	
+19-9	her	her	--	
+19-10	ud	ud	D-:----:--:u---	
+19-11	.	.	ZP	
+
+#id=20
+#text=På toppen har den en mindesten med latinsk inskription.
+20-1	På	på	T-:----:--:----	
+20-2	toppen	top|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-tånd/grå-i-toppen|top-F-toppen-af/på-kransekagen|top-2|top-2a-2b|top-3|top-4|top-F-der-er-koldt-på-toppen|top-F-på-toppen-af|top-F-fra-top-til-tå|top-1a-1b|top-1	NC:sduc:--:----	
+20-3	har	have	VF:----:sa:----	
+20-4	den	den	PM:s-uc:--:----	
+20-5	en	en	PI:s-uc:--:----	
+20-6	mindesten	mindesten	NC:siuc:--:----	
+20-7	med	med	T-:----:--:----	
+20-8	latinsk	latinsk	AC:siuc:--:p---	
+20-9	inskription	inskription	NC:siuc:--:----	
+20-10	.	.	ZP	
+
+#id=21
+#text=Vi kørte dog helt op til Avderød Skov på toppen af Arrenæs og gik tur der, manden i mit liv og jeg.
+21-1	Vi	vi	PP:p-nc:--:-1n-	
+21-2	kørte	køre	VF:----:ta:----	
+21-3	dog	dog	D-:----:--:u---	
+21-4	helt	hel	AD:----:--:p---	
+21-5	op	op	D-:----:--:u---	
+21-6	til	til	T-:----:--:----	
+21-7	Avderød	Avderød	NP:siu#:--:----	
+21-8	Skov	Skov	NP:siu#:--:----	
+21-9	på	på	T-:----:--:----	
+21-10	toppen	top|top-1a-1b|top-2a-2b|top-3|top-4|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-F-toppen-af-isbjerget|top-2|top-1	NC:sduc:--:----	
+21-11	af	af	T-:----:--:----	
+21-12	Arrenæs	Arrenæs	NP:siu#:--:----	
+21-13	og	og	CC:----:--:----	
+21-14	gik	gå	VF:----:ta:----	
+21-15	tur	tur	NC:siuc:--:----	
+21-16	der	der	US:----:--:----	
+21-17	,	,	ZD	
+21-18	manden	mand	NC:sduc:--:----	
+21-19	i	i	T-:----:--:----	
+21-20	mit	min	PO:s--n:--:-1ns	
+21-21	liv	liv	NC:siun:--:----	
+21-22	og	og	CC:----:--:----	
+21-23	jeg	jeg	PP:s-nc:--:-1n-	
+21-24	.	.	ZP	
+
+#id=22
+#text=Atpudse støvler (og for den sags skyld også sko) kandiderer kraftigt til en af de øverste pladser på min top ti over hadeopgaver.
+22-1	At	at	UI:----:--:----	
+22-2	pudse	pudse	VI:----:-a:----	
+22-3	støvler	støvle	NC:piu#:--:----	
+22-4	(	(	ZD	
+22-5	og	og	CC:----:--:----	
+22-6	for	for	T-:----:--:----	
+22-7	den	den	PM:s-uc:--:----	
+22-8	sags	sag	NC:sigc:--:----	
+22-9	skyld	skyld	NC:siuc:--:----	
+22-10	også	også	D-:----:--:u---	
+22-11	sko	sko	NC:piu#:--:----	
+22-12	)	)	ZD	
+22-13	kandiderer	kandidere	VF:----:sa:----	
+22-14	kraftigt	kraftig	AD:----:--:p---	
+22-15	til	til	T-:----:--:----	
+22-16	en	en	PI:s-uc:--:----	
+22-17	af	af	T-:----:--:----	
+22-18	de	den	PM:p-u#:--:----	
+22-19	øverste	øvre	AC:§du§:--:s---	
+22-20	pladser	plads	NC:piu#:--:----	
+22-21	på	på	T-:----:--:----	
+22-22	min	min	PO:s--c:--:-1ns	
+22-23	top	top|top-1|top-1a-1b|top-2|top-2a-2b|top-3|top-4|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen	NC:siuc:--:----	
+22-24	ti	ti	LC:--u-:--:----	
+22-25	over	over	T-:----:--:----	
+22-26	hadeopgaver	hadeopgave	NC:piu#:--:----	
+22-27	.	.	ZP	
+
+#id=23
+#text=Forhåbentlig kan jeg kigge lidt bedre op over toppen af bunkerne, når dagen er gået .
+23-1	Forhåbentlig	forhåbentlig	AD:----:--:p---	
+23-2	kan	kunne	VF:----:sa:----	
+23-3	jeg	jeg	PP:s-nc:--:-1n-	
+23-4	kigge	kigge	VI:----:-a:----	
+23-5	lidt	lidt	AD:----:--:p---	
+23-6	bedre	god	AD:----:--:c---	
+23-7	op	op	D-:----:--:u---	
+23-8	over	over	T-:----:--:----	
+23-9	toppen	top|top-1a-1b|top-2|top-2a-2b|top-3|top-4|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-1	NC:sduc:--:----	
+23-10	af	af	T-:----:--:----	
+23-11	bunkerne	bunke	NC:pdu#:--:----	
+23-12	,	,	ZD	
+23-13	når	når	CS:----:--:----	
+23-14	dagen	dag	NC:sduc:--:----	
+23-15	er	være	VF:----:sa:----	
+23-16	gået	gå	VT:siu#:t-:----	
+23-17	.	.	ZP	
+
+#id=24
+#text=Detblev til en lang tur i skoven i dag (også lidt for lang efter min højre fods mening; den er stadig ikke helt på toppen efter forstuvningen).
+24-1	Det	det	PP:s-un:--:-3n-	
+24-2	blev	blive	VF:----:ta:----	
+24-3	til	til	T-:----:--:----	
+24-4	en	en	PI:s-uc:--:----	
+24-5	lang	lang	AC:siuc:--:p---	
+24-6	tur	tur	NC:siuc:--:----	
+24-7	i	i	T-:----:--:----	
+24-8	skoven	skov	NC:sduc:--:----	
+24-9	i	i	T-:----:--:----	
+24-10	dag	dag	NC:siuc:--:----	
+24-11	(	(	ZD	
+24-12	også	også	D-:----:--:u---	
+24-13	lidt	lidt	AD:----:--:p---	
+24-14	for	for	T-:----:--:----	
+24-15	lang	lang	AC:siuc:--:p---	
+24-16	efter	efter	T-:----:--:----	
+24-17	min	n	PO:s--c:--:-1ns	
+24-18	højre	højre	AC:§§u§:--:p---	
+24-19	fods	fod	NC:sigc:--:----	
+24-20	mening	mening	NC:siuc:--:----	
+24-21	;	;	ZP	
+24-22	den	den	PP:s-uc:--:-3n-	
+24-23	er	være	VF:----:sa:----	
+24-24	stadig	stadig	D-:----:--:u---	
+24-25	ikke	ikke	D-:----:--:u---	
+24-26	helt	hel	AD:----:--:p---	
+24-27	på	på	T-:----:--:----	
+24-28	toppen	top|top-F-til-tops|top-F-toppen-af-isbjerget|top-F-toppen-af/på-kransekagen|top-F-tånd/grå-i-toppen|top-2|top-2a-2b|top-3|top-4|top-F-der-er-koldt-på-toppen|top-F-fra-top-til-tå|top-F-på-toppen-af|top-1a-1b|top-1	NC:sduc:--:----	
+24-29	efter	efter	T-:----:--:----	
+24-30	forstuvningen	forstuvning	NC:sduc:--:----	
+24-31	)	)	ZD	
+24-32	.	.	ZP	
+
